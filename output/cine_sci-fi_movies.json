@@ -1,4 +1,1086 @@
 {
-    "count": 0,
-    "movies": []
+    "count": 102,
+    "movies": [
+        {
+            "titulo": "La Invasión – Ocupación Alienígena",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "2hr 8 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/666c5af8626cfe00136f1337/details?lang=en",
+            "descripcion": "Dos años después de que los extraterrestres aterrizaran en la Tierra, los sobrevivientes de Sydney, Australia, luchan en una guerra desesperada mientras el número de muertos continúa aumentando. Una última batalla es la esperanza de la humanidad."
+        },
+        {
+            "titulo": "La Colonia",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7357d176c54900134c36a3/details?lang=en",
+            "descripcion": "Bajo la superficie helada, los sobrevivientes de la Colonia 7 luchan mientras los alimentos y las temperaturas bajan. Luego de una expedición descubren una amenaza peor de lo imaginado."
+        },
+        {
+            "titulo": "La Invasión",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 59 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65d4aac68cea3c0013b6fb3f/details?lang=en",
+            "descripcion": "Algunos residentes de la ciudad tienen que unirse después de una devastadora invasión alienígena. Mientras luchan por sobrevivir, se dan cuenta de que deben ir un paso por delante de sus atacantes."
+        },
+        {
+            "titulo": "El imperio prohibido",
+            "metadatos": [
+                "PG",
+                "Action & Adventure",
+                "1hr 51 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65cfb7bf6ef49d00138450b7/details?lang=en",
+            "descripcion": "Principios del siglo 18. El cartógrafo Cartographer Jonathan Green emprende un viaje científico por Europa hacia el este. Luego de pasar por Transilvania y habiendo cruzado los Montes Cárpatos, se encuentra en una pequeña villa perdida en los bosques."
+        },
+        {
+            "titulo": "¡Han llegado!",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/65cfab1492556900137020bd/details?lang=en",
+            "descripcion": "El astrónomo de radio Zane Zaminsky cree que ha captado un ruido cósmico que señala inteligencia extraterrestre."
+        },
+        {
+            "titulo": "Planetarium",
+            "metadatos": [
+                "PG-13",
+                "Sci-Fi & Fantasy",
+                "1hr 48 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65c3aea6b65b870013e9b157/details?lang=en",
+            "descripcion": "\"Planetarium\" sigue el viaje de hermanas que se cree que poseen la habilidad sobrenatural de conectarse con fantasmas. Se cruzan con un visionario productor francés mientras actúan en París."
+        },
+        {
+            "titulo": "Dredd",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65c114122e62fe0013dd48a6/details?lang=en",
+            "descripcion": "Una prostituta convertida en narcotraficante pretende apoderarse de la futurista ciudad de Mega City One. El juez Dredd, el principal miembro de una fuerza policial de élite, es la última esperanza de la ciudad."
+        },
+        {
+            "titulo": "Cypher",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/641c7e9b4f1ca3001a87aeaf/details?lang=en",
+            "descripcion": "Un hombre confiado y desencantado se encuentra trabajando como espía en el peligroso y arriesgado mundo del espionaje corporativo. Rápidamente superándose, se une a una misteriosa mujer fatal."
+        },
+        {
+            "titulo": "Barbarella",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7963e3406e0013955d79/details?lang=en",
+            "descripcion": "El escenario es el planeta Lythion en el año 40000, cuando Barbarella (Jane Fonda) hace un aterrizaje forzoso mientras viaja a través del espacio. Ella actúa como James Bond en femenino, vence al mal en formas de robots y monstruos."
+        },
+        {
+            "titulo": "Jeruzalem",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6408c4b6803fcf0013f19449/details?lang=en",
+            "descripcion": "Dos estadounidenses de vacaciones se unen a un estudiante de antropología en un viaje por Jerusalén al que llegan justo cuando se desata el terrorífico apocalipsis bíblico."
+        },
+        {
+            "titulo": "Titanic II",
+            "metadatos": [
+                "Documentary",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc92ce0010fbb45854dc749/details?lang=en",
+            "descripcion": "En el centenario del viaje original, un moderno y lujoso barco bautizado como \"Titanic 2\" sigue el camino de su homónimo."
+        },
+        {
+            "titulo": "Turbo Kid",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7b872de4b56900138b79c1/details?lang=en",
+            "descripcion": "Aunque se ambienta en el año 1997, Turbo Kid cuenta la historia de un futuro post-apocalíptico en el que la Tierra ha sido devastada por la lluvia de ácido, y el agua es un bien escaso."
+        },
+        {
+            "titulo": "Secuestro Extraterrestre",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627be950c51411001346d6c6/details?lang=en",
+            "descripcion": "La familia McPherson está reunida para la tradicional cena de Acción de Gracias, pero nunca se imaginaron que tendrían unos visitantes extraterrestres. Esta es la historia de una familia desaparecida."
+        },
+        {
+            "titulo": "Crónicas Mutantes",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 51 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/608ab54b34651500131a685a/details?lang=en",
+            "descripcion": "En el siglo XXIII, el mayor Mitch Hunter (Jane) lidera una lucha contra un ejército de necromutantes que habitan en el mundo subterráneo."
+        },
+        {
+            "titulo": "Hotel de Dinosaurios",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 17 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d5055812e0013ede657/details?lang=en",
+            "descripcion": "Una mujer, desesperada por dinero, acepta participar en un programa clandestino de juegos, solo para descubrir que ella y los demás concursantes están siendo cazados por criaturas prehistóricas."
+        },
+        {
+            "titulo": "Apocalipsis en Stonehenge",
+            "metadatos": [
+                "PG-13",
+                "Sci-Fi & Fantasy",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f50084766db1f001be35a14/details?lang=en",
+            "descripcion": "Cuando un grupo de arqueólogos desentierra un esqueleto humano cerca del monumento histórico de Stonehenge, se encuentra también una antigua máquina escondida bajo tierra."
+        },
+        {
+            "titulo": "El Monstruo de Metal",
+            "metadatos": [
+                "PG-13",
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f49382917dc86001a79fed1/details?lang=en",
+            "descripcion": "Un satélite ruso se sale de órbita e impacta en la Tierra. Dos hermanos encuentran los restos del artefacto y descubren que contiene una extraña sustancia alienígena que confiere vida al hierro."
+        },
+        {
+            "titulo": "Ogre",
+            "metadatos": [
+                "G",
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd8b8ad190c001a52ea51/details?lang=en",
+            "descripcion": "Un ogro vicioso gobierna sobre una ciudad que ha estado estancada en el tiempo desde el siglo XIX."
+        },
+        {
+            "titulo": "Ahora estamos solos",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6141f41bbce9e900135a5a3d/details?lang=en",
+            "descripcion": "En un futuro no muy lejano, algo dejó al planeta devastado. Durante mucho tiempo, De se considera el último representante de la humanidad. Acostumbrado a la soledad, casi se siente feliz con la tranquilidad de los días."
+        },
+        {
+            "titulo": "Santuario: Población Uno",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 16 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/628cfe6140fe890013b915e6/details?lang=en",
+            "descripcion": "Un joven idealista; Ethan, se queda buscando a su familia mientras lucha contra los infectados, la milicia Med-Ex y los merodeadores sedientos de sangre, y los fantasmas de su pasado."
+        },
+        {
+            "titulo": "Poseidón Rex",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 19 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/603e621a049634001a5f3372/details?lang=en",
+            "descripcion": "Cuenta como una pequeña isla, cerca de la costa de Belice sufre aterrorizada el ataque de un mortal depredador del pasado remoto del planeta."
+        },
+        {
+            "titulo": "Invasión U.F.O.",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60895f6b6b9d17001ac3cda9/details?lang=en",
+            "descripcion": "Un grupo de amigos debe hacer frente a un ataque alienígena en un pequeño pueblo inglés."
+        },
+        {
+            "titulo": "Meteorito",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d6255812e0013ede85d/details?lang=en",
+            "descripcion": "Después de que un meteorito choca con la Tierra, un ranchero solitario y una joven perdida huyen de mercenarios viciosos."
+        },
+        {
+            "titulo": "COMBUSTIÓN HUMANA",
+            "metadatos": [
+                "G",
+                "Horror",
+                "50 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/639a3ab9377c6f00134bb2e4/details?lang=en",
+            "descripcion": "Desde los tiempos bíblicos y hasta el día de hoy, la historia está llena de narraciones desconcertantes sobre la combustión humana espontánea, en la cual, sin razón explicable, un ser humano saludable de pronto se incendia de adentro hacia afuera."
+        },
+        {
+            "titulo": "Los Muertos",
+            "metadatos": [
+                "R",
+                "Documentary",
+                "1hr 40 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6346b61bf030950013a0cc44/details?lang=en",
+            "descripcion": "El teniente Brian Murphy deberá formar equipo con Daniel Dembele para enfrentarse y sobrevivir al terrorífico peligro que los acecha, encarnado en una horda de muertos vivientes en el continente africano."
+        },
+        {
+            "titulo": "El proyecto supermente",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f4817bb17dc86001a79e461/details?lang=en",
+            "descripcion": "En Los Ángeles, la tierra comienza a temblar y los edificios se vienen abajo. La gente entra en pánico. Cuando se procede a revisar los daños todo se encuentra como si nada hubiera pasado, excepto por las calles repletas de cadáveres."
+        },
+        {
+            "titulo": "Air Collision",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e505287f55660c6ac815027/details?lang=en",
+            "descripcion": "Cuando una tormenta solar destruye el sistema de control de tráfico aéreo, Air Force One y un avión de pasajeros están bloqueados en un curso de colisión en los cielos sobre el medio oeste."
+        },
+        {
+            "titulo": "El Dador de Recuerdos",
+            "metadatos": [
+                "PG",
+                "Sci-Fi & Fantasy",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7b86f0e4b56900138b75c4/details?lang=en",
+            "descripcion": "Cuenta la historia de un mundo perfecto en el que todos sus habitantes son felices de forma artificial. Los que se encuentran en el poder han eliminado cualquier motivo que pudiera suponer un enfrentamiento o discusión."
+        },
+        {
+            "titulo": "Desde las profundidades",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60ba3c7084ffb00013529671/details?lang=en",
+            "descripcion": "Después de sobrevivir al ataque de un tiburón, una joven sufre pesadillas de ser acechada en el mar oscuro por un depredador voraz, y alucinaciones de las visitas de su hermana y su novio, ambos muertos en el ataque."
+        },
+        {
+            "titulo": "Target Earth",
+            "metadatos": [
+                "PG-13",
+                "Sci-Fi & Fantasy",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6283a5ece6e53d0013666946/details?lang=en",
+            "descripcion": "Solo Tammy conoce el plan de batalla para la inminente invasión alienígena de la Tierra, y se convierte en el objetivo de un asesino federal programado para matarla. ¿Podrá el policía local Sam Adams protegerla, averiguar el horario y salvar el planeta?"
+        },
+        {
+            "titulo": "Trébol Maldito",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62befb1c8fd582001332b55b/details?lang=en",
+            "descripcion": "Un malvado duende que ha sido encarcelado en las raíces de un viejo roble es accidentalmente liberado en el Día de San Patricio. Una vez libre, lleva a cabo su sangrienta venganza sobre las personas que originalmente lo encarcelaron."
+        },
+        {
+            "titulo": "Young Ones, la próxima generación",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/604b91f1b2b870001a05f115/details?lang=en",
+            "descripcion": "En un futuro en donde escasea el agua, un granjero defiende su tierra y espera rejuvenecer sus tierras. Sin embargo, el novio de su hija intenta robarle sus propiedades."
+        },
+        {
+            "titulo": "Mega Piranha",
+            "metadatos": [
+                "Horror",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e50535b1eeaf7c7a2d0a893/details?lang=en",
+            "descripcion": "Una cepa mutante de pirañas feroces gigantes escapan del Amazonas y se dirigen a Florida."
+        },
+        {
+            "titulo": "Kaw",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13a734ee6100132be75e/details?lang=en",
+            "descripcion": "Cuando los cuervos comienzan a atacar a los humanos en un pequeño pueblo, no hay donde esconderse. Hay muy poco tiempo para averiguar por qué sucede esto, y los cuervos aprenden rápidamente."
+        },
+        {
+            "titulo": "El agujero negro",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 51 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b225ba65c30400136c1774/details?lang=en",
+            "descripcion": "Un thriller de ciencia ficción centrado en un violinista de secundaria que es testigo del colapso del espacio y el tiempo."
+        },
+        {
+            "titulo": "Araña en el ático",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 22 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0a2455812e0013ede101/details?lang=en",
+            "descripcion": "Un locutor de radio, desesperado por los índices de audiencia, investiga una casa misteriosa en el campo, solo para descubrir que está habitada por arañas gigantes que están empeñadas en proteger su tierra."
+        },
+        {
+            "titulo": "2-Headed Shark Attack",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5ffc9a28ce98800013eb1edd/details?lang=en",
+            "descripcion": "Después de que su bote es hundido por un tiburón mutado de dos cabezas, los sobrevivientes escapan a un atolón desierto. Pero cuando comienza a inundarse, nadie está a salvo de la doble mandíbula del monstruo."
+        },
+        {
+            "titulo": "Las guerras inmortales 2: Resurgimiento",
+            "metadatos": [
+                "TV-14",
+                "War",
+                "1hr 52 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d6a55812e0013ede987/details?lang=en",
+            "descripcion": "La guerra por la libertad acaba de comenzar. Trikalypse une fuerzas con el líder rebelde y un equipo de luchadores por la libertad para acabar con Dominion y exponer su malvada corporación al mundo."
+        },
+        {
+            "titulo": "Seeds Of Destruction",
+            "metadatos": [
+                "TV-PG",
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/603e621d049634001a5f33a8/details?lang=en",
+            "descripcion": "Los militantes ecologistas Kate y Joe son testigos y graban en vídeo el rápido crecimiento de un sistema de raíces gigantescas que puede provocar un fuerte terremoto en todo el país."
+        },
+        {
+            "titulo": "Dark Storm",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60f096b50bb675001323d41f/details?lang=en",
+            "descripcion": "Un grupo de científicos acaba de inventar el Eruptor. De repente, el aparato se descontrola y se vuelve contra uno de los especialistas que, en vez de morir, adquiere superpoderes."
+        },
+        {
+            "titulo": "Serpiente de fuego",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd8e3ad190c001a52ee75/details?lang=en",
+            "descripcion": "Una enorme bola de fuego del sol golpea la Tierra y desata un demonio de fuego invencible que comienza a poseer a los humanos."
+        },
+        {
+            "titulo": "Las Guerras inmortales: Renacimiento",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d6e55812e0013edea13/details?lang=en",
+            "descripcion": "Rebirth tiene lugar durante las primeras etapas brutales de Dominion Industries. En esta historia, Olive y otros desviados se someten a una serie de experimentos mortales dirigidos por Laurie Harvey y su equipo."
+        },
+        {
+            "titulo": "Catástrofe helada",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd8c8ad190c001a52ebed/details?lang=en",
+            "descripcion": "Es Navidad y todo está tranquilo en un apacible pueblo mientras la nieve cubre cada rincón. Sin embargo, la tragedia empieza cuando un terrorífico meteorito se estrella y amenaza con dejar cristalizada a toda la población."
+        },
+        {
+            "titulo": "Apocalypse Pompeii",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc93103f08b13358b706a02/details?lang=en",
+            "descripcion": "Cuando un antiguo comando de Operaciones Especiales visita Pompeya, su esposa y su hija quedan atrapadas en el Monte Vesubio que entra en erupción con una fuerza masiva."
+        },
+        {
+            "titulo": "Monstruos de Guerra",
+            "metadatos": [
+                "TV-14",
+                "Horror",
+                "1hr 20 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0a3b55812e0013ede34a/details?lang=en",
+            "descripcion": "Algo ha despertado, y una ciudad debe trabajar en conjunto antes de que un gorila gigante, un tiranosaurio rex y otras criaturas mortales recuperen el planeta."
+        },
+        {
+            "titulo": "Las Guerras Inmortales",
+            "metadatos": [
+                "TV-14",
+                "War",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d6655812e0013ede8e1/details?lang=en",
+            "descripcion": "Después de que una guerra catastrófica sume al mundo en el caos, surge una nueva raza de seres con superpoderes conocidos como \"desviados\"."
+        },
+        {
+            "titulo": "10.0 Earthquake",
+            "metadatos": [
+                "TV-14",
+                "Action & Adventure",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/612511bed24f5e00135e9db2/details?lang=en",
+            "descripcion": "Mientras una serie de terremotos comienzan a destrozar Los Ángeles, Emily y Jason corren por la ciudad en ruinas con la esperanza de desviar el epicentro para salvar millones de vidas."
+        },
+        {
+            "titulo": "Abominable",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62f55050ce5c48001b1b29b6/details?lang=en",
+            "descripcion": "Un hombre, lisiado en un accidente de escalada, regresa a su cabaña en el bosque como parte de su rehabilitación, pero no estaba preparado para el ataque inminente."
+        },
+        {
+            "titulo": "Teana 10.000 años después",
+            "metadatos": [
+                "PG-13",
+                "Sci-Fi & Fantasy",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62bf3921daab810013cd3f99/details?lang=en",
+            "descripcion": "Miles de años en el futuro, un padre, un hijo y su perro, recorren el mundo contando historias del pasado que llevó a la destrucción de la humanidad. Sin que ellos lo sepan, la principal causa del cataclismo está a punto de regresar"
+        },
+        {
+            "titulo": "La rebelión de los muertos vivientes",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62c87372bcc69800132920e0/details?lang=en",
+            "descripcion": "Un misterioso virus ha diezmado la población y ha convertido a miles en zombies. El gobierno desarrolla un videojuego llamado Dead Trigger y quienes maten más zombies en el juego serán reclutados para combatir a los muertos vivientes."
+        },
+        {
+            "titulo": "Ciudad Sitiada",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 51 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62bc8eed5d2a85001328b61a/details?lang=en",
+            "descripcion": "Cuando el payaso de circo Sunny se transforma en un mutante con superpoderes, se enfrenta a sus compañeros, que fueron alterados en el mismo accidente y ahora están usando sus poderes para causar estragos en la ciudad."
+        },
+        {
+            "titulo": "Phantom Racer",
+            "metadatos": [
+                "NC-17",
+                "Sci-Fi & Fantasy",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13bd34ee6100132beb7b/details?lang=en",
+            "descripcion": "Un piloto de carreras regresa de la muerte para buscar venganza contra su antiguo rival."
+        },
+        {
+            "titulo": "Código Oculto",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 46 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60895f706b9d17001ac3ce19/details?lang=en",
+            "descripcion": "Branded nos introduce en un mundo donde las corporaciones, activando un código genético en el ser humano han desencadenado una conspiración mundial para poder controlar sus mentes, manteniéndolos así en un estado de dependencia."
+        },
+        {
+            "titulo": "Pánico en seattle",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/61826d851be642001a2dfeb8/details?lang=en",
+            "descripcion": "Cuando una gran tormenta amenaza el Noroeste del Pacífico, una familia debe encontrarse y trabajar en conjunto para detenerla antes de que se salga de control y aniquile a todo el planeta."
+        },
+        {
+            "titulo": "Nazis at the Center of the Earth",
+            "metadatos": [
+                "Horror",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e50536f808a36c7b429c045/details?lang=en",
+            "descripcion": "Investigadores en la Antártida son secuestrados por un equipo de soldados de asalto enmascarados. Se arrastran profundamente a un continente oculto en el centro de la tierra."
+        },
+        {
+            "titulo": "Battle of Los Angeles",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb59ae8bf80f1001386210f/details?lang=en",
+            "descripcion": "En febrero de 1942, las fuerzas estadounidenses atacaron un objeto volador no identificado sobre Los Ángeles. Ahora, casi 70 años después, los invasores extraterrestres han regresado."
+        },
+        {
+            "titulo": "Tormenta terrestre",
+            "metadatos": [
+                "NC-17",
+                "Sci-Fi & Fantasy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b139834ee6100132be4a9/details?lang=en",
+            "descripcion": "Un asteroide golpea el lado oscuro de la luna, desencadenando cambios climáticos en la tierra."
+        },
+        {
+            "titulo": "Super Cyclone",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc93151045f36ab79e54d47/details?lang=en",
+            "descripcion": "Cuando un súper ciclón amenaza a toda la costa este de Estados Unidos, un meteorólogo solitario y un ingeniero petrolero deben luchar contra los elementos para detener la amenaza."
+        },
+        {
+            "titulo": "Age of Dinosaurs",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5daf9a82c5c2f64fb8ba363f/details?lang=en",
+            "descripcion": "Usando una tecnología innovadora de regeneración de carne, una empresa de biotecnología crea un conjunto de dinosaurios vivos. Pero cuando las criaturas escapan de la exhibición de su museo y aterrorizan a Los Ángeles."
+        },
+        {
+            "titulo": "Age of Ice",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e505277e1b2a8c69a9b68f3/details?lang=en",
+            "descripcion": "Los terremotos masivos abren la placa tectónica árabe, lo que produce temperaturas de congelación que serán fatales al anochecer."
+        },
+        {
+            "titulo": "Oceans Rising",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb59a4ac02a73001449dd97/details?lang=en",
+            "descripcion": "Un científico construye un arca enorme después de que se ignoran sus advertencias de una inundación que destruirá la Tierra. El desastre es inevitable, y los que difamaron al científico suben al arca desesperados, antes de que el mundo se ahogue."
+        },
+        {
+            "titulo": "Invasión Robótica",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f50f118db45a1001a798ea0/details?lang=en",
+            "descripcion": "Cuando un avión que transportaba a un par de robots militares se estrella en una isla desierta del Pacífico, un equipo debe desactivarlos tan pronto como sea posible porque cuanto más tiempo permanezcan activados, más inteligentes se volverán."
+        },
+        {
+            "titulo": "Andron - El laberinto negro",
+            "metadatos": [
+                "PG-13",
+                "Sci-Fi & Fantasy",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7b87abe4b56900138b8106/details?lang=en",
+            "descripcion": "En el año 2154 un grupo de jóvenes se despiertan en la oscuridad, en un claustrofóbico laberinto. No recuerdan quienes son ni cómo llegaron allí, ni siquiera saben cuáles son sus nombres."
+        },
+        {
+            "titulo": "Autodestrucción",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7b86cbe4b56900138b739f/details?lang=en",
+            "descripcion": "Autodestrucción es una versión de un mundo futuro, como si fuera un videojuego, y que a través de una serie de experimentos consiguen energía ilimitada de los universos paralelos. Todo parecer ir bien cuando algo del experimento sale mal."
+        },
+        {
+            "titulo": "Asteroide",
+            "metadatos": [
+                "Comedy",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/628cfe7656bdac0013fe7404/details?lang=en",
+            "descripcion": "Un hombre de familia desconectado se muda con su esposa y su hija de la gran ciudad a la casa de sus sueños en las afueras de un pequeño pueblo justo a tiempo para el apocalipsis."
+        },
+        {
+            "titulo": "100 Below Zero",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 28 min",
+                "No hay deficiencias"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc9303d600494283b82a4a8/details?lang=en",
+            "descripcion": "Cuando una cadena de erupciones volcánicas atraviesa Europa, la enorme nube de ceniza bloquea el sol, sumergiendo al continente en una nueva edad de hielo."
+        },
+        {
+            "titulo": "Mega Shark vs Giant Octopus",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc92f94510729221d09827e/details?lang=en",
+            "descripcion": "Incidentes inexplicables están ocurriendo en todo el Océano Pacífico cuando un grupo de científicos rebeldes descubrió un tiburón megalodón prehistórico y se ha desatado un pulpo gigante gracias a una operación militar ilegal."
+        },
+        {
+            "titulo": "Amenaza en el Mar",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60bf7231d782df0013ef2689/details?lang=en",
+            "descripcion": "En Malibú, un tsunami provoca la reaparición de una especie de tiburón prehistórico, que se creía ya extinguida y que se dedica a atacar a los bañistas."
+        },
+        {
+            "titulo": "The Da Vinci Treasure",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5052ce556910c70661ebb6/details?lang=en",
+            "descripcion": "Basado en eventos históricos, un antropólogo forense que busca emociones debe desentrañar el misterioso código encerrado en las obras de Leonardo Da Vinci."
+        },
+        {
+            "titulo": "Alien Abduction",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc931e0aeb86de95662f686/details?lang=en",
+            "descripcion": "Mientras acampan, Jean y sus tres amigos son secuestrados por extraterrestres. Ella regresa a la conciencia en un hospital militar de los Estados Unidos especialmente diseñado para rehabilitar a abducidos extraterrestres."
+        },
+        {
+            "titulo": "Tormentageddon: Apocalipsis infernal",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd898ad190c001a52e718/details?lang=en",
+            "descripcion": "Echelon', un potente y complejo programa informático diseñado para predecir el comportamiento humano, se apodera de todo el sistema informático de Estados Unidos."
+        },
+        {
+            "titulo": "Furia de Dragón",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d5455812e0013ede73d/details?lang=en",
+            "descripcion": "Una soldado retirada es reclutada, junto con sus compañeros, para dar caza a una bestia que acecha en las montañas."
+        },
+        {
+            "titulo": "Shark Week",
+            "metadatos": [
+                "Horror",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc92f764f177d256c3ae891/details?lang=en",
+            "descripcion": "Un grupo de completos extraños se encuentran aislados por un loco rico en el complejo de su isla. Se ven obligados a entrar en un guantelete espantoso donde deben sobrevivir a un aluvión de especies de tiburones cada vez más letales."
+        },
+        {
+            "titulo": "Spiders",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60b53c26e36d58001a68e5c6/details?lang=en",
+            "descripcion": "Unas arañas empiezan a transformarse en monstruos gigantes después de que una vieja estación espacial se estrella en el túnel del metro de la Ciudad de Nueva York."
+        },
+        {
+            "titulo": "Tormenta de meteoritos",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/61826d4184bc46001a3a4b72/details?lang=en",
+            "descripcion": "Para la astrónoma Michelle Young, un evento celestial irrepetible se convierte en una pesadilla cuando miles de meteoros atraviesan la atmósfera y bombardean la ciudad de San Francisco."
+        },
+        {
+            "titulo": "500 MPH Storm",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc93115010fbb45854dc76a/details?lang=en",
+            "descripcion": "Cuando un experimento de energía se descontrola, una serie de huracanes masivos azotan América del Norte. Un científico debe poner a su familia a salvo antes de que los huracanes se fusionen."
+        },
+        {
+            "titulo": "Punto de extremeño",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd8abad190c001a52e8f8/details?lang=en",
+            "descripcion": "Los experimentos del gobierno sobre viajes en el tiempo han sido suspendidos. El científico a cargo del proyecto ha desaparecido. Cuando su nombre aparece en el manifiesto de una compañía aérea, el gobierno ordena el regreso del avión."
+        },
+        {
+            "titulo": "Andreas Quake",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e50539dca8232c7ea0ecb8c/details?lang=en",
+            "descripcion": "Cuando una desacreditada sismóloga advierte de un inminente terremoto de 12.7, nadie la toma en serio. Ahora, corre desesperadamente para poner a salvo a su familia antes de que el terremoto rompa Los Ángeles."
+        },
+        {
+            "titulo": "La profecía del juicio final",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/603e620c049634001a5f3258/details?lang=en",
+            "descripcion": "Raros sucesos geológicos azotan el planeta y amenazan con acabar toda forma de vida en la Tierra. La única persona capaz de detener la catástrofe es un misterioso escritor con poderes adivinatorios que muere en extrañas circunstancias."
+        },
+        {
+            "titulo": "12 catástrofes",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd8e6ad190c001a52eeaf/details?lang=en",
+            "descripcion": "En la víspera de Navidad, una amenazadora estrella negra aparece en el cielo. Cuando varias ciudades empiezan a ser devastadas catástrofes naturales, hace presagiar que el día del juicio final está cerca."
+        },
+        {
+            "titulo": "Airline Disaster",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e505297439337c6be69c42b/details?lang=en",
+            "descripcion": "El Boeing Next Generation 797 es el nuevo estándar aeronáutico en lujo de pasajeros y tecnología de vuelo. Pero su viaje inaugural encuentra rápidamente la turbulencia cuando una banda violenta toma el control del avión."
+        },
+        {
+            "titulo": "2012: Ice Age",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e50521c45cf42c6404a9806/details?lang=en",
+            "descripcion": "Cuando una erupción volcánica en Islandia envía un glaciar a América del Norte, una familia lucha por escapar de la embestida de la próxima era glacial."
+        },
+        {
+            "titulo": "La Leyenda de la Tumba del Dragón",
+            "metadatos": [
+                "TV-14",
+                "Action & Adventure",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/609bf0b141fc480013277eac/details?lang=en",
+            "descripcion": "Travis es un reconocido paleontólogo que pretende demostrar la existencia de una criatura prehistórica en una zona remota donde varios trabajadores han sido atacados. Para ello, no duda en desplazarse hasta allí con un equipo de expertos."
+        },
+        {
+            "titulo": "Infierno en la nieve",
+            "metadatos": [
+                "PG-13",
+                "Sci-Fi & Fantasy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd8a4ad190c001a52e846/details?lang=en",
+            "descripcion": "Una ciudad de Alaska está en peligro de ser destruida por una bola de cristal mágica que aparece envuelta como un regalo de Navidad en la puerta de una familia. Al ser sacudida, provoca desastres en el mundo real."
+        },
+        {
+            "titulo": "The 7 Adventures of Sinbad",
+            "metadatos": [
+                "PG-13",
+                "Action & Adventure",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5daf9754c22bf318a740e8b0/details?lang=en",
+            "descripcion": "Simbad, el Príncipe de Persia original, debe completar siete tareas para salvar al mundo de una catástrofe."
+        },
+        {
+            "titulo": "Mega Shark vs Crocosaurus",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc92f6eaeb86de95662f643/details?lang=en",
+            "descripcion": "El enorme tiburón prehistórico ha sobrevivido a la última batalla, y el mundo se ve amenazado nuevamente cuando se descubre un enemigo nuevo y más peligroso en las selvas de África."
+        },
+        {
+            "titulo": "Bounty Killer",
+            "metadatos": [
+                "TV-MA",
+                "Sci-Fi & Fantasy",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60a52a0506e9520016477ad7/details?lang=en",
+            "descripcion": "En un mundo post-apocalíptico, uno grupo de asesinos famosos persiguen a unos criminales de cuello blanco."
+        },
+        {
+            "titulo": "2010: Moby Dick",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc92f844d9d0e2cf3506630/details?lang=en",
+            "descripcion": "Una adaptación moderna de la novela clásica del capitán de un submarino de alta tecnología y su búsqueda obsesiva de destruir la enorme ballena prehistórica que lo mutiló."
+        },
+        {
+            "titulo": "War of the Worlds",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc930f083ada62ccb4e308c/details?lang=en",
+            "descripcion": "En esta nueva versión moderna del clásico horror de ciencia ficción de H.G. Wells, la civilización se arruina cuando una súper raza de extraterrestre invade la Tierra."
+        },
+        {
+            "titulo": "Bermuda Tentacles",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5052bd1ce126c6f4d6eaa4/details?lang=en",
+            "descripcion": "Cuando Air Force One cae sobre el Triángulo de las Bermudas, la Marina envía el mejor equipo de rescate. Pero al salvar al presidente, el equipo despierta a un monstruo que amenaza a toda la costa este."
+        },
+        {
+            "titulo": "Apocalipsis en Los Ángeles",
+            "metadatos": [
+                "TV-14",
+                "Sci-Fi & Fantasy",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f493b5c9dd795001ab56627/details?lang=en",
+            "descripcion": "Se detecta actividad volcánica en el núcleo de la Tierra y los científicos descubren que la ciudad de LA está a punto de ser borrada del mapa. Un hombre vuelve a la ciudad para encontrar a su novia, pero descubre que ha sido secuestrada."
+        },
+        {
+            "titulo": "Guardian",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 26 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd892ad190c001a52e662/details?lang=en",
+            "descripcion": "Una ola de violencia sacude a Los Ángeles, y el ex marino John Kross investiga su causa: una nueva droga llamada Chaos. Con su compañero Carpenter, investigan el misterio y descubrirán un vínculo entre la droga y un poder sobrenatural."
+        },
+        {
+            "titulo": "La Amenaza Solar",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f43c65ebbff270013bc1fba/details?lang=en",
+            "descripcion": "Una expulsión amenaza con prender fuego a la atmósfera de la Tierra y acabar con la vida en el planeta. La responsabilidad recae sobre el presidente de los Estados Unidos, puesto que el tiempo del que dispone para evitar el desastre es limitado."
+        },
+        {
+            "titulo": "30,000 Leagues Under the Sea",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc93109effb414a981cbf4a/details?lang=en",
+            "descripcion": "En este recuento moderno del clásico cuento de ciencia ficción, el carismático sociópata, el capitán Nemo, utiliza su submarino de alta tecnología para provocar la venganza en el mundo de la superficie."
+        },
+        {
+            "titulo": "Alien: Bellezas mortales",
+            "metadatos": [
+                "NC-17",
+                "Sci-Fi & Fantasy",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b139134ee6100132be33b/details?lang=en",
+            "descripcion": "Luke y Roger son sólo otro par de universitarios tratando de perder su virginidad. Pero cuando Luke ve algo inusual, comienza a sospechar que las chicas del campus no son exactamente... humanas."
+        },
+        {
+            "titulo": "War of the Worlds 2: The Next Wave",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc92f1f045f36ab79e54d13/details?lang=en",
+            "descripcion": "Dos años después de la invasión marciana, se dan cuenta de los peores temores de George Herbert: han regresado."
+        },
+        {
+            "titulo": "Snakes on a Train",
+            "metadatos": [
+                "Horror",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc93116bb720736eb0dbc95/details?lang=en",
+            "descripcion": "Bajo una poderosa maldición maya, las serpientes son incubadas dentro de una mujer joven, lentamente devorándola desde adentro. Su única posibilidad de sobrevivir es una poderosa chamán que vive al otro lado de la frontera."
+        },
+        {
+            "titulo": "Atlantic Rim",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5052ab4123ebc6e2694d1d/details?lang=en",
+            "descripcion": "Cuando los monstruos gigantes se arrastran fuera del Océano Atlántico y atacan la costa este, el gobierno de los EE. UU. se ve obligado a confiar en robots mecánicos experimentales, pilotados por aviadores sin experiencia."
+        },
+        {
+            "titulo": "King of the Lost World",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e505340a88c25c7901c7c5c/details?lang=en",
+            "descripcion": "En este recuento moderno del clásico de fantasía y acción y aventura de Sir Arthur Conan Doyle, un avión comercial se estrella profundamente en el corazón de la Amazonia."
+        },
+        {
+            "titulo": "The Apocalypse",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5dc9311f5d8921a9df9d54fb/details?lang=en",
+            "descripcion": "En esta película épica de desastres, una madre y un padre buscan a su único hijo, mientras que un asteroide gigante que se dirige a la Tierra desencadena una serie de eventos apocalípticos."
+        },
+        {
+            "titulo": "Invasion of the Pod People",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5052fc2770dec73cb484ab/details?lang=en",
+            "descripcion": "En la línea de \"Invasion of the Body Snatchers\", después de que los amigos y compañeros de trabajo más cercanos de una mujer experimentan cambios extremos de personalidad, comienza a sospechar que han sido reemplazados por invasores extraterrestres."
+        },
+        {
+            "titulo": "Pirates of Treasure Island",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 20 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e50537e835a07c7c6c1e9ac/details?lang=en",
+            "descripcion": "La vida de monotonía de un posadero cambia repentinamente cuando toma posesión de un mapa del tesoro. Reclutando la ayuda de Long John Silver y su banda de piratas asesinos, se pone en marcha en busca de la maldita Isla Esqueleto."
+        }
+    ]
 }

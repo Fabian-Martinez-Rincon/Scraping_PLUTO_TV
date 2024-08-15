@@ -1,4 +1,459 @@
 {
-    "count": 0,
-    "movies": []
+    "count": 42,
+    "movies": [
+        {
+            "titulo": "Cascos Indomables",
+            "metadatos": [
+                "R",
+                "Drama",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d1563ab20b080013f291ff/details?lang=en",
+            "descripcion": "Mancha es un mensajero que disfruta la monotonía de su vida. Sin embargo, la pérdida de su trabajo y el tambaleo de su relación sentimental lo harán enfrentarse, cara a cara, con una situación a la que no está acostumbrado, el cambio."
+        },
+        {
+            "titulo": "Jesús, el niño Dios",
+            "metadatos": [
+                "TV-G",
+                "Drama",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d702bec9dd6001a992fa1/details?lang=en",
+            "descripcion": "La tierna historia de la infancia de Jesucristo, desde la Anunciación, la Natividad, la Visita de los Tres Reyes Magos, la Matanza de los Inocentes ordenada por el Rey Herodes y la Huida de la Sagrada Familia a Egipto."
+        },
+        {
+            "titulo": "La duquesa Tepetate",
+            "metadatos": [
+                "Comedy",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e566c644faf09001a3851f3/details?lang=en",
+            "descripcion": "Con el fin de librarse de una deuda económica, un joven acepta contraer matrimonio con una muchacha, que a su vez sólo podrá recibir su herencia si se casa.Por miedo a ser estafadas, la madre de la joven finge ser quien necesita casarse."
+        },
+        {
+            "titulo": "Buenos Dias, Acapulco",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e585034bb3c2e001bf972ad/details?lang=en",
+            "descripcion": "Los detectives Viruta y Capulina viajan al Puerto de Acapulco para cuidar de Ricardo, el joven hijo de un millonario. Cuando el muchacho es secuestrado, es el turno de Viruta y Capulina de enfrentarse a los maleantes para rescatarlo."
+        },
+        {
+            "titulo": "La Mujer de Oro",
+            "metadatos": [
+                "TV-PG",
+                "Comedy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d74ec7255220014448432/details?lang=en",
+            "descripcion": "Una empleada bancaria huye con el dinero que robó a través de un túnel."
+        },
+        {
+            "titulo": "Cuidado con el Amor",
+            "metadatos": [
+                "TV-G",
+                "Romance",
+                "1hr 36 min",
+                "No hay deficiencias"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5851ba5c7c10001a6007b9/details?lang=en",
+            "descripcion": "Pedro, con la ayuda de dos mejores amigos de su padre busca un Tesoro enterrado en una hacienda colonial. Elsa y su madre quieren impedirlo. Al fin el amor interviene y Pedro y Elsa comparten la fortuna y su felicidad."
+        },
+        {
+            "titulo": "Juana Gallo",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 31 min",
+                "No hay deficiencias"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7dbb4033cb001a4cf80d/details?lang=en",
+            "descripcion": "La verdadera historia de Angela Ramos, una joven campesina que llegó a ser la cabeza de una guerrilla que luchó exitosamente contra las fuerzas federales del usurpador Victoriano Huerta. El pueblo la llamó por su fiereza “Juana Gallo”."
+        },
+        {
+            "titulo": "Mi Padrino",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d9cbf6d961a001a2a68b3/details?lang=en",
+            "descripcion": "Al regresar de bracero, Capulina bautiza a otro niño del barrio, pues es padrino de muchos. Se entera que su ahijada huérfana Evita se ha ido a vivir a la elegante casa de su padrastro, el cual organiza un concurso de canto para complacer a su amante."
+        },
+        {
+            "titulo": "El Super Mandilon",
+            "metadatos": [
+                "TV-MA",
+                "Comedy",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60d49aa289632c0013eada08/details?lang=en",
+            "descripcion": "El Supermandilon es un retrato hablado de todos los machos del mundo, que en su casa lava, plancha, barre y hace la comida antes de irse a trabajar, además tiene que soportar a la suegra que de todo le echa la culpa."
+        },
+        {
+            "titulo": "El Camino",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/620bd4b1e17acd0013989ef2/details?lang=en",
+            "descripcion": "David, y Eduardo Montalvo dos hermanos que al ser abandonados por su madre, tuvieron que ser criados por su padre Don Fernando Montalvo, se convierten en ladrones para poder pagar una deuda que su padre dejo al morir."
+        },
+        {
+            "titulo": "Los Desenfrenados",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 47 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d76761d1911001ad34fdb/details?lang=en",
+            "descripcion": "Viruta y Capulina son dos camioneros y conocen a unas hermosas fugitivas que huyen de un internado femenino."
+        },
+        {
+            "titulo": "El Dolor de Pagar la Renta",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d76e74698db001ab22158/details?lang=en",
+            "descripcion": "El dueño de una vecindad quiere lanzar a los inquilinos para construir otro dificio en el terreno. Capulina encuentra la manera de salvar a sus vecinos de perder sus hogares."
+        },
+        {
+            "titulo": "El Super Mandilon 2",
+            "metadatos": [
+                "TV-MA",
+                "Comedy",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60d49aa889632c0013eada74/details?lang=en",
+            "descripcion": "Ahora El Supermandilon ya manda en su casa, aprovechándose de que su suegra esta en la cárcel, y su esposa le ha prometido obedecerle en todo; pero comienza a pasarse de la raya con sus parrandas y fiestecitas que organizan en su oficina."
+        },
+        {
+            "titulo": "Los Legionarios",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d75025c1e25001a260907/details?lang=en",
+            "descripcion": "Viruta y Capulina huyen disfrazados de mujer de la legión extranjera, pero los confunden con esclavas y son vendidos para el harem del príncipe Omar. La odalisca Farida los descubre y avisa al sultán, quien los manda a decapitar."
+        },
+        {
+            "titulo": "En Peligro de la Muerte",
+            "metadatos": [
+                "Comedy",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7754de07ce430013070926/details?lang=en",
+            "descripcion": "En el lejano oeste Capulina es un minero que trata de encontra oro. El pequeño pueblo de El Dorado es robado constantemente por dos bandas enemigas. Capulina encuentra la manera de enfrentar a las bandas y salvar el oro."
+        },
+        {
+            "titulo": "Dos Locos en Escena",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5851da7255220014441d4d/details?lang=en",
+            "descripcion": "Durante el ensayo de una obra de teatro un actor pierde el conocimiento. Su compañero lo cree muerto y esconde el cuerpo en una caja. Capulina es el encargado de hacer la mudanza de las cajas y un juego de escondite se establece entre el y el “asesino.”"
+        },
+        {
+            "titulo": "Dos Criados Malcriados",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e584fc2ec9dd6001a98b06e/details?lang=en",
+            "descripcion": "Capulina y Viruta entran a trabajar como sirvientes en la lujosa mansión de un millonario. Son torpes y casi arruínan la casa, pero al fin todos encuentran felicidad y amor con dos guapas sirvientas."
+        },
+        {
+            "titulo": "El Hermano Capulina",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d76044698db001ab2210d/details?lang=en",
+            "descripcion": "Capulina abandona el digno oficio de limosnero, pero no por ello va a cometer la locura de trabajar. Va a dar a una orden de Frailes que se dedican a hacer la caridad y se enfrenta a los problemas de los Frailes y los de todos a su alrededor."
+        },
+        {
+            "titulo": "El Niño Sicario",
+            "metadatos": [
+                "PG-13",
+                "Crime",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/620bd4bce17acd001398a0aa/details?lang=en",
+            "descripcion": "Pedro es abandonado por sus padres en una central camionera de Sinaloa cuando apenas tenía 6 años. Pedro llega a los 15 años y se convierte en un desalmado sicario y rápidamente comienza a ascender en la organización."
+        },
+        {
+            "titulo": "El Metiche",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 19 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d721a5c1e25001a260831/details?lang=en",
+            "descripcion": "Capulina es un metiche que causa peores problemas a la gente que los que ellos tienen antes de que Capulina trata de ayudarlos."
+        },
+        {
+            "titulo": "La Loca",
+            "metadatos": [
+                "TV-PG",
+                "Drama",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d75016d961a001a2a5bc6/details?lang=en",
+            "descripcion": "Un joven psiquiatra se interesa en el caso de una paciente que cree vivir en el año 1936. Los parientes de ella quieren hacerla pasar por sana para poder cobrar una herencia de pero el médico lucha contra toda la familia para defender a 'La loca'."
+        },
+        {
+            "titulo": "3 Mexicanos Calientes",
+            "metadatos": [
+                "TV-MA",
+                "Comedy",
+                "1hr 14 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60d49a9d89632c0013ead9da/details?lang=en",
+            "descripcion": "Un creativo director de comerciales sostiene un tórrido romance con una modelo."
+        },
+        {
+            "titulo": "Tin-Tan: 3 lecciones de amor",
+            "metadatos": [
+                "Romance",
+                "1hr 26 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6058ec03a224c9001bb77696/details?lang=en",
+            "descripcion": "Tin-Tan es un vendedor de productos de belleza que conoce aun grupo de hermosas jóvenes que aspiran a ser modelos. Decide ayudarlas y organiza una exhibición de modas que las hace triunfar en la Televisión."
+        },
+        {
+            "titulo": "El Carita",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d719b67bbf8001aab2c91/details?lang=en",
+            "descripcion": "Capulina es un solitario que no puede encontrar novia. Un día, por un hechizo amanece como todo un galán. Todas las chicas lo buscan pero el solo quiere lograr el amor de una, a la que por mucho tiempo ha amado en secreto."
+        },
+        {
+            "titulo": "Un horca para el texano",
+            "metadatos": [
+                "Western",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e566c5e4faf09001a385149/details?lang=en",
+            "descripcion": "Frank, Peter, Robert y Leop Morgan son buscados por todo un pueblo,ya que roban bancos y matan. Pronto un comisario llega para resolver el asesinato del presidente del banco y poner tras las rejas a estos cuatro bandidos."
+        },
+        {
+            "titulo": "El Sargento Capulina",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d724a407e62001baa93c6/details?lang=en",
+            "descripcion": "Capulina quiere convertirse en superhéroe para combatir el crimen. Se enlista en la policía y después de un riguroso entrenamiento llega a ser sargento y confronta a los criminales en una serie de incidentes cómicos."
+        },
+        {
+            "titulo": "Capulina contra Los Monstruos",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e58512a3fa84e001a82e478/details?lang=en",
+            "descripcion": "Capulina lee historias acerca de los monstrous y cree que existen en la realidad. Está muerto de miedo hasta que descubre que son imaginarios."
+        },
+        {
+            "titulo": "Tierra Baja",
+            "metadatos": [
+                "TV-PG",
+                "Drama",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d77994033cb001a4cf63a/details?lang=en",
+            "descripcion": "Un hombre casado, el más rico del pueblo para proteger a su amante la oblige a casarse con uno de sus pastores. Un ignorante pero valiente pastor que se enfrenta a los lobos. Nadie anticipa que el pastor defenderá a su esposa."
+        },
+        {
+            "titulo": "Ahí viene Martín Corona",
+            "metadatos": [
+                "TV-PG",
+                "Drama",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e58511a4faf09001a389d8c/details?lang=en",
+            "descripcion": "Martín Corona (Pedro Infante) y \"Piporro\" son campeones de los pobres, los desafortunados, y las mujeres, pero Carmen Linares y Rosario Medina no caen por su carisma."
+        },
+        {
+            "titulo": "El Corrido del 8",
+            "metadatos": [
+                "PG-13",
+                "Crime",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/620bd4b5e17acd0013989f61/details?lang=en",
+            "descripcion": "La familia de Pedro, un traficante apodado el 8, es masacrada sin piedad. Pedro busca la ayuda de su hermano para que le busque a los mejores gatilleros de la región y así comenzar una encarnizada persecución en contra de los asesinos de su familia."
+        },
+        {
+            "titulo": "El Rey de Monterrey",
+            "metadatos": [
+                "Comedy",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6058ebdcf96a44001a1ad740/details?lang=en",
+            "descripcion": "Capulina y su novia, la sirvienta en una casa rica, deciden dar un paseo usando el automóvil de los patrones. Una banda de roba coches les roban el auto. Capulina y su novia tienen que recuperar el auto antes de que sus patrones se enteren."
+        },
+        {
+            "titulo": "Celos",
+            "metadatos": [
+                "Drama",
+                "1hr 20 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e566c664faf09001a38522f/details?lang=en",
+            "descripcion": "Después de que el un hombre encuentra una fotografía de su futura mujer con su ex-novio, los celos lo consumen e intenta descubrir todos los detalles de la vida de su novia antes de conocerse."
+        },
+        {
+            "titulo": "La Vida de Pedro Infante",
+            "metadatos": [
+                "TV-PG",
+                "Drama",
+                "1hr 44 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7afabb3c2e001bf9f0a4/details?lang=en",
+            "descripcion": "Una historia emotiva y tierna basada en la vida real de Pedro Infante, el cantante y actor más famoso de México. Sus comienzos, sus triunfos, su pasión por los aviones, sus amores y su trágica muerte en plena flor de su edad."
+        },
+        {
+            "titulo": "El Investigador Capulina",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 22 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7126407e62001baa939a/details?lang=en",
+            "descripcion": "Capulina confunde al vicepresidente de una empresa con un ladrón. Sus amigos los luchadores Tinieblas y Superzan acuden en su ayuda y evitan un asalto. Capulina creyéndose el héroe decide poner una agencia de investigadores."
+        },
+        {
+            "titulo": "Capulina Speedy Gonzalez",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e58531b407e62001baa1b15/details?lang=en",
+            "descripcion": "En el Oeste, el cartero Speedy sólo lleva una carta de su novia Rosita para él mismo. Un cocinero que castiga a los que no aprueban sus platillos sin picante lo obliga a comer chile. Al comerlo se vuelve rápido y valiente."
+        },
+        {
+            "titulo": "El Karateca Azteca",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d72726bcaef001bb19de6/details?lang=en",
+            "descripcion": "Capulina ayuda a un arqueólogo alemán y a su guapa hija, Nadia a visitar ruinas arqueológicas. Una banda de contrabandistas de piezas arqueológicas atrapa al padre de Nadia. Capulina combate a los malhechores con sus artes marciales."
+        },
+        {
+            "titulo": "Santo Contra Capulina",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 17 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d708e67bbf8001aab2c59/details?lang=en",
+            "descripcion": "Capulina es un gran admirador del campion el Santo, quien en su tiempo libre ayuda a la policia a resolver difíciles casos criminales. Un cientifico crea un robot igual a Capulina para matar al Santo. El robot y el Santo pronto se enfrentan en la arena."
+        },
+        {
+            "titulo": "El Camino de los Espantos",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7176580fad001afd8274/details?lang=en",
+            "descripcion": "Capulina maneja un camión de turismo. Se pierde en la carretera y se detiene en una casa abandonada donde fantasmas y espantos tratan de alejar a los turistas."
+        },
+        {
+            "titulo": "Yo fui violada",
+            "metadatos": [
+                "Drama",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e566c5c4faf09001a38510f/details?lang=en",
+            "descripcion": "Un violador embaraza a una de sus victimas. Su hija crece y se enamora de un joven drogadicto, quien se la ofrece , sin saberlo a su propio padre."
+        },
+        {
+            "titulo": "Pancho pistolas I",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e566c604faf09001a38517f/details?lang=en",
+            "descripcion": "En un Jaripeo, el Charro Pancho dedica sus hazañas a su novia. Cerca del pueblo de La Presilla, unos hermanos codician las tierras de una tribu indígena."
+        },
+        {
+            "titulo": "El Guia de las Turistas",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d72ed72552200144483e8/details?lang=en",
+            "descripcion": "Un grupo de hermosas turistas es defraudado por la compañía de turismo que las deja a la deriva y sin dinero. Capulina al saber del problema decide ponerse al frente de la gira como guía de turistas y tiene un éxito fabuloso."
+        },
+        {
+            "titulo": "Capulina contra Los Vampiros",
+            "metadatos": [
+                "TV-G",
+                "Comedy",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e584e5b67bbf8001aaaaa30/details?lang=en",
+            "descripcion": "Vampiros agresivos amenazan a Capulina hasta que él encuentra la manera de arrancarles los colmillos con unas pinzas de dentista. Los vampiros chimuelos se vuelven dóciles y beben leche en lugar de sangre."
+        }
+    ]
 }

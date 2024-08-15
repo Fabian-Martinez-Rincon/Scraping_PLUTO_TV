@@ -1,4 +1,1574 @@
 {
-    "count": 0,
-    "movies": []
+    "count": 145,
+    "movies": [
+        {
+            "titulo": "Lejos de Casa (1989)",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65c5207b7905980013fddeef/details?lang=en",
+            "descripcion": "La exestrella infantil Drew Barrymore tuvo su primer rol de adolescente en este cómico thriller no convencional."
+        },
+        {
+            "titulo": "Freetwon",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "1hr 55 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65c3abd3b8685b00138230e4/details?lang=en",
+            "descripcion": "Un grupo de misioneros nativos de Liberia hacen un viaje desesperado a través de su país devastado por la guerra para salvar a uno de los suyos."
+        },
+        {
+            "titulo": "Boot tracks aka Tomorrow youre gone",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65c3a90e70ac440013b90005/details?lang=en",
+            "descripcion": "Charlie Rankin, recientemente liberado de prisión, conoce a Florence Jane, quien lo ayuda a buscar venganza por su mentor en la cárcel, William \"El Buda\" Pettigrew."
+        },
+        {
+            "titulo": "Un Crimen de Pasión",
+            "metadatos": [
+                "R",
+                "Drama",
+                "1hr 45 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/65c38fb304045f00135dbaed/details?lang=en",
+            "descripcion": "Connor, un hombre cuya aburrida vida se transforma en un apasionante mundo de fantasía gracias a la seductora Marilyn."
+        },
+        {
+            "titulo": "De Amor y Dinero",
+            "metadatos": [
+                "TV-14",
+                "Thrillers",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/654d3fe8727df0001a3c314c/details?lang=en",
+            "descripcion": "Un thriller centrado en un estafador, su esposa y un extraño que huye de Atenas después de que uno de ellos se ve envuelto en la muerte de un detective privado."
+        },
+        {
+            "titulo": "Aguas Negras",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/656f36bc2f9f5b001393bc6d/details?lang=en",
+            "descripcion": "Después de ser abandonada por su novio, Tara es llevada a caminar por el lago por su amiga Amy. Allí, conocen a un hombre misterioso y atractivo, con quien inician un juego que podría terminar muy mal para uno de ellos."
+        },
+        {
+            "titulo": "438 Días",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "2hr 2 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/656f34021311360013afe74f/details?lang=en",
+            "descripcion": "La víspera del 28 de junio de 2011, los periodistas suecos Martin Schibbye y Johan Persson pusieron todo en juego al cruzar ilegalmente la frontera de Somalia a Etiopía. Atrapados, pasan 438 días aterrorizados."
+        },
+        {
+            "titulo": "Loft",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "1hr 46 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/652ffb6a8026ff001a8049a0/details?lang=en",
+            "descripcion": "Cinco amigos casados hacen un pacto para compartir un loft secreto para sus aventuras extramatrimoniales. Cuando aparece el cadáver de una joven en el lugar empiezan a sospechar unos de otros."
+        },
+        {
+            "titulo": "Hasta que la muerte nos separe",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 40 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/64ecc752177f700013d0da68/details?lang=en",
+            "descripcion": "Madison creía que había encontrado al indicado, hasta que Michael se volvió controlador y violento. Ella escapa y con su nueva identidad se encuentra con Alex, pero Michael la encuentra de nuevo, recreando sus pesadillas."
+        },
+        {
+            "titulo": "Lazarus",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 45 min",
+                "No hay deficiencias"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6488c252e0d92e00138e6acb/details?lang=en",
+            "descripcion": "Un hombre es asesinado, pero su muerte es un asunto breve. Al recuperar la conciencia, descubre que ha sido dotado de poderes extraordinarios que le permiten luchar heroicamente contra la organización responsable de sumergir su ciudad en la oscuridad."
+        },
+        {
+            "titulo": "I AM NOT LORENA",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/64b9895ce135660013e6a552/details?lang=en",
+            "descripcion": "Un caso de identidad equivocada se convierte en una pesadilla viviente cuando una joven actriz se ve asaltada implacablemente por cobradores de deudas, en esta fábula kafkiana de la era de la información."
+        },
+        {
+            "titulo": "7 BOXES",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 45 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/64b991c863158100133051c7/details?lang=en",
+            "descripcion": "Es viernes por la noche en Asunción, Paraguay y la temperatura es sofocante. Víctor, un repartidor de carretillas de 17 años, sueña con hacerse famoso y codicia un elegante televisor en el infame Mercado 4."
+        },
+        {
+            "titulo": "Otra Vida",
+            "metadatos": [
+                "TV-G",
+                "Thriller",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6474b1ba274ca8001a440393/details?lang=en",
+            "descripcion": "Una científica desarrolla una droga revolucionaria que induce realidades virtuales y amplía el sentido del tiempo. Cuando el gobierno intenta hacerse con el proyecto, ella tendrá que decidir cómo utilizar su poderosa creación."
+        },
+        {
+            "titulo": "Frozen Lake",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6465270154afb6001a247dff/details?lang=en",
+            "descripcion": "Un policía retirado descubre un cadáver en un lago congelado. Cuando los miembros de su familia se convierten en los principales sospechosos, decide iniciar su propia investigación."
+        },
+        {
+            "titulo": "Amber Alert",
+            "metadatos": [
+                "TV-PG",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/64ecab428a0f7100130a765b/details?lang=en",
+            "descripcion": "Erin parece tener la familia perfecta. Sin embargo, ella es víctima de violencia doméstica a manos de su esposo. Cuando finalmente va demasiado lejos, Erin se lleva a sus hijos y huye a California."
+        },
+        {
+            "titulo": "Perros de presa",
+            "metadatos": [
+                "TV-PG",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6474bc98f2a541001bcb2db6/details?lang=en",
+            "descripcion": "Los niños liberados de un campo de concentración nazi tienen que superar el hambre, la sed y los perros viciosos en una mansión abandonada rodeada por el bosque."
+        },
+        {
+            "titulo": "Volver a morir",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 47 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7970e3406e0013955ecb/details?lang=en",
+            "descripcion": "Una mujer que ha perdido la memoria se encuentra con un detective privado que la ayuda a rastrear su identidad, pero él pronto descubre que ambos podrían tener una conexión de vidas pasadas que pone en peligro sus vidas."
+        },
+        {
+            "titulo": "The Housemaid",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 47 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6408ab7be9c66300131f8bab/details?lang=en",
+            "descripcion": "El romance de un hombre con la criada de su familia conduce a oscuras consecuencias. Intensamente erótico y diabólicamente divertido."
+        },
+        {
+            "titulo": "Un Lugar Solitario para Morir",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62bc9e68d972050014eace57/details?lang=en",
+            "descripcion": "Un grupo de cinco alpinistas que está escalando las montañas de Escocia descubre, casualmente, una niña que ha sido enterrada viva. Tras rescatarla, se dirigen al pueblo más cercano en busca de ayuda, pero los secuestradores los vigilan de cerca"
+        },
+        {
+            "titulo": "Mysteria",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62befb2a8fd582001332b7d2/details?lang=en",
+            "descripcion": "Un guionista de Hollywood de fama en el pasado intenta terminar su último guión antes de que se le acabe el plazo. En el proceso, topa con un misterioso caso de asesinato."
+        },
+        {
+            "titulo": "11 Minutos",
+            "metadatos": [
+                "R",
+                "Drama",
+                "1hr 22 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/628251395bbb230014bd5e57/details?lang=en",
+            "descripcion": "Un marido celoso, una actriz sensual, un director de cine, un traficante de drogas, una joven desorientada, un exconvicto, un estudiante, un limpiacristales y un artista anciano. Todos tienen sus destinos cambiados para siempre en once minutos."
+        },
+        {
+            "titulo": "Frame of Mind",
+            "metadatos": [
+                "Thriller",
+                "1hr 28 min",
+                "No hay deficiencias"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6024363f8d35a80013ee1caf/details?lang=en",
+            "descripcion": "Un detective de la policía de Nueva Jersey se encuentra con nuevas pruebas del asesinato de Kennedy."
+        },
+        {
+            "titulo": "Evidencia",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62cc47b375b9dc0013c812b4/details?lang=en",
+            "descripcion": "Un detective persigue a un asesino utilizando imágenes de video filmadas por las víctimas de una masacre en una estación de servicio abandonada."
+        },
+        {
+            "titulo": "Riddle",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62cc680d18de52001378c54c/details?lang=en",
+            "descripcion": "Una chica universitaria va a un pequeño pueblo llamado Riddle, solo para encontrar a su hermano menor desaparecido."
+        },
+        {
+            "titulo": "El Vuelo de la Muerte",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 19 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/609bf0a441fc480013277d92/details?lang=en",
+            "descripcion": "Fuerza sobrenatural aterroriza a los pasajeros de un avión."
+        },
+        {
+            "titulo": "Lazos de sangre",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb7bbb45eb0df001b1457db/details?lang=en",
+            "descripcion": "Thriller que se centra en el colapso moral de una familia de policías. Dos hermanos policías, sofocados por la sombra de su padre, el ex jefe de la policía, tienen que investigar un crimen que ellos mismos han cometido."
+        },
+        {
+            "titulo": "Asesinatos del pasado",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 18 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6266e4ccbaa39e0013e4a6b8/details?lang=en",
+            "descripcion": "El detective Starks investiga misteriosos asesinatos muy similares a los cometidos por el asesino en serie Henry Lee Bishop. Mientras Starks intenta buscar respuestas, un chico sordo descubre a una universitaria que lucha por sobrevivir."
+        },
+        {
+            "titulo": "Bug",
+            "metadatos": [
+                "Thriller",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60ff0002cd9d6f0013a76b25/details?lang=en",
+            "descripcion": "Bug es una niña de 12 años que descubre que su abuelo, el alguacil retirado del pueblo, pudo haber cometido y encubierto un asesinato por motivos raciales hace años. Ahora Bug está dispuesta a corregir un viejo error."
+        },
+        {
+            "titulo": "Conectado",
+            "metadatos": [
+                "TV-14",
+                "Action & Adventure",
+                "1hr 50 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/64022a67f9b2f6001422febb/details?lang=en",
+            "descripcion": "Un cobrador de deudas recibe una llamada de una mujer que es secuestrada por una pandilla desconocida. Él piensa que es una broma, pero pronto se da cuenta de que no es una broma."
+        },
+        {
+            "titulo": "Bent :Corrupción Policiaca",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6141f442bce9e900135a5d62/details?lang=en",
+            "descripcion": "Danny Gallagher un detective de narcoticos desacreditado recien salido de la carcel, busca vengarse del responsable del cargo que condujo a su arresto y que mato a su pareja."
+        },
+        {
+            "titulo": "Alucinaciones Del Pasado 2",
+            "metadatos": [
+                "TV-MA",
+                "Horror",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/641c66cd4f1ca3001a876405/details?lang=en",
+            "descripcion": "Después de que su hermano regrese de la guerra, Jacob Singer lucha por mantener la cordura. Junto a alucinaciones y flashbacks, Singer se derrumba rápidamente a medida que el mundo y las personas que le rodean se transforman en imágenes perturbadoras."
+        },
+        {
+            "titulo": "Miedo Profundo",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d7c7ca90b2250013834259/details?lang=en",
+            "descripcion": "Un tranquilo paseo en bote se convierte en una lucha por sobrevivir cuando un grupo de amigos salta al océano para refrescarse pero no puede regresar abordo."
+        },
+        {
+            "titulo": "Heredero",
+            "metadatos": [
+                "TV-MA",
+                "Horror",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/641362fa3448750014018a1e/details?lang=en",
+            "descripcion": "Cuando un joven cae enfermo por una misteriosa enfermedad, su madre tendrá que decidir hasta dónde está dispuesta a llegar para protegerle de unas aterradoras fuerzas que estuvieron presentes en su vida pasada."
+        },
+        {
+            "titulo": "El Viajero",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62ffea63362313001aaa8f3d/details?lang=en",
+            "descripcion": "Una lenta y tranquila noche de Nochebuena en la comisaría se convierte en un extraño horror cuando un hombre entra diciendo que quiere confesar un asesinato."
+        },
+        {
+            "titulo": "Estado de Fuga",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62d6ff37d7fb2b001382bc3b/details?lang=en",
+            "descripcion": "Una mujer que sufre de amnesia se encuentra condenada a muerte sin recordar el crimen que cometió. El FBI le ofrece una segunda oportunidad si se somete a un experimento: implantarle los recuerdos de víctimas mortales para resolver crímenes"
+        },
+        {
+            "titulo": "Miedo Extremo",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62d6deda4f12bb0013683a37/details?lang=en",
+            "descripcion": "Una joven acude al psicólogo para explicarle la fobia terrible que tiene a los coches. De vuelta hacia su casa un acontecimiento la llevará a una situación en donde sus peores miedos se convierten en realidad"
+        },
+        {
+            "titulo": "Antes que el diablo sepa que has muerto",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 56 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63110c7255ecdb0013ce590a/details?lang=en",
+            "descripcion": "Cuando dos hermanos organizan el robo de la joyería de sus padres, el trabajo sale terriblemente mal, lo que desencadena una serie de eventos que los envía a ellos, a su padre y a la esposa de un hermano, a toda velocidad hacia un clímax demoledor."
+        },
+        {
+            "titulo": "Bordertown",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 52 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/631113866e998c0013313ef7/details?lang=en",
+            "descripcion": "Un periodista investiga una serie de asesinatos cerca de fábricas estadounidenses en la frontera de Juárez y El Paso."
+        },
+        {
+            "titulo": "Möbius",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 46 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/609bf0a941fc480013277e02/details?lang=en",
+            "descripcion": "Un agente del servicio de inteligencia francés persigue por todos los medios en Mónaco a un todopoderoso corrupto del mundo de las altas finanzas, utilizando a uno de sus agentes bursátiles para ello."
+        },
+        {
+            "titulo": "Secrets at the Lake",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13c034ee6100132bebde/details?lang=en",
+            "descripcion": "Un año después de que su marido y sus dos hijos fallecieran en un accidente de coche, Megan Myers alquila su casa."
+        },
+        {
+            "titulo": "Killer Contractor",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13ac34ee6100132be7b3/details?lang=en",
+            "descripcion": "Kerry y su hija Ella regresan a casa para distribuir los bienes de su difunto padre, pero el constructor al que contratan para reparar la casa oculta una serie de oscuros y letales secretos."
+        },
+        {
+            "titulo": "Tierra de Nadie",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6283a5fde6e53d0013666ba6/details?lang=en",
+            "descripcion": "El testimonio de Dean es fundamental para atrapar a una banda de traficantes. Su amigo Hank trata de que este testimonio no llegue al FBI por lo cual contrata a Mónica para persuadirlo. Dean y Mónica se enamoran con lo cual tendrán que huir de Hank."
+        },
+        {
+            "titulo": "The Perfect Cheerleader",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13bb34ee6100132beae4/details?lang=en",
+            "descripcion": "Una estudiante de primer año de la universidad, que acaba de formar parte del equipo de animadoras, se enamora de un hombre mucho mayor."
+        },
+        {
+            "titulo": "Isla Canibal",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62bcac76c7b29600144c1a9a/details?lang=en",
+            "descripcion": "Tras naufragar el barco, un grupo de amigos llega a una tenebrosa isla. Lo que en un principio parecían unas idílicas vacaciones se acabará convirtiendo en una angustiosa lucha por la supervivencia ante unos caníbales."
+        },
+        {
+            "titulo": "Obsesión del pasado",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62bf0d613071460013d6c9bd/details?lang=en",
+            "descripcion": "Elizabeth y Mike viven un romance en la universidad y deciden ir a la ciudad del joven para presentarla. Es entonces cuando el joven descubre que su amor de la escuela secundaria Shelby ha desarrollado una malsana obsesión con él"
+        },
+        {
+            "titulo": "Hindsight",
+            "metadatos": [
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60256e60dec59000136bc797/details?lang=en",
+            "descripcion": "Inesperadamente embarazadas y sin medios para criar a un hijo, Dina y Ronnie deciden vender a su bebé por nacer a través de Internet. Su plan comienza a desmoronarse cuando la pareja que han elegido, Paul y Maria, resulta que tienen una agenda propia."
+        },
+        {
+            "titulo": "Crimen Paranormal",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62cc47d575b9dc0013c81573/details?lang=en",
+            "descripcion": "Una pareja que está de viaje en coche a Las Vegas rescata a un misterioso superviviente de un aparente atropello. Pero su decisión de recoger al hombre acabarán lamentándola cuando este les obligue a hacer lo impensable"
+        },
+        {
+            "titulo": "Abandonada",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62c8a3485c70310013c8c94d/details?lang=en",
+            "descripcion": "Mary lleva a su novio Kevin a una operación rutinaria. Cuando la joven se da cuenta de que se ha dejado su Black Berry en casa con información importante para su trabajo, va a buscarlo. Al volver al hospital, Kevin ya no está."
+        },
+        {
+            "titulo": "Selección natural",
+            "metadatos": [
+                "Horror",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b2258c2fbef4001388a822/details?lang=en",
+            "descripcion": "El chico nuevo, un tímido estudiante de último año de secundaria, se ve atormentado por todos sus compañeros excepto uno, pero su nuevo amigo tiene una perspectiva oscura y contagiosa."
+        },
+        {
+            "titulo": "El Asistente",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "2hr 16 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0a2a55812e0013ede18a/details?lang=en",
+            "descripcion": "Ray Shawn sale de prisión y pronto se da cuenta de que la vida tras las rejas puede haber sido mucho más fácil que lo que tiene que enfrentar como asistente de uno de los magnates de los medios más grandes del país."
+        },
+        {
+            "titulo": "El novato",
+            "metadatos": [
+                "Thriller",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f8758f57f692c001a4e2f72/details?lang=en",
+            "descripcion": "Newcomer cuenta la historia de cuando el error de un operario novato le cuesta la vida a todo su equipo y se ve obligado a huir y debe reconstruir la verdad al recrear los eventos de la miserable misión con sólo la grabación de audio para guiarlo."
+        },
+        {
+            "titulo": "Tik Tok",
+            "metadatos": [
+                "Thriller",
+                "1hr 47 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6141f424bce9e900135a5aeb/details?lang=en",
+            "descripcion": "Guo Zhida y su hermano gemelo planean la explosión de una bomba cerca del gimnasio para quitarle dinero al grupo de juego. El psicólogo y policía coreano Yang coopera para prevenir esta conspiración."
+        },
+        {
+            "titulo": "Proyecto de ley de cobre",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d4a55812e0013ede5d3/details?lang=en",
+            "descripcion": "Dos ladrones intentan robar 80 millones de dólares de dinero oculto de drogas de Texas de un miembro muerto de la mafia de vaqueros."
+        },
+        {
+            "titulo": "Cadaveres La Reunion De Los Muertos",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6266faf53f03ed0013c88496/details?lang=en",
+            "descripcion": "Cameron, un fugitivo de la ley, se escapa de la cárcel para buscar el cuerpo desaparecido de su tío Rusty, que murió durante una expedición en el desierto."
+        },
+        {
+            "titulo": "El Conserje",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62eac2e89bd9c6001b60261d/details?lang=en",
+            "descripcion": "Phil es un expolicía que empieza a trabajar como encargado de mantenimiento en un edificio de Manhattan. Cuando los inquilinos del mismo empiezan a desaparecer, Phil sospecha que hay un asesino suelto en el lugar."
+        },
+        {
+            "titulo": "Contrarreloj",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/628ce5e1e135940013f32495/details?lang=en",
+            "descripcion": "Rachel y Carla como grandes amigas deciden ir a divertirse a un bar. Ahí conocen a Travis, Rachel pasa la noche con él siendo infiel a su esposo. Al día siguiente, Travis le pide dinero a cambio de su silencio."
+        },
+        {
+            "titulo": "Traición Total",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62d0556b18de5200137a2d6c/details?lang=en",
+            "descripcion": "Cuando una periodista es informada por un agente del FBI de que su marido acaba de ser asesinado, los dos unen sus fuerzas para descubrir una impactante y letal red de engaños."
+        },
+        {
+            "titulo": "La Habitación del Frente",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62bc9e6dd972050014eacf4f/details?lang=en",
+            "descripcion": "Un thriller sobre un enfrentamiento entre un joven, su prometida y su mejor amigo que acude en su ayuda."
+        },
+        {
+            "titulo": "Killing Jar",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62bb22b273db9e001378fe05/details?lang=en",
+            "descripcion": "Siete personas pasan el rato una noche en un restaurante al borde de la carretera en medio de la nada. Cuando una radio informa del inquietante asesinato de una familia en un condado cercano."
+        },
+        {
+            "titulo": "Broken",
+            "metadatos": [
+                "R",
+                "Drama",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b5f5a804ca300013339f08/details?lang=en",
+            "descripcion": "Hope piensa en su vida, cuando se mudó de Cleveland a Los Ángeles, llena de esperanzas de triunfar como música y poco a poco fue destrozada por una vida y un mal novio que no iba a ninguna parte."
+        },
+        {
+            "titulo": "Una Amistad Obsesiva",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b139b34ee6100132be50c/details?lang=en",
+            "descripcion": "Vanessa escapa de un psiquiátrico después de muchos años de internamiento con deseo de venganza. Al principio sus planes van saliendo bien, hasta que alguien se interpone en su camino."
+        },
+        {
+            "titulo": "Medidas Desesperadas",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/609406955cb63f001a151755/details?lang=en",
+            "descripcion": "Un matrimonio compra la casa de sus sueños pero, no saben que la casa fue habitada anteriormente por un grupo de narcotraficantes... La pesadilla comenzará cuando reclamen su territorio para recuperar algo que escondieron en su interior."
+        },
+        {
+            "titulo": "A Sister's Obsession",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13c334ee6100132bec41/details?lang=en",
+            "descripcion": "Kendra es una mujer felizmente casada y con una carrera exitosa. Los problemas no tardan en aparecer y pronto se revelará la fuente de los mismos: su rencorosa hermana gemela."
+        },
+        {
+            "titulo": "The Good Doctor",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/604fb1d4c9f722001a452dd7/details?lang=en",
+            "descripcion": "Un doctor joven toma medidas extremas para mantener a una chica que sufre de una enfermedad renal como su paciente."
+        },
+        {
+            "titulo": "Muriendo por un bebé",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b139534ee6100132be3d6/details?lang=en",
+            "descripcion": "Amber y Kule están listos para seguir adelante después del accidente, pero el mundo se les viene abajo cuando la otra conductora que además, perdió el embarazo en el choque, se muda a la propiedad de al lado."
+        },
+        {
+            "titulo": "Final Girl",
+            "metadatos": [
+                "Thriller",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/61b36fcc4b12ef001492a5f7/details?lang=en",
+            "descripcion": "Veronica está entrenando para ser una asesina y un grupo de chicos que la llevan al bosque con intenciones de asesinarla a ella, se encuentran con esta sorpresa. Serán ellos su presa."
+        },
+        {
+            "titulo": "Giallo",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b333a273db9e001376e9f4/details?lang=en",
+            "descripcion": "Mientras vive en Italia, Celine (ELSA PATAKY), una modelo estadounidense, es secuestrada por su taxista cuando se dirigía a encontrarse con su hermana,"
+        },
+        {
+            "titulo": "Traders",
+            "metadatos": [
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e4a95ae972532ebefd676e6/details?lang=en",
+            "descripcion": "Un emprendedor que está pasando por una mala racha inventa Trading, un juego clandestino en el que individuos que están igual de desesperados liquidan sus activos, se encuentran a ciegas y luchan hasta la muerte."
+        },
+        {
+            "titulo": "El Primogénito",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6091872fc14fe70013ba8bfe/details?lang=en",
+            "descripcion": "Cuando una mujer se queda embarazada por primera vez, tanto ella como su marido reciben la noticia con gran entusiasmo. Pero, tras el nacimiento, la obsesión de la madre por el cuidado de su hijo es tal que la lleva a confundir realidad y fantasía."
+        },
+        {
+            "titulo": "The Wrong Daughter",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13cb34ee6100132bee46/details?lang=en",
+            "descripcion": "Cuando Danica, la niña que Kate dio en adopción 17 años atrás, aparece en Facebook, Kate la invita a vivir con ella y su esposo. Pero, descubren que tiene un secreto."
+        },
+        {
+            "titulo": "Besos que matan",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 55 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7979e3406e0013955ffd/details?lang=en",
+            "descripcion": "Ocho mujeres secuestradas. Todas en peligro de que sus vidas se corten cruelmente si el detective de la policía Alex Cross y la testigo clave Kate McTiernan no pueden localizar al esquivo \"coleccionista\" que se hace llama \"Casanova\""
+        },
+        {
+            "titulo": "Dead awake",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/602436428d35a80013ee1d1f/details?lang=en",
+            "descripcion": "Un empleado de una funeraria busca desentrañar un misterio de hace 10 años."
+        },
+        {
+            "titulo": "Saldo de cuentas",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/604f8741e7c979001a8a84f2/details?lang=en",
+            "descripcion": "Un policía que trabaja como asesino a sueldo acepta matar a la madre de un narcotraficante desesperado a cambio de la hermana virgen del joven y de una parte del seguro de vida que el narcotraficante cobrará cuando muera su madre."
+        },
+        {
+            "titulo": "11 de Septiembre: El Rescate",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb2bda48b78ef001aa2e977/details?lang=en",
+            "descripcion": "La mañana del 11 de septiembre de 2001, un mensajero le canta \"Feliz cumpleaños\" a su hija, un multimillonario discute con su esposa en una audiencia, un hombre de mantenimiento comienza su día y una joven rusa decide romper con su affair mayor de edad"
+        },
+        {
+            "titulo": "La Presencia",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 26 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60c8abe236537d0013320c48/details?lang=en",
+            "descripcion": "En esta oscura historia de fantasmas, una mujer viaja a una cabaña aislada en donde será acosada por una extraña presencia. Para dilucidar que ocurrió allí, deberá atreverse a entablar comunicación con ella."
+        },
+        {
+            "titulo": "El fundamentalista reticente",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "2hr 10 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb7bb9d5eb0df001b1456f6/details?lang=en",
+            "descripcion": "Changez, un hombre paquistaní, le cuenta a un periodista estadounidense sobre sus experiencias en EUA. Diez años atrás, el estaba recién llegado de Princeton, pero cuando las Torres Gemelas son atacadas, una brecha cultural comienza a abrirse lentamente."
+        },
+        {
+            "titulo": "Mommy's Little Secrets",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13b534ee6100132be97e/details?lang=en",
+            "descripcion": "Eric, de diez años, ya está harto de que lo intimiden. Y ahora que ha encontrado la \"familia perfecta\", ¡Lo van a adoptar les guste o no!"
+        },
+        {
+            "titulo": "El Experimento",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7b87bfe4b56900138b8256/details?lang=en",
+            "descripcion": "Remake de la película alemana de 2001 Das experiment dirigida por Oliver Hirschbiegel. Cuenta la historia de 20 hombres que llegan a una cárcel ficticia buscando la forma de ganar dinero rápido. Deberán participar en un experimento sociológico."
+        },
+        {
+            "titulo": "House Under Seige",
+            "metadatos": [
+                "Thriller",
+                "1hr 17 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/61826d22efc3c8001ae5fa39/details?lang=en",
+            "descripcion": "Durante un robo a una joyería, uno de los tres ladrones resulta herido y es ayudado por un médico local. Cuando los diamantes desaparecen, los ladrones toman de rehén al médico y a su familia."
+        },
+        {
+            "titulo": "La verdad sobre Emanuel",
+            "metadatos": [
+                "Thriller",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f807ae372d139001a192bf6/details?lang=en",
+            "descripcion": "Emanuel es una joven de diecisiete años que vive con su padre y madrastra. Al animarse a festejar su cumpleaños por primera vez, le trae el recuerdo de que su madre murió al darla a luz. Todo cambiará cuando una joven madre se muda a la casa de al lado."
+        },
+        {
+            "titulo": "A Murderer Upstairs",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13b834ee6100132bea15/details?lang=en",
+            "descripcion": "Aunque Cindy ha estado tratando de proteger a su hijastra Rachel desde que presenció el asesinato de su mejor amigo, varios indicios provocan que empiece a sospechar que en realidad es una asesina."
+        },
+        {
+            "titulo": "Tren Nocturno a Lisboa",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 52 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60b53c2ce36d58001a68e632/details?lang=en",
+            "descripcion": "El profesor suizo Raimund Gregorius abandona su vida para embarcarse en una emocionante aventura."
+        },
+        {
+            "titulo": "The Wrong Babysitter",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13c834ee6100132bed77/details?lang=en",
+            "descripcion": "La madre soltera Susan tiene que salir de la ciudad pero un reciente secuestro la tiene preocupada por dejar a su hija adolescente Christy sola. Se siente aliviada cuando la vecina se ofrece a cuidar a la niña, pero entonces Christy desaparece."
+        },
+        {
+            "titulo": "El Ocaso de La Luz",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6141f407bce9e900135a58af/details?lang=en",
+            "descripcion": "Un agente de la CIA descubre que está comenzando a perder la vista, y es muy probable que se quede completamente ciego. Mientras lucha con esta ceguera, tiene que enfrentarse a la última misión de su último trabajo."
+        },
+        {
+            "titulo": "Accidente",
+            "metadatos": [
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6141f445bce9e900135a5d9c/details?lang=en",
+            "descripcion": "Jess y Caroline son dos jovenes en camino a un concierto en Carolina del Norte y conocen a Fred y Thomas pero, el viaje se vuelve una pesadilla cuando sufren un accidente en un lugar aislado y acaban quedando atrapados en los herrajes del coche."
+        },
+        {
+            "titulo": "Tierra de alfareros",
+            "metadatos": [
+                "Thriller",
+                "1hr 40 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/628cfe8cc3caad00131f9339/details?lang=en",
+            "descripcion": "Un ex merodeador confederado intenta hacer un comienzo limpio en una granja de tierra de Texas con su esposa y su hija pequeña. Rápidamente aprende que a veces el pasado simplemente no permanecerá enterrado."
+        },
+        {
+            "titulo": "Odio sin Frontera",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6290eab8c6bf11001a0ec910/details?lang=en",
+            "descripcion": "Sergei Karpov está paralizado. Su familia ha sido asesinada. Su hijo mayor, George, su segundo hijo Peter y su única hija Natalia han sido ejecutados. Él está convencido de que fue la familia Railly, en su intento de adueñarse del territorio de Karpov."
+        },
+        {
+            "titulo": "Diario de un Asesino",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/628f8006bf4210001a3e266b/details?lang=en",
+            "descripcion": "Un excelente escritor de novelas de misterio y violentos asesinatos seriales es el principal sospechoso de un asesinato en un pueblo al que acaba de llegar. La brillantez con la que escribe puede que no sea tan sólo ficción."
+        },
+        {
+            "titulo": "El Inquilino Perfecto",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/628ce6f68c880f0013dea5b7/details?lang=en",
+            "descripcion": "Un día de invierno, David encuentra a su padre muerto en su casa. Jessica su esposa acusa al padre de David de violador y suicida. David no está conforme con ello y es recluido a un instituto psiquiátrico."
+        },
+        {
+            "titulo": "El rescate",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb7bb925eb0df001b145682/details?lang=en",
+            "descripcion": "Sin seguridad laboral y un futuro sombrío, Paul Dynan (Kevin Zegers) planea el crimen perfecto para ayudar a su familia en dificultades a extorsionar a una fortuna de tres hombres ricos (incluido Ray Liotta, Victor Garber)."
+        },
+        {
+            "titulo": "Despertada",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 51 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/627c0d8555812e0013edebe3/details?lang=en",
+            "descripcion": "Una mujer recibe ayuda de ultratumba en su desesperada búsqueda de la verdad sobre el asesinato de su joven madre 14 años antes."
+        },
+        {
+            "titulo": "Hacker",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6266e4a2baa39e0013e4a4ed/details?lang=en",
+            "descripcion": "Cuando su familia tiene problemas económicos, Alex Danyliuk busca una solución a la situación. Con la ayuda de Sye, un bandido que conoce los caminos del crimen en Internet, Alex descubre el mundo de los negocios del mercado negro en la red."
+        },
+        {
+            "titulo": "Killer in Suburbia",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13ae34ee6100132be818/details?lang=en",
+            "descripcion": "Una madre soltera se apresura para rescatar a su hija adolscente epileptica de un grupo que se dedica a la trata de personas."
+        },
+        {
+            "titulo": "Confess",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60253d913c8c83001a0f9953/details?lang=en",
+            "descripcion": "Un joven ex-hacker, descontento con su vida, ataca a los considerados responsables, subiendo imágenes de video desfavorables de ellos en Internet."
+        },
+        {
+            "titulo": "Swelter",
+            "metadatos": [
+                "Thriller",
+                "1hr 40 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5ea300780c8fd6001ad8609f/details?lang=en",
+            "descripcion": "Diez años después de su atraco en el casino, cuatro convictos escaparon de su antiguo compañero a una ciudad desierta, donde ahora es un hombre de la ley sin memoria de su pasado criminal."
+        },
+        {
+            "titulo": "Los Aventureros",
+            "metadatos": [
+                "Thriller",
+                "1hr 47 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60e4704383c54e001398abaa/details?lang=en",
+            "descripcion": "\"The Adventurers\" es una película llena de acción que sigue a una búsqueda del tesoro ubicada en Francia y la República Checa. El ladrón Dan Zhang (Andy Lau) roba dos joyas invaluables durante el Festival de Cine de Cannes."
+        },
+        {
+            "titulo": "El secreto de su hijo",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13a134ee6100132be676/details?lang=en",
+            "descripcion": "Matt desaparece mientras jugaba con su hermano en un lago y deja a su familia sin consuelo. Diez años más tarde y tras la muerte de su padre, aparece un niño que asegura ser el joven desaparecido."
+        },
+        {
+            "titulo": "Secuestrados",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb7bb675eb0df001b1453ee/details?lang=en",
+            "descripcion": "Lorraine Burton, una madre soltera con baja autoestima, y su hijo Chad son secuestrados por Roy, un ladrón de bancos, que no tiene intención de dejarlos libres. A pesar de su carácter vulnerable, Lorraine intentará ganarse su confianza y hacerle frente."
+        },
+        {
+            "titulo": "Fugitivo",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 44 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f43de2717dc86001a796585/details?lang=en",
+            "descripcion": "Un ex agente de la CIA y su hija se ven obligados a huir cuando sus empleadores los marcan a ambos para despedirlos como parte de una conspiración internacional de gran alcance."
+        },
+        {
+            "titulo": "American Psycho 2",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60b63d61a9f076001a5559a1/details?lang=en",
+            "descripcion": "La única sobreviviente, Patrick Bateman, se convierte en una profesora asistente mientras desarrolla sus propias obsesiones homicidas y destruye a todos los que se interpongan en su camino después de 15 años del terrorífico evento."
+        },
+        {
+            "titulo": "Killer In Law",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615c8c5a25154f001ad07e09/details?lang=en",
+            "descripcion": "Melissa, una mujer felizmente casada con una hija de ocho años, invita a su suegra a vivir con ellos. Sin embargo, se da cuenta de que la abuela está desquiciada y quiere secuestrar a su nieta para reemplazar a su propio hijo muerto."
+        },
+        {
+            "titulo": "The Unsaid",
+            "metadatos": [
+                "NC-17",
+                "Thriller",
+                "1hr 45 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13c634ee6100132bed10/details?lang=en",
+            "descripcion": "Un adolescente aparentemente sin problemas lleva consigo secretos perturbadores que obligan a un psiquiatra a desenterrar el espantoso pasado del paciente."
+        },
+        {
+            "titulo": "The Alphabet Killer",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/602436438d35a80013ee1d59/details?lang=en",
+            "descripcion": "Basado en la historia real de los dobles asesinatos iniciales en Rochester, NY."
+        },
+        {
+            "titulo": "Las Notas de Chapin",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60c8abe836537d0013320cb8/details?lang=en",
+            "descripcion": "Un grupo de adolescentes en su noche de fiesta de pijamas , liderado por Chapin, se aventura en un juego competitivo de desafíos difíciles, hasta llegar a un punto en el que las chicas desentrañarán la verdad de un supuesto suicidio de un ex alumno."
+        },
+        {
+            "titulo": "Armas, Chicas y Apuestas",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/604b91bab2b870001a05ec69/details?lang=en",
+            "descripcion": "Después de que una invaluable máscara de guerra apache es robada de un casino indígena, una serie de criminales llegan a un pueblo con la esperanza de recuperar el tesoro robado."
+        },
+        {
+            "titulo": "Caza al testigo",
+            "metadatos": [
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fda4093aabcdd001aaf43f6/details?lang=en",
+            "descripcion": "Un ex policía sucio que se esconde en la protección de testigos es perseguido por el socio que traicionó, un pistolero a sueldo desquiciado y una ex amante abandonada que quieren su fortuna, y su propia forma de venganza, para ellos."
+        },
+        {
+            "titulo": "El último cazador",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fb7bb975eb0df001b1456bc/details?lang=en",
+            "descripcion": "Martin, un mercenario, es enviado desde Europa por una misteriosa compañía de biotecnología al desierto de Tasmania en busca del último tigre de Tasmania."
+        },
+        {
+            "titulo": "Premonition",
+            "metadatos": [
+                "R",
+                "Sci-Fi & Fantasy",
+                "1hr 26 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f3fd89aad190c001a52e752/details?lang=en",
+            "descripcion": "Después de un accidente automovilístico, el detective Jack Barnes comienza a tener premoniciones de desastres horribles. A medida que las premoniciones comienzan a hacerse realidad, Jack lucha para descifrar su significado y tratar de evitarlas."
+        },
+        {
+            "titulo": "Steel City",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 35 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6024362f8d35a80013ee1a06/details?lang=en",
+            "descripcion": "Durante un invierno del Medio Oeste, dos hermanos de clase trabajadora deben lidiar con su padre recientemente encarcelado."
+        },
+        {
+            "titulo": "El secreto de su novio",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b139e34ee6100132be5a7/details?lang=en",
+            "descripcion": "Después de creer que había encontrado al hombre de sus sueños, Melissa Davis descubre que su hombre ensueño tiene un secreto oscuro."
+        },
+        {
+            "titulo": "Replicas",
+            "metadatos": [
+                "Thriller",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60bf7242d782df0013ef26bf/details?lang=en",
+            "descripcion": "Mark y Mary Hughes se dirigen a su casa de vacaciones en el bosque junto a su hijo Brendon de 9 años mientras aún perdura el dolor por la pérdida de su hija."
+        },
+        {
+            "titulo": "El vengador",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 49 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e6a42c4e2fa10001becd3dc/details?lang=en",
+            "descripcion": "El vengador Clyde Shelton lo ha perdido todo. Hace diez años que su mujer y su hija fueron asesinadas, y el culpable está en libertad. Lo que Clyde desconoce es, que entre el fiscal y el abogado del asesino, existe un pacto."
+        },
+        {
+            "titulo": "Más viejo que América",
+            "metadatos": [
+                "Thriller",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60bf9426bf15af001377c80a/details?lang=en",
+            "descripcion": "Unas visiones revelan el plan de un sacerdote para callar a una mujer antes que ella cuente las atrocidades cometidas en una escuela."
+        },
+        {
+            "titulo": "VICE",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6023fb1e17f370001a3f05c2/details?lang=en",
+            "descripcion": "40 kilos de heroína desaparecen después de una transacción encubierta fallida y los policías de la unidad criminal involucrada son asesinados uno a la vez."
+        },
+        {
+            "titulo": "Doble Identidad: Jaque al MI5",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 44 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e6a42b0e2fa10001becd1ed/details?lang=en",
+            "descripcion": "Will Holloway es un antiguo agente del MI5 que tiene que investigar la misteriosa desaparición de un terrorista durante una operación rutinaria."
+        },
+        {
+            "titulo": "Amante secuestrada",
+            "metadatos": [
+                "Thriller",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/61826ce0436116001a0bfd24/details?lang=en",
+            "descripcion": "Inspirada en una historia real. Un ama de casa desesperada secuestra en broma a la amante adolescente de su esposo, pero sus planes pronto se descontrolan."
+        },
+        {
+            "titulo": "Detectives de la mente",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7b87a3e4b56900138b8064/details?lang=en",
+            "descripcion": "Este thriller psicológico de ciencia ficción cuenta la historia de un hombre con la gran habilidad de entrar en la mente de las personas."
+        },
+        {
+            "titulo": "La gran explosión",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1h 41 m",
+                "Aucune déficience"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f807ae472d139001a192c2a/details?lang=en",
+            "descripcion": "Una noche, en Los Ángeles, el investigador privado Ned Cruz (Antonio Banderas) recibe la visita de un boxeador ruso, recientemente puesto en libertad condicional, que le propone un misterioso trabajo: encontrar a Lexie, su novia desaparecida, y diamantes."
+        },
+        {
+            "titulo": "Actividades criminales",
+            "metadatos": [
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e6ff36c4698db001ab3de19/details?lang=en",
+            "descripcion": "Cuatro amigos se reúnen en el funeral de un ex compañero. Allí uno de ellos comenta sobre una inversión que los podría convertir en millonarios. Por desgracia la inversión sale mal y uno de los amigos confiesa que pidió prestado plata a un mafioso."
+        },
+        {
+            "titulo": "The Wrong Husband",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 24 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13ce34ee6100132beedd/details?lang=en",
+            "descripcion": "Melanie y su esposo Derrick son un matrimonio perfecto. Jóvenes y atractivos, y con una brillante carrera profesional."
+        },
+        {
+            "titulo": "Lila y Eve",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e6ff36e4698db001ab3de55/details?lang=en",
+            "descripcion": "Lila y Eve dos madres destrozadas por el asesinato de sus hijos, unen fuerzas para vengarse de los traficantes de droga responsables de la muerte del hijo de Lila.Pero a medida que la violencia crece Lila empieza a descubrir la verdadera identidad de Eve."
+        },
+        {
+            "titulo": "Caída Libre",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 32 min",
+                "No hay deficiencias"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60c8abd636537d0013320b2a/details?lang=en",
+            "descripcion": "Liam, un hombre al que la cárcel le arrebató todo lo que tenía, intenta reconstruir su vida, enamorándose de quien no debe y siguiendo la extraña forma de vida de una familia violenta."
+        },
+        {
+            "titulo": "La mujer del quinto",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5f7b8707e4b56900138b7762/details?lang=en",
+            "descripcion": "Tras un escándalo, un novelista norteamericano, se ve obligado a refugiarse en Francia. Un día, conoce a la enigmática Margit con quien comienza un apasionado romance el cual desencadena una serie de acontecimientos inexplicables."
+        },
+        {
+            "titulo": "Un Hombre Común",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60918727c14fe70013ba8b5c/details?lang=en",
+            "descripcion": "Un misterioso hombre ha plantado 5 bombas que están programadas para explotar a menos que cuatro importantes terroristas sean inmediatamente liberados de prisión y desencadena una ideológica y letal confrontación entre la verdad y el deber."
+        },
+        {
+            "titulo": "The Wrong Patient",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13d734ee6100132bf0a6/details?lang=en",
+            "descripcion": "La Dra. Jen Richards, una exitosa cirujana plástica, se enreda en la trama de una paciente narcisista cuyo camino hacia la perfección amenaza con destruirla a ella y a su familia."
+        },
+        {
+            "titulo": "The Wrong Nanny",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 26 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13d434ee6100132bf00f/details?lang=en",
+            "descripcion": "Una mujer contrata a una abuela para que la ayude con sus hijos pequeños, solo para descubrir que la joven es la hija que dio en adopción al nacer."
+        },
+        {
+            "titulo": "Dinero por su silencio",
+            "metadatos": [
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60feffb929d298001a370ccf/details?lang=en",
+            "descripcion": "Los planes de un maestro de arte se desmoronan cuando secuestra a la hija de un jugador de pelota para pagar una deuda a un despiadado jefe de la mafia."
+        },
+        {
+            "titulo": "The Wrong Mother",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13d134ee6100132bef40/details?lang=en",
+            "descripcion": "Una enfermera entra a trabajar en la casa de la mujer a quien donó sus óvulos, pero ahora quiere recuperar al hijo que su paciente concibió."
+        },
+        {
+            "titulo": "El arte del amor",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fda40d8aabcdd001aaf4b45/details?lang=en",
+            "descripcion": "Dean e Isabella son una pareja de Nueva York. Isabella proporciona pasión e inspiración para que Dean pinte sus lienzos grandes y coloridos."
+        },
+        {
+            "titulo": "Enigma",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 58 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5ea3163c1ea4a6001a5d0471/details?lang=en",
+            "descripcion": "Segunda Guerra Mundial. Inglaterra, 1943. Los descifradores de códigos de Betchley Park, sede de los servicios secretos británicos, se enfrentan a su peor pesadilla."
+        },
+        {
+            "titulo": "The Face of an Angel",
+            "metadatos": [
+                "Thriller",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5ea2f2971ea4a6001a5d029e/details?lang=en",
+            "descripcion": "Tanto un periodista como un documentalista persiguen la historia de un asesinato y su principal sospechoso."
+        },
+        {
+            "titulo": "Confesión Bajo Juramento",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 42 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60c8abcc36537d0013320a46/details?lang=en",
+            "descripcion": "En un tiempo y lugar indeterminado, un idealista soldado llamado Joe entabla una prohibida amistad con un prisionero político de nombre Thorne."
+        },
+        {
+            "titulo": "Peligro en redes sociales",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13a334ee6100132be6c7/details?lang=en",
+            "descripcion": "Cuando la hija adolescente de una mujer se vuelve famosa en Internet, se preocupa por la cantidad de atención que recibe. Sus temores se justifican cuando se da cuenta de que alguien la está acechando."
+        },
+        {
+            "titulo": "Lethal Beauty",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/615b13b134ee6100132be8e7/details?lang=en",
+            "descripcion": "Una exitosa masajista y propietaria de un spa paga el precio de ser una buena samaritana cuando la joven a la que ayuda resulta ser una asesina despiadada."
+        },
+        {
+            "titulo": "El Huésped",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6141f421bce9e900135a5ab1/details?lang=en",
+            "descripcion": "Un soldado llamado David llega al hogar de la familia Peterson afirmando que es amigo de su hijo fallecido, otro soldado que ha muerto en combate. La vida de éstos se altera cuando comienzan a sucederse extrañas muertes accidentales."
+        },
+        {
+            "titulo": "De Mala Fama",
+            "metadatos": [
+                "Drama",
+                "1hr 40 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6141f416bce9e900135a59d1/details?lang=en",
+            "descripcion": "Arielle, una joven de un pequeño pueblo, siempre quiso mas para su vida: fama, popularidad y admiración. Cuando conoce a Dean, les resulta interesante publicar los crímenes que cometen en las redes sociales y así esperar a que se vuelvan virales."
+        },
+        {
+            "titulo": "Terrorist Next Door",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5df7e68169d20c9a7fcd54f5/details?lang=en",
+            "descripcion": "En una escalofriante carrera contra el tiempo, CSIS y el FBI reúnen pistas que conducen desde un extremista abatido a tiros en Francia hasta una célula terrorista durmiente que se mezcla en las tranquilas calles de Montreal."
+        },
+        {
+            "titulo": "Frontera Hostil",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e0feb7905a1e3df20b928af/details?lang=en",
+            "descripcion": "Luego de ser deportada, Claudia debe elegir entre reconciliarse con su padre, de quien está distanciada, o juntarse con un peligroso contrabandista para poder volver a Estados Unidos."
+        },
+        {
+            "titulo": "Blame",
+            "metadatos": [
+                "Thriller",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/60195c1261334a001a0d6b66/details?lang=en",
+            "descripcion": "La relación tabú de un profesor de teatro de secundaria con una estudiante marginada provoca la ira de una compañera de clase celosa. La situación refleja la obra \"Las Brujas de Salem\"."
+        },
+        {
+            "titulo": "Out of the Furnace",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 56 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5ea2ee9bc733d6001a1ae620/details?lang=en",
+            "descripcion": "Russell (Christian Bale), un trabajador del acero, toma un asunto familiar en sus propias manos cuando su hermano, Rodney (Casey Affleck) se involucra con uno de los sindicatos del crimen más rudos del noreste y luego desaparece."
+        },
+        {
+            "titulo": "Sobrevivientes",
+            "metadatos": [
+                "Thriller",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fda68ce0983410013dd6261/details?lang=en",
+            "descripcion": "Después de mucho intentarlo, Alex convence a su esposa Jenn de acampar en un lugar apartado en el desierto canadiense, donde la belleza inimaginable se une a nuestros miedos más primitivos."
+        },
+        {
+            "titulo": "La Beca",
+            "metadatos": [
+                "Thriller",
+                "1hr 10 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5fad92632cdc95001a8e181a/details?lang=en",
+            "descripcion": "Desesperado por la situación económica y presionado por su amante, Juan Carlos decide servir de mula para llevar droga a los Estados Unidos, pero en el aeropuerto su hijo se enferma y debe llevarlo al hospital de urgencia."
+        },
+        {
+            "titulo": "Donnie Darko",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 53 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5ea30c2dd2f200001a79604c/details?lang=en",
+            "descripcion": "Un adolescente con problemas tiene visiones de un hombre con un gran traje de conejo que lo manipula para cometer una serie de crímenes, después de que escapa por poco de un extraño accidente."
+        },
+        {
+            "titulo": "Juego Mortal",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5e6a42bbe2fa10001becd2ec/details?lang=en",
+            "descripcion": "El agente secreto de la CIA Marcus Jones es enviado a Detroit para enjuiciar a un traficante de armas y se ve envuelto en una trama de traición y violencia."
+        },
+        {
+            "titulo": "Hungry Hearts",
+            "metadatos": [
+                "Thriller",
+                "1hr 52 min",
+                "Não há inadequações"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/5ea300730c8fd6001ad8601b/details?lang=en",
+            "descripcion": "La relación de una pareja que se encuentra por casualidad en la ciudad de Nueva York se pone a prueba cuando se encuentran con circunstancias de vida o muerte."
+        }
+    ]
 }

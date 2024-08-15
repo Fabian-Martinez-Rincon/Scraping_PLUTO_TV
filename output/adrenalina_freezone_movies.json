@@ -1,4 +1,582 @@
 {
-    "count": 0,
-    "movies": []
+    "count": 55,
+    "movies": [
+        {
+            "titulo": "Camino a la libertad",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/6346d286cba1290014d86384/details?lang=en",
+            "descripcion": "Un joven soldado lidera un escape de un gulag en Siberia durante la Segunda Guerra Mundial, en un difícil viaje hacia la libertad en la India."
+        },
+        {
+            "titulo": "Tensión en Siria",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 52 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/64a6c6b46315810013c957b3/details?lang=en",
+            "descripcion": "Dos pilotos iraníes están en una misión especial para rescatar a la gente de una pequeña ciudad siria que está rodeada por terroristas de ISIS. Ellos tendrán que enfrentar muchos desafíos antes de poder cumplir la misión."
+        },
+        {
+            "titulo": "Efecto flashback",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/649c886c12c80e0013cd187e/details?lang=en",
+            "descripcion": "En este thriller psicológico protagonizado por Dylan O’Brien (The Maze Runner), Fred protagoniza extraños flashbacks. Tratando de armar este rompecabezas, se embarca en un viaje al pasado a través de las dimensiones de su memoria."
+        },
+        {
+            "titulo": "Siervos de la guerra",
+            "metadatos": [
+                "Thriller",
+                "1hr 42 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b6933b8100013bb6dc2/details?lang=en",
+            "descripcion": "Dos policías intentan resolver el asesinato de un médico. Poco a poco, descubren una maraña de corrupción, un lucrativo comercio de órganos humanos y ADN."
+        },
+        {
+            "titulo": "Mimic: No sigas las voces",
+            "metadatos": [
+                "PG-13",
+                "Horror",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d414c3200a6700136703aa/details?lang=en",
+            "descripcion": "Una familia que aún se está recuperando de un incidente traumático es víctima de un ser sobrenatural. Inspirado en la leyenda urbana coreana del Jangsan Tiger, una criatura devoradora de hombres que atrae a las personas imitando una voz."
+        },
+        {
+            "titulo": "El imperio de las sombras",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "2hr 20 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/649c887812c80e0013cd1a55/details?lang=en",
+            "descripcion": "Finales de los años 20, durante la ocupación japonesa de Corea. Un grupo de la Resistencia intenta traer explosivos desde China para destruir la base nipona en Seúl, mientras que los japoneses intentan detenerlos."
+        },
+        {
+            "titulo": "Sin rastro alguno",
+            "metadatos": [
+                "Drama",
+                "1hr 29 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b4d33b8100013bb6b91/details?lang=en",
+            "descripcion": "Tras la muerte de su mujer, un policía deja la profesión para cuidar de su hija. Trabaja limpiando escenas de crímenes, pero un día, esa tarea rutinaria termina amenazando la vida estable que ha construido para su familia."
+        },
+        {
+            "titulo": "Delirio",
+            "metadatos": [
+                "R",
+                "Thriller",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/649c887012c80e0013cd191b/details?lang=en",
+            "descripcion": "Con Ben Whishaw. Joseph es un guardia de seguridad del aeropuerto solitario atrapado en una vida sin propósito. En un impulsivo acto de rebelión, da rienda suelta a su ser más salvaje y vivirá un día furioso en las calles de Londres."
+        },
+        {
+            "titulo": "Avalancha: Desastre en la montaña",
+            "metadatos": [
+                "PG-13",
+                "Action & Adventure",
+                "1hr 56 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d414b6200a670013670138/details?lang=en",
+            "descripcion": "Basado en hechos reales. Por primera vez, los escaladores chinos ascienden al Monte Everest desde la cara norte, conocida como el lado más desafiante de la montaña. El peligroso viaje los obliga a tomar decisiones de vida o muerte en todo momento."
+        },
+        {
+            "titulo": "Identidad alterada",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/649c886812c80e0013cd17e1/details?lang=en",
+            "descripcion": "Al ser confundido con un agente de la CIA involucrado en el robo de un experimento militar, a Dean le inyectan una droga que provoca alucinaciones. Ahora su novia y un detective tienen solo seis horas para encontrar el antídoto y salvarle la vida."
+        },
+        {
+            "titulo": "Una visita al pasado",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "2hr 3 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/649c84d8ab3edd001382cff2/details?lang=en",
+            "descripcion": "Con Kurt Russel. Una estrella de fútbol resultó herida y ahora vive como granjero con su familia. En un juego del destino, tiene la oportunidad de viajar en el tiempo y recuperar su gloria, pero cambiar el pasado también altera su presente."
+        },
+        {
+            "titulo": "El enviado de Dios",
+            "metadatos": [
+                "PG",
+                "Drama",
+                "1hr 27 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/649c887f12c80e0013cd1b9b/details?lang=en",
+            "descripcion": "La llegada de un perro a una familia en sufrimiento trae consuelo y compañía a un niño de 9 años y a un matrimonio dañado."
+        },
+        {
+            "titulo": "Los intrusos",
+            "metadatos": [
+                "PG-13",
+                "Horror",
+                "1hr 32 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d414bd200a670013670273/details?lang=en",
+            "descripcion": "Con Maisie Williams. Un grupo de amigos cree haber realizado el robo perfecto: la casa de una pareja de ancianos de viaje. Pero la pareja regresa temprano, y la situación se sale de control y se vuelve cada vez más espeluznante."
+        },
+        {
+            "titulo": "El precio del perdón",
+            "metadatos": [
+                "R",
+                "Drama",
+                "1hr 39 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d414ba200a6700136701d5/details?lang=en",
+            "descripcion": "Un viudo que pierde la custodia de su hija también pierde su empleo. Así que acepta conducir un camión por todo el país, sin hacer preguntas. Pero su vida cambiará cuando él descubre lo que transporta."
+        },
+        {
+            "titulo": "Reflejos siniestros",
+            "metadatos": [
+                "PG-13",
+                "Horror",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d414c0200a670013670311/details?lang=en",
+            "descripcion": "Los estudiantes de un prestigioso internado se convierten en las próximas víctimas de la Reina de Espadas cuando juegan con un espejo que concede deseos, sin saber que el precio de los deseos es su alma."
+        },
+        {
+            "titulo": "Terror en el aire",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "1hr 21 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63d414b0200a670013670004/details?lang=en",
+            "descripcion": "Basado en un accidente de avión real. Cuando el parabrisas de un avión comercial se rompe a 30.000 pies, un piloto y su tripulación harán cualquier cosa para garantizar la seguridad de los pasajeros y aterrizar el avión."
+        },
+        {
+            "titulo": "El Silbón: Orígenes",
+            "metadatos": [
+                "TV-G",
+                "Horror",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6346d27dcba1290014d862d4/details?lang=en",
+            "descripcion": "Ángel fue marcado al nacer por una maldición. La muerte de su madre lo llevaron a convertirse en un espectro justiciero que comete actos sangrientos. La película está inspirada en un espíritu justiciero de leyendas venezolanas, que silba antes de atacar."
+        },
+        {
+            "titulo": "LBJ: La esperanza de una nación",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6346d281cba1290014d8630d/details?lang=en",
+            "descripcion": "Al perder la nominación del Partido Demócrata ante Kennedy, Lyndon Johnson acepta actuar como su vice. Cuando asume el cargo después del asesinato del presidente, LBJ lucha para asegurar su presidencia aprobando la Ley de Derechos Civiles de Kennedy."
+        },
+        {
+            "titulo": "Inmersión",
+            "metadatos": [
+                "TV-G",
+                "Romance",
+                "1hr 51 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6346d28ccba1290014d863d0/details?lang=en",
+            "descripcion": "Un encuentro casual en una playa francesa llevá un joven militar y una científica a vivir un romance intenso y duradero. Separados, y contemplando su posible muerte, el recuerdo mutuo los ayudará a ver belleza en la oscuridad."
+        },
+        {
+            "titulo": "Trumbo: la lista negra",
+            "metadatos": [
+                "Drama",
+                "2hr 4 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b5d33b8100013bb6cce/details?lang=en",
+            "descripcion": "Con la ganadora del Oscar Helen Mirren y los nominado al Oscar Bryan Cranston y Diane Lane. En 1947, Trumbo era el guionista más exitoso de Hollywood, pero pasó a la lista negra de la industria cinematográfica y fue arrestado por sus ideas políticas."
+        },
+        {
+            "titulo": "Marioneta",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "1hr 54 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d7a1bacbfb0013c1b116/details?lang=en",
+            "descripcion": "Un joven actor cubano llega a México buscando una oportunidad. Por azar conoce a una chica en el metro y eso lo lleva directamente a trabajar para la mafia que controla a los limosneros que trabajan actuando en la ciudad."
+        },
+        {
+            "titulo": "Un sueño peligroso",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 48 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/622f9f20cb3fb60013404377/details?lang=en",
+            "descripcion": "Emma es una modelo emergente, luchando por abrirse espacio en el escenario de la moda parisina. Su glamurosa vida como top model se convierte en un verdadero drama, después de trabajar con un fotógrafo y descubrir su propio lado oscuro."
+        },
+        {
+            "titulo": "Un hombre a la altura",
+            "metadatos": [
+                "Comedy",
+                "1hr 38 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d78cbacbfb0013c1b016/details?lang=en",
+            "descripcion": "Una hermosa y recién divorciada abogada recibe una llamada de un hombre que se ha encontrado su móvil. Él es educado y culto, y ella cae bajo su hechizo. Tienen una cita, pero su encuentro no es el esperado. Con el ganador del Oscar Jean Dujardin."
+        },
+        {
+            "titulo": "Guardián y verdugo",
+            "metadatos": [
+                "Drama",
+                "1hr 46 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b6033b8100013bb6d13/details?lang=en",
+            "descripcion": "En un marco histórico sumido en el Apartheid y la segregación racial, la película está basada en el suceso que ocurrió en 1987 en Pretoria, cuando Leon Labuchagne, un guardia de 17 años de edad de una prisión acribilló a disparos a siete personas."
+        },
+        {
+            "titulo": "Cake: Una razón para vivir",
+            "metadatos": [
+                "Drama",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d75fbacbfb0013c1ae6f/details?lang=en",
+            "descripcion": "Claire es una mujer que sufre un dolor crónico, y se obsesiona con el suicidio de una compañera de su grupo de terapia, Nina, a la vez que inicia una relación con el viudo de ésta, Roy."
+        },
+        {
+            "titulo": "Ma ma",
+            "metadatos": [
+                "Drama",
+                "1hr 51 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b5a33b8100013bb6c8d/details?lang=en",
+            "descripcion": "Con la ganadora del Oscar, Penélope Cruz. Tras ser diagnosticada con cáncer de mama, Magda una maestra en paro, reacciona con gran valentía y optimismo, por lo que impactará a toda su familia con momentos especiales para recordar."
+        },
+        {
+            "titulo": "El cazador de recompensas",
+            "metadatos": [
+                "Western",
+                "2hr 19 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d79cbacbfb0013c1b0cd/details?lang=en",
+            "descripcion": "Atormentado por los horrores de la Guerra Civil, un ex soldado se gana la vida como cazarrecompensas. Cuando dos niños acuden a pedirle ayuda, el viejo vaquero deberá enfrentarse a su pasado y capturar a un viejo enemigo."
+        },
+        {
+            "titulo": "Fuerzas malignas",
+            "metadatos": [
+                "PG-13",
+                "Horror",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/625dbabc228ab000133e2dee/details?lang=en",
+            "descripcion": "De vacaciones en Camboya el joven Ben y Amber se conocen y comienzan a vivir un amor apasionado. Las vacaciones perfectas se convierten rápidamente en una pesadilla cuando una entidad malvada comienza a perseguir a la chica."
+        },
+        {
+            "titulo": "Hasta el final",
+            "metadatos": [
+                "TV-14",
+                "Horror",
+                "1hr 25 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b9eb642fbef400138a78aa/details?lang=en",
+            "descripcion": "Un padre decide llevar a su hija de campamento para mejorar su relación cuando son sorprendidos por el apocalipsis zombi. Ahora hará cualquier cosa para escapar de la horda de muertos y salvar a su familia."
+        },
+        {
+            "titulo": "En el nombre del padre",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b9eb692fbef400138a78e3/details?lang=en",
+            "descripcion": "Maggie es una adolescente que vive bajo las reglas de su padre, un fanático religioso. La llegada de tres jóvenes a su remota granja hace temblar sus ciegas creencias, mientras su padre hará todo lo posible por mantener el control sobre la familia."
+        },
+        {
+            "titulo": "La Fe que nos une",
+            "metadatos": [
+                "TV-PG",
+                "Action & Adventure",
+                "1hr 36 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b9eb6f2fbef400138a7920/details?lang=en",
+            "descripcion": "Dos hombres embarcan en un viaje al Memorial de los veteranos de Vietnam guiados por las cartas que sus padres escribieron durante el servicio en la guerra."
+        },
+        {
+            "titulo": "Terror en Siria",
+            "metadatos": [
+                "TV-14",
+                "Thriller",
+                "1hr 52 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62b9f2b7a0bf2600133ef061/details?lang=en",
+            "descripcion": "Dos pilotos iraníes están en una misión especial para rescatar a la gente de una pequeña ciudad siria que está rodeada por terroristas de ISIS. Ellos tendrán que enfrentar muchos desafíos antes de poder cumplir la misión."
+        },
+        {
+            "titulo": "La misión de Santa",
+            "metadatos": [
+                "Children & Family",
+                "1hr 40 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d764bacbfb0013c1aeac/details?lang=en",
+            "descripcion": "En esta entretenida comedia navideña, los duendes de Santa se enferman y le toca a él salir en búsqueda de una medicina para ayudarlos, ¡o todos los niños se quedarán sin sus regalos!"
+        },
+        {
+            "titulo": "Las legiones emergentes",
+            "metadatos": [
+                "Romance",
+                "2hr 19 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b6f33b8100013bb6e3c/details?lang=en",
+            "descripcion": "En esta epopeya a través de las grandes batallas de la Primera Guerra Mundial, tres jóvenes soviéticos ven sus vidas transformadas por el conflicto armado. La historia se basa en relatos de la época y personajes reales."
+        },
+        {
+            "titulo": "El juego de la Bruja",
+            "metadatos": [
+                "R",
+                "Horror",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/625dbabe228ab000133e2e23/details?lang=en",
+            "descripcion": "Un grupo de amigos debe enfrentar sus miedos en un juego. En un círculo formado por cien velas, deben elegir y tomar una de ellas y contar una historia de terror. A medida que se cuentan las historias comienzan a ocurrir sucesos extraños."
+        },
+        {
+            "titulo": "El poder de la cruz",
+            "metadatos": [
+                "Drama",
+                "1hr 59 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d76cbacbfb0013c1aee9/details?lang=en",
+            "descripcion": "Cuando la fe de un pastor es sacudida, él recuerda que la verdadera fe siempre requiere acción. Su respuesta enciende una llama que transforma todo el que la toca, de una manera que sólo Dios podría orquestar."
+        },
+        {
+            "titulo": "Señor Chocolate",
+            "metadatos": [
+                "Documentary",
+                "1hr 59 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b5733b8100013bb6c4c/details?lang=en",
+            "descripcion": "Con Omar Sy. Un hombre nacido en Cuba a finales del siglo XIX llega a Francia a trabajar en el circo. Es el primer payaso negro que conquistó al París de la Belle Époque con su entusiasmo y originalidad."
+        },
+        {
+            "titulo": "José y María",
+            "metadatos": [
+                "Drama",
+                "1hr 23 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d772bacbfb0013c1af2a/details?lang=en",
+            "descripcion": "José y María es una historia llena de amor y esperanza, de misericordia versus revancha. Retrato de los años antes de que Jesús se convirtiera en el Hombre que finalmente cambiara el curso de la humanidad para siempre."
+        },
+        {
+            "titulo": "Sin Vivir",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "1hr 33 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/622f9f24cb3fb600134043b8/details?lang=en",
+            "descripcion": "Luego del intento de suicidio de Moi, su primo Hugo debe cuidarlo y decide ir con él a casa de Jairo, un hombre callado y enfermizo que acepta recibirlos durante unos días. Convivir no es fácil, sea con otros o con sus propios pensamientos."
+        },
+        {
+            "titulo": "El navío",
+            "metadatos": [
+                "Drama",
+                "1hr 26 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b7433b8100013bb6eb7/details?lang=en",
+            "descripcion": "Leo es el único sobreviviente del tsunami que hace diez años arrasó su escuela primaria. Ahora se propone construir, en tan solo unos días, un Navío con los restos de las aulas, lo que despertará el entusiasmo de todo el pueblo."
+        },
+        {
+            "titulo": "Nezha: Corriendo por la vida",
+            "metadatos": [
+                "Drama",
+                "1hr 44 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d777bacbfb0013c1af63/details?lang=en",
+            "descripcion": "El campeón del simulador de carreras Du Jieke desafía a los campeones de la Fórmula 1 al enamorarse de la piloto profesional Lu Lili. Una historia moderna sobre las carreras que captura la presión que viven los jóvenes pilotos."
+        },
+        {
+            "titulo": "Final del viaje",
+            "metadatos": [
+                "War",
+                "1hr 48 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b5333b8100013bb6c0b/details?lang=en",
+            "descripcion": "Primera Guerra Mundial. Dos amigos de la infancia se encuentran en un escondite del ejército británico, donde se preparan para un gran avance alemán. Tras tres años de iniciada la guerra, esperan ansiosos el momento de regresar a casa."
+        },
+        {
+            "titulo": "El arte de amar",
+            "metadatos": [
+                "Comedy",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d784bacbfb0013c1afa0/details?lang=en",
+            "descripcion": "Este romance moderno y divertido nos hará pensar en el valor que le damos a la vida, al amor y al arte. Liam es un artista frustrado que escenifica su propia muerte para valorizar su obra. El plan es un éxito, ¿pero hasta dónde llevará la farsa?"
+        },
+        {
+            "titulo": "El secuestro del bus 300",
+            "metadatos": [
+                "Thriller",
+                "1hr 15 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b6633b8100013bb6d91/details?lang=en",
+            "descripcion": "La historia real del secuestro de 41 pasajeros de autobús en Israel en la década de los ochenta. Entre el terror y verdaderos actos de heroísmo, los involucrados vieron sus vidas transformadas para siempre. Del director de la aclamada serie Fauda."
+        },
+        {
+            "titulo": "La leyenda del gigante de la montaña",
+            "metadatos": [
+                "Sci-Fi & Fantasy",
+                "1hr 44 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b6333b8100013bb6d54/details?lang=en",
+            "descripcion": "En esta aventura de la mitología nórdica, Espen, el hijo de un humilde granjero, se embarca en una peligrosa aventura con sus hermanos para salvar a la princesa de la región de un malvado monstruo conocido como \"el gigante de la montaña\"."
+        },
+        {
+            "titulo": "Resuelve el caso",
+            "metadatos": [
+                "Children & Family",
+                "1hr 34 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d75abacbfb0013c1ae32/details?lang=en",
+            "descripcion": "Con Susan Sarandon. Después de quedarse sola en casa, una intrépida niña de 10 años es testigo del secuestro de una mujer. Ella, junto con una veterana detective de Nueva York resolverán el secuestro de una joven."
+        },
+        {
+            "titulo": "Palestina: una tierra en conflicto",
+            "metadatos": [
+                "Drama",
+                "1hr 16 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d7a5bacbfb0013c1b157/details?lang=en",
+            "descripcion": "Chaim, un soldado israelí herido y sin memoria, es confundido con un joven palestino desaparecido hace años. Con amor, lo reciben y lo integran en su mundo. Así, de primera mano, descubre lo absurdo de la guerra entre Israel y Palestina."
+        },
+        {
+            "titulo": "Otra vez Navidad",
+            "metadatos": [
+                "Children & Family",
+                "1hr 18 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/625d6b213f03ed0013c60fc1/details?lang=en",
+            "descripcion": "Un chico travieso se despierta cada mañana del día de Navidad con la ilusión de tener un regalo, pero nunca lo recibe. La única manera de romper esta maldición es darse cuenta de que es un egoísta y corregir su actitud."
+        },
+        {
+            "titulo": "Más allá del horizonte",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 46 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b5033b8100013bb6bca/details?lang=en",
+            "descripcion": "Con Frank Grillo. Un detective tenaz embarca en una búsqueda incansable para liberar a su hijo de un nave alienígena."
+        },
+        {
+            "titulo": "Los hambrientos",
+            "metadatos": [
+                "Action & Adventure",
+                "1hr 43 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d7a9bacbfb0013c1b190/details?lang=en",
+            "descripcion": "En un remoto pueblo de Canadá, un virus afecta a la mayoría de sus habitantes transformándolos en unos zombis hambrientos de carne humana."
+        },
+        {
+            "titulo": "Unidas por la sangre",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "1hr 28 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d7b0bacbfb0013c1b1cd/details?lang=en",
+            "descripcion": "May, una instructora de yoga, conoce a su media hermana, Shiva, años después de que se separaran debido a un desafortunado incidente. Más tarde, May se ve obligada a proteger a Shiva de su violento novio."
+        },
+        {
+            "titulo": "Los 23 - Prisioneros en Irak",
+            "metadatos": [
+                "War",
+                "1hr 41 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62138b6c33b8100013bb6dff/details?lang=en",
+            "descripcion": "La historia real de un grupo de adolescentes voluntarios del ejército iraní que fueron secuestrados por tropas iraquíes en 1982. Saddam Hussein trató de usarlos como propaganda para la guerra, pero los 23 jóvenes resistieron valientemente."
+        },
+        {
+            "titulo": "Mi perro es un robot",
+            "metadatos": [
+                "Children & Family",
+                "1hr 30 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d788bacbfb0013c1afdd/details?lang=en",
+            "descripcion": "Cuando el mejor amigo peludo de Tyler muere trágicamente, su padre, que es inventor, crea un nuevo perro para ocupar su lugar. Con poderes mecánicos y habilidades robóticas, el nuevo miembro de la familia los mantendrá a todos alerta."
+        },
+        {
+            "titulo": "Perdido sin rastro",
+            "metadatos": [
+                "TV-14",
+                "War",
+                "1hr 48 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6346d284cba1290014d8634a/details?lang=en",
+            "descripcion": "Con Brian Cranston y Jennifer Garner. Howard tiene una familia amorosa y un gran trabajo, pero por dentro está al borde de una crisis. Buscando su yo interior, se esconde en el ático de su garaje dejando a su familia preguntándose qué le sucedió."
+        },
+        {
+            "titulo": "The King's avatar: por la gloria",
+            "metadatos": [
+                "Anime",
+                "1hr 37 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6256d796bacbfb0013c1b090/details?lang=en",
+            "descripcion": "En este spin-off anterior a la franquicia The King's Avatar, un grupo de jóvenes es patrocinado por el dueño de un bar de internet para formar un equipo de deportes electrónicos para participar en las competencias nacionales."
+        }
+    ]
 }
