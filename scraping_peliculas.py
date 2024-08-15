@@ -80,6 +80,21 @@ def save_to_json(data, filename, folder='output'):
     with open(filepath, "w", encoding="utf-8") as outfile:
         json.dump(data, outfile, ensure_ascii=False, indent=4)
 
+def combine_json_files(output_folder, combined_filename):
+    combined_data = {}
+    for filename in os.listdir(output_folder):
+        if filename.endswith(".json"):
+            filepath = os.path.join(output_folder, filename)
+            with open(filepath, "r", encoding="utf-8") as file:
+                data = json.load(file)
+                category_name = os.path.splitext(filename)[0]
+                combined_data[category_name] = data
+    
+    # Guardar el JSON combinado en un solo archivo
+    combined_filepath = os.path.join(output_folder, combined_filename)
+    with open(combined_filepath, "w", encoding="utf-8") as outfile:
+        json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
+
 def main():
     with open('categories.json', 'r', encoding='utf-8') as json_file:
         links_json = json.load(json_file)
@@ -93,6 +108,9 @@ def main():
                 print(f"Finalizó la categoría '{categoria}'")
 
     print("Todas las categorías han sido procesadas.")
+    
+    combine_json_files(output_folder='output', combined_filename='combined_movies.json')
+    print("Todos los archivos JSON han sido combinados en 'combined_movies.json'")
 
 if __name__ == "__main__":
     main()

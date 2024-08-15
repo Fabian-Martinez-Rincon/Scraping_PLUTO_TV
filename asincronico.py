@@ -5,16 +5,12 @@ from bs4 import BeautifulSoup
 import os
 
 async def fetch_html(session, url):
-    try:
-        async with session.get(url) as response:
-            if response.status == 200:
-                return await response.text()
-            else:
-                print(f"Error al acceder a {url}: Estado {response.status}")
-                return None
-    except aiohttp.ClientError as e:
-        print(f"Error en la solicitud de {url}: {str(e)}")
-        return None
+    async with session.get(url) as response:
+        if response.status == 200:
+            return await response.text()
+        else:
+            print(f"Error al realizar la solicitud para {url}: {response.status}")
+            return None
 
 async def extract_description(session, link):
     html_content = await fetch_html(session, link)
@@ -22,12 +18,10 @@ async def extract_description(session, link):
         return None, None
     soup = BeautifulSoup(html_content, 'html.parser')
     seccion = soup.find('div', class_='inner')
-    if not seccion:
-        return None, None
     descripcion = seccion.find('p')
     descripcion = descripcion.get_text(strip=True) if descripcion else None
     metadatos = seccion.find('ul')
-    metadatos = [li.get_text(strip=True) for li in metadatos.findAll('li') if li.get_text(strip=True) and li.get_text(strip=True) != '•'] if metadatos else None
+    metadatos = [li.get_text(strip=True) for li in metadatos.find_all('li') if li.get_text(strip=True) and li.get_text(strip=True) != '•'] if metadatos else None
     
     return descripcion, metadatos
 
@@ -79,9 +73,7 @@ async def process_single_category(session, item):
         "movies": movies
     }
 
-    if category_data["count"] > 0:  # Solo guarda si hay películas
-        save_to_json(category_data, f"{categoria.replace(' ', '_').lower()}_movies.json")
-    
+    save_to_json(category_data, f"{categoria.replace(' ', '_').lower()}_movies.json")
     return categoria
 
 def save_to_json(data, filename, folder='output'):
@@ -97,15 +89,29 @@ async def main():
 
     async with aiohttp.ClientSession() as session:
         tasks = [process_single_category(session, item) for item in links_json]
-        results = await asyncio.gather(*tasks, return_exceptions=True)
+        results = await asyncio.gather(*tasks)
         
-        for result in results:
-            if isinstance(result, Exception):
-                print(f"Error: {result}")
-            elif result:
-                print(f"Finalizó la categoría '{result}'")
+        for categoria in results:
+            if categoria:
+                print(f"Finalizó la categoría '{categoria}'")
 
-    print("Todas las categorías han sido procesadas.")
+    combine_json_files(output_folder='output', combined_filename='combined_movies.json')
+    print("Todos los archivos JSON han sido combinados en 'combined_movies.json'")
+
+def combine_json_files(output_folder, combined_filename):
+    combined_data = {}
+    for filename in os.listdir(output_folder):
+        if filename.endswith(".json"):
+            filepath = os.path.join(output_folder, filename)
+            with open(filepath, "r", encoding="utf-8") as file:
+                data = json.load(file)
+                category_name = os.path.splitext(filename)[0]
+                combined_data[category_name] = data
+    
+    # Guardar el JSON combinado en un solo archivo
+    combined_filepath = os.path.join(output_folder, combined_filename)
+    with open(combined_filepath, "w", encoding="utf-8") as outfile:
+        json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     asyncio.run(main())
