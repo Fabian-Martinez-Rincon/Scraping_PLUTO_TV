@@ -284,17 +284,6 @@
             "descripcion": "Incluso las estrellas se enfrentan a los mismos problemas que los humanos. Un día, la celosa Próxima derriba a Morning Star del cielo y ésta aterriza en un pueblo. Morning Star sólo tiene unos días para volver al cielo, de lo contrario se extinguirá."
         },
         {
-            "titulo": "If You Believe",
-            "metadatos": [
-                "TV-PG",
-                "Children & Family",
-                "1hr 31 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/6569ef581311360013849171/details?lang=en",
-            "descripcion": "De niña, Suzie era franca, optimista y le gustaba hacer travesuras. Pero Suzie se convirtió en Susan, y su personalidad encantadora se desvaneció con los años. Ahora pasados los 40 años, se convirtió en una mujer de carrera algo amarga y cínica."
-        },
-        {
             "titulo": "Navidad para Belle",
             "metadatos": [
                 "PG",
@@ -315,6 +304,17 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/63c01978e83c9500139cf091/details?lang=en",
             "descripcion": "El vuelo de la cantante de ópera Jessica a su concierto en Viena se retrasa y ella se queda varada en Yorkshire. El único lugar para quedarse es un bed and breakfast en un pueblo encantador dirigido por un apuesto viudo llamado Andrew."
+        },
+        {
+            "titulo": "If You Believe",
+            "metadatos": [
+                "TV-PG",
+                "Children & Family",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6569ef581311360013849171/details?lang=en",
+            "descripcion": "De niña, Suzie era franca, optimista y le gustaba hacer travesuras. Pero Suzie se convirtió en Susan, y su personalidad encantadora se desvaneció con los años. Ahora pasados los 40 años, se convirtió en una mujer de carrera algo amarga y cínica."
         },
         {
             "titulo": "Shelby",
@@ -490,7 +490,7 @@
             "metadatos": [
                 "Romance",
                 "1hr 26 min",
-                "No hay deficiencias"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/6176c130a6e392001bc4730c/details?lang=en",
             "descripcion": "Cuando el plan de Ashley de reconectar con un ex novio en Navidad fracasa, su mejor amigo Liam y ella deciden fingir un romance. Mientras que sus sentimientos comienzan a volverse reales, Ashley tendrá que decidir lo que su corazón en verdad quiere."

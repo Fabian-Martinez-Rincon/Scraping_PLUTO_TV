@@ -4,6 +4,8 @@ import json
 from bs4 import BeautifulSoup
 import os
 
+CURRENT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
+
 headers = {
     "User-Agent": "python-requests/2.32.3"
 }
@@ -76,7 +78,8 @@ async def process_single_category(session, item):
         "movies": movies
     }
 
-    save_to_json(category_data, f"{categoria.replace(' ', '_').lower()}_movies.json")
+    folder_path = os.path.join(CURRENT_DIRECTORY, 'Peliculas')
+    save_to_json(category_data, f"{categoria.replace(' ', '_').lower()}_movies.json", folder=folder_path)
     return categoria
 
 def save_to_json(data, filename, folder='output'):
@@ -101,7 +104,9 @@ def combine_json_files(output_folder, combined_filename):
         json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
 
 async def main():
-    with open('categories.json', 'r', encoding='utf-8') as json_file:
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_directory, 'categories.json')
+    with open(file_path, 'r', encoding='utf-8') as json_file:
         links_json = json.load(json_file)
 
     async with aiohttp.ClientSession(headers=headers) as session:
