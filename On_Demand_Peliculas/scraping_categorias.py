@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
 import json
+import os
 
 
 def click_button_by_text(driver, button_text):
@@ -68,7 +69,11 @@ def start():
     current_element = {'Categoria': current_button, 'Link': driver.current_url}
     buttons.insert(0, current_element)  
     
-    with open('categories.json', 'w', encoding='utf-8') as file:
+    # Obtener el directorio actual
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_directory, 'categories.json')
+    
+    with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(buttons, file, ensure_ascii=False, indent=4)
     time.sleep(3)
     return driver, buttons

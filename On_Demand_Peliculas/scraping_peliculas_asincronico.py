@@ -96,7 +96,6 @@ def combine_json_files(output_folder, combined_filename):
                 category_name = os.path.splitext(filename)[0]
                 combined_data[category_name] = data
     
-    # Guardar el JSON combinado en un solo archivo
     combined_filepath = os.path.join(output_folder, combined_filename)
     with open(combined_filepath, "w", encoding="utf-8") as outfile:
         json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
