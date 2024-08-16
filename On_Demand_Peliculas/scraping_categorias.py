@@ -79,8 +79,16 @@ def start():
     return driver, buttons
 
 def main():
+    start_time = time.perf_counter()
     driver, data = start()    
     print('Todo termino con exito')
+    end_time = time.perf_counter()
+    execution_time_seconds = end_time - start_time
+
+    # Convierte el tiempo de ejecución a minutos
+    execution_time_minutes = execution_time_seconds / 60
+
+    print(f"Tiempo de ejecución: {execution_time_minutes:.6f} minutos")
     driver.quit()
     
 if __name__ == "__main__":

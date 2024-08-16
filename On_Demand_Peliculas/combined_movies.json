@@ -70,8 +70,8 @@
                 "titulo": "Sin rastro alguno",
                 "metadatos": [
                     "Drama",
-                    "1hr 29 min",
-                    "There are no inadequacies"
+                    "1t 29 min",
+                    "Der er ingen uoverensstemmelser"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62138b4d33b8100013bb6b91/details?lang=en",
                 "descripcion": "Tras la muerte de su mujer, un policía deja la profesión para cuidar de su hija. Trabaja limpiando escenas de crímenes, pero un día, esa tarea rutinaria termina amenazando la vida estable que ha construido para su familia."
@@ -255,7 +255,7 @@
                 "metadatos": [
                     "Drama",
                     "1hr 46 min",
-                    "There are no inadequacies"
+                    "Não há inadequações"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62138b6033b8100013bb6d13/details?lang=en",
                 "descripcion": "En un marco histórico sumido en el Apartheid y la segregación racial, la película está basada en el suceso que ocurrió en 1987 en Pretoria, cuando Leon Labuchagne, un guardia de 17 años de edad de una prisión acribilló a disparos a siete personas."
@@ -359,8 +359,8 @@
                 "titulo": "Las legiones emergentes",
                 "metadatos": [
                     "Romance",
-                    "2h 19 m",
-                    "Aucune déficience"
+                    "2hr 19 min",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62138b6f33b8100013bb6e3c/details?lang=en",
                 "descripcion": "En esta epopeya a través de las grandes batallas de la Primera Guerra Mundial, tres jóvenes soviéticos ven sus vidas transformadas por el conflicto armado. La historia se basa en relatos de la época y personajes reales."
@@ -462,7 +462,7 @@
                 "metadatos": [
                     "Thriller",
                     "1hr 15 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62138b6633b8100013bb6d91/details?lang=en",
                 "descripcion": "La historia real del secuestro de 41 pasajeros de autobús en Israel en la década de los ochenta. Entre el terror y verdaderos actos de heroísmo, los involucrados vieron sus vidas transformadas para siempre. Del director de la aclamada serie Fauda."
@@ -492,7 +492,7 @@
                 "metadatos": [
                     "Drama",
                     "1hr 16 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/6256d7a5bacbfb0013c1b157/details?lang=en",
                 "descripcion": "Chaim, un soldado israelí herido y sin memoria, es confundido con un joven palestino desaparecido hace años. Con amor, lo reciben y lo integran en su mundo. Así, de primera mano, descubre lo absurdo de la guerra entre Israel y Palestina."
@@ -522,7 +522,7 @@
                 "metadatos": [
                     "Action & Adventure",
                     "1hr 43 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/6256d7a9bacbfb0013c1b190/details?lang=en",
                 "descripcion": "En un remoto pueblo de Canadá, un virus afecta a la mayoría de sus habitantes transformándolos en unos zombis hambrientos de carne humana."
@@ -873,7 +873,7 @@
                     "R",
                     "Action & Adventure",
                     "1hr 28 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62cc230f997d5700138b4e82/details?lang=en",
                 "descripcion": "Después de un brote viral mortal, el soldado militar privado Max Gatling lidera a un puñado de sobrevivientes y una banda heterogénea de robots contra un ejército de infectados."
@@ -1099,17 +1099,6 @@
                 "descripcion": "El duelo entre Kenshin Himura y el maligno Shishio Makoto sigue sin resolverse. El conflicto entre los dos guerreros decidirá el destino de Japón, y pondrá un bombástico punto final a la memorable adaptación cinematográfica del manga de Nobuhiro Watsuki."
             },
             {
-                "titulo": "The Four 3",
-                "metadatos": [
-                    "R",
-                    "Action & Adventure",
-                    "1hr 46 min",
-                    "There are no inadequacies"
-                ],
-                "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details?lang=en",
-                "descripcion": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida."
-            },
-            {
                 "titulo": "Samurai X 2",
                 "metadatos": [
                     "TV-MA",
@@ -1196,6 +1185,17 @@
                 "descripcion": "Con una bomba de tiempo en su cuello, un joven corre contra el reloj y todo tipo de enemigos al ir de un extremo a otro de la ciudad para intentar salvarse a sí mismo y a su novia."
             },
             {
+                "titulo": "The Four 3",
+                "metadatos": [
+                    "R",
+                    "Action & Adventure",
+                    "1hr 46 min",
+                    "There are no inadequacies"
+                ],
+                "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details?lang=en",
+                "descripcion": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida."
+            },
+            {
                 "titulo": "El forastero",
                 "metadatos": [
                     "R",
@@ -1267,7 +1267,7 @@
                     "R",
                     "Action & Adventure",
                     "1hr 58 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/63179b83d1f9a40013b92eaa/details?lang=en",
                 "descripcion": "Un departamento del gobierno conocido como Six Panels nombra a su mejor oficial para infiltrarse en una fuerza especial llamada Divine Constabulary, para asegurarse de detener la circulación de monedas falsas en la capital."
@@ -1560,7 +1560,7 @@
                     "R",
                     "Action & Adventure",
                     "1hr 56 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e67ea205cee68001a91abf2/details?lang=en",
                 "descripcion": "Un hombre retirado del SEAL, deberá volver a la acción y reunir a su antiguo equipo para enfrentarse a un grupo de soldados renegados que provienen de los grupos militares más temidos del mundo, antes que provoquen un desastre político."
@@ -1680,8 +1680,8 @@
                 "metadatos": [
                     "R",
                     "Action & Adventure",
-                    "1hr 37 min",
-                    "There are no inadequacies"
+                    "1o 37 min",
+                    "Non ci sono inadeguatezze"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5dfd2e74be7e53bc0c65d42d/details?lang=en",
                 "descripcion": "Blitz es un asesino en serie de Londres que está matando agentes de la policía. El inspector jefe Roberts y el sargento Brant, un duro, inflexible y políticamente incorrecto detective de la policía, se encargarán de intentar detener al psicópata."
@@ -1853,8 +1853,8 @@
                 "metadatos": [
                     "R",
                     "Western",
-                    "1t 28 min",
-                    "Der er ingen uoverensstemmelser"
+                    "1hr 28 min",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5f7b86dbe4b56900138b746c/details?lang=en",
                 "descripcion": "El legendario pistolero Hickok trabaja ahora como agente de la ley en un pequeño pueblo de Kansas. Su reputación y su habilidad se verán en entredicho cuando aparezca por la localidad una temible banda de forajidos."
@@ -2418,7 +2418,7 @@
                     "PG",
                     "Children & Family",
                     "1hr 16 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5f64d91ef73f00001a991a0e/details?lang=en",
                 "descripcion": "Harold es un chico-genio e inventor cuyos experimentos nunca funcionan. Cuando él pone las manos en la poción secreta creada por su abuelo para transformar su personalidad, él cree que todos sus problemas están resueltos pero en realidad nada lo está."
@@ -2832,7 +2832,7 @@
                     "PG-13",
                     "Comedy",
                     "1hr 32 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/666c5afb626cfe00136f145b/details?lang=en",
                 "descripcion": "Zazie es invitada a la boda de su mejor amiga. Ella decide hacer todo lo posible para evitar lo que a sus ojos es el error de su vida. Pero cuando se encuentra atrapada en la línea de tiempo de la boda, las cosas se complican."
@@ -3183,7 +3183,7 @@
                     "R",
                     "Comedy",
                     "1hr 44 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62b336542fbef40013892986/details?lang=en",
                 "descripcion": "Una semana en la vida de Ben, un poderoso productor de Hollywood, mientras hace malabarismos con las negociaciones con un director de estudio para que su última película pueda estrenarse en Cannes en dos semanas."
@@ -3380,7 +3380,7 @@
                     "R",
                     "Comedy",
                     "1hr 29 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62b333ab73db9e001376eb25/details?lang=en",
                 "descripcion": "Se produce una fantástica batalla de sexos cuando las relaciones entre el personal y los clientes en un peculiar café de Londres"
@@ -3555,7 +3555,7 @@
                     "R",
                     "Drama",
                     "1hr 31 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62bc9073d972050014eacae2/details?lang=en",
                 "descripcion": "Una chica rebelde se engancha a una agencia de escorts, de la que su padrastro es cliente."
@@ -3587,8 +3587,8 @@
                 "metadatos": [
                     "R",
                     "Comedy",
-                    "1hr 27 min",
-                    "There are no inadequacies"
+                    "1o 27 min",
+                    "Non ci sono inadeguatezze"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5fd3cd0ed87c3b001aef127f/details?lang=en",
                 "descripcion": "Dos socios ven el colapso de su empresa antes de que se ponga en línea. Frank un soltero arruinado, regresa a regañadientes a la casa de sus padres, mientras que Josh, un genio de las computadoras considera lo impensable: conseguir un trabajo de verdad."
@@ -3676,7 +3676,7 @@
                     "TV-MA",
                     "Action & Adventure",
                     "1hr 33 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/60a52a0806e9520016477b11/details?lang=en",
                 "descripcion": "Los dueños de una empresa de seguridad comienzan robando casas para impulsar el negocio."
@@ -4418,7 +4418,7 @@
                     "PG",
                     "Documentary",
                     "50 min",
-                    "Non ci sono inadeguatezze"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5f3d77430b2a6c001ab956bc/details?lang=en",
                 "descripcion": "El charro, es uno de los iconos nacionales de México. Su figura, es central en la charrería, deporte nacional mexicano. “El Charro” retoma a esta legendaria figura, y el presente de los charros en un país en continuo proceso de modernización."
@@ -5448,7 +5448,7 @@
                     "TV-MA",
                     "Drama",
                     "1hr 40 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/63cebbaf5957f20013ec717a/details?lang=en",
                 "descripcion": "Simon hereda una casa de campo a la que viaja con su familia. Su sueño es renovarla, pero cae en un romance prohibido. Ahora tendrá que estar dispuesta a llegar hasta las últimas consecuencias para recuperar su tranquilidad y a su familia."
@@ -5732,8 +5732,8 @@
                 "metadatos": [
                     "R",
                     "Drama",
-                    "1h 48 m",
-                    "Aucune déficience"
+                    "1hr 48 min",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62f5240f6df8ae001a028380/details?lang=en",
                 "descripcion": "Basada en el relato de Mariane Pearl sobre la terrible e inolvidable historia de su esposo, el periodista del Wall Street Journal Danny Pearl, su vida y su muerte."
@@ -5810,7 +5810,7 @@
                     "R",
                     "Drama",
                     "1hr 44 min",
-                    "There are no inadequacies"
+                    "Não há inadequações"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62cc247dbcc6980013296701/details?lang=en",
                 "descripcion": "Biografía del poeta estadounidense Hart Crane que se suicidó a la edad de 32 años, saltando del barco de vapor SS Orizaba."
@@ -5975,7 +5975,7 @@
                     "R",
                     "Drama",
                     "1hr 40 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62bf0bf43071460013d6c7fe/details?lang=en",
                 "descripcion": "Un hombre vuelve a Nueva York tras años en el exilio para salvar a la mujer que ama."
@@ -6085,7 +6085,7 @@
                     "R",
                     "Drama",
                     "1hr 33 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62bc9058d972050014eaca53/details?lang=en",
                 "descripcion": "Mientras está exiliada en Italia, una mujer africana se encuentra tratando de regresar a casa y liberar a su esposo encarcelado. Pero el único hombre que puede ayudarla a hacerlo está enamorado de ella."
@@ -6381,7 +6381,7 @@
                     "R",
                     "Drama",
                     "1hr 29 min",
-                    "Não há inadequações"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/6024363d8d35a80013ee1c79/details?lang=en",
                 "descripcion": "La historia de dos hermanos que llevan vidas totalmente diferentes. Jake Hunt disfruta al máximo de la vida en Tailandia, mientras que su tímido hermano Oliver se enfrenta a sus propias depresiones en Estados Unidos."
@@ -6501,8 +6501,8 @@
                 "metadatos": [
                     "TV-PG",
                     "Comedy",
-                    "1hr 32 min",
-                    "There are no inadequacies"
+                    "1o 32 min",
+                    "Non ci sono inadeguatezze"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/609ae6ec50ae750013ec4ad3/details?lang=en",
                 "descripcion": "El matrimonio de Hanna y Jan Berger es perfecto, excepto por el hecho de que ella desea desesperadamente un hijo, mientras que Jan está seguro que los niños arruinarían sus vidas por completo."
@@ -6608,8 +6608,8 @@
                 "metadatos": [
                     "R",
                     "Drama",
-                    "1hr 35 min",
-                    "There are no inadequacies"
+                    "1t 35 min",
+                    "Det finnes ingen mangler"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/6141f427bce9e900135a5b29/details?lang=en",
                 "descripcion": "Ray era un niño prodigio de la pintura. Al igual que su padre, se convirtió en ladrón, y ahora para conservar su libertad debe hacer un último trabajo para las personas que lo ayudaron a salir."
@@ -6683,8 +6683,8 @@
                 "metadatos": [
                     "TV-MA",
                     "Drama",
-                    "2t",
-                    "Der er ingen uoverensstemmelser"
+                    "2hr",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/609ae6df50ae750013ec49e7/details?lang=en",
                 "descripcion": "Ruppertus evitó ser quemado en la hoguera y ahora se hace llamar Janus Suppertur, Gran Inquisidor del Papa. Y todavía está obsesionado con Marie."
@@ -6715,8 +6715,8 @@
                 "metadatos": [
                     "TV-MA",
                     "Drama",
-                    "1hr 20 min",
-                    "There are no inadequacies"
+                    "1t 20 min",
+                    "Der er ingen uoverensstemmelser"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/604b91c6b2b870001a05ed49/details?lang=en",
                 "descripcion": "Jillian deja la universidad y migra a Los Ángeles en esta comedia sobre la adultez tardía y los peligros románticos de beber demasiado."
@@ -6954,8 +6954,8 @@
                 "metadatos": [
                     "R",
                     "Drama",
-                    "1hr 34 min",
-                    "There are no inadequacies"
+                    "1t 34 min",
+                    "Der er ingen uoverensstemmelser"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e0e6035a6cb7ab30058992d/details?lang=en",
                 "descripcion": "Una víctima adulta de abuso sexual infantil se enfrenta a los horrores de su pasado."
@@ -7994,7 +7994,7 @@
                     "TV-PG",
                     "Children & Family",
                     "1hr 30 min",
-                    "There are no inadequacies"
+                    "Não há inadequações"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/609ae6d250ae750013ec48ff/details?lang=en",
                 "descripcion": "Paul, de 10 años, es un niño promedio pero tímido, sujeto a los miedos típicos de la mayoría de los niños de su edad. Su sobreprotectora madre Mona, creyendo que Paul está perturbado, lo envía a un psicoterapeuta."
@@ -8521,7 +8521,7 @@
                 "metadatos": [
                     "Drama",
                     "1hr 37 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/61826d6f54ba66001a69c6d0/details?lang=en",
                 "descripcion": "Kelly renuncia a la gimnasia luego de mudarse a Australia, pero regresa para ayudar a una nueva amiga a competir. La experiencia le devuelve la confianza y el amor por el deporte."
@@ -8693,7 +8693,7 @@
                     "TV-G",
                     "Children & Family",
                     "1hr 26 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/612511c4d24f5e00135e9e22/details?lang=en",
                 "descripcion": "Tras la muerte de su padre, un niño forma un vínculo especial con el perro de un vecino y aprende a ser un hombre ayudando a sus abuelos durante una tormenta invernal."
@@ -9042,7 +9042,7 @@
                 "metadatos": [
                     "Children & Family",
                     "1hr 31 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5fda40dcaabcdd001aaf4bb1/details?lang=en",
                 "descripcion": "Una joven profesora muy motivada invierte emocionalmente en sus alumnos en una ciudad con problemas y está decidida a involucrarlos a través de tácticas de aprendizaje innovadoras, pero pronto se enfrenta a un escrutinio sobre su misterioso pasado."
@@ -9319,7 +9319,7 @@
                     "PG-13",
                     "Drama",
                     "1hr 50 min",
-                    "There are no inadequacies"
+                    "Não há inadequações"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/65d4ea13925569001391fdf9/details?lang=en",
                 "descripcion": "Adrián Morales se dirige al pueblo de Jutiapa, luego de que su padre se lo ordenara. Tenía la tarea de recoger las tarjetas de identificación necesarias para portar armas."
@@ -9908,8 +9908,8 @@
                 "metadatos": [
                     "PG-13",
                     "Crime",
-                    "1h 35 m",
-                    "Aucune déficience"
+                    "1hr 35 min",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/628ba8809f694b00137ae454/details?lang=en",
                 "descripcion": "Martin sufre un atentado de muerte y en los momentos de agonía clama por la ayuda de la virgencita a cambio de una importante donación de dinero a la gente pobre. Martin salva la vida per no cumple la manda prometida."
@@ -10008,7 +10008,7 @@
                     "PG-13",
                     "Crime",
                     "1hr 18 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/628fbbf09366e5001aed4b03/details?lang=en",
                 "descripcion": "Un respetable empresario dueño de una mueblería llamado Don Lorenzo molesto con el narcotráfico apoyan monetariamente al comandante y su gente para que acaben con un traficante llamado Ricardo."
@@ -10521,8 +10521,8 @@
                 "metadatos": [
                     "TV-G",
                     "Drama",
-                    "2hr 10 min",
-                    "There are no inadequacies"
+                    "2t 10 min",
+                    "Der er ingen uoverensstemmelser"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/60b14bbfc517ca001b7c4af2/details?lang=en",
                 "descripcion": "Gabriel, profesor de filosofía y lógica en la escuela nocturna, se sumergirá en tratar de comprender el significado de los dibujos proféticos de Benjamin Solari Parravicini."
@@ -10533,7 +10533,7 @@
                     "PG-13",
                     "Horror",
                     "1hr 55 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/6230bf0a4f80a80014e9b159/details?lang=en",
                 "descripcion": "Un programa de televisión de caza fantasmas comienza a tener problemas a medida que los índices de audiencia de televisión comienzan a bajar. El dueño de la televisora obliga al equipo a buscar contenido fresco con realismo a costa de cualquier cosa."
@@ -11144,7 +11144,7 @@
                 "metadatos": [
                     "Thriller",
                     "1hr 35 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e50516db97c5ec5af66b540/details?lang=en",
                 "descripcion": "José planea un viaje de fin de semana con su hijo distante Joel, para que puedan ayudarlo. Cuando llegan al campamento, son acosados por una figura extraña, alguien que podría estar vinculado al oscuro pasado que los separó hace 25 años."
@@ -11380,7 +11380,7 @@
                     "TV-14",
                     "Thriller",
                     "1hr 37 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/60dcc623e64aeb001346cda8/details?lang=en",
                 "descripcion": "Trata sobre la biografía de Roberto Martínez Vásquez, más conocido como “El Tila” o el violador de la Dehesa, un joven de 26 años, que aterrorizó a nuestro país durante los años 2001 y 2002."
@@ -11860,8 +11860,8 @@
                 "titulo": "El Malquerido",
                 "metadatos": [
                     "Musical",
-                    "1hr 33 min",
-                    "There are no inadequacies"
+                    "1h 33 m",
+                    "Aucune déficience"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e5051148be152c5676856d3/details?lang=en",
                 "descripcion": "Felipe Pirela, conocido como el Bolerista de América, revive su historia. Desde que era solo un niño pobre con talento para la música, hasta ser el cantante de Boleros más famoso de la historia."
@@ -12113,7 +12113,7 @@
                 "metadatos": [
                     "Drama",
                     "1hr 20 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5fb29011924702001a460936/details?lang=en",
                 "descripcion": "Cristina, una mujer de 49 años, ha estado toda su vida cuidando a su madre Carmen. Ella se reencuentra con Sandra, una ex compañera que, libre y sin juicios, le mostrará a su amiga otras formas de vivir."
@@ -12288,7 +12288,7 @@
                 "metadatos": [
                     "Horror",
                     "1hr 36 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5fda40b5aabcdd001aaf477a/details?lang=en",
                 "descripcion": "Akane es una maestra que escucha de sus alumnos el rumor de que hay imágenes de alguien suicidándose en Internet. Estas imágenes llevan a quienes también las ven a suicidarse."
@@ -12320,7 +12320,7 @@
                     "TV-14",
                     "War",
                     "1hr 52 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/627c0d6a55812e0013ede987/details?lang=en",
                 "descripcion": "La guerra por la libertad acaba de comenzar. Trikalypse une fuerzas con el líder rebelde y un equipo de luchadores por la libertad para acabar con Dominion y exponer su malvada corporación al mundo."
@@ -12401,7 +12401,7 @@
                 "metadatos": [
                     "TV-14",
                     "Action & Adventure",
-                    "There are no inadequacies"
+                    "Não há inadequações"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/series/5faec47a9d991c001a9dd086/details?lang=en",
                 "descripcion": "El ganador del Globo de Oro Peter Fonda protagoniza esta mini serie de ciencia ficción distópica. Un astrofísico determina que el sol está listo para explotar y que el final de la civilización es una posibilidad real."
@@ -12598,8 +12598,8 @@
                 "metadatos": [
                     "TV-14",
                     "Drama",
-                    "1t 31 min",
-                    "Der er ingen uoverensstemmelser"
+                    "1hr 31 min",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e5d7dbb4033cb001a4cf80d/details?lang=en",
                 "descripcion": "La verdadera historia de Angela Ramos, una joven campesina que llegó a ser la cabeza de una guerrilla que luchó exitosamente contra las fuerzas federales del usurpador Victoriano Huerta. El pueblo la llamó por su fiereza “Juana Gallo”."
@@ -13876,7 +13876,7 @@
                     "TV-PG",
                     "Romance",
                     "1hr 26 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/603e68ec54f963001a68f557/details?lang=en",
                 "descripcion": "Para hacer frente a sus problemas financieros, los Dovers se ven obligados a vender la casa que los padres de Anne le dejaron. Pero como nadie quiere comprarla, deciden arreglarla."
@@ -14311,7 +14311,7 @@
                     "TV-14",
                     "Sci-Fi & Fantasy",
                     "1hr 24 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/627c0d6255812e0013ede85d/details?lang=en",
                 "descripcion": "Después de que un meteorito choca con la Tierra, un ranchero solitario y una joven perdida huyen de mercenarios viciosos."
@@ -14397,7 +14397,7 @@
                     "R",
                     "Sci-Fi & Fantasy",
                     "1hr 30 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62befb1c8fd582001332b55b/details?lang=en",
                 "descripcion": "Un malvado duende que ha sido encarcelado en las raíces de un viejo roble es accidentalmente liberado en el Día de San Patricio. Una vez libre, lleva a cabo su sangrienta venganza sobre las personas que originalmente lo encarcelaron."
@@ -14504,7 +14504,7 @@
                     "R",
                     "Sci-Fi & Fantasy",
                     "1hr 29 min",
-                    "Não há inadequações"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5f3fd8e3ad190c001a52ee75/details?lang=en",
                 "descripcion": "Una enorme bola de fuego del sol golpea la Tierra y desata un demonio de fuego invencible que comienza a poseer a los humanos."
@@ -14759,7 +14759,7 @@
                 "metadatos": [
                     "Comedy",
                     "1hr 28 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/628cfe7656bdac0013fe7404/details?lang=en",
                 "descripcion": "Un hombre de familia desconectado se muda con su esposa y su hija de la gran ciudad a la casa de sus sueños en las afueras de un pequeño pueblo justo a tiempo para el apocalipsis."
@@ -15182,7 +15182,7 @@
                     "R",
                     "Thriller",
                     "1hr 31 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/65c3a90e70ac440013b90005/details?lang=en",
                 "descripcion": "Charlie Rankin, recientemente liberado de prisión, conoce a Florence Jane, quien lo ayuda a buscar venganza por su mentor en la cárcel, William \"El Buda\" Pettigrew."
@@ -15336,7 +15336,7 @@
                     "R",
                     "Thriller",
                     "1hr 47 min",
-                    "Não há inadequações"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e5d7970e3406e0013955ecb/details?lang=en",
                 "descripcion": "Una mujer que ha perdido la memoria se encuentra con un detective privado que la ayuda a rastrear su identidad, pero él pronto descubre que ambos podrían tener una conexión de vidas pasadas que pone en peligro sus vidas."
@@ -15358,7 +15358,7 @@
                     "R",
                     "Action & Adventure",
                     "1hr 39 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62bc9e68d972050014eace57/details?lang=en",
                 "descripcion": "Un grupo de cinco alpinistas que está escalando las montañas de Escocia descubre, casualmente, una niña que ha sido enterrada viva. Tras rescatarla, se dirigen al pueblo más cercano en busca de ayuda, pero los secuestradores los vigilan de cerca"
@@ -16160,7 +16160,7 @@
                     "PG-13",
                     "Thriller",
                     "1hr 31 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/615b13ae34ee6100132be818/details?lang=en",
                 "descripcion": "Una madre soltera se apresura para rescatar a su hija adolscente epileptica de un grupo que se dedica a la trata de personas."
@@ -17148,7 +17148,7 @@
                     "R",
                     "Horror",
                     "1hr 37 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/62d835a15c70310013ce7db3/details?lang=en",
                 "descripcion": "Mientras está en un hospital mental una de las estudiantes de psicología Abby, tiene un encuentro escalofriante con un paciente de alto riesgo, Harmon. Más tarde, Harmon escapa del hospital dejando un rastro de muerte, y en busca de Abby"
@@ -17407,8 +17407,8 @@
                 "metadatos": [
                     "TV-MA",
                     "Horror",
-                    "1t 15 min",
-                    "Der er ingen uoverensstemmelser"
+                    "1hr 15 min",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/627c0a1b55812e0013eddfa7/details?lang=en",
                 "descripcion": "Dos jóvenes vampiros se dan cuenta de que necesitan detener el apocalipsis zombi antes de que su fuente de alimento se agote por completo."
@@ -17954,8 +17954,8 @@
                 "metadatos": [
                     "R",
                     "Horror",
-                    "1t 33 min",
-                    "Der er ingen uoverensstemmelser"
+                    "1hr 33 min",
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5fd3cd10d87c3b001aef12b5/details?lang=en",
                 "descripcion": "Una ciudad metropolitana está presa del miedo cuando los apagones desencadenan a un asesino en serie apodado El asesino de Picasso."
@@ -18072,7 +18072,7 @@
                 "metadatos": [
                     "Horror",
                     "1hr 27 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5fd3cd18d87c3b001aef1363/details?lang=en",
                 "descripcion": "Dieciocho años después de un asesinato en masa, John Bennett escapa del cautiverio y regresa a la casa de su infancia, donde un grupo de estudiantes universitarios de psicología desprevenidos estudian su psique y se quedan en la casa por algunas noches."
@@ -18145,7 +18145,7 @@
                 "metadatos": [
                     "Horror",
                     "1hr 34 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/60ba3ca5e97de800133e2090/details?lang=en",
                 "descripcion": "Después de comprar una muñeca, la vida de Lane empeora cuando los amigos cercanos y la familia comienzan a desaparecer."
@@ -18598,7 +18598,7 @@
                     "R",
                     "Horror",
                     "1hr 33 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e0a2bf3be8fa6764e877025/details?lang=en",
                 "descripcion": "Una esposa infiel se encuentra con el zombi de su amante muerto; los cenobitas demoníacos lo persiguen después de que escapó de su inframundo sadomasoquista."
@@ -18641,7 +18641,7 @@
                     "R",
                     "Horror",
                     "1hr 34 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5f7b8777e4b56900138b7d56/details?lang=en",
                 "descripcion": "Después de una noche de fiesta, Lou se levanta con desagradables síntomas que indican que algo va mal. Su cuerpo cambia poco a poco de forma extraña, aparecen manchas en su piel y tiene visiones que le impiden distinguir la realidad de la ficción."
@@ -19293,7 +19293,7 @@
                     "PG-13",
                     "Comedy",
                     "1hr 46 min",
-                    "There are no inadequacies"
+                    "Não há inadequações"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e7b5ed187df5d001bb8f333/details?lang=en",
                 "descripcion": "Marley (Kate Hudson) es una mujer joven que descubre que se está muriendo de cáncer, pero cuando de forma inesperada se enamora de su médico (Gael García Bernal), la amenaza de caer en el amor es más aterradora que la muerte."
@@ -19641,7 +19641,7 @@
                     "R",
                     "Comedy",
                     "1hr 39 min",
-                    "There are no inadequacies"
+                    "No hay deficiencias"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/6141f41fbce9e900135a5a77/details?lang=en",
                 "descripcion": "Richard es un brillante profesor de Cambridge con una pasión desenfrenada por la poesía romántica y las mujeres hermosas. Sin embargo, la paternidad le cambiará la vida."
@@ -19787,8 +19787,8 @@
                 "metadatos": [
                     "R",
                     "Action & Adventure",
-                    "1hr 56 min",
-                    "There are no inadequacies"
+                    "1t 56 min",
+                    "Der er ingen uoverensstemmelser"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e67ea205cee68001a91abf2/details?lang=en",
                 "descripcion": "Un hombre retirado del SEAL, deberá volver a la acción y reunir a su antiguo equipo para enfrentarse a un grupo de soldados renegados que provienen de los grupos militares más temidos del mundo, antes que provoquen un desastre político."
@@ -20482,7 +20482,7 @@
                     "R",
                     "Comedy",
                     "1hr 31 min",
-                    "No hay deficiencias"
+                    "There are no inadequacies"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5f7357c776c54900134c3633/details?lang=en",
                 "descripcion": "Linda, una profesora de inglés cuya reprimida vida personal convive con un marcado contraste con la pasión que lleva al salón de clases. Su vida cambia cuando el alumno estrella regresa a su pueblo tras fracasar como dramaturgo."
@@ -21040,7 +21040,7 @@
                     "R",
                     "Comedy",
                     "1hr 32 min",
-                    "There are no inadequacies"
+                    "Não há inadequações"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5e9f000b57d2e0001a099a01/details?lang=en",
                 "descripcion": "Neal quería volar a Chicago para pasar el Día de Acción de Gracias con su familia. Pero solo consigue problemas. Problemas causados por Del Griffith, un vendedor gritón que lleva a Neal en un viaje salvaje."
@@ -21208,6 +21208,17 @@
                 "descripcion": "Incluso las estrellas se enfrentan a los mismos problemas que los humanos. Un día, la celosa Próxima derriba a Morning Star del cielo y ésta aterriza en un pueblo. Morning Star sólo tiene unos días para volver al cielo, de lo contrario se extinguirá."
             },
             {
+                "titulo": "If You Believe",
+                "metadatos": [
+                    "TV-PG",
+                    "Children & Family",
+                    "1hr 31 min",
+                    "There are no inadequacies"
+                ],
+                "link": "https://pluto.tv/latam/on-demand/movies/6569ef581311360013849171/details?lang=en",
+                "descripcion": "De niña, Suzie era franca, optimista y le gustaba hacer travesuras. Pero Suzie se convirtió en Susan, y su personalidad encantadora se desvaneció con los años. Ahora pasados los 40 años, se convirtió en una mujer de carrera algo amarga y cínica."
+            },
+            {
                 "titulo": "Navidad para Belle",
                 "metadatos": [
                     "PG",
@@ -21228,17 +21239,6 @@
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/63c01978e83c9500139cf091/details?lang=en",
                 "descripcion": "El vuelo de la cantante de ópera Jessica a su concierto en Viena se retrasa y ella se queda varada en Yorkshire. El único lugar para quedarse es un bed and breakfast en un pueblo encantador dirigido por un apuesto viudo llamado Andrew."
-            },
-            {
-                "titulo": "If You Believe",
-                "metadatos": [
-                    "TV-PG",
-                    "Children & Family",
-                    "1hr 31 min",
-                    "There are no inadequacies"
-                ],
-                "link": "https://pluto.tv/latam/on-demand/movies/6569ef581311360013849171/details?lang=en",
-                "descripcion": "De niña, Suzie era franca, optimista y le gustaba hacer travesuras. Pero Suzie se convirtió en Susan, y su personalidad encantadora se desvaneció con los años. Ahora pasados los 40 años, se convirtió en una mujer de carrera algo amarga y cínica."
             },
             {
                 "titulo": "Shelby",
@@ -21591,8 +21591,8 @@
                 "titulo": "Una estrella en el paraíso",
                 "metadatos": [
                     "Children & Family",
-                    "1hr 22 min",
-                    "There are no inadequacies"
+                    "1Std 22 min",
+                    "Bestehen keine Unzulänglichkeiten"
                 ],
                 "link": "https://pluto.tv/latam/on-demand/movies/5fb81e952aac7a001a5c65f6/details?lang=en",
                 "descripcion": "Nacida bajo una estrella navideña, Noell cree que tiene un don para realizar milagros e influir positivamente en las personas que la rodean."

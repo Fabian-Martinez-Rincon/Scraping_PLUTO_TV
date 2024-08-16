@@ -116,7 +116,7 @@
                 "R",
                 "Comedy",
                 "1hr 32 min",
-                "There are no inadequacies"
+                "Não há inadequações"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5e9f000b57d2e0001a099a01/details?lang=en",
             "descripcion": "Neal quería volar a Chicago para pasar el Día de Acción de Gracias con su familia. Pero solo consigue problemas. Problemas causados por Del Griffith, un vendedor gritón que lleva a Neal en un viaje salvaje."
@@ -284,6 +284,17 @@
             "descripcion": "Incluso las estrellas se enfrentan a los mismos problemas que los humanos. Un día, la celosa Próxima derriba a Morning Star del cielo y ésta aterriza en un pueblo. Morning Star sólo tiene unos días para volver al cielo, de lo contrario se extinguirá."
         },
         {
+            "titulo": "If You Believe",
+            "metadatos": [
+                "TV-PG",
+                "Children & Family",
+                "1hr 31 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/6569ef581311360013849171/details?lang=en",
+            "descripcion": "De niña, Suzie era franca, optimista y le gustaba hacer travesuras. Pero Suzie se convirtió en Susan, y su personalidad encantadora se desvaneció con los años. Ahora pasados los 40 años, se convirtió en una mujer de carrera algo amarga y cínica."
+        },
+        {
             "titulo": "Navidad para Belle",
             "metadatos": [
                 "PG",
@@ -304,17 +315,6 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/63c01978e83c9500139cf091/details?lang=en",
             "descripcion": "El vuelo de la cantante de ópera Jessica a su concierto en Viena se retrasa y ella se queda varada en Yorkshire. El único lugar para quedarse es un bed and breakfast en un pueblo encantador dirigido por un apuesto viudo llamado Andrew."
-        },
-        {
-            "titulo": "If You Believe",
-            "metadatos": [
-                "TV-PG",
-                "Children & Family",
-                "1hr 31 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/6569ef581311360013849171/details?lang=en",
-            "descripcion": "De niña, Suzie era franca, optimista y le gustaba hacer travesuras. Pero Suzie se convirtió en Susan, y su personalidad encantadora se desvaneció con los años. Ahora pasados los 40 años, se convirtió en una mujer de carrera algo amarga y cínica."
         },
         {
             "titulo": "Shelby",
@@ -667,8 +667,8 @@
             "titulo": "Una estrella en el paraíso",
             "metadatos": [
                 "Children & Family",
-                "1hr 22 min",
-                "There are no inadequacies"
+                "1Std 22 min",
+                "Bestehen keine Unzulänglichkeiten"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5fb81e952aac7a001a5c65f6/details?lang=en",
             "descripcion": "Nacida bajo una estrella navideña, Noell cree que tiene un don para realizar milagros e influir positivamente en las personas que la rodean."

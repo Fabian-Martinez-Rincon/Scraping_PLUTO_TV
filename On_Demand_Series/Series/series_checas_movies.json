@@ -74,7 +74,7 @@
             "metadatos": [
                 "PG-13",
                 "Thriller",
-                "No hay deficiencias"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/64651d32a7ef77001a744d1d/details?lang=en",
             "descripcion": "A raíz de una serie de asesinatos violentos, un equipo de investigación élite de homicidios descubre una poderosa organización criminal.",
@@ -84,49 +84,49 @@
                         "Titulo": "Episode 1",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530df649e97001b31fdb7",
                         "Descripción": "A raíz de una serie de asesinatos violentos, un equipo de investigación élite de homicidios descubre una poderosa organización criminal.",
-                        "Metadata": "T1E1 57 min"
+                        "Metadata": "S1E1 57 min"
                     },
                     {
                         "Titulo": "Episode 2",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530dc649e97001b31fc3a",
                         "Descripción": "El equipo investiga al asesino de una estudiante de secundaria que fue encontrada violada y golpeada en un estanque.",
-                        "Metadata": "T1E2 57 min"
+                        "Metadata": "S1E2 57 min"
                     },
                     {
                         "Titulo": "Episode 3",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530e2649e97001b31ff37",
                         "Descripción": "El equipo investiga el brutal asesinato de un administrador local encontrado en un antiguo castillo.",
-                        "Metadata": "T1E3 58 min"
+                        "Metadata": "S1E3 58 min"
                     },
                     {
                         "Titulo": "Episode 4",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530e4649e97001b320024",
                         "Descripción": "La muerte de una anciana local revela disputas familiares y secretos del pasado de la víctima y su asesino",
-                        "Metadata": "T1E4 59 min"
+                        "Metadata": "S1E4 59 min"
                     },
                     {
                         "Titulo": "Episode 5",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530eb649e97001b3201cb",
                         "Descripción": "En el ensayo general de reinado de belleza, una de las participantes se lastima y luego muere. El equipo investiga un entorno lleno de rivalidad y resentimientos.",
-                        "Metadata": "T1E5 1hr"
+                        "Metadata": "S1E5 1hr"
                     },
                     {
                         "Titulo": "Episode 6",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530ee649e97001b32028d",
                         "Descripción": "Un secreto desgarrador vincula la construcción de un campo de golf que destruye un bosque local y la muerte de un trabajador forestal.",
-                        "Metadata": "T1E6 52 min"
+                        "Metadata": "S1E6 52 min"
                     },
                     {
                         "Titulo": "Episode 7",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/64651d33a7ef77001a744d3c",
                         "Descripción": "Durante el rodaje de una película, un productor recibe un disparo en la cabeza. La investigación revela un intrincado mundo de secretos y abusos.",
-                        "Metadata": "T1E7 56 min"
+                        "Metadata": "S1E7 56 min"
                     },
                     {
                         "Titulo": "Episode 8",
                         "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/64651d42a7ef77001a744e3c",
                         "Descripción": "Tras un accidente automovilístico, el cadáver de un hombre es encontrado. Sin embargo, los motivos de su fallecimiento parecen ser diferentes al choque.",
-                        "Metadata": "T1E8 1hr"
+                        "Metadata": "S1E8 1hr"
                     }
                 ]
             }
