@@ -10,7 +10,8 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/666c5af5626cfe00136f121f/details?lang=en",
-            "descripcion": "Cuando Sandy, apodada \"The Naked Eye\" termina muerta, su amigo y único aliado en el mundo, Jake, va en una búsqueda para descubrir quién la mató."
+            "descripcion": "Cuando Sandy, apodada \"The Naked Eye\" termina muerta, su amigo y único aliado en el mundo, Jake, va en una búsqueda para descubrir quién la mató.",
+            "temporadas": []
         },
         {
             "titulo": "Into the Badlands",
@@ -20,7 +21,12 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/65f47080ea323e0013229672/details?lang=en",
-            "descripcion": "Into the Badlands es un drama de artes marciales posapocalíptico en un mundo sin armas y la lucha es un arte."
+            "descripcion": "Into the Badlands es un drama de artes marciales posapocalíptico en un mundo sin armas y la lucha es un arte.",
+            "temporadas": [
+                "Temporada 1",
+                "Temporada 2",
+                "Temporada 3"
+            ]
         },
         {
             "titulo": "Justicia verdadera",
@@ -30,7 +36,11 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/6081cf32732128001a1d0721/details?lang=en",
-            "descripcion": "Elijah Kane es un policía de Seattle que actúa como agente encubierto para buscar y perseguir a los delincuentes más peligrosos. Elijah Kane cuenta con el apoyo de su equipo, una élite de agentes que se encargarán de la lucha contra la delincuencia."
+            "descripcion": "Elijah Kane es un policía de Seattle que actúa como agente encubierto para buscar y perseguir a los delincuentes más peligrosos. Elijah Kane cuenta con el apoyo de su equipo, una élite de agentes que se encargarán de la lucha contra la delincuencia.",
+            "temporadas": [
+                "Temporada 1",
+                "Temporada 2"
+            ]
         },
         {
             "titulo": "CSI: Miami",
@@ -40,7 +50,13 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/63bc1f45a6bb3b001475e802/details?lang=en",
-            "descripcion": "David Caruso interpreta a un policía de homicidios de la científica en este drama repleto de acción sobre crimen y castigo en el paraíso tropical de Florida."
+            "descripcion": "David Caruso interpreta a un policía de homicidios de la científica en este drama repleto de acción sobre crimen y castigo en el paraíso tropical de Florida.",
+            "temporadas": [
+                "Temporada 1",
+                "Temporada 2",
+                "Temporada 3",
+                "Temporada 4"
+            ]
         },
         {
             "titulo": "Alarm for Cobra 11",
@@ -50,7 +66,8 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/654a7418619680001aa33093/details?lang=en",
-            "descripcion": "Dos inspectores de policía y su equipo de una comisaría de Bonn-Koeln, en Alemania, luchan contra una amplia gama de delincuentes que encuentran en las principales carreteras del país."
+            "descripcion": "Dos inspectores de policía y su equipo de una comisaría de Bonn-Koeln, en Alemania, luchan contra una amplia gama de delincuentes que encuentran en las principales carreteras del país.",
+            "temporadas": null
         },
         {
             "titulo": "MacGyver",
@@ -60,7 +77,16 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/643fea281a5081001ad8a1d8/details?lang=en",
-            "descripcion": "MacGyver (Richard Dean Anderson) es un héroe contemporáneo y un modelo a seguir que aplica su conocimiento científico a elementos ordinarios para crear para sí mismo y para otros un medio de escape de la muerte inminente."
+            "descripcion": "MacGyver (Richard Dean Anderson) es un héroe contemporáneo y un modelo a seguir que aplica su conocimiento científico a elementos ordinarios para crear para sí mismo y para otros un medio de escape de la muerte inminente.",
+            "temporadas": [
+                "Temporada 1",
+                "Temporada 2",
+                "Temporada 3",
+                "Temporada 4",
+                "Temporada 5",
+                "Temporada 6",
+                "Temporada 7"
+            ]
         },
         {
             "titulo": "Estación Berlin",
@@ -70,7 +96,10 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e503441fe1a6f001a7aede5/details?lang=en",
-            "descripcion": "Un drama de espías sobre la CIA en el Berlín actual. Daniel Miller es un agente novato en una misión clandestina para descubrir el origen de una filtración que proporcionó información a un soplón, ya famoso, llamado \"Thomas Shaw\"."
+            "descripcion": "Un drama de espías sobre la CIA en el Berlín actual. Daniel Miller es un agente novato en una misión clandestina para descubrir el origen de una filtración que proporcionó información a un soplón, ya famoso, llamado \"Thomas Shaw\".",
+            "temporadas": [
+                "Temporada 1"
+            ]
         },
         {
             "titulo": "El Asalto",
@@ -80,7 +109,10 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/63ce8bdbe8fb16001a923f0d/details?lang=en",
-            "descripcion": "Un robo a un banco entrelaza las vidas del director de la sucursal, un restaurador, una joven policía embarazada, un policía veterano, y una docena de personas. Vivirán varias horas en compañía de cuatro ladrones con perfiles muy diferentes."
+            "descripcion": "Un robo a un banco entrelaza las vidas del director de la sucursal, un restaurador, una joven policía embarazada, un policía veterano, y una docena de personas. Vivirán varias horas en compañía de cuatro ladrones con perfiles muy diferentes.",
+            "temporadas": [
+                "Temporada 1"
+            ]
         },
         {
             "titulo": "Utopia",
@@ -90,7 +122,11 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e0fc8a3d78344b4ec61a608/details?lang=en",
-            "descripcion": "Después de que un grupo de personas, que se encuentran en línea, descubren una extraña novela gráfica que parece tener respuestas misteriosas, se encuentran siendo rastreados por una organización despiadada conocida simplemente como 'The Network'."
+            "descripcion": "Después de que un grupo de personas, que se encuentran en línea, descubren una extraña novela gráfica que parece tener respuestas misteriosas, se encuentran siendo rastreados por una organización despiadada conocida simplemente como 'The Network'.",
+            "temporadas": [
+                "Temporada 1",
+                "Temporada 2"
+            ]
         },
         {
             "titulo": "Flood",
@@ -100,7 +136,10 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5fa45f396492fa001d0273c7/details?lang=en",
-            "descripcion": "Cuando una tormenta embravecida desata una marea colosal en la costa inglesa, el ingeniero marino Robert Morrison y su padre Leonard deben trabajar junto con Sam la ex esposa de Rob para salvar Londres antes de que las aguas abrumen a la ciudad."
+            "descripcion": "Cuando una tormenta embravecida desata una marea colosal en la costa inglesa, el ingeniero marino Robert Morrison y su padre Leonard deben trabajar junto con Sam la ex esposa de Rob para salvar Londres antes de que las aguas abrumen a la ciudad.",
+            "temporadas": [
+                "Season 1"
+            ]
         },
         {
             "titulo": "Black Kamen Rider",
@@ -110,7 +149,10 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/603e8b0cffe774001ad496e4/details?lang=en",
-            "descripcion": "Nacido durante un eclipse solar, Issamu Minami y su hermano adoptivo Nobuhiko Akizuki son secuestrados por la malvada secta Gorgom para ser transformados en Emperadores Seculares Gorgom."
+            "descripcion": "Nacido durante un eclipse solar, Issamu Minami y su hermano adoptivo Nobuhiko Akizuki son secuestrados por la malvada secta Gorgom para ser transformados en Emperadores Seculares Gorgom.",
+            "temporadas": [
+                "Temporada 1"
+            ]
         },
         {
             "titulo": "El Fantástico Jaspion",
@@ -120,7 +162,10 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/603fa6c64a69b8001a38fec5/details?lang=en",
-            "descripcion": "Jaspion es un huérfano creado en el universo por el profeta Edin. Cuando la profecía galáctica anuncia que el demonio Satan Goss tiene la intención de conquistar todos los planetas, recluta al niño para enfrentar la amenaza y proteger la paz."
+            "descripcion": "Jaspion es un huérfano creado en el universo por el profeta Edin. Cuando la profecía galáctica anuncia que el demonio Satan Goss tiene la intención de conquistar todos los planetas, recluta al niño para enfrentar la amenaza y proteger la paz.",
+            "temporadas": [
+                "Temporada 1"
+            ]
         },
         {
             "titulo": "Kamen Rider ZI-O",
@@ -130,7 +175,10 @@
                 "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/603e8ba7ffe774001ad4a876/details?lang=en",
-            "descripcion": "Esta es la historia de un Kamen Rider que aspira a convertirse en rey. Quién luchará para salvar el pasado, el presente y el futuro, conociendo a varios Jinetes de la era Heisei a través del espacio-tiempo."
+            "descripcion": "Esta es la historia de un Kamen Rider que aspira a convertirse en rey. Quién luchará para salvar el pasado, el presente y el futuro, conociendo a varios Jinetes de la era Heisei a través del espacio-tiempo.",
+            "temporadas": [
+                "Temporada 1"
+            ]
         }
     ]
 }

@@ -3,6 +3,7 @@ import asyncio
 import json
 from bs4 import BeautifulSoup
 import os
+import re
 
 CURRENT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
 MOVIES_PATH = os.path.join(CURRENT_DIRECTORY, 'Series')
@@ -17,19 +18,38 @@ async def fetch_html(session, url):
             return await response.text()
         else:
             return None
-
-async def extract_description(session, link):
+        
+async def extract_data(session, link):
     html_content = await fetch_html(session, link)
     if not html_content:
-        return None, None
+        return None, None, None
     soup = BeautifulSoup(html_content, 'html.parser')
     seccion = soup.find('div', class_='inner')
     descripcion = seccion.find('p')
     descripcion = descripcion.get_text(strip=True) if descripcion else None
     metadatos = seccion.find('ul')
     metadatos = [li.get_text(strip=True) for li in metadatos.findAll('li') if li.get_text(strip=True) and li.get_text(strip=True) != '•'] if metadatos else None
-    
     return descripcion, metadatos
+
+async def extract_description(session, link):
+    descripcion, metadatos = await extract_data(session, link)
+    base_link = link.split('/details?lang=en')[0]
+    base_link = f"{base_link}/season/1"
+    
+    html_content = await fetch_html(session, base_link)
+    if not html_content:
+        return descripcion, metadatos, None
+    soup = BeautifulSoup(html_content, 'html.parser')
+    
+    seccion = soup.find('div', class_='inner')
+    
+    pattern = r'(Temporada|Season|season|temporada) \d+'
+
+    # Usar la variable pattern en la lista por comprensión
+    temporadas = [a.get_text(strip=True) for a in seccion.findAll('a') if re.match(pattern, a.get_text(strip=True))] if seccion else []
+    print(temporadas)
+
+    return descripcion, metadatos, temporadas
 
 async def extract_movies(session, soup):
     movies = []
@@ -41,7 +61,7 @@ async def extract_movies(session, soup):
             continue
         
         title = link_tag.get('title', link_tag.get_text(strip=True))
-        print(f"Procesando la pelicula: {title}")
+        print(f"Procesando la serie: {title}")
 
         if title == "Series para Maratonear":
             start_collecting = True
@@ -51,12 +71,14 @@ async def extract_movies(session, soup):
             img_tag = link_tag.find('img')
             if img_tag and 'image' in img_tag['src']:
                 link = f"https://pluto.tv{link_tag.get('href')}/details?lang=en"
-                description, clasificacion = await extract_description(session, link)
+                description, clasificacion, temporadas = await extract_description(session, link)
                 movies.append({
                     'titulo': title,
                     'metadatos': clasificacion,
                     'link': link,
-                    'descripcion': description
+                    'descripcion': description,
+                    'temporadas' :temporadas
+                    
                 })
     
     return movies
