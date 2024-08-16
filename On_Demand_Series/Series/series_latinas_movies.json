@@ -1,0 +1,255 @@
+{
+    "count": 25,
+    "movies": [
+        {
+            "titulo": "A Cada Quien su Santo",
+            "metadatos": [
+                "TV-G",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/66105c7d5483810014dcb3a9/details?lang=en",
+            "descripcion": "A Cada Quien su Santo es un programa ligero, esperanzador, divertido y familiar en el cual se abordarán historias con personajes que deciden encomendarse a su santo preferido en busca de ayuda."
+        },
+        {
+            "titulo": "Lo Que La Gente Cuenta",
+            "metadatos": [
+                "TV-G",
+                "Horror",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/65fd8ee2425c59001495e472/details?lang=en",
+            "descripcion": "La serie de misterio y espanto, relata leyendas populares escalofriantes que aterrorizan hasta los mas valientes. El programa cuenta estas historias en algunos lugares historicos en que se cuenta que sucedieron las leyendas."
+        },
+        {
+            "titulo": "Encrucijada",
+            "metadatos": [
+                "G",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/65ce5ccfa3a8580013c4db1a/details?lang=en",
+            "descripcion": "Encrucijada es una serie de episodios independientes donde cada uno ficcionaliza un tema cotidiano, presentando a un protagonista que se encuentra en una encrucijada y debe tomar una decisión que alterará el curso de su vida."
+        },
+        {
+            "titulo": "Cumbres Borrascosas",
+            "metadatos": [
+                "PG-13",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/65ce5d04a3a8580013c4ec31/details?lang=en",
+            "descripcion": "Basada en la novela de Emily Brontë, Wuthering Heigts, cuenta la historia de un joven rebelde y salvaje que llega a La Borrasca para cambiar la vida de los propietarios, especialmente la de Catherine. Entre ellos nace un amor que va más allá de la muerte."
+        },
+        {
+            "titulo": "Incognita",
+            "metadatos": [
+                "PG-13",
+                "Crime",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/65ce5caca3a8580013c4cd6b/details?lang=en",
+            "descripcion": "Cuenta la historia de Alejandro, un escritor del periódico \"Mundo Latino\" que, a través de su columna \"Incógnita\", escribe sobre los acontecimientos importantes que ocurren en su país, convirtiéndola en la sección más esperada y leída por los lectores."
+        },
+        {
+            "titulo": "La Ronca de Oro",
+            "metadatos": [
+                "TV-PG",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/65085ab0f64f180013e74d31/details?lang=en",
+            "descripcion": "Helena Vargas, queriendo ser libre en una época terriblemente machista, encontró en cantar rancheras una manera de expresar su profundo deseo, venciendo obstáculos de una sociedad prejuiciosa."
+        },
+        {
+            "titulo": "Ruta 35: La Valvula de Escape",
+            "metadatos": [
+                "TV-14",
+                "Telenovela",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/656dfff5b8262d0013225879/details?lang=en",
+            "descripcion": "La trama gira en torno a Dylan Wilkins, un agente federal. Wilkins presenta un caleidoscopio de hombres y mujeres que toman la crucial decisión de colaborar con la ley."
+        },
+        {
+            "titulo": "Linajes Malditos",
+            "metadatos": [
+                "TV-14",
+                "Documentary",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/656dfbc41311360013a7949a/details?lang=en",
+            "descripcion": "Explora la parte oscura de la historia de familias prominentes, que a pesar de su aparente buena fortuna tuvieron que batallar con una especie de maldición de familia. ¿Tragedia o Maldición?"
+        },
+        {
+            "titulo": "La Bruja",
+            "metadatos": [
+                "TV-PG",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5edfffb76e0047001cb8742a/details?lang=en",
+            "descripcion": "Esta es la historia de dos personajes que influyen de manera contundente en el destino político a finales de la década de los setenta: Amanda Mora, una profesora que se inicia en la brujería y Jaime Cruz, el primer gran narcotraficante del país."
+        },
+        {
+            "titulo": "Sin retorno",
+            "metadatos": [
+                "R",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5f8f45777ecf48001a349c6c/details?lang=en",
+            "descripcion": "Sin Retorno, un instante que marca la vida para siempre, un comienzo del cual se desconoce el final. La serie está basada en hechos de crónica, en el titular de un periódico, en historias que han sucedido, en fragmentos de vida."
+        },
+        {
+            "titulo": "Solita Camino",
+            "metadatos": [
+                "TV-14",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5faef62bfd17cc001a0121b8/details?lang=en",
+            "descripcion": "La historia de Manu, una joven de 14 años de clase alta que guarda el doloroso secreto de ser abusada sexualmente por su padrastro durante toda su infancia. Manu se rebela y comienza un proceso que la llevará a salir adelante."
+        },
+        {
+            "titulo": "Ojos Sin Culpa",
+            "metadatos": [
+                "TV-MA",
+                "Thriller",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/62827ed9c51411001348b8e4/details?lang=en",
+            "descripcion": "Edu no despierta sospechas. Se vale de su belleza y simpatía para ocultar su verdadera cara de asesino serial. Los policías Díaz y Vera buscan al asesino, que está más cerca de lo que imaginan."
+        },
+        {
+            "titulo": "The Cariocas (Las Cariocas)",
+            "metadatos": [
+                "TV-14",
+                "Comedy",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/625ec3378f17ad0013f7d53c/details?lang=en",
+            "descripcion": "Son de Río de Janeiro, pero cada uno con su estilo."
+        },
+        {
+            "titulo": "Lo Que Callamos Las Mujeres",
+            "metadatos": [
+                "R",
+                "Drama",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/60d4ad83fad1f80013b37b06/details?lang=en",
+            "descripcion": "Fuerte temática, ya que las mujeres no callan ni los problemas más pequeños. Aunque siempre se muestra la realidad, las imágenes y el lenguaje, se escogen con cuidado para alcanzar una audiencia más grande."
+        },
+        {
+            "titulo": "Laura, una vida extraordinaria",
+            "metadatos": [
+                "TV-G",
+                "Romance",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/60708e94b58b22001a48d1d8/details?lang=en",
+            "descripcion": "Hace 150 años, cuando la mujer era abandonada por la historia, nació Laura, una mujer diferente y especial que haría la diferencia."
+        },
+        {
+            "titulo": "La Cacica",
+            "metadatos": [
+                "TV-PG",
+                "Telenovela",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5f1721764b8f2200131bf1fc/details?lang=en",
+            "descripcion": "Consuelo Araujo es una mujer que llega como huracán a revolucionar los vientos serenos de su pueblo. Ella se encargará de que la música popular entre a lugares impensados y atraviese todas las fronteras y continentes."
+        },
+        {
+            "titulo": "Lucho en Familia",
+            "metadatos": [
+                "TV-G",
+                "Telenovela",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5e45af0d15db0cd28ae4fd23/details?lang=en",
+            "descripcion": "Lucho Corona es un padre de familia ejemplar y astro retirado de la lucha libre profesional. Hace diez años, Lucho lesionó accidentalmente en el ring a Ramiro, su amigo incondicional."
+        },
+        {
+            "titulo": "Escándalos",
+            "metadatos": [
+                "TV-14",
+                "Telenovela",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5e4abd1d9e4307efbe0b8906/details?lang=en",
+            "descripcion": "Serie de unitarios que narra en ficción,famosos escándalos internacionales de diferentes géneros."
+        },
+        {
+            "titulo": "Infieles",
+            "metadatos": [
+                "R",
+                "Reality",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5f8ee06b72d139001a1a5238/details?lang=en",
+            "descripcion": "Las vidas de cinco jóvenes mujeres, amigas íntimas, cuyas vidas profesionales, amistades, relaciones amorosas, pasiones y sentido del humor constituyen una serie que evoluciona alrededor de la confianza y fidelidad con uno mismo."
+        },
+        {
+            "titulo": "Vacaciones en Grecia",
+            "metadatos": [
+                "TV-PG",
+                "Comedy",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/608c2c06e63e660013130855/details?lang=en",
+            "descripcion": "Los Berkinson sólo conocían el éxito y la fortuna. Su vida brillaba como el oro hasta que una trampa los dejó sin un sol en los bolsillos. Sin carros y sin casa, sufren su nueva realidad: son pobres y no tienen ni siquiera donde vivir."
+        },
+        {
+            "titulo": "Dios sabe cómo hace sus cosas",
+            "metadatos": [
+                "G",
+                "Faith & Spirituality",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5f11d7f0b5e9df001321120e/details?lang=en",
+            "descripcion": "Dios Sabe cómo hace sus cosas cuenta una serie de historias unitarias que le suceden a la gente común, en las cuales interviene un acto de fe en quienes acuden a los diferentes santos, para que así, les ayuden a solucionar sus problemas."
+        },
+        {
+            "titulo": "Tómame o Déjame",
+            "metadatos": [
+                "TV-14",
+                "Romance",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5e46e382033f250de1476874/details?lang=en",
+            "descripcion": "Lara es la sexóloga mas reconocida del país, pero su vida amorosa es un desastre. Todo cambia cuando conoce a Adan, un especialista en sexo tántrico que le mostrara que en el sexo no todo es ciencia."
+        },
+        {
+            "titulo": "Prueba de FE",
+            "metadatos": [
+                "TV-PG",
+                "Telenovela",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5e46e3bc033f250de14772ba/details?lang=en",
+            "descripcion": "En cada capítulo de esta serie se narra uno de los 3 milagros que aprueba el Vaticano para la Canonización de un Santo."
+        },
+        {
+            "titulo": "El Diario Secreto De Una Profesional",
+            "metadatos": [
+                "R",
+                "Romance",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/details?lang=en",
+            "descripcion": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour."
+        },
+        {
+            "titulo": "Solamente Milagros",
+            "metadatos": [
+                "TV-14",
+                "Telenovela",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/60589aaef3fd5d001b7f69e2/details?lang=en",
+            "descripcion": "Cuenta historias inspiradas en hechos reales y cotidianos de nuestra sociedad peruana, hechos que nos han afectado y aun nos afectan, todos ellos tocados por un evento extraordinario: UN MILAGRO."
+        }
+    ]
+}

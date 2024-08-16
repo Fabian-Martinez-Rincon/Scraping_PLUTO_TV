@@ -1,0 +1,25 @@
+{
+    "count": 2,
+    "movies": [
+        {
+            "titulo": "Los Misterios de Praga",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/64651a58f2a541001b7d2df6/details?lang=en",
+            "descripcion": "Praga, década de 1920. El inspector Budik investiga una serie de asesinatos más atroces."
+        },
+        {
+            "titulo": "Las Muertes de Medusa",
+            "metadatos": [
+                "PG-13",
+                "Thriller",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/series/64651d32a7ef77001a744d1d/details?lang=en",
+            "descripcion": "A raíz de una serie de asesinatos violentos, un equipo de investigación élite de homicidios descubre una poderosa organización criminal."
+        }
+    ]
+}
