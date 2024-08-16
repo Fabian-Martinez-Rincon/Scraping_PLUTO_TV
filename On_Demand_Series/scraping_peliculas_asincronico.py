@@ -43,9 +43,8 @@ async def extract_description(session, link):
     
     seccion = soup.find('div', class_='inner')
     
+    print(soup.prettify())
     pattern = r'(Temporada|Season|season|temporada) \d+'
-
-    # Usar la variable pattern en la lista por comprensión
     temporadas = [a.get_text(strip=True) for a in seccion.findAll('a') if re.match(pattern, a.get_text(strip=True))] if seccion else []
     print(temporadas)
 
