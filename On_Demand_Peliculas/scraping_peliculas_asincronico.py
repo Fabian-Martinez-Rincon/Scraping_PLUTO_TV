@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import os
 
 CURRENT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
+MOVIES_PATH = os.path.join(CURRENT_DIRECTORY, 'Peliculas')
 
 headers = {
     "User-Agent": "python-requests/2.32.3"
@@ -77,9 +78,8 @@ async def process_single_category(session, item):
         "count": len(movies),
         "movies": movies
     }
-
-    folder_path = os.path.join(CURRENT_DIRECTORY, 'Peliculas')
-    save_to_json(category_data, f"{categoria.replace(' ', '_').lower()}_movies.json", folder=folder_path)
+    
+    save_to_json(category_data, f"{categoria.replace(' ', '_').lower()}_movies.json", folder=MOVIES_PATH)
     return categoria
 
 def save_to_json(data, filename, folder='output'):
@@ -89,17 +89,18 @@ def save_to_json(data, filename, folder='output'):
     with open(filepath, "w", encoding="utf-8") as outfile:
         json.dump(data, outfile, ensure_ascii=False, indent=4)
 
-def combine_json_files(output_folder, combined_filename):
+def combine_json_files(combined_filename):
     combined_data = {}
-    for filename in os.listdir(output_folder):
+
+    for filename in os.listdir(MOVIES_PATH):
         if filename.endswith(".json"):
-            filepath = os.path.join(output_folder, filename)
+            filepath = os.path.join(MOVIES_PATH, filename)
             with open(filepath, "r", encoding="utf-8") as file:
                 data = json.load(file)
                 category_name = os.path.splitext(filename)[0]
                 combined_data[category_name] = data
     
-    combined_filepath = os.path.join(output_folder, combined_filename)
+    combined_filepath = os.path.join(CURRENT_DIRECTORY, combined_filename)
     with open(combined_filepath, "w", encoding="utf-8") as outfile:
         json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
 
@@ -119,7 +120,7 @@ async def main():
 
     print("Todas las categorías han sido procesadas.")
     
-    combine_json_files(output_folder='output', combined_filename='combined_movies.json')
+    combine_json_files(combined_filename='combined_movies.json')
     print("Todos los archivos JSON han sido combinados en 'combined_movies.json'")
 
 if __name__ == "__main__":
