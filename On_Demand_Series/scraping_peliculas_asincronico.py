@@ -33,10 +33,13 @@ async def extract_data(session, link):
 
 def parse_episode(episode):
     """Parses and returns the information of a single episode."""
+    #print(episode.prettify())
     link = episode.find('a').get('href') if episode.find('a') else "No encontrado"
-    title = episode.find('h4').get_text(strip=True) if episode.find('h4') else "No encontrado"
-    description = episode.find('p', class_="episode-description-atc").get_text(strip=True) if episode.find('p', class_="episode-description-atc") else "No encontrada"
-    metadata = episode.find('p', class_="episode-metadata-atc").get_text(strip=True) if episode.find('p', class_="episode-metadata-atc") else "No encontrada"
+    section = episode.find('section')
+    title = section.find('h4').get_text(strip=True) if section.find('h4') else "No encontrado"
+    description = section.find('p', class_="episode-description-atc").get_text(strip=True) if section.find('p', class_="episode-description-atc") else "No encontrada"
+    print(description)
+    metadata = section.find('p', class_="episode-metadata-atc").get_text(strip=True) if section.find('p', class_="episode-metadata-atc") else "No encontrada"
 
     return {
         "Titulo": title,
@@ -48,6 +51,8 @@ def parse_episode(episode):
 async def scrape_series(session, url):
     """Scrapes the series from the given URL and returns a dictionary with episodes organized by season."""
     series_data = {}
+    #print(url)
+    #url = "https://pluto.tv/latam/on-demand/series/65f47080ea323e0013229672/season/1"
 
     html_content = await fetch_html(session, url)
     if html_content:
@@ -77,12 +82,9 @@ async def scrape_series(session, url):
 
     return series_data
 
-async def extract_description(session, link):
+async def extract_description(session, link, link_temporada):
     descripcion, metadatos = await extract_data(session, link)
-    base_link = link.split('/details?lang=en')[0]
-    base_link = f"{base_link}/season/1"
-    
-    temporadas = await scrape_series(session, base_link)
+    temporadas = await scrape_series(session, link_temporada)
     return descripcion, metadatos, temporadas
 
 async def extract_movies(session, soup):
@@ -95,7 +97,7 @@ async def extract_movies(session, soup):
             continue
         
         title = link_tag.get('title', link_tag.get_text(strip=True))
-        print(f"Procesando la serie: {title}")
+        #print(f"Procesando la serie: {title}")
 
         if title == "Series para Maratonear":
             start_collecting = True
@@ -104,8 +106,9 @@ async def extract_movies(session, soup):
         if start_collecting:
             img_tag = link_tag.find('img')
             if img_tag and 'image' in img_tag['src']:
+                base_link = f"https://pluto.tv{link_tag.get('href')}/season/1"
                 link = f"https://pluto.tv{link_tag.get('href')}/details?lang=en"
-                description, clasificacion, temporadas = await extract_description(session, link)
+                description, clasificacion, temporadas = await extract_description(session, link, base_link)
                 movies.append({
                     'titulo': title,
                     'metadatos': clasificacion,
@@ -126,7 +129,7 @@ async def process_single_category(session, item):
         print(f"Error al descargar {categoria}: URL no accesible")
         return None
 
-    print(f"En la categoría '{categoria}'...")
+    #print(f"En la categoría '{categoria}'...")
     soup = BeautifulSoup(html_content, 'html.parser')
     movies = await extract_movies(session, soup)
 
