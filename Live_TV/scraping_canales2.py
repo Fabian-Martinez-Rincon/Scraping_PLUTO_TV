@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import json
 from collections import defaultdict
+import requests
 
 def config():
     driver_path = 'chromedriver.exe'
@@ -20,7 +21,7 @@ def config():
 def scroll_into_view(driver, element):
     driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", element)
 
-def find_element_with_retries(driver, xpath, retries=3):
+def find_element_with_retries(driver, xpath, retries=1):
     attempt = 0
     while attempt < retries:
         try:
@@ -36,21 +37,18 @@ def find_element_with_retries(driver, xpath, retries=3):
             attempt += 1
     return None
 
-def extract_show_details(element):
+def fetch_html(url):
+    """Fetches the HTML content from the given URL using a session."""
     try:
-        title = element.find_element(By.CLASS_NAME, 'name-item').text
-        remaining_time = element.find_element(By.CLASS_NAME, 'remainderTime').text
-        description = element.find_element(By.CLASS_NAME, 'description').text
-        link = element.find_element(By.TAG_NAME, 'a').get_attribute('href')
-        return {
-            'title': title,
-            'remaining_time': remaining_time,
-            'description': description,
-            'link': link
-        }
-    except Exception as e:
-        print(f"Error extrayendo detalles del show: {e}")
+        with requests.Session() as session:
+            response = session.get(url)
+            response.raise_for_status()  # Raise an HTTPError for bad responses
+            return response.text
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching {url}: {e}")
         return None
+
+
 
 def main():
     driver = config()
@@ -81,12 +79,37 @@ def main():
 
         if element_to_click:
             try:
-                show_details = extract_show_details(element_to_click)
-                if show_details and current_tematica:
-                    results[current_tematica].append(show_details)
-            except Exception as e:
-                print(f"Error al procesar el elemento en aria-rowindex='{i}': {e}")
-                continue  # Ignora este elemento y sigue con el siguiente
+                link_element = element_to_click.find_element(By.TAG_NAME, 'a')
+                href_value = link_element.get_attribute('href')
+                
+                #print(f"Valor del atributo href del elemento {i}: {href_value}")
+                #modified_link = href_value.replace("https://pluto.tv/live-tv/", "https://pluto.tv/latam/live-tv/").replace("/details", "/details?lang=en")
+                #html_content = fetch_html(modified_link)
+                #if html_content:
+                #    soup = BeautifulSoup(html_content, 'html.parser')
+                #    seccion = soup.find('div', class_="inner")
+                #    titulo = seccion.find('h2').get_text(strip=True) if seccion.find('h2') else "No encontrado"
+                #    descripcion = seccion.find('p').get_text(strip=True) if seccion.find('p') else "No encontrada"
+                content = element_to_click.find_element(By.CLASS_NAME, 'name-item')
+                print(content)
+                
+                if current_tematica:
+                    results[current_tematica].append({
+                      #  'canal':titulo,
+                        'link': href_value,
+                       # 'descripcion': descripcion
+                        })
+            except Exception:
+                try:
+                    # Si no encuentra el <a>, busca el <h3>
+                    h3_element = element_to_click.find_element(By.TAG_NAME, 'h3')
+                    h3_value = h3_element.text
+                    #print(f"Valor del texto <h3> del elemento {i}: {h3_value}")
+                    current_tematica = h3_value
+                    results[current_tematica] = []
+                except Exception as e:
+                    print(f"Error al encontrar <a> o <h3> en aria-rowindex='{i}': {e}")
+                    continue  # Ignora este elemento y sigue con el siguiente
         else:
             print(f"Después de 3 intentos, no se pudo encontrar el elemento con aria-rowindex='{i}'.")
             break
