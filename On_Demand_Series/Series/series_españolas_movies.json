@@ -10,9 +10,28 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/65cd0123b8685b0013cc5560/details?lang=en",
             "descripcion": "Lo que parecía un crimen aislado terminó siendo una complicada investigación para dar caza a un cruel asesino en serie.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Tambores de Guerra",
+                        "Link": "/latam/on-demand/series/65cd0123b8685b0013cc5560/season/1/episode/65cd0125b8685b0013cc557f",
+                        "Descripción": "En el año 2003, la violencia azota Madrid.",
+                        "Metadata": "T1E1 46 min"
+                    },
+                    {
+                        "Titulo": "Rey de Copas",
+                        "Link": "/latam/on-demand/series/65cd0123b8685b0013cc5560/season/1/episode/65ce83c5794da50014c65ad9",
+                        "Descripción": "Policía Nacional y Guardia Civil crean un equipo conjunto para cazar al Asesino de la Baraja.",
+                        "Metadata": "T1E2 45 min"
+                    },
+                    {
+                        "Titulo": "La Caza del Hombre",
+                        "Link": "/latam/on-demand/series/65cd0123b8685b0013cc5560/season/1/episode/65cd0c4da40ff700131e0dc0",
+                        "Descripción": "Tras el 3 y el 4 de copas, la inquietud crece entre la población.",
+                        "Metadata": "T1E3 49 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Círculo Rojo",
@@ -23,9 +42,106 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/617beced5eb49a001ae13df0/details?lang=en",
             "descripcion": "La muerte de Clara, una famosa diseñadora, desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf35eb49a001ae13f7f",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E1 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf25eb49a001ae13f60",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E2 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf35eb49a001ae13fde",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E3 1hr 21 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf35eb49a001ae13f9c",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E4 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf15eb49a001ae13e76",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E5 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf15eb49a001ae13e32",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E6 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf25eb49a001ae13eff",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E7 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf15eb49a001ae13e4f",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E8 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Episodio 9",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf15eb49a001ae13ed5",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E9 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Episodio10",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf45eb49a001ae1402c",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E10 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "Episodio 11",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf15eb49a001ae13e93",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E11 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Episodio 12",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf25eb49a001ae13f26",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E12 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Episodio 13",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf25eb49a001ae13f43",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E13 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Episodio 14",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf35eb49a001ae13fb9",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E14 1hr 17 min"
+                    },
+                    {
+                        "Titulo": "Episodio 15",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf15eb49a001ae13eb0",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E15 1hr 19 min"
+                    },
+                    {
+                        "Titulo": "Episodio 16",
+                        "Link": "/latam/on-demand/series/617beced5eb49a001ae13df0/season/1/episode/617becf35eb49a001ae14003",
+                        "Descripción": "La muerte de Clara, una famosa diseñadora desencadenará la venganza de dos mujeres contra las personas que destrozaron su vida en el pasado.",
+                        "Metadata": "T1E16 1hr 41 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Cazadores de hombres",
@@ -36,9 +152,58 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/617bed12693843001af7bbe2/details?lang=en",
             "descripcion": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Operación Luna Africana",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed14693843001af7bc04",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E1 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Operación Nido",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bcb8",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E2 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Operación San Valentín",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc43",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E3 1hr 7 min"
+                    },
+                    {
+                        "Titulo": "Operación Ojos Cerrados",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bcdd",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E4 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Operación Ojos Cerrados Segunda Parte",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc61",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E5 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Operación Tango",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc26",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E6 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Operación Mala Hierba",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc7e",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E7 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Operación Yahutov",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc9b",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E8 1hr 15 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Con el culo al aire",
@@ -49,11 +214,266 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/60b6382e5cc5f2001a31236f/details?lang=en",
             "descripcion": "Tino es el líder de un caótico camping. Vive acampando, va con su furgoneta de feria en feria y alardea de llevar un estilo de vida alternativo, al margen de la legalidad y de sus vecinos.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2",
-                "Temporada 3"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Empezar de cero ¡En un camping!",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b638595cc5f2001a31297b",
+                        "Descripción": "En este camping urbano coincide gente que no tiene nada que ver entre sí. Sandra, médico que ha perdido recientemente su trabajo, decide que éste puede ser un buen lugar para empezar de cero.",
+                        "Metadata": "T1E1 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "La armonía del camping…",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b638595cc5f2001a312934",
+                        "Descripción": "Los ejemplos de mala convivencia y falta de camaradería se siguen sucediendo en el camping. A Sandra, la recién llegada, un vecino le sabotea su coche.",
+                        "Metadata": "T1E2 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "El beso a Bobby",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b638595cc5f2001a3128d3",
+                        "Descripción": "Chema sube los precios del supermercado del camping. Algunos vecinos deciden solucionar este abuso y se ofrecen a desplazarse hasta donde haga falta para conseguir los productos al precio de siempre.",
+                        "Metadata": "T1E3 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "El desmelene",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b6385d5cc5f2001a3129c4",
+                        "Descripción": "Todo va bien en el camping: Lola deja aparte la bebida y se siente atraída por Tino, el churrero. Ángel y Valeria empiezan una relación sentimental y los marqueses vuelven a sacar el Mercedes.",
+                        "Metadata": "T1E4 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "Detención",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b6385d5cc5f2001a312a40",
+                        "Descripción": "Los despropósitos se suceden. Bobby quiere conquistar a Candela y le regala una joya, pero esto le cuesta la salud. Dulce boicotea la relación entre su madre y Tino, pero estos hablan de boda.",
+                        "Metadata": "T1E5 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Relación",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b6385d5cc5f2001a312a06",
+                        "Descripción": "Las parejas del camping están construyendo sus relaciones. Alicia y Tino ultiman los detalles de su boda y, el churrero cae en la cuenta de que debería divorciarse antes de su anterior mujer.",
+                        "Metadata": "T1E6 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "El otro casamiento",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b638595cc5f2001a31290d",
+                        "Descripción": "Tino ve cómo su boda con Alicia se complica más por la aparición de Javi, un adolescente caradura fruto de una relación pasajera. Ante un posible contagio, entre Eli y Jorge se impone la abstinencia.",
+                        "Metadata": "T1E7 1hr 17 min"
+                    },
+                    {
+                        "Titulo": "El invierno llegó",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b6385d5cc5f2001a3129e1",
+                        "Descripción": "La ola de frío siberiano que azota Europa no se olvida de hacer una parada en el camping y Chema aprovecha para subir las tarifas de la calefacción de forma abusiva.",
+                        "Metadata": "T1E8 1hr 19 min"
+                    },
+                    {
+                        "Titulo": "La pela es la pela",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b638595cc5f2001a3128f0",
+                        "Descripción": "Jorge, creyendo poder restregarle a Nuria lo bien que le va ahora sin ella, acaba humillado delante de lo más selecto de la sociedad. Tino tiene un olvido que le traerá consecuencias.",
+                        "Metadata": "T1E9 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Camping vs. Hooligans",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b6385d5cc5f2001a312a23",
+                        "Descripción": "El camping más animado de la televisión acoge el primer encuentro internacional de fútbol de su historia. ¡Nada menos que un España - Inglaterra!",
+                        "Metadata": "T1E10 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "¡Despedidas de soltero!",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b6385d5cc5f2001a3129a7",
+                        "Descripción": "La despedida de soltero de Tino tiene todos los ingredientes para ser un éxito: alcohol, una stripper... Sin embargo, todas las mujeres del camping están dispuestas a sabotear la despedida de Alicia.",
+                        "Metadata": "T1E11 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Las diferencias se olvidan",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b6385d5cc5f2001a312a5e",
+                        "Descripción": "Nuria, la ex de Jorge, vuelve a la carga para intentar recuperarlo. Bobby, el único guiri que no está enamorado del sol, la paella y las birras, sino de Candela, no puede decirle quién es realmente.",
+                        "Metadata": "T1E12 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "¡Hagan bingo!",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/1/episode/60b638595cc5f2001a312952",
+                        "Descripción": "En esta entrega asistiremos a una boda un tanto especial: doble, sin un solo duro para la ceremonia y en la que los contrayentes suman casi un cuarto de siglo.",
+                        "Metadata": "T1E13 1hr 18 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "Un suegro controlador y un exotarium",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b638485cc5f2001a3126a8",
+                        "Descripción": "Ángel va a pedir a Sandra que vivan juntos, pero justo entonces aparece Paulino, el padre de la doctora. Mientras, Jose Luis y Sonsoles siguen empeñados en tener un hijo, pero el dinero no les llega.",
+                        "Metadata": "T2E1 1hr 19 min"
+                    },
+                    {
+                        "Titulo": "El golfo churrero",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b638475cc5f2001a312687",
+                        "Descripción": "Charo ha convencido a su hijo, Roberto, para que se traslade al camping a estudiar las oposiciones de juez. Tino y Alicia descubren la realidad, a Charo la han echado del trabajo y ha perdido su casa.",
+                        "Metadata": "T2E2 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Lola intenta hacer negocios",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b6384b5cc5f2001a3127fc",
+                        "Descripción": "Tino descubre que José Luis tiene su furgoneta y no la quiere devolver. Como venganza, Tino y su familia se mudan a casa de los marqueses. Sonsoles y Alicia quieren ser socias de la churrería.",
+                        "Metadata": "T2E3 1hr 17 min"
+                    },
+                    {
+                        "Titulo": "Los marqueses, ahora albañiles",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b6384a5cc5f2001a31279a",
+                        "Descripción": "El techo del baño se cae y Eli se hace cargo del arreglo. Los marqueses la engañan para que les deje hacer la obra y sacar un dinero extra, pero ellos no tienen ni idea de albañilería.",
+                        "Metadata": "T2E4 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Una ola de calor asola el camping",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b638485cc5f2001a312713",
+                        "Descripción": "Una ola de calor asola el camping y todos deciden dormir en el bar porque es el único sitio con aire acondicionado. Terminan cargándose el aparato por accidente y Chema les obliga a comprar uno nuevo.",
+                        "Metadata": "T2E5 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Jorge deja a Eli",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b638485cc5f2001a3126cf",
+                        "Descripción": "Jorge rompe con Eli y se marcha. Eli se deprime e intenta que nadie se entere en el camping, pero la gente se da cuenta de que algo le sucede. Eli le cuenta a su padre que Sandra le es infiel.",
+                        "Metadata": "T2E6 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Un apagón y un robo de cobre",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b638485cc5f2001a3126f5",
+                        "Descripción": "Los marqueses quieren comprarle una casita-chalé a Coco. El problema es que es muy cara, así que deciden robar el cobre del tendido eléctrico del camping para venderlo y conseguir el dinero.",
+                        "Metadata": "T2E7 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Un accidente y una reconquista",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b6384b5cc5f2001a3127bd",
+                        "Descripción": "Jorge y Eli sufren un accidente en el camping. A Bárbara, la novia de Jorge, se le rompe un diente y éste exige a Eli que pague la factura del dentista. Eli accede a cambio de sexo y Jorge acepta.",
+                        "Metadata": "T2E8 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "Una cleptómana y una conquista doble",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b6384b5cc5f2001a312821",
+                        "Descripción": "Sandra y Ángel van a irse a vivir juntos. Eli y Sandra se lo cuentan a Jorge y éste se hace la víctima con Ángel, que se siente culpable. Jorge intenta demostrarle a Ángel que está mejor con él.",
+                        "Metadata": "T2E9 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Un posible embarazo y un coche oficial",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b6384a5cc5f2001a312760",
+                        "Descripción": "Ángel y Sandra tienen problemas en su convivencia. Eli cree que está embarazada y Sandra la convence de que se lo diga a Jorge. Eli se da cuenta de que Jorge está intentando conquistar a otra chica.",
+                        "Metadata": "T2E10 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "Un rodaje y un boicot",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b638485cc5f2001a31273a",
+                        "Descripción": "José Luis negocia con un equipo de rodaje para que graben en el camping. El equipo huye sin pagar y los campistas obligan al protagonista, Antonio Garrido, a grabar un vídeo promocional del camping.",
+                        "Metadata": "T2E11 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Un día happy y un investigador",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b6384a5cc5f2001a31277d",
+                        "Descripción": "Lola está en su día happy y para sorpresa de Tino se ha echado novio: Mario. A Tino y Javi les extraña que a Mario no le importe que Lola sea bipolar y alcohólica, así que empiezan a sospechar de él.",
+                        "Metadata": "T2E12 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Un camping nudista y una boda",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/2/episode/60b6384b5cc5f2001a3127d6",
+                        "Descripción": "Chema anuncia a los campistas que el alcalde les va a echar del camping por vivir allí, algo que es ilegal. Tino no tiene plan, pero les dice a todos los campistas que tienen que luchar por quedarse.",
+                        "Metadata": "T2E13 1hr 17 min"
+                    }
+                ],
+                "Temporada 3": [
+                    {
+                        "Titulo": "Un compromiso y una mudanza",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638335cc5f2001a3123de",
+                        "Descripción": "La temporada alta ha terminado y con ella los ingresos extras de los campistas. Para poder llegar a fin de mes, todos necesitan una nueva fuente de ingresos.",
+                        "Metadata": "T3E1 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "La bibliotecaria de la discordia",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638345cc5f2001a3124c2",
+                        "Descripción": "Chus, la hermana de Lola, llega al camping y le dice que va a quedarse para cuidarla. Lola está horrorizada: sabe que no ha venido para eso, sino para vengarse de ella por acostarse con su marido.",
+                        "Metadata": "T3E2 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Hacienda somos casi todos",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638345cc5f2001a3124fc",
+                        "Descripción": "Chus, la hermana de Lola, llega al camping y le dice que va a quedarse para cuidarla. Lola está horrorizada: sabe que no ha venido para eso, sino para vengarse de ella por acostarse con su marido.",
+                        "Metadata": "T3E3 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Rubén llega para vengarse de los marqueses",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638335cc5f2001a312405",
+                        "Descripción": "Tino y Javi impiden que Rubén, un joven indigente, se suicide. Padre e hijo se lo llevan al camping y una vez allí, Rubén reconoce a José Luis y a Sonsoles: ellos fueron quienes le arruinaron la vida.",
+                        "Metadata": "T3E4 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Pescado Carnal",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638335cc5f2001a31244f",
+                        "Descripción": "Un año más, cerca del camping se celebra un concurso de pesca y los campistas necesitan que los marqueses, pareja ganadora de los últimos años, participen para poder llevarse el premio de 3.000 euros.",
+                        "Metadata": "T3E5 1hr 17 min"
+                    },
+                    {
+                        "Titulo": "Guerra en el camping",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638345cc5f2001a312480",
+                        "Descripción": "Hay más gente que nunca en el cámping y los servicios están colapsados. Los campistas más veteranos, liderados por Tino, reclaman su antiguedad para tener preferencia en su uso.",
+                        "Metadata": "T3E6 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Yo a Nueva York y tu... ya veremos",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638375cc5f2001a312588",
+                        "Descripción": "A Jorge le vuelven a ofrecer su antiguo trabajo en Nueva York y le pide a Eli que se vaya con él. Eli acepta, pero justo cuando van a coger el avión, la policía no le permite volar.",
+                        "Metadata": "T3E7 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "El paintball",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638375cc5f2001a3125c2",
+                        "Descripción": "Chema organiza un campeonato de paintball con un premio irresistible: un viaje a Canarias con todo pagado. Todos los campistas quieren participar y empiezan las discusiones para formar los equipos.",
+                        "Metadata": "T3E8 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "La loteria suíza",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638345cc5f2001a3124df",
+                        "Descripción": "Los campistas descubren que Hans, el amante suizo de Lola, es rico y ofrece dos puestos de trabajo muy bien pagados en su hotel de Ginebra. A partir de ese momento, todos competirán por conseguirlos.",
+                        "Metadata": "T3E9 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "El bailar del Mío Cid",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638345cc5f2001a312519",
+                        "Descripción": "Los campistas se presentan a un concurso de bailes medievales, gracias a un préstamo de Tino. Chus se erige en directora del baile, pero el puesto se le sube a la cabeza y derrocha el dinero de Tino.",
+                        "Metadata": "T3E10 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "El churrero de la guarda",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638375cc5f2001a3125a5",
+                        "Descripción": "Tino es el líder de un caótico camping. Vive acampando, va con su furgoneta de feria en feria y alardea de llevar un estilo de vida alternativo, al margen de la legalidad y de sus vecinos.",
+                        "Metadata": "T3E11 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Sin padre y muchos padrinos",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638375cc5f2001a31256b",
+                        "Descripción": "Eli decide que como va a estar sola todo el embarazo va a organizar un concurso entre los campistas para elegir a los padrinos de su 'lentejito'. Todos lo intentarán, pero sólo dos serán los elegidos.",
+                        "Metadata": "T3E12 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Hacienda somos casi todos",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638335cc5f2001a31242a",
+                        "Descripción": "Tino no tiene los papeles de la churrería en regla y le amenazan con embargársela. Un inspector de Hacienda se presenta en el camping y, todos, asustados, intentan engañarle para que no descubra nada",
+                        "Metadata": "T3E13 1hr 20 min"
+                    },
+                    {
+                        "Titulo": "Pico rico, pijo pobre",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638345cc5f2001a312536",
+                        "Descripción": "Jorge regresa al camping para ir con Eli al ginecólogo y conocer el sexo de su hijo. Pero a Jorge le acompaña su nueva novia, una chica muy bella y simpática que quiere ganarse el cariño de Eli.",
+                        "Metadata": "T3E14 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "El camping a concurso",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638345cc5f2001a31249d",
+                        "Descripción": "Chema está arruinado y José Luis y Sonsoles intentan convertirse en nuevos propietarios del camping. Chema, desesperado, firma un contrato, pero todos los campistas intentarán frenar a los marqueses.",
+                        "Metadata": "T3E15 1hr 27 min"
+                    },
+                    {
+                        "Titulo": "Un sueldo para el camping",
+                        "Link": "/latam/on-demand/series/60b6382e5cc5f2001a31236f/season/3/episode/60b638335cc5f2001a3123c1",
+                        "Descripción": "Chema pierde su dinero con las preferentes y Tino le hace un préstamo para hacer frente a los gastos del camping. Pero cuando Tino quiere recuperar su dinero, Chema le dice que no puede devolvérselo.",
+                        "Metadata": "T3E16 1hr 15 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Fenómenos",
@@ -64,9 +484,64 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/617c3fe15eb49a001ae159dc/details?lang=en",
             "descripcion": "Comedia ambientada en el día a día de un programa de radio sobre fenómenos paranormales.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Tres metros bajo el suelo",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe35eb49a001ae15a3c",
+                        "Descripción": "La persona elegida para retransmitir el primer programa de radio desde una tumba es Benito Villar, el pelota de Fenómenos. Una aventura por la que será recordado.",
+                        "Metadata": "T1E1 1hr 17 min"
+                    },
+                    {
+                        "Titulo": "El proyecto de la brua Avería",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe45eb49a001ae15aee",
+                        "Descripción": "Tras la peligroso aventura en el bosque con asesino, guardia civil y tiroteo incluido, Martín, Adolfo y Benito regresan a la redacción de Fenómenos como unos auténticos héroes.",
+                        "Metadata": "T1E2 1hr 6 min"
+                    },
+                    {
+                        "Titulo": "Scary Misery",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe35eb49a001ae15a02",
+                        "Descripción": "Claudia tiene la fiesta de pedida de su mejor amiga a la que acude en un principio sola, pero aparecerá Willy para rescatarla y demostrarle que siente algo por ella.",
+                        "Metadata": "T1E3 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Basketwolf",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe45eb49a001ae15b0b",
+                        "Descripción": "Fenómenos es un equipo profesional y humano que no tiene precio. Un equipo de valientes a los que nos les tiemblan las piernas en las situaciones más difíciles.",
+                        "Metadata": "T1E4 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Anciano caminando",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe35eb49a001ae15a8e",
+                        "Descripción": "¿Quién no se ha preguntado si es posible viajar en el tiempo? En este capítulo de Fenómenos nos hemos dado cuenta de que si se puede y de la manera más surrealista posible.",
+                        "Metadata": "T1E5 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Esto es Halloween",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe35eb49a001ae15a1f",
+                        "Descripción": "Vivir Halloween en Fenómenos es como pasar la Navidad en Belén. Y es que las fiestas de Halloween en la redacción son memorables.",
+                        "Metadata": "T1E6 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Alea secta est",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe35eb49a001ae15aab",
+                        "Descripción": "En la redacción, las chicas descubren que los chicos cobran más por hacer lo mismo, y están dispuestas a todo con tal de acabar con esa injusticia.",
+                        "Metadata": "T1E7 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "Mamma Mía",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe45eb49a001ae15ac8",
+                        "Descripción": "Martín decide ir al psicólogo para tratarse su obsesión con los alienígenas. Pero la terapia sólo le servirá para recordar más cosas de aquel día.",
+                        "Metadata": "T1E8 1hr 5 min"
+                    },
+                    {
+                        "Titulo": "Las caras de Contador",
+                        "Link": "/latam/on-demand/series/617c3fe15eb49a001ae159dc/season/1/episode/617c3fe35eb49a001ae15a63",
+                        "Descripción": "En el capítulo nueve de Fenómenos, tras descubrir en internet unas fotos que Victoria hizo en su época de Miss, Adolfo locuta en Onda Futura un mensaje lleno de mensaje y optimismo.",
+                        "Metadata": "T1E9 1hr 6 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Vive Cantando",
@@ -77,10 +552,162 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/60b7e3d949495300139052e8/details?lang=en",
             "descripcion": "Trini es una joven cantante de orquesta que lleva años recorriendo España. Se ve obligada a volver a su barrio de toda la vida, lleno de gente entrañable y sencilla que lucha por salir adelante.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "La llegada de Trini",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ef494953001390566d",
+                        "Descripción": "Tras la llegada al barrio, Trini descubre que lo que iba a ser una vuelta transitoria se convierte en algo definitivo. Se reencuentra con vecinos y amigos y entiende que debe cuidar de su familia.",
+                        "Metadata": "T1E1 1hr 19 min"
+                    },
+                    {
+                        "Titulo": "Con los años que me quedan",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3f04949530013905738",
+                        "Descripción": "Paula no quiere que Trini le escriba, ni le hable y, Nacho no quiere que lleve a su abuelo a una residencia. Los pequeños tienen una fuerte discusión con su tía y ésta no sabe qué hacer con ellos.",
+                        "Metadata": "T1E2 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "A tu lado",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ec494953001390558e",
+                        "Descripción": "César se decide a dar un paso con Lucía, pero la llegada de Susi, su ex novia, hace que cambie de planes. Además, Trini está preocupada por Paula porque está seria y triste y no sabe el motivo.",
+                        "Metadata": "T1E3 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "A quién le importa",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3f049495300139056d6",
+                        "Descripción": "César descubre que Juanjo espía a su hija y a su nieto a la salida del colegio y decide ayudarle a recuperarles. Trini ayuda a su sobrino a sacar su vena artística a pesar de lo que piensen los demás.",
+                        "Metadata": "T1E4 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Euforia",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ec49495300139055ce",
+                        "Descripción": "Trini quiere grabar el disco con Willy y, vende la máquina de coser de su abuela. Necesita el dinero para pagar parte de la producción. Pero al final se da cuenta de que su lugar está en su barrio.",
+                        "Metadata": "T1E5 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "Como una ola",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ec49495300139055ac",
+                        "Descripción": "En un nuevo intento de relanzar el karaoke, César contacta con un antiguo compañero de colegio, reconvertido en bloguero de éxito. Si habla bien de ellos conseguirán atraer a nuevos clientes.",
+                        "Metadata": "T1E6 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Vive la vida",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3f049495300139056f5",
+                        "Descripción": "César encuentra unas viejas fotos de su padre y descubre que hay una forma de localizarle. Lucía le anima a que le busque, pero a Juanjo no le parece muy buena idea.",
+                        "Metadata": "T1E7 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "Hace calor",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3f049495300139056b9",
+                        "Descripción": "Trini anima a Paula a presentarse a un cásting donde buscan nuevos talentos musicales. Mientras, César lleva a un amigo al karaoke, pero se arrepiente cuando éste empieza a ligar con Lucía.",
+                        "Metadata": "T1E8 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Me voy",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ef4949530013905692",
+                        "Descripción": "Andrés, el padre de Nacho y Paula, vuelve al barrio para llevarse a sus hijos. Algo que no gusta nada a Rafael y Trini. ¿Conseguirán que se queden los niños con ellos?",
+                        "Metadata": "T1E9 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "No puedo vivir sin ti",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ec49495300139055f4",
+                        "Descripción": "Paula está muy enamorada de Carlos y éste, obsesionado con Trini. En casa de María José, todos andan revolucionados preparando la llegada del bebé y, Ceferino traerá una gran sorpresa: se casa",
+                        "Metadata": "T1E10 1hr 19 min"
+                    },
+                    {
+                        "Titulo": "Arrasando",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ef4949530013905623",
+                        "Descripción": "Un amigo de Mariano es nombrado director deportivo de un equipo de fútbol y le pide a éste que sea su ayudante. Mariano propone a su sobrino como nuevo fichaje. Trini y Juanjo siguen con problemas.",
+                        "Metadata": "T1E11 1hr 20 min"
+                    },
+                    {
+                        "Titulo": "Resistiré",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3f0494953001390571a",
+                        "Descripción": "Juanjo se enfrenta a uno de los momentos más duros de su vida, a escasas horas para que se proceda al desahucio del karaoke, sigue siendo incapaz de perdonar a Trini por su infidelidad.",
+                        "Metadata": "T1E12 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Volver",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3ef4949530013905648",
+                        "Descripción": "Trini hace un alto en su gira musical para volver al barrio, que está en fiestas. Nada más llegar, Trini descubre que no todo ha estado tan bien en casa como le habían hecho creer durante su ausencia.",
+                        "Metadata": "T1E13 1hr 19 min"
+                    },
+                    {
+                        "Titulo": "Amigos para siempre",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3dc4949530013905378",
+                        "Descripción": "Una vieja amiga de César acude al karaoke para visitarlo. Trini buscará el primer amor de su padre y el transplante de hígado de Juanjo es inminente.",
+                        "Metadata": "T1E14 1hr 21 min"
+                    },
+                    {
+                        "Titulo": "Feliz Navidad",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/1/episode/60b7e3e249495300139054ba",
+                        "Descripción": "Juanjo se siente un hombre nuevo después de someterse al trasplante de hígado. Sin embargo, recibe el alta con una malísima noticia: César, su amigo y donante, ha tenido complicaciones.",
+                        "Metadata": "T1E15 1hr 18 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "La vida te da sorpresas",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3dd49495300139053f6",
+                        "Descripción": "Trini ha dejado de cantar. Ahora es barrendera y cuida de su familia. La nueva novia de su padre la pone nerviosa y, además, la llegada de Manu, un chico problemático, complica su vida.",
+                        "Metadata": "T2E1 1hr 24 min"
+                    },
+                    {
+                        "Titulo": "Como hemos cambiado",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3e249495300139054df",
+                        "Descripción": "Trini está intentando sacar a su hijo de los problemas en los que está metido constantemente. Después de aceptar su petición de matrimonio, Lucía deja a César y se marcha para siempre.",
+                        "Metadata": "T2E2 1hr 23 min"
+                    },
+                    {
+                        "Titulo": "La reina del Pop",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3dc4949530013905351",
+                        "Descripción": "César tiene una idea brillante para conseguir atraer clientela a su karaoke: organizar un concurso. Además, Elena tendrá más que palabras con Trini y Juanjo. Y Asun se verá obligada a buscar trabajo.",
+                        "Metadata": "T2E3 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "Más de cien mentiras",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3dd49495300139053aa",
+                        "Descripción": "Mariano quiere bautizar a las niñas. Trini parece que tiene algo con Molina y César se reencuentra con una vieja conocida. Además, Jeco padece una enfermedad y Paula se acerca demasiado a Tomás.",
+                        "Metadata": "T2E4 1hr 20 min"
+                    },
+                    {
+                        "Titulo": "Pisando fuerte",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3dd4949530013905464",
+                        "Descripción": "Trini aspira a un trabajo mejor y sabe que sacarse el título de informática es el primer paso. Molina no puede quitarse de la cabeza a Trini. Carlos y Paula vuelven a tener confianza en su relación.",
+                        "Metadata": "T2E5 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "Cuando nadie me ve",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3db4949530013905326",
+                        "Descripción": "Trini, tras el despecho de Juanjo y Elena, acaba en la cama de Molina. A Mariano lo han despedido del equipo de fútbol y no sabe cómo decirlo en casa. Y Charo se mete en líos con la policía.",
+                        "Metadata": "T2E6 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "Dame veneno",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3dd49495300139053cf",
+                        "Descripción": "Ya va siendo hora de que Juanjo dé un paso en su relación con Elena, pero es difícil a causa de celos. A Trini le cuesta verles juntos, pero también Juanjo está celoso de ver a Trini con Molina.",
+                        "Metadata": "T2E7 1hr 26 min"
+                    },
+                    {
+                        "Titulo": "Idiota",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3dd4949530013905447",
+                        "Descripción": "Ray, el verdadero padre de las gemelas, reclamará la paternidad de las niñas. Por otro lado, Jeco y María José tendrán que plantearse la idea de decir la verdad a la familia.",
+                        "Metadata": "T2E8 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Todo cambia",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3dd4949530013905422",
+                        "Descripción": "Cuando Trini se da cuenta de que a Manu le gusta Paula, decide tomar cartas en el asunto y decirles que son familia. Trini está empeñada en hacer amigas en el bufete, pero cada día es más difícil.",
+                        "Metadata": "T2E9 1hr 17 min"
+                    },
+                    {
+                        "Titulo": "Me quedo contigo",
+                        "Link": "/latam/on-demand/series/60b7e3d949495300139052e8/season/2/episode/60b7e3e24949530013905495",
+                        "Descripción": "A Elena le han trasladado a Barcelona y quiere que Juanjo se vaya con ella. Juanjo, deberá tomar la decisión más difícil de todas. ¿Será capaz de alejarse de la pelirroja?",
+                        "Metadata": "T2E10 1hr 25 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Manolo y Benito Corporaision",
@@ -91,9 +718,82 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/6182889c52ed7b001b61a3d8/details?lang=en",
             "descripcion": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Manolo y Benito",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a052ed7b001b61a476",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E1 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Uno de los nuestros",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a58e",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E2 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Las mirindas de Velázquez",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a052ed7b001b61a459",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E3 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "I loft you",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a4bf",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E4 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Los milagros de Milagros",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a4a2",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E5 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Benito y el hijo pródigo",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a4fa",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E6 1hr 27 min"
+                    },
+                    {
+                        "Titulo": "Esta corrala es una ruina",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a544",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E7 1hr 25 min"
+                    },
+                    {
+                        "Titulo": "Casi todos a la cárcel",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/6182889f52ed7b001b61a40a",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E8 1hr 19 min"
+                    },
+                    {
+                        "Titulo": "La habitación del PaChino",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a569",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E9 1hr 24 min"
+                    },
+                    {
+                        "Titulo": "Hoy no me quiero ir a currar",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a51f",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E10 1hr 25 min"
+                    },
+                    {
+                        "Titulo": "Un alcalde en la corrala",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a052ed7b001b61a434",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando su edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E11 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "El autor el autor",
+                        "Link": "/latam/on-demand/series/6182889c52ed7b001b61a3d8/season/1/episode/618288a152ed7b001b61a4dd",
+                        "Descripción": "Manolo y Benito trabajan en su empresa de reformas y son inseparables. La mujer de Manolo, le dejó cinco años atrás. A Benito no le gustan los cambios y toda su vida sigue igual. Todo cambia cuando s edificio se convierte en un Hotel de 4 estrellas.",
+                        "Metadata": "T1E12 1hr 13 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Lobos",
@@ -104,9 +804,64 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/618151401be642001a2d72a5/details?lang=en",
             "descripcion": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "El trato",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151421be642001a2d730f",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E1 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "La deuda de Lucía",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151421be642001a2d72e9",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E2 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "Palabra de lobo",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d732f",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E3 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "La cocina de Babel",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d734c",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E4 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "La vuelta a casa",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151421be642001a2d72cb",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E5 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Viejas amistades",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d738b",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E6 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "Animales de compañía",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d736e",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E7 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Cuestión de confianza",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151441be642001a2d73cd",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E8 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "La boda del lobo",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151441be642001a2d73a8",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E9 1hr 10 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Un lugar en el mundo",
@@ -117,9 +872,88 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/618288ba436116001a0c0329/details?lang=en",
             "descripcion": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "La llegada",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288c0436116001a0c047f",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E1 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Tiempo de amistad",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288bd436116001a0c037c",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E2 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Somos novios",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288c0436116001a0c04b9",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E3 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Problemas de pareja",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288c0436116001a0c04d6",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E4 1hr 6 min"
+                    },
+                    {
+                        "Titulo": "Segunda oportunidad",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288bd436116001a0c03a3",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E5 1hr 5 min"
+                    },
+                    {
+                        "Titulo": "La huída",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288c0436116001a0c0462",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E6 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Dos estrellas",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288bf436116001a0c03e1",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E7 1hr 7 min"
+                    },
+                    {
+                        "Titulo": "De principio a fin",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288c0436116001a0c0426",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E8 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Temporada alta",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288c0436116001a0c049c",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E9 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Un pequeño secreto",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288bd436116001a0c035f",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E10 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Vuelta a empezar",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288c0436116001a0c0445",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E11 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "El regreso",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288bf436116001a0c03fe",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E12 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Futuro incierto",
+                        "Link": "/latam/on-demand/series/618288ba436116001a0c0329/season/1/episode/618288bf436116001a0c03c4",
+                        "Descripción": "Julio es un neurólogo de prestigio que, tras la muerte de su hijo, decide dejarlo todo para instalarse en un pequeño pueblo y abrir un hotel rural.",
+                        "Metadata": "T1E13 1hr 10 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Quart",
@@ -130,22 +964,96 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/61858b6e1be642001a2f9211/details?lang=en",
             "descripcion": "Quart, el hombre de Roma, narra la historia de Lorenzo Quart, un sacerdote al que el Vaticano envía a Sevilla después de que el Papa recibiera una enigmática denuncia de un pirata informático.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "El hombre de Roma",
+                        "Link": "/latam/on-demand/series/61858b6e1be642001a2f9211/season/1/episode/61858d9b7ac0a1001a131eaa",
+                        "Descripción": "Quart, el hombre de Roma, narra la historia de Lorenzo Quart, un sacerdote al que el Vaticano envía a Sevilla después de que el Papa recibiera una enigmática denuncia de un pirata informático.",
+                        "Metadata": "T1E1 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Tritonus",
+                        "Link": "/latam/on-demand/series/61858b6e1be642001a2f9211/season/1/episode/61858b701be642001a2f922b",
+                        "Descripción": "Quart, el hombre de Roma, narra la historia de Lorenzo Quart, un sacerdote al que el Vaticano envía a Sevilla después de que el Papa recibiera una enigmática denuncia de un pirata informático.",
+                        "Metadata": "T1E2 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Manada de lobos",
+                        "Link": "/latam/on-demand/series/61858b6e1be642001a2f9211/season/1/episode/61858b711be642001a2f92c6",
+                        "Descripción": "Quart, el hombre de Roma, narra la historia de Lorenzo Quart, un sacerdote al que el Vaticano envía a Sevilla después de que el Papa recibiera una enigmática denuncia de un pirata informático.",
+                        "Metadata": "T1E3 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Profecías",
+                        "Link": "/latam/on-demand/series/61858b6e1be642001a2f9211/season/1/episode/61858b701be642001a2f9248",
+                        "Descripción": "Quart, el hombre de Roma, narra la historia de Lorenzo Quart, un sacerdote al que el Vaticano envía a Sevilla después de que el Papa recibiera una enigmática denuncia de un pirata informático.",
+                        "Metadata": "T1E4 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "El secreto de los Borgia",
+                        "Link": "/latam/on-demand/series/61858b6e1be642001a2f9211/season/1/episode/61858b711be642001a2f926f",
+                        "Descripción": "Quart, el hombre de Roma, narra la historia de Lorenzo Quart, un sacerdote al que el Vaticano envía a Sevilla después de que el Papa recibiera una enigmática denuncia de un pirata informático.",
+                        "Metadata": "T1E5 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Los hijos de Loki",
+                        "Link": "/latam/on-demand/series/61858b6e1be642001a2f9211/season/1/episode/61858b711be642001a2f928c",
+                        "Descripción": "Quart, el hombre de Roma, narra la historia de Lorenzo Quart, un sacerdote al que el Vaticano envía a Sevilla después de que el Papa recibiera una enigmática denuncia de un pirata informático.",
+                        "Metadata": "T1E6 1hr 9 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Karabudjan",
             "metadatos": [
                 "PG",
                 "Thriller",
-                "There are no inadequacies"
+                "Não há inadequações"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/617fe3f3c3995d001ab1752c/details?lang=en",
             "descripcion": "Diego Salgado, es un joven ejecutivo de una importante empresa de publicidad. Está acostumbrado a conseguir todo lo que se propone. Esconde un terrible secreto pero el pasado siempre vuelve y Diego se tendrá que enfrentar a él.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Desapareción",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f8c3995d001ab175ae",
+                        "Descripción": "María, amiga íntima de la hermana de Diego desaparece. El publicista trata de ponerse en contacto con todos sus contactos, finalmente el caso cae en manos de la inspectora Ana.",
+                        "Metadata": "T1E1 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "En punto muerto",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f5c3995d001ab1758a",
+                        "Descripción": "La investigación cae en punto muerto al haber entrado en coma el principal sospechoso. Aunque aparece una nueva pista, una grabación de una cámara de seguridad.",
+                        "Metadata": "T1E2 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Rumbo a Colombia",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f5c3995d001ab17546",
+                        "Descripción": "Todo el mundo se siente derrotado tras la noticia de la muerte de María. Diego, sin embargo, se resiste a rendirse. Prosigue, por su cuenta, las averiguaciones.",
+                        "Metadata": "T1E3 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Secuestro",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f8c3995d001ab175cb",
+                        "Descripción": "De camino al pueblo de origen del presunto asesino, Centeno, un tipo duro local contratado para ayudarles, secuestra a Ana y a Diego.",
+                        "Metadata": "T1E4 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "El final, Parte 1",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f5c3995d001ab17568",
+                        "Descripción": "Wilson, el hermano del anterior sospechoso de haber matado a María, se niega a colaborar con Diego y Ana por miedo a la siniestra organización que está detrás de todo, éstos se desesperan.",
+                        "Metadata": "T1E5 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "El final, Parte 2",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f8c3995d001ab175e8",
+                        "Descripción": "Dani está mal herido y Diego y Ana no saben qué hacer, se encuentran perdidos en mitad de Senegal, sin recursos ni posibilidad de seguir a los malhechores.",
+                        "Metadata": "T1E6 1hr 12 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Los quien",
@@ -156,9 +1064,88 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/6182887e54ba66001a69c9c5/details?lang=en",
             "descripcion": "Sitcom que narra las peripecias del matrimonio Peña Zunzunegui, una pareja que a comienzos de los años ochenta protagoniza el primer divorcio en la España democrática.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "El divorcio no es para mí",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69cb16",
+                        "Descripción": "Gustavo es un psicólogo que vive felizmente casado. Lo que no sabe es que su esposa, Susana, ha tomado la decisión de divorciarse de él.",
+                        "Metadata": "S1E1 55 min"
+                    },
+                    {
+                        "Titulo": "La ouija que te parió",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69cacb",
+                        "Descripción": "La madre de Susana, Julia, espera orgullosa el ordenamiento como cura de su hijo, Esteban. Lo que no sabe es que Esteban, tras conocer a Candela, ha tomado la decisión de dejar el seminario.",
+                        "Metadata": "S1E2 54 min"
+                    },
+                    {
+                        "Titulo": "El casero siempre llama dos veces",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69cb2f",
+                        "Descripción": "El cumpleaños de Paula hará que Gustavo y Susana compitan por el cariño de su hija. Por su parte, Tino engañará a Esteban para que concurse contra él en un popular programa de televisión.",
+                        "Metadata": "S1E3 54 min"
+                    },
+                    {
+                        "Titulo": "Bailad, bailad, jovencitos",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69ca9d",
+                        "Descripción": "Candela encontrará el amor en brazos de uno de los profesores de Eloy, y aunque su hijo no lo ve con buenos ojos, estará encantado de ver como mejoran sus notas.",
+                        "Metadata": "S1E4 1hr"
+                    },
+                    {
+                        "Titulo": "Sexo, mentiras y cintas de lomo",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69cb48",
+                        "Descripción": "Gustavo se enfrenta a su primera terapia de grupo como psicólogo, tiene pacientes adictos al sexo. Tino descubre a una atractiva y joven ninfómana y se hace pasar por adicto al sexo para conquistarla.",
+                        "Metadata": "S1E5 53 min"
+                    },
+                    {
+                        "Titulo": "Matrimonio de conveniencia",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69ca6a",
+                        "Descripción": "Susana acude a una cita a ciegas y, casualmente, le toca como pareja Tino. El encuentro supone una decepción para ambos, pero deciden seguir adelante y acaban pasándoselo genial.",
+                        "Metadata": "S1E6 57 min"
+                    },
+                    {
+                        "Titulo": "La boda de mi mejor amiga",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888054ba66001a69c9fb",
+                        "Descripción": "Gustavo está emocionado por la visita de una antigua profesora de la universidad. Los problemas vendrán cuando a Gustavo empiecen a surgirle dudas sobre si va a decepcionar a su mentora.",
+                        "Metadata": "S1E7 52 min"
+                    },
+                    {
+                        "Titulo": "Highway to gel",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69cafd",
+                        "Descripción": "Tino convence a Esteban para pierda la virginidad con una prostituta y Julia le descubre con ella. El ex seminarista se excusa diciendo que es su novia, y Julia los invita a una boda.",
+                        "Metadata": "S1E8 52 min"
+                    },
+                    {
+                        "Titulo": "Días contados",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69ca33",
+                        "Descripción": "Gustavo recibe a una paciente ciclotímica, Elisa. Gustavo se asusta ante la posibilidad de que la atractiva Elisa también sufra un síndrome de transferencia y se enamore de él.",
+                        "Metadata": "S1E9 59 min"
+                    },
+                    {
+                        "Titulo": "La lotera de vallecas",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69ca83",
+                        "Descripción": "Gustavo se da cuenta de que su ex mujer no lleva ya el anillo de compromiso. Susana le explica que tienen que pasar página y el psicólogo le pide que le devuelva el anillo.",
+                        "Metadata": "S1E10 51 min"
+                    },
+                    {
+                        "Titulo": "La hermana de mi mejor amiga",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888154ba66001a69ca19",
+                        "Descripción": "Esteban quiere lanzarse a por Candela, pero la jugada no le sale del todo bien porque Rita, la hermana esta, cree que Esteban va a por ella. Los consejos de Gustavo y Tino son muy claros.",
+                        "Metadata": "S1E11 51 min"
+                    },
+                    {
+                        "Titulo": "El guateque",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69ca4c",
+                        "Descripción": "Gustavo y Susana tienen que organizar la fiesta anual de disfraces que hacen con sus amigos de la Universidad. Aunque Susana desde el divorcio no quiere fiestas.",
+                        "Metadata": "S1E12 1hr 1 min"
+                    },
+                    {
+                        "Titulo": "Esta función es una ruina",
+                        "Link": "/latam/on-demand/series/6182887e54ba66001a69c9c5/season/1/episode/6182888254ba66001a69cae4",
+                        "Descripción": "Después de una noche apasionada, Gustavo cree que ha vuelto con Susana, justo cuando esta recibe los papeles del divorcio.",
+                        "Metadata": "S1E13 1hr"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Impares",
@@ -169,10 +1156,342 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/617fe300693843001af8322a/details?lang=en",
             "descripcion": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe337693843001af837eb",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E1 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af8374b",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E2 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe334693843001af83695",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E3 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af83739",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E4 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af8375c",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E5 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af837b1",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E6 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe334693843001af836b7",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E7 27 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af8376d",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E8 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 9",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe333693843001af8366f",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E9 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 10",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af83728",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E10 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 11",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe334693843001af836a6",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E11 28 min"
+                    },
+                    {
+                        "Titulo": "Episodio 12",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe337693843001af837c9",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E12 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 13",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af8377e",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E13 27 min"
+                    },
+                    {
+                        "Titulo": "Episodio 14",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe337693843001af837da",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E14 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 15",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af8378f",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E15 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 16",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af837a0",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E16 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 17",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe334693843001af836e4",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E17 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 18",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe333693843001af83681",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E18 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 19",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe334693843001af836d3",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E19 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 20",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af83706",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E20 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 21",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe334693843001af836f5",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E21 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 22",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/1/episode/617fe335693843001af83717",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T1E22 24 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "Episodio 23",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe313693843001af834ba",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E23 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 24",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe315693843001af8350f",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E24 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 25",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe311693843001af83463",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E25 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 26",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af8339e",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E26 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 27",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af83368",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E27 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 28",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af83346",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E28 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 29",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe309693843001af83424",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E29 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 30",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af832fd",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E30 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 31",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af83357",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E31 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 32",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe312693843001af834a9",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E32 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 33",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe314693843001af834dc",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E33 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 34",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe305693843001af832c2",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E34 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 35",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe309693843001af83402",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E35 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 36",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe314693843001af834ed",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E36 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 37",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe312693843001af83474",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E37 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 38",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe315693843001af83520",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E38 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 39",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af83335",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E39 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 40",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe315693843001af834fe",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E40 30 min"
+                    },
+                    {
+                        "Titulo": "Episodio 41",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af8337b",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E41 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 42",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe312693843001af83496",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E42 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 43",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af832e8",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E43 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 44",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe305693843001af832ac",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E44 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 45",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af8330e",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E45 35 min"
+                    },
+                    {
+                        "Titulo": "Episodio 46",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe309693843001af833ef",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E46 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 47",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af83323",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E47 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 48",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af833b0",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E48 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 49",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe312693843001af83485",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E49 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 50",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe309693843001af83413",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E50 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 51",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe309693843001af833de",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E51 24 min"
+                    },
+                    {
+                        "Titulo": "Episodio 52",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe309693843001af833cd",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E52 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 53",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe313693843001af834cb",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E53 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 54",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe308693843001af8338d",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E54 25 min"
+                    },
+                    {
+                        "Titulo": "Episodio 55",
+                        "Link": "/latam/on-demand/series/617fe300693843001af8322a/season/2/episode/617fe30b693843001af83450",
+                        "Descripción": "Serie de comedia de pequeños sketches que muestra a los diversos clientes de una agencia de búsqueda de pareja a través de Internet.",
+                        "Metadata": "T2E55 24 min"
+                    }
+                ]
+            }
         }
     ]
 }

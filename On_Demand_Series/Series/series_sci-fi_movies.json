@@ -10,22 +10,72 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/650b116e6930bb00136f67a5/details?lang=en",
             "descripcion": "Un detective (Peter Krause) investiga la misteriosa habitación de un motel, que actúa como un portal a un universo alternativo.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "La llave",
+                        "Link": "/latam/on-demand/series/650b116e6930bb00136f67a5/season/1/episode/650b11706930bb00136f67c3",
+                        "Descripción": "El detective Joe Miller investiga un caso que involucra a dos hombres que fueron hallados calcinados en una casa de empeño, relacionado con una llave misteriosa y un trato que salió mal.",
+                        "Metadata": "T1E1 43 min"
+                    },
+                    {
+                        "Titulo": "El reloj",
+                        "Link": "/latam/on-demand/series/650b116e6930bb00136f67a5/season/1/episode/650b11736930bb00136f68b1",
+                        "Descripción": "Después de recibir la llave, Joe descubre que, al igual que ella, hay cerca de cien objetos con poderes sobrenaturales y una conexión a una oculta habitación de motel.",
+                        "Metadata": "T1E2 42 min"
+                    },
+                    {
+                        "Titulo": "El peine",
+                        "Link": "/latam/on-demand/series/650b116e6930bb00136f67a5/season/1/episode/650b11766930bb00136f699d",
+                        "Descripción": "Joe Miller está prófugo después de ser incriminado por el asesinato de su compañero. Une fuerzas con Jennifer Bloom, miembro de la Legión, para encontrar el Objeto que lo ayude a encontrar a su hija, Anna.",
+                        "Metadata": "T1E3 43 min"
+                    },
+                    {
+                        "Titulo": "El estuche",
+                        "Link": "/latam/on-demand/series/650b116e6930bb00136f67a5/season/1/episode/650b49a8c564500013b9319a",
+                        "Descripción": "En el camino se enteran del misterioso pasado de la Habitación. Martin Ruber busca un objeto para hacerse miembro de la Orden de la Reunificación.",
+                        "Metadata": "T1E4 43 min"
+                    },
+                    {
+                        "Titulo": "El ojo",
+                        "Link": "/latam/on-demand/series/650b116e6930bb00136f67a5/season/1/episode/650b4b0988887a0013546b71",
+                        "Descripción": "En la noche final y culminante de The Lost Room, Joe usa todos sus recursos y alianzas en su misión para encontrar el Objeto Principal y salvar a su hija.",
+                        "Metadata": "T1E5 43 min"
+                    },
+                    {
+                        "Titulo": "El huésped",
+                        "Link": "/latam/on-demand/series/650b116e6930bb00136f67a5/season/1/episode/650b4b1388887a0013546e45",
+                        "Descripción": "Kreutzfeld, Jennifer, Wally y la Comadreja hacen su parte, y uno de ellos finalmente traiciona a Joe y pone en marcha una cadena de eventos que podría acabar catastróficamente con el mundo tal como lo conocemos.",
+                        "Metadata": "T1E6 43 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Tornado",
             "metadatos": [
                 "TV-14",
                 "Sci-Fi & Fantasy",
-                "No hay deficiencias"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/60468c2c601b98001ac4a2e2/details?lang=en",
             "descripcion": "Durante el verano más caluroso en años de Berlín, un tornado mortal amenaza con destrozar una ciudad para siempre.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Tornado 1",
+                        "Link": "/latam/on-demand/series/60468c2c601b98001ac4a2e2/season/1/episode/60468c2d601b98001ac4a2ec",
+                        "Descripción": "Durante el verano más caluroso en años de Berlín, un tornado mortal amenaza con destrozar una ciudad para siempre.",
+                        "Metadata": "T1E1 1hr 26 min"
+                    },
+                    {
+                        "Titulo": "Tornado 2",
+                        "Link": "/latam/on-demand/series/60468c2c601b98001ac4a2e2/season/1/episode/60468c2e601b98001ac4a31b",
+                        "Descripción": "Durante el verano más caluroso en años de Berlín, un tornado mortal amenaza con destrozar una ciudad para siempre.",
+                        "Metadata": "T1E2 1hr 25 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Final days of planet earth",
@@ -36,9 +86,22 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5fb2f4de93fb64001a783c7f/details?lang=en",
             "descripcion": "Un arqueólogo y una entomóloga que investiga una trágica misión espacial descubren un complot alienígena para invadir la Tierra.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Parte 1",
+                        "Link": "/latam/on-demand/series/5fb2f4de93fb64001a783c7f/season/1/episode/5fb2f4e093fb64001a783ca1",
+                        "Descripción": "Después de que Lloyd y Marianne descubren que Liz Quinlan y otros funcionarios del gobierno han sido tomados por alienígenas disfrazados de humanos, su única esperanza yace en la sangre del Comandante William Phillips.",
+                        "Metadata": "T1E1 1hr 25 min"
+                    },
+                    {
+                        "Titulo": "Parte 2",
+                        "Link": "/latam/on-demand/series/5fb2f4de93fb64001a783c7f/season/1/episode/5fb2f4df93fb64001a783c89",
+                        "Descripción": "Después de que Lloyd y Marianne descubren que Liz Quinlan y otros funcionarios del gobierno han sido tomados por alienígenas disfrazados de humanos, su única esperanza yace en la sangre del Comandante William Phillips.",
+                        "Metadata": "T1E2 1hr 27 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Andrómeda",
@@ -49,7 +112,7 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/6113ff42975c210013c15376/details?lang=en",
             "descripcion": "El Capitán Dylan Hunt y toda la tripulación del Andromeda Ascendant se embarcan en una misión para poder reconstruir la Mancomunidad de Sistemas 300 años después de su caída. Creado por la leyenda de la ciencia ficción Gene Roddenberry.",
-            "temporadas": null
+            "temporadas": {}
         },
         {
             "titulo": "Relic Hunter",
@@ -60,10 +123,276 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/608ab1ec565bff0013119818/details?lang=en",
             "descripcion": "Tia Carrere (\"El Mundo de Wayne\") interpreta a Sídney Fox, una profesora universitaria y cinturón negro que recorre el mundo en busca de artefactos y antigüedades perdidos y robados, que se rumorea que existen.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Cuenco de Buda",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058ae63e66001313582e",
+                        "Descripción": "Sídney y Nigel se dirigen a Nepal para recuperar el legendario cuenco de limosnas rebosante de Buda para los aldeanos que están construyendo un santuario al Buda original.",
+                        "Metadata": "T1E1 45 min"
+                    },
+                    {
+                        "Titulo": "La Monja sin Cabeza",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058be63e6600131358a3",
+                        "Descripción": "Cuando el avión de Sídney se estrella, un grupo de monjas le pide que encuentre la cabeza de otra monja que fue decapitada hace varios siglos.",
+                        "Metadata": "T1E2 45 min"
+                    },
+                    {
+                        "Titulo": "Pistola Humeante",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058fe63e6600131358c9",
+                        "Descripción": "Sydney e Nigel procuram a arma incrustada de diamantes de Al Capone a mando de um homem que espera que isso vá livrar seu avô de um assassinato pelo qual ele foi acusado.",
+                        "Metadata": "T1E3 45 min"
+                    },
+                    {
+                        "Titulo": "Affaire de Coeur",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058fe63e660013135932",
+                        "Descripción": "Sídney y Nigel van a Escocia para encontrar el segundo anillo del par de Twining Rings de Calum y Elena.",
+                        "Metadata": "T1E4 45 min"
+                    },
+                    {
+                        "Titulo": "Muchas gracias",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058fe63e66001313591d",
+                        "Descripción": "Sídney y Nigel van a Alemania para encontrar una guitarra perdida de Elvis Presley.",
+                        "Metadata": "T1E5 45 min"
+                    },
+                    {
+                        "Titulo": "Transformación",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058fe63e660013135908",
+                        "Descripción": "Sídney, Nigel y Derek Lloyd van a la jungla peruana a buscar los rollos de Paracelso que contienen la fórmula para convertir el plomo en oro.",
+                        "Metadata": "T1E6 45 min"
+                    },
+                    {
+                        "Titulo": "Día de la Bandera",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058ae63e660013135804",
+                        "Descripción": "Sídney y Nigel se dirigen a Larivee, California, para encontrar la Bandera del Oso de los Pioneros.",
+                        "Metadata": "T1E7 45 min"
+                    },
+                    {
+                        "Titulo": "Novia del Emperador",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058be63e660013135878",
+                        "Descripción": "Sídney y Nigel están en Moose Bay, Alaska, en busca del sarcófago de jade blanco de una emperatriz china. Sídney se encuentra con otros cazadores de reliquias Dallas Carter y Kurt Reiner.",
+                        "Metadata": "T1E8 45 min"
+                    },
+                    {
+                        "Titulo": "Diamante en Bruto",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058ae63e660013135819",
+                        "Descripción": "Sídney, Nigel y el cazador de reliquias rival Kurt Reiner intentan encontrar el guante de béisbol perdido de Jimmy Jonesboro.",
+                        "Metadata": "T1E9 45 min"
+                    },
+                    {
+                        "Titulo": "Nueve Vidas",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/60900590e63e660013135986",
+                        "Descripción": "Todos los que roban una estatua que representa a la diosa gato egipcia Mafdet mueren. Ahora, la estatua ha desaparecido y Sídney y Nigel tienen la tarea de recuperarla.",
+                        "Metadata": "T1E10 45 min"
+                    },
+                    {
+                        "Titulo": "El Libro del Amor",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058fe63e6600131358f3",
+                        "Descripción": "Sídney y Nigel están en Milán, Italia, para buscar el Libro del Amor perdido de Casanova.",
+                        "Metadata": "T1E11 45 min"
+                    },
+                    {
+                        "Titulo": "Mito del Laberinto",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058be63e660013135863",
+                        "Descripción": "Sídney, Nigel y Claudia visitan Atenas, Grecia, para buscar en el laberinto del Minotauro el legendario hilo dorado.",
+                        "Metadata": "T1E12 45 min"
+                    },
+                    {
+                        "Titulo": "El Más Allá y la Muerte",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058ae63e6600131357e6",
+                        "Descripción": "Sídney y Nigel están en El Cairo, Egipto y luego en Amsterdam. Deben vencer al cazador de reliquias rival Avery Ko hasta conseguir el diamante del faraón Thutmose antes de que sea cortado y vendido.",
+                        "Metadata": "T1E13 45 min"
+                    },
+                    {
+                        "Titulo": "Grabado en Piedra",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/60900590e63e66001313595c",
+                        "Descripción": "Sídney, Nigel y Stewie Harper se dirigen a Estocolmo, Suecia, para encontrar la piedra rúnica del rey Jann I de Noruega.",
+                        "Metadata": "T1E14 45 min"
+                    },
+                    {
+                        "Titulo": "El caso de la Corona Irlandesa",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058fe63e6600131358de",
+                        "Descripción": "Sídney y Nigel se dirigen a Dublín, Irlanda, en busca de la corona perdida del último rey de Irlanda.",
+                        "Metadata": "T1E15 45 min"
+                    },
+                    {
+                        "Titulo": "Un acto de magia",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058be63e66001313588e",
+                        "Descripción": "Acompañando a Max el mago, Sídney y Nigel viajan a Atlantic City, Nueva Jersey en busca del cetro real perdido y supuestamente maldito de Hungría.",
+                        "Metadata": "T1E16 45 min"
+                    },
+                    {
+                        "Titulo": "Carta de Amor",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058ae63e66001313584e",
+                        "Descripción": "Sídney y Nigel van a Francia para buscar los votos matrimoniales perdidos de Josephine Pontoise y Guy de Bourdin, lo que probaría que su heredero es el legítimo propietario de St. Agnes Sur-Loire.",
+                        "Metadata": "T1E17 45 min"
+                    },
+                    {
+                        "Titulo": "Una buena cosecha",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058ae63e6600131357ba",
+                        "Descripción": "Sídney y Nigel viajan a Francia para encontrar las piedras perdidas de la Corona de María Antonieta.",
+                        "Metadata": "T1E18 45 min"
+                    },
+                    {
+                        "Titulo": "Nada Más que la Verdad",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/60900590e63e66001313599b",
+                        "Descripción": "Sídney y Nigel se reencuentran con Stewie Harper en la búsqueda del Cáliz de la Verdad en Francia.",
+                        "Metadata": "T1E19 45 min"
+                    },
+                    {
+                        "Titulo": "El Último Caballero",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/60900590e63e660013135971",
+                        "Descripción": "Sídney y Nigel van a París, Francia, tras la Espada de Jacques de Molay, Gran Maestro de los Caballeros Templarios. La cazadora de reliquias rival Rita Rosellini también quieren la espada.",
+                        "Metadata": "T1E20 45 min"
+                    },
+                    {
+                        "Titulo": "Poseídos",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/6090058ae63e6600131357cf",
+                        "Descripción": "Sídney y Nigel están en Bruselas, Bélgica, en busca del sagrado reloj de sol de Zeus para detener a los vampiros.",
+                        "Metadata": "T1E21 45 min"
+                    },
+                    {
+                        "Titulo": "Recuerdos del Sagrado Corazón",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/1/episode/60900590e63e660013135947",
+                        "Descripción": "Sídney y Nigel se dirigen a París, Francia, para encontrar un relicario robado, para que puedan limpiar de los cargos a la abuela muerta de Sídney.",
+                        "Metadata": "T1E22 45 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "La devolución",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a7e63e660013135ad7",
+                        "Descripción": "Kuba, África 100 d.C.: Los adoradores de Woote maldicen a su ídolo para protegerlo. 2000: Ross Crawford llega a Sídney, porque tomó el ídolo y la maldición aceleró su envejecimiento.",
+                        "Metadata": "T2E1 45 min"
+                    },
+                    {
+                        "Titulo": "La leyenda del pueblo perdido",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b5c",
+                        "Descripción": "Sídney y Nigel se propusieron averiguar si la leyenda de la civilización perdida en Nueva Guinea es realmente cierta. Desafortunadamente, tienen que formar equipo con Derek Lloyd.",
+                        "Metadata": "T2E2 45 min"
+                    },
+                    {
+                        "Titulo": "Daga de la Muerte",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b9f",
+                        "Descripción": "India, 500 d.C.: Se utiliza una daga preciosa en los sacrificios humanos a la diosa Kali. Sídney debe devolver una reliquia a la India para su compañero cazador, quien cree que la daga lo hizo matar a su asistente.",
+                        "Metadata": "T2E3 45 min"
+                    },
+                    {
+                        "Titulo": "Último de los Mochicas",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005abe63e660013135c28",
+                        "Descripción": "En la búsqueda de una reliquia de protección de los indios mochica sudamericanos, Nigel y sus colegas son capturados por guerrilleros locales. Depende de Sídney y su aliado Jason Clark salvarlos.",
+                        "Metadata": "T2E4 45 min"
+                    },
+                    {
+                        "Titulo": "Tierra Fértil",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b1d",
+                        "Descripción": "Sídney se reúne con su novia de la escuela secundaria para localizar a un ídolo de la fertilidad hawaiano en Madagascar.",
+                        "Metadata": "T2E5 45 min"
+                    },
+                    {
+                        "Titulo": "El acertijo gitano",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b8a",
+                        "Descripción": "Sídney recibe una baraja de cartas del Tarot raras de su amigo recientemente fallecido. El Buitre infame y no mencionado anteriormente estaba tras él. Sídney pide ayuda a Claudia.",
+                        "Metadata": "T2E6 45 min"
+                    },
+                    {
+                        "Titulo": "Tres ríos",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005abe63e660013135c67",
+                        "Descripción": "Según los monjes locales, la famosa Emperatriz de Jade está escondida en el valle que se inundará cuando las compuertas de la presa Three Rivers tenga su gran inauguración.",
+                        "Metadata": "T2E7 45 min"
+                    },
+                    {
+                        "Titulo": "Contacto Perdido",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005aae63e660013135bdf",
+                        "Descripción": "Sídney, Nigel y el empresario multimillonario Rod Thorson se lanzan en paracaídas hacia la jungla de Myanmar para rescatar a un equipo de caza de reliquias contratado por Thorson para localizar un antiguo cuenco de sacrificio.",
+                        "Metadata": "T2E8 45 min"
+                    },
+                    {
+                        "Titulo": "Cruz de Vudú",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b47",
+                        "Descripción": "Cuando dos estudiantes graduados que siguen el rastro de la Cruz Haitiana de Utu desaparecen en Nueva Orleans, Sídney y Nigel bajan al pantano para encontrarlos.",
+                        "Metadata": "T2E9 45 min"
+                    },
+                    {
+                        "Titulo": "Vacaciones en Roma",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135bb5",
+                        "Descripción": "Sídney y Nigel están de viaje, así que Claudia decide ayudar al amigo de Sídney, Roger, a encontrar la armadura de Julio César, pero la caza de reliquias no es su talento.",
+                        "Metadata": "T2E10 45 min"
+                    },
+                    {
+                        "Titulo": "La Cosa del Carrete",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b75",
+                        "Descripción": "Trabajando como consultores para una película de aventuras de arqueología, Sídney y Nigel se dan cuenta de que los \"accesorios\" del faraón Amun II son reliquias genuinas que se pensaban perdidas durante mucho tiempo. Pero, ¿Cómo puede ser?",
+                        "Metadata": "T2E11 45 min"
+                    },
+                    {
+                        "Titulo": "Fuera del Pasado",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005abe63e660013135c91",
+                        "Descripción": "Claudia descubre que fue la sirvienta de Cleopatra en una vida pasada cuando experimenta un deja vu mientras mira un catálogo de una exposición de reliquias del Antiguo Egipto.",
+                        "Metadata": "T2E12 45 min"
+                    },
+                    {
+                        "Titulo": "Ojos de Toklamanee",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b08",
+                        "Descripción": "Sídney y su alumno Adam están en los legendarios Ojos de Toklamanee de sus antepasados, pero son perseguidos por misteriosos pistoleros.",
+                        "Metadata": "T2E13 45 min"
+                    },
+                    {
+                        "Titulo": "Ejecutar Sídney Run",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005aae63e660013135bca",
+                        "Descripción": "Sídney y Nigel son emboscados en Rusia. Dos semanas más tarde, Sídney se despierta en la casa de un hombre llamado Tsarlov, que afirma haberla salvado.",
+                        "Metadata": "T2E14 45 min"
+                    },
+                    {
+                        "Titulo": "Desaparecido en Combate",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a9e63e660013135b32",
+                        "Descripción": "Sídney es secuestrada, pero ¿quién fue? Nigel, Claudia y Cate tendrán que revisar la lista de enemigos que Sídney ha creado en el pasado y deducir cuál de ellos es el responsable. Las escenas en retrospectiva se inician.",
+                        "Metadata": "T2E15 45 min"
+                    },
+                    {
+                        "Titulo": "No Vayas al Bosque",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005abe63e660013135c52",
+                        "Descripción": "El amigo de Sídney telefonea para informarle que ha descubierto información sobre el Golden Hawk de Maribor, perdido desde 1711. Sídney y Nigel viajan a Lubjanka para encontrarse con él, pero él ya se ha ido.",
+                        "Metadata": "T2E16 45 min"
+                    },
+                    {
+                        "Titulo": "Conexión Francés",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a7e63e660013135ac2",
+                        "Descripción": "Durante una gira de conferencias con Nigel en Europa, el MI5 se comunica con Sídney porque es la única que puede evitar un inminente asesinato de alto nivel.",
+                        "Metadata": "T2E17 45 min"
+                    },
+                    {
+                        "Titulo": "Vuelo de Medianoche",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005abe63e660013135c3d",
+                        "Descripción": "Germania, ca. 400 d.C.: un artefacto llamado Cetro de Gunther está sellado en una bóveda. Kleine Burgh, 2001: Sídney y Nigel son contratados para encontrarlo usando un cristal y una tableta de piedra.",
+                        "Metadata": "T2E18 45 min"
+                    },
+                    {
+                        "Titulo": "La Máscara del Verdugo",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a8e63e660013135af2",
+                        "Descripción": "Cuando la cara de una modelo se desfigura después de ponerse la máscara de un verdugo francés, Sídney y Nigel intentarán encontrar la tumba para revertir la maldición.",
+                        "Metadata": "T2E19 45 min"
+                    },
+                    {
+                        "Titulo": "El Anillo Real",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005a6e63e660013135aaa",
+                        "Descripción": "Cuando el Museo Británico consigue que Sídney y Nigel ayuden a buscar en los sitios Tudor un anillo del rey Enrique VIII, Nigel se enfrenta a su molesto hermano mayor seguro de sí mismo, Preston Bailey.",
+                        "Metadata": "T2E20 45 min"
+                    },
+                    {
+                        "Titulo": "Grabado en Piedra",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005aae63e660013135bf4",
+                        "Descripción": "En un monasterio, el caballero Gabriel empala a un demonio, que luego se convierte en piedra. En 2001, Nigel y Sídney llegan con una carta de un monje, pero el abad afirma que es una falsificación y los excluye.",
+                        "Metadata": "T2E21 45 min"
+                    },
+                    {
+                        "Titulo": "Fecha Límite",
+                        "Link": "/latam/on-demand/series/608ab1ec565bff0013119818/season/2/episode/609005abe63e660013135c7c",
+                        "Descripción": "Allan llega a Sydney y le dice que tiene 12 horas antes de que un virus Necron lo mate, a menos que entregue Tau a un chantajista que tenga el antídoto.",
+                        "Metadata": "T2E22 45 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Juda",
@@ -74,9 +403,58 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/details?lang=en",
             "descripcion": "Juda es un jugador que se gana la vida en el inframundo criminal. Tomando dinero prestado de la mafia francesa para un lugar en un juego de póquer de alto riesgo, gana a lo grande pero la suerte se le acaba cuando se topa con una vampiresa.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab48",
+                        "Descripción": "Juda, un jugador y estafador pide prestado dinero a la mafia francesa y vuela a un casino en Rumania para hacer la mayor apuesta de su vida, y se involucra con una mujer misteriosa.",
+                        "Metadata": "T1E1 58 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5e1c1caa0013f7abd8",
+                        "Descripción": "La mafia francesa está detrás de Juda. Se las arregla para escapar y es secuestrado por un misterioso rabino, quien le explica cómo usar sus nuevos poderes.",
+                        "Metadata": "T1E2 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab7b",
+                        "Descripción": "Juda y Asher obtienen nuevos pasaportes que les ayudarán a empezar de nuevo. Los vampiros siguen persiguiendo a Juda y el Sr. Jacque llega a Israel para ocuparse de los negocios él mismo.",
+                        "Metadata": "T1E3 38 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab66",
+                        "Descripción": "Después de que arrestan a Asher, Juda está huyendo hacia un escondite, que termina con un encuentro sorprendente con Tanja el vampiro.",
+                        "Metadata": "T1E4 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5e1c1caa0013f7abf1",
+                        "Descripción": "Juda va a liberar a Asher de la cárcel, con la policía detrás de él. Los vampiros se unen a la persecución y las cosas empeoran.",
+                        "Metadata": "T1E5 37 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab94",
+                        "Descripción": "El rabino está enojado con Juda y lo pone a prueba. Juda se sorprende después de una misteriosa visita a la casa del rabino.",
+                        "Metadata": "T1E6 50 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5e1c1caa0013f7ac0b",
+                        "Descripción": "Juda se encuentra con los vampiros. Mientras tanto, Orit comienza a atar cabos sueltos en la investigación.",
+                        "Metadata": "T1E7 39 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7abad",
+                        "Descripción": "Juda decide aceptar al animal que lleva dentro y sale a arreglar las cosas con sus perseguidores, pero finalmente descubre un secreto que nadie le contó.",
+                        "Metadata": "T1E8 54 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Supernova",
@@ -87,9 +465,22 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5faec47a9d991c001a9dd086/details?lang=en",
             "descripcion": "El ganador del Globo de Oro Peter Fonda protagoniza esta mini serie de ciencia ficción distópica. Un astrofísico determina que el sol está listo para explotar y que el final de la civilización es una posibilidad real.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/5faec47a9d991c001a9dd086/season/1/episode/5faec47b9d991c001a9dd090",
+                        "Descripción": "El ganador del Globo de Oro Peter Fonda protagoniza esta mini serie de ciencia ficción distópica. Un astrofísico determina que el sol está listo para explotar y que el final de la civilización es una posibilidad real.",
+                        "Metadata": "T1E1 1hr 26 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/5faec47a9d991c001a9dd086/season/1/episode/5faec47b9d991c001a9dd0b6",
+                        "Descripción": "El ganador del Globo de Oro Peter Fonda protagoniza esta mini serie de ciencia ficción distópica. Un astrofísico determina que el sol está listo para explotar y que el final de la civilización es una posibilidad real.",
+                        "Metadata": "T1E2 1hr 26 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Continuum",
@@ -100,9 +491,70 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5f43dc979dd795001ab4ad3f/details?lang=en",
             "descripcion": "Kiera Cameron es una policía del futuro atrapada en el actual Vancouver. Kiera debe sobrevivir en nuestro período de tiempo y evitar que los terroristas alteren la historia lo suficiente como para cambiar el curso del futuro.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Una Puntada en el Tiempo",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc9a9dd795001ab4ad95",
+                        "Descripción": "La oficial Kiera Cameron y el grupo terrorista Liber8 son transportados en el tiempo. Kiera se encuentra rápidamente en una nueva misión, con una nueva identidad.",
+                        "Metadata": "T1E1 44 min"
+                    },
+                    {
+                        "Titulo": "Tiempos Rápidos",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc999dd795001ab4ad61",
+                        "Descripción": "Cuando Kiera descubre el plan de Liber8 para regresar a 2077, debe decidir si se alineará o no con sus enemigos.",
+                        "Metadata": "T1E2 44 min"
+                    },
+                    {
+                        "Titulo": "Perdiendo el Tiempo",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc9a9dd795001ab4ae03",
+                        "Descripción": "Kiera y Carlos investigan una serie de asesinatos misteriosos en los que las víctimas han sufrido una extraña lesión. Kellog le entrega un regalo a Kiera.",
+                        "Metadata": "T1E3 44 min"
+                    },
+                    {
+                        "Titulo": "Cuestión de tiempo",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc999dd795001ab4ad79",
+                        "Descripción": "Un científico que trabaja en una fuente de energía limpia es asesinado. Kiera debe decidir entre la justicia en el presente o la preservación de su futuro.",
+                        "Metadata": "T1E4 44 min"
+                    },
+                    {
+                        "Titulo": "Una Prueba de Tiempo",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc9a9dd795001ab4add4",
+                        "Descripción": "Liber se da cuenta de una vulnerabilidad, la posibilidad de que si sus antepasados ​​que viven en este momento son asesinados, podrían dejar de existir.",
+                        "Metadata": "T1E5 44 min"
+                    },
+                    {
+                        "Titulo": "Se Acabó el Tiempo",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc9a9dd795001ab4adaa",
+                        "Descripción": "Cuando el CEO de una gran corporación es secuestrado por Liber, Kiera y Carlos tienen que vencer el reloj para salvarla.",
+                        "Metadata": "T1E6 44 min"
+                    },
+                    {
+                        "Titulo": "La política del tiempo",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc9a9dd795001ab4adee",
+                        "Descripción": "Kiera lucha con confianza y lealtad mientras la evidencia apunta a Carlos en la muerte de un reportero investigador.",
+                        "Metadata": "T1E7 44 min"
+                    },
+                    {
+                        "Titulo": "Tiempo de juego",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dc9a9dd795001ab4adbf",
+                        "Descripción": "Cuando dos asesinato-suicidios ocurren el mismo día, Kiera y Carlos investigan el único vínculo entre los dos, una compañía de videojuegos.",
+                        "Metadata": "T1E8 44 min"
+                    },
+                    {
+                        "Titulo": "Tiempo Familiar",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dca09dd795001ab4ae89",
+                        "Descripción": "Alertados de una compra masiva de fertilizantes que creen que pueden usarse para construir una bomba, Kiera y Carlos visitan la granja de Roland.",
+                        "Metadata": "T1E9 44 min"
+                    },
+                    {
+                        "Titulo": "Fin de los Tiempos",
+                        "Link": "/latam/on-demand/series/5f43dc979dd795001ab4ad3f/season/1/episode/5f43dca09dd795001ab4aea3",
+                        "Descripción": "Kiera lucha contra un reloj para detener un ataque terrorista. El lugar de Alec y Julian en la historia parece estar destinado a ser definido por un ataque horrible.",
+                        "Metadata": "T1E10 44 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Mutant X",
@@ -113,7 +565,7 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/61165dd6cfc2d60014018736/details?lang=en",
             "descripcion": "Un genetista fugitivo y cuatro de sus \"creaciones\" buscan a otros de su especie mientras intentan ir un paso por delante de un agente del gobierno moralmente ambiguo.",
-            "temporadas": null
+            "temporadas": {}
         },
         {
             "titulo": "El Señor de las Bestias",
@@ -124,10 +576,276 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/details?lang=en",
             "descripcion": "Dar, el beastmaster y sus amigos luchan por mantener un equilibrio entre las necesidades, a menudo conflictivas, de humanos y animales.Estas aventuras se desarrollan en un mundo antiguo de gran belleza.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "La Leyenda continua",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be50f0b2a6c001ab92a3f",
+                        "Descripción": "Dar se hace amigo del inquisitivo y torpe Tao cuando comienza su búsqueda para rescatar a su amor perdido, Kyra, quien ha sido secuestrada y esclavizada por los brutales guerreros Terron.",
+                        "Metadata": "T1E1 43 min"
+                    },
+                    {
+                        "Titulo": "Obsesión",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be50f0b2a6c001ab92a20",
+                        "Descripción": "Dar trabaja junto con Akili,un guerrero desterrado por los Terron, para rescatar a Kyra.",
+                        "Metadata": "T1E2 43 min"
+                    },
+                    {
+                        "Titulo": "La Isla",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be50e0b2a6c001ab92a09",
+                        "Descripción": "Con la ayuda de sus amigos animales, Dar rescata a Tao de una isla habitada por los asesinos Hombres Pájaro.",
+                        "Metadata": "T1E3 43 min"
+                    },
+                    {
+                        "Titulo": "Una Simple Verdad",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be50d0b2a6c001ab929d8",
+                        "Descripción": "Kyra logra escapar de Zad y del campamento Terron y se reúne brevemente con Dar, pero la Hechicera tiene otros planes para la pareja.",
+                        "Metadata": "T1E4 43 min"
+                    },
+                    {
+                        "Titulo": "Amazonas",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be50c0b2a6c001ab929b4",
+                        "Descripción": "Dar y sus compañeros entran en el valle de las amazonas. Su sacerdotisa ha prometido que ningún hombre escapará vivo del valle.",
+                        "Metadata": "T1E5 43 min"
+                    },
+                    {
+                        "Titulo": "El Demonio Curupira",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be50a0b2a6c001ab92961",
+                        "Descripción": "Dar debe luchar para proteger a un joven de la ira de un demonio llamado Curupira, a quien recuerda que le dio sus poderes sobre las bestias después de una agotadora prueba de tres días.",
+                        "Metadata": "T1E6 43 min"
+                    },
+                    {
+                        "Titulo": "El Umpatra",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5080b2a6c001ab928f1",
+                        "Descripción": "Dar debe convocar todas sus habilidades para poner fin a los asesinatos de Umpatra, el mayor guerrero del mundo, que está secretamente respaldado por la magia del malvado demonio Ketzwayo.",
+                        "Metadata": "T1E7 43 min"
+                    },
+                    {
+                        "Titulo": "Los Últimos Unicornios",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5080b2a6c001ab9290a",
+                        "Descripción": "Dar se propone salvar a los Últimos Unicornios en Downs de los Terron que buscan las propiedades curativas mágicas de sus cuernos.",
+                        "Metadata": "T1E8 43 min"
+                    },
+                    {
+                        "Titulo": "El Círculo de la Vida",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5080b2a6c001ab9291f",
+                        "Descripción": "A instancias de la Aparición Negra, Ketzwayo regresa de entre los muertos con una magia mortal diseñada para matar a Dar y a todo el reino animal de Mydlands.",
+                        "Metadata": "T1E9 43 min"
+                    },
+                    {
+                        "Titulo": "El Enigma de la Ninfa",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5080b2a6c001ab928c5",
+                        "Descripción": "Dar y Tao encuentran a Muraki, una niña huyendo con un secreto.",
+                        "Metadata": "T1E10 43 min"
+                    },
+                    {
+                        "Titulo": "Valhalla",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5080b2a6c001ab928dc",
+                        "Descripción": "Ayudado por un místico chamán, Dar viaja a Valhalla, donde acepta sus recuerdos de la salvaje matanza de su tribu Sula a manos de los ejércitos Terron del rey Zad.",
+                        "Metadata": "T1E11 43 min"
+                    },
+                    {
+                        "Titulo": "El Asesino",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5070b2a6c001ab928aa",
+                        "Descripción": "Dar se encuentra con Zuraya, una mujer cautelosa hacia la que siente una extraña atracción.",
+                        "Metadata": "T1E12 43 min"
+                    },
+                    {
+                        "Titulo": "El Minotauro",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5070b2a6c001ab92882",
+                        "Descripción": "La ayuda proviene del lugar más improbable cuando Dar se dispone a rescatar a Tao del laberinto del Minotauro del Rey Zad.",
+                        "Metadata": "T1E13 43 min"
+                    },
+                    {
+                        "Titulo": "El Guardián",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5050b2a6c001ab9283d",
+                        "Descripción": "Dar y Tao se topan con un grupo de peregrinos y terminan siguiendo el rastro de una bestia asesina.",
+                        "Metadata": "T1E14 43 min"
+                    },
+                    {
+                        "Titulo": "El Camaleón",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5010b2a6c001ab92792",
+                        "Descripción": "El Rey Zad, atormentado por los sueños de su propia muerte a manos de un niño desconocido, busca la ayuda de la Hechicera.",
+                        "Metadata": "T1E15 43 min"
+                    },
+                    {
+                        "Titulo": "Un Trato con el Diablo",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5010b2a6c001ab9277d",
+                        "Descripción": "Otra incursión de los Terron en el reino del Príncipe Mahgah arroja un extraño hallazgo: una mujer muda con branquias y manos palmeadas.",
+                        "Metadata": "T1E16 43 min"
+                    },
+                    {
+                        "Titulo": "Lagrimas de Mar",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5000b2a6c001ab9272c",
+                        "Descripción": "Entre una tribu cuyas historias cuentan sobre la protección de los ancestros que merodean el mar como delfines, un misterioso delfín ayuda a Dar a descubrir a un asesino disfrazado de amigo.",
+                        "Metadata": "T1E17 43 min"
+                    },
+                    {
+                        "Titulo": "El Bosque en Llamas",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5010b2a6c001ab92766",
+                        "Descripción": "La Hechicera se sorprende cuando Sharak aparece ante ella y la lleva en un viaje al Bosque en Llamas.",
+                        "Metadata": "T1E18 43 min"
+                    },
+                    {
+                        "Titulo": "El Fénix Dorado",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5020b2a6c001ab927ca",
+                        "Descripción": "Mientras Tao le presenta a Dar los puntos más finos de la cartografía, Garuda, un fénix dorado disfrazado de hombre, comienza a acechar al desprevenido dúo.",
+                        "Metadata": "T1E19 43 min"
+                    },
+                    {
+                        "Titulo": "Géminis",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5020b2a6c001ab927e1",
+                        "Descripción": "Tal terror golpea a Mydlands que incluso los Terron están corriendo asustados. Dar encuentra los restos esqueléticos de dos Terron caídos asesinados con flechas y enredaderas venenosas.",
+                        "Metadata": "T1E20 43 min"
+                    },
+                    {
+                        "Titulo": "Rescate",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5000b2a6c001ab92742",
+                        "Descripción": "La disensión en las filas de los Terron finalmente llega a primer plano y enreda a Dar y Tao.",
+                        "Metadata": "T1E21 43 min"
+                    },
+                    {
+                        "Titulo": "Revelaciones",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/1/episode/5f3be5000b2a6c001ab92717",
+                        "Descripción": "El Anciano visita a la Hechicera dormida y lleva su espíritu con él al campamento de Dar, donde revela a los dos espíritus una muestra de lo que vendrá.",
+                        "Metadata": "T1E22 43 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "Humanoides",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4fd0b2a6c001ab926c0",
+                        "Descripción": "La violencia estalla cuando dos nuevas razas ingresan a los Territorios, llevando a Dar y Tao a una lucha de poder.",
+                        "Metadata": "T2E1 43 min"
+                    },
+                    {
+                        "Titulo": "Iara",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4fc0b2a6c001ab92698",
+                        "Descripción": "Dar y Tao buscan hombres desaparecidos en una isla habitada por la mortal demonio serpiente Iara y una colonia de mujeres extrañas y exóticas.",
+                        "Metadata": "T2E2 43 min"
+                    },
+                    {
+                        "Titulo": "Vidente",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4fb0b2a6c001ab92672",
+                        "Descripción": "Dar protege a Olwen, una Vidente perseguida por los Nords y los Terrons, quienes planean explotar sus poderes para sus propios fines egoístas.",
+                        "Metadata": "T2E3 43 min"
+                    },
+                    {
+                        "Titulo": "Orfeo",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4fb0b2a6c001ab92649",
+                        "Descripción": "El amante de Arina regresa del más allá para llevarla de regreso con él al mundo debajo del mundo.",
+                        "Metadata": "T2E4 43 min"
+                    },
+                    {
+                        "Titulo": "Xinca",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f80b2a6c001ab925f7",
+                        "Descripción": "Tao regresa a su tierra natal de Xinca para descubrir que ahora está bajo el gobierno del malvado Sacerdote, Maloc.",
+                        "Metadata": "T2E5 43 min"
+                    },
+                    {
+                        "Titulo": "Los Fantasmas del Bosque",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f70b2a6c001ab925c7",
+                        "Descripción": "Se necesita el espíritu decidido de un tigre moribundo para ayudar a Tao a reconocer un nuevo propósito en su propia vida.",
+                        "Metadata": "T2E6 43 min"
+                    },
+                    {
+                        "Titulo": "Ira",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f70b2a6c001ab92573",
+                        "Descripción": "Dar y Tao prueban que la conversación es una cura poderosa cuando se ven envueltos en una amarga disputa familiar.",
+                        "Metadata": "T2E7 43 min"
+                    },
+                    {
+                        "Titulo": "Tigre Blanco",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f70b2a6c001ab925ae",
+                        "Descripción": "El Señor de las Bestias es acosado por la malvada demonio Iara, que planea ganarlo para ella.",
+                        "Metadata": "T2E8 43 min"
+                    },
+                    {
+                        "Titulo": "Corazón de León",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f50b2a6c001ab9252d",
+                        "Descripción": "Un cachorro de león va en busca del Señor de las Bestias para salvar a su madre de las garras del malvado déspota Arkon.",
+                        "Metadata": "T2E9 43 min"
+                    },
+                    {
+                        "Titulo": "Razas Extintas",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f60b2a6c001ab92559",
+                        "Descripción": "Voden atrae al Señor de las Bestias amenazando a los animales del bosque; Dar promete salvar a un tigre raro de la flecha de un cazador vengativo.",
+                        "Metadata": "T2E10 43 min"
+                    },
+                    {
+                        "Titulo": "Gólgota",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f70b2a6c001ab92597",
+                        "Descripción": "Dar lucha por restablecer el equilibrio de la naturaleza cuando un pueblo pierde a su gente por los cocodrilos hambrientos del río.",
+                        "Metadata": "T2E11 43 min"
+                    },
+                    {
+                        "Titulo": "El Hermano de Tao",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f50b2a6c001ab92514",
+                        "Descripción": "Un líder Eiron emerge para reclamar la tierra natal de Tao, Xinca, de los malvados Sacerdotes de Sangre.",
+                        "Metadata": "T2E12 43 min"
+                    },
+                    {
+                        "Titulo": "Niño Salvaje",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f50b2a6c001ab924ec",
+                        "Descripción": "Dar promete reunir a Huna con su hijo perdido hace mucho tiempo, criado desde la infancia por los lobos y ahora perseguido por un enemigo asesino.",
+                        "Metadata": "T2E13 43 min"
+                    },
+                    {
+                        "Titulo": "Compañero de Vida",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f40b2a6c001ab924b9",
+                        "Descripción": "Dar ayuda a Lyca a escapar de la tiranía de la tribu de la gente león.",
+                        "Metadata": "T2E14 43 min"
+                    },
+                    {
+                        "Titulo": "Centauros",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4ef0b2a6c001ab92383",
+                        "Descripción": "Dar ayuda a Sagitto y Radia, arqueros centauros, que se han visto obligados a salir de la seguridad de su tierra natal.",
+                        "Metadata": "T2E15 43 min"
+                    },
+                    {
+                        "Titulo": "El Quinto Elemento",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4ef0b2a6c001ab9239b",
+                        "Descripción": "Anubis es liberado de su prisión de rocas para reclamar el control sobre los cuatro elementos de la naturaleza.",
+                        "Metadata": "T2E16 43 min"
+                    },
+                    {
+                        "Titulo": "Un Terrible Silencio",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4ef0b2a6c001ab9241e",
+                        "Descripción": "Iara despoja a Dar de su poder para comunicarse con los animales y, sin saberlo, desequilibra toda la naturaleza.",
+                        "Metadata": "T2E17 43 min"
+                    },
+                    {
+                        "Titulo": "Pájaros",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4f00b2a6c001ab92435",
+                        "Descripción": "Dar debe corregir un desequilibrio en la naturaleza causado por un ángel vengador.",
+                        "Metadata": "T2E18 43 min"
+                    },
+                    {
+                        "Titulo": "Mydoro",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4ef0b2a6c001ab92409",
+                        "Descripción": "La ciudad perdida Eiron de Mydoro posee las llaves de la curación mundial y la devastación mundial.",
+                        "Metadata": "T2E19 43 min"
+                    },
+                    {
+                        "Titulo": "El Juego de la Muerte",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4ef0b2a6c001ab923cf",
+                        "Descripción": "Dar se infiltra en la ciudad de Chalka para liberar a los tigres sagrados y liberar a la Reina Lyoka de su reinado de la muerte.",
+                        "Metadata": "T2E20 43 min"
+                    },
+                    {
+                        "Titulo": "Regeneración",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4ef0b2a6c001ab923e4",
+                        "Descripción": "Arina es perseguida tanto por La Aparición, que persigue a su hijo por nacer, como por Volden, que persigue al potro de su yegua.",
+                        "Metadata": "T2E21 43 min"
+                    },
+                    {
+                        "Titulo": "Choque de Titanes",
+                        "Link": "/latam/on-demand/series/5f3be4ed0b2a6c001ab9235f/season/2/episode/5f3be4ef0b2a6c001ab923b0",
+                        "Descripción": "Zad intenta aplastar a su adversario, Voden, y obliga a los elefantes a derribar los muros de Xinca.",
+                        "Metadata": "T2E22 43 min"
+                    }
+                ]
+            }
         }
     ]
 }

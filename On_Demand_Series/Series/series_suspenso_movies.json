@@ -10,9 +10,22 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/64652430188649001a2b8f29/details?lang=en",
             "descripcion": "Un agente de policía acusado de asesinato debe demostrar su inocencia y encontrar al verdadero asesino.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/64652430188649001a2b8f29/season/1/episode/64652431188649001a2b8f48",
+                        "Descripción": "Un agente de policía acusado de asesinato debe demostrar su inocencia y encontrar al verdadero asesino.",
+                        "Metadata": "S1E1 1hr 30 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/64652430188649001a2b8f29/season/1/episode/6465243f188649001a2b92e0",
+                        "Descripción": "El teniente Alan ha sido acusado del asesinato de su jefe. Ahora debe demostrar su inocencia y encontrar al verdadero autor.",
+                        "Metadata": "S1E2 1hr 28 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Las Muertes de Medusa",
@@ -23,9 +36,58 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/64651d32a7ef77001a744d1d/details?lang=en",
             "descripcion": "A raíz de una serie de asesinatos violentos, un equipo de investigación élite de homicidios descubre una poderosa organización criminal.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episode 1",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530df649e97001b31fdb7",
+                        "Descripción": "A raíz de una serie de asesinatos violentos, un equipo de investigación élite de homicidios descubre una poderosa organización criminal.",
+                        "Metadata": "T1E1 57 min"
+                    },
+                    {
+                        "Titulo": "Episode 2",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530dc649e97001b31fc3a",
+                        "Descripción": "El equipo investiga al asesino de una estudiante de secundaria que fue encontrada violada y golpeada en un estanque.",
+                        "Metadata": "T1E2 57 min"
+                    },
+                    {
+                        "Titulo": "Episode 3",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530e2649e97001b31ff37",
+                        "Descripción": "El equipo investiga el brutal asesinato de un administrador local encontrado en un antiguo castillo.",
+                        "Metadata": "T1E3 58 min"
+                    },
+                    {
+                        "Titulo": "Episode 4",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530e4649e97001b320024",
+                        "Descripción": "La muerte de una anciana local revela disputas familiares y secretos del pasado de la víctima y su asesino",
+                        "Metadata": "T1E4 59 min"
+                    },
+                    {
+                        "Titulo": "Episode 5",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530eb649e97001b3201cb",
+                        "Descripción": "En el ensayo general de reinado de belleza, una de las participantes se lastima y luego muere. El equipo investiga un entorno lleno de rivalidad y resentimientos.",
+                        "Metadata": "T1E5 1hr"
+                    },
+                    {
+                        "Titulo": "Episode 6",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530ee649e97001b32028d",
+                        "Descripción": "Un secreto desgarrador vincula la construcción de un campo de golf que destruye un bosque local y la muerte de un trabajador forestal.",
+                        "Metadata": "T1E6 52 min"
+                    },
+                    {
+                        "Titulo": "Episode 7",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/64651d33a7ef77001a744d3c",
+                        "Descripción": "Durante el rodaje de una película, un productor recibe un disparo en la cabeza. La investigación revela un intrincado mundo de secretos y abusos.",
+                        "Metadata": "T1E7 56 min"
+                    },
+                    {
+                        "Titulo": "Episode 8",
+                        "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/64651d42a7ef77001a744e3c",
+                        "Descripción": "Tras un accidente automovilístico, el cadáver de un hombre es encontrado. Sin embargo, los motivos de su fallecimiento parecen ser diferentes al choque.",
+                        "Metadata": "T1E8 1hr"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Los Misterios de Praga",
@@ -36,9 +98,64 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/64651a58f2a541001b7d2df6/details?lang=en",
             "descripcion": "Praga, década de 1920. El inspector Budik investiga una serie de asesinatos más atroces.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episode 1",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/646525ae188649001a2ba6d3",
+                        "Descripción": "Praga, década de 1920. El inspector Budik investiga una serie de asesinatos más atroces.",
+                        "Metadata": "T1E1 1hr 5 min"
+                    },
+                    {
+                        "Titulo": "Episode 2",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/646525ab188649001a2ba552",
+                        "Descripción": "El cuerpo de un niño es descubierto en un estanque en las afueras de Praga. El desgarrador caso tiene connotaciones sexuales que el inspector Budik debe desentrañar.",
+                        "Metadata": "T1E2 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Episode 3",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/646525c8188649001a2bae87",
+                        "Descripción": "Un robo sale mal y termina con el asesinato de un hombre. Los motivos parecen estar ocultos en un libro religioso que se encuentra cerca del cuerpo.",
+                        "Metadata": "T1E3 1hr 6 min"
+                    },
+                    {
+                        "Titulo": "Episode 5",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651a5ef2a541001b7d317e",
+                        "Descripción": "Un héroe de guerra es asesinado. El inspector Budik investiga el crimen que parece estar motivado por la traición.",
+                        "Metadata": "T1E5 1hr 3 min"
+                    },
+                    {
+                        "Titulo": "Episode 6",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651a5af2a541001b7d2ec7",
+                        "Descripción": "Cuandi las ropas de una mujer son encontradas en la orilla del río, el inspector Budik se pregunta si se trata de un caso de suicidio o asesinato.",
+                        "Metadata": "T1E6 1hr 5 min"
+                    },
+                    {
+                        "Titulo": "Episode 7",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651bc5188649001a2b7d69",
+                        "Descripción": "En las afueras de Praga, un granjero es encontrado con un disparo en la cabeza y otro en el pecho. Un matrimonio parece ser la clave de este caso.",
+                        "Metadata": "T1E7 1hr 7 min"
+                    },
+                    {
+                        "Titulo": "Episode 8",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651d2da7ef77001a744c37",
+                        "Descripción": "Un hombre millonario que intenta sacar a su hija de la cárcel es encontrado muerto. El inspector Budik debe averiguar si hay un complot en la prisión detrás del crimen.",
+                        "Metadata": "T1E8 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Episode 9",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651d4fa7ef77001a744f2c",
+                        "Descripción": "Una intrincada red de relaciones y adicciones termina con el asesinato de una mujer profundamente religiosa.",
+                        "Metadata": "T1E9 1hr 7 min"
+                    },
+                    {
+                        "Titulo": "Episode 10",
+                        "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651e92a7ef77001a7450aa",
+                        "Descripción": "Cadáver de un joyero es encontrado con una herida mortal en la cabeza. Los únicos sospechosos son dos monjes solitarios",
+                        "Metadata": "T1E10 1hr 3 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "NCIS",
@@ -49,25 +166,648 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/64413b886113a5001afb0856/details?lang=en",
             "descripcion": "NCIS (Servicio de Investigación Criminal Naval) es más que un drama de acción. Con generosas dosis de humor, se enfoca en la dinámica a veces compleja y siempre divertida de un equipo obligado a trabajar en conjunto en situaciones de alto estrés.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2",
-                "Temporada 3",
-                "Temporada 4"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Yanqui blanco",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413fc964898f001a6cf02b",
+                        "Descripción": "Mientras estaba en el Air Force One, muere un comandante de la Marina. Los agentes del NCIS deciden tomar la investigación en sus propias manos y también obligan a la agente del Servicio Secreto Kate Todd a ayudar.",
+                        "Metadata": "S1E1 44 min"
+                    },
+                    {
+                        "Titulo": "Caída libre",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413ff164898f001a6cfeca",
+                        "Descripción": "Durante un ejercicio de entrenamiento, el paracaídas de un infante de marina no se abre y choca contra un auto estacionado. El equipo de NCIS se dirige a la escena y tiene que determinar si la muerte del infante de marina fue accidental o un asesinato.",
+                        "Metadata": "S1E2 44 min"
+                    },
+                    {
+                        "Titulo": "Lobo de mar",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413fd864898f001a6cf481",
+                        "Descripción": "Cuando el cuerpo de un comandante de la Marina llega a la costa junto con los cuerpos de dos traficantes de drogas, Gibbs se niega a creer que el marinero asesinado era corrupto.",
+                        "Metadata": "S1E3 43 min"
+                    },
+                    {
+                        "Titulo": "Los inmortales",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413feb64898f001a6cfc17",
+                        "Descripción": "El equipo del NCIS investiga cuando se encuentra el cuerpo de un marinero en el fondo del mar vestido de blanco y con una espada ceremonial. Descubren que era adicto a un juego de rol al estilo Magos y Guerreros.",
+                        "Metadata": "S1E4 44 min"
+                    },
+                    {
+                        "Titulo": "La maldición",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413d1bfe0679001a900cf3",
+                        "Descripción": "Un teniente de la Marina desapareció hace casi diez años y un cazador de ciervos encontró el cadáver. Cuando el equipo del NCIS llega al lugar para investigar, ven que sus restos han sido momificados.",
+                        "Metadata": "S1E5 44 min"
+                    },
+                    {
+                        "Titulo": "Alta mar",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413fdd64898f001a6cf636",
+                        "Descripción": "Un agente del NCIS que solía trabajar con Gibbs solicita la ayuda del equipo para investigar un caso en el que los marineros de un portaaviones mueren por una sobredosis de drogas, pero no tienen antecedentes de abuso de ningún tipo de de sustancias.",
+                        "Metadata": "S1E6 43 min"
+                    },
+                    {
+                        "Titulo": "Sub Rosa",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413fe364898f001a6cf8ea",
+                        "Descripción": "Se descubre un cadáver descompuesto en una tina de ácido en una base naval. Ducky y Abby descubren que la víctima era un submarinista.",
+                        "Metadata": "S1E7 44 min"
+                    },
+                    {
+                        "Titulo": "Seguridad mínima",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413fd264898f001a6cf2c4",
+                        "Descripción": "El equipo del NCIS va a Cuba para investigar la conexión entre un traductor de la Marina y el contrabando en un centro de detención después que este muriera repentinamente al volante de su automóvil cuando regresaba a EE. UU. desde la Bahía de Guantánamo.",
+                        "Metadata": "S1E8 44 min"
+                    },
+                    {
+                        "Titulo": "Marino abatido",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64417ad21a5081001ae49739",
+                        "Descripción": "La viuda de un marino recibe una llamada de su esposo muerto y el equipo de NCIS se hace cargo del caso. Tiene que exhumar el cuerpo para deducir si la llamada fue una broma o no.",
+                        "Metadata": "S1E9 43 min"
+                    },
+                    {
+                        "Titulo": "Dada por muerta",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64417ada1a5081001ae499ff",
+                        "Descripción": "Tras ser enterrada viva, una mujer sale de la tumba con amnesia y lo único que recuerda es que hay una bomba a bordo de un barco de la Marina.",
+                        "Metadata": "S1E10 44 min"
+                    },
+                    {
+                        "Titulo": "Ojo espía",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64417540c6f09e001beb56b2",
+                        "Descripción": "Un comandante de la Marina, exasesor técnico de un contratista civil que creaba un escáner de sonar portátil, es hallado sin vida en la playa. El equipo del NCIS investiga el asesinato utilizando tecnología satelital.",
+                        "Metadata": "S1E11 44 min"
+                    },
+                    {
+                        "Titulo": "Mi otro pie izquierdo",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64417c3add38b4001a6a81ae",
+                        "Descripción": "El equipo del NCIS es llamado a la escena cuando encuentran una pierna cortada con un tatuaje de la Marina en un basurero, lo que los lleva a un pequeño pueblo donde se está tramando un asesinato.",
+                        "Metadata": "S1E12 44 min"
+                    },
+                    {
+                        "Titulo": "Un disparo, un muerto",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/644173db72e1ff001a8a185f",
+                        "Descripción": "El equipo investiga cuando un oficial de reclutamiento de la Marina es asesinado a tiros por un francotirador con rencor, quien deja una pluma blanca detrás.",
+                        "Metadata": "S1E13 42 min"
+                    },
+                    {
+                        "Titulo": "El buen samaritano",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64415372fe0679001a9147dc",
+                        "Descripción": "El equipo investiga un asesinato con la ayuda de Charley, un sheriff local, cuando se enteran de casos similares: el de un empleado civil de la Marina y el de un piloto que estaba pasando por un desagradable divorcio.",
+                        "Metadata": "S1E14 43 min"
+                    },
+                    {
+                        "Titulo": "Enigma",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64415375fe0679001a9148bc",
+                        "Descripción": "Gibbs arriesga su carrera cuando su antiguo oficial al mando es acusado de robar fondos.",
+                        "Metadata": "S1E15 44 min"
+                    },
+                    {
+                        "Titulo": "Pesadilla",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/644154d98cd0fd001a5ba59f",
+                        "Descripción": "Un terrorista retiene a Ducky, Gerald y Kate como rehenes mientras el resto del equipo del NCIS intenta descubrir cómo entró el criminal y cómo sacar a su gente de manera segura.",
+                        "Metadata": "S1E16 44 min"
+                    },
+                    {
+                        "Titulo": "La verdad está ahí afuera",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/644154dd8cd0fd001a5ba6fd",
+                        "Descripción": "Encuentran el cadáver de un infante de marina después de una fiesta en un club nocturno ilegal. El equipo investiga una serie de posibles pistas, incluido un chantaje y una muerte accidental.",
+                        "Metadata": "S1E17 43 min"
+                    },
+                    {
+                        "Titulo": "Ex-SEAL",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/644154e28cd0fd001a5ba820",
+                        "Descripción": "El equipo busca a un ex-SEAL que escapó de prisión en busca de venganza. Está decidido a encontrar al verdadero asesino de su esposa.",
+                        "Metadata": "S1E18 44 min"
+                    },
+                    {
+                        "Titulo": "El muerto que habla",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413b996113a5001afb0c55",
+                        "Descripción": "Un agente del NCIS fue asesinado mientras investigaba un caso y el trabajo del equipo es averiguar qué sucedió.",
+                        "Metadata": "S1E19 44 min"
+                    },
+                    {
+                        "Titulo": "Desaparecido",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413b906113a5001afb0a55",
+                        "Descripción": "Un infante de marina desaparece después de una cita con un periodista. Durante la investigación, el equipo descubre que tres exmiembros de su unidad están muertos y sospecha que el comandante es un asesino en serie.",
+                        "Metadata": "S1E20 44 min"
+                    },
+                    {
+                        "Titulo": "Decisión dividida",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413b936113a5001afb0b16",
+                        "Descripción": "Cuando se encuentra el cadáver de un infante de marina asesinado en el bosque, la investigación lleva a la milicia local y a una venta de armas que salió mal.",
+                        "Metadata": "S1E21 44 min"
+                    },
+                    {
+                        "Titulo": "Punto débil",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/1/episode/64413b9e6113a5001afb0ea1",
+                        "Descripción": "Gibbs y su equipo investigan la muerte de un SEAL, que falleció realizando un ejercicio de entrenamiento.",
+                        "Metadata": "S1E22 43 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "Llamada del silencio",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442c27d8cd0fd001a63075a",
+                        "Descripción": "Gibbs y su equipo deben limpiar el nombre de un infante de marina anciano que confiesa haber asesinado a su mejor amigo hace casi 60 años.",
+                        "Metadata": "T2E1 44 min"
+                    },
+                    {
+                        "Titulo": "Club de las buenas esposas",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442c118559c07001af6f1e5",
+                        "Descripción": "El equipo de NCIS investiga el hallazgo del cadáver en descomposición de una mujer. Estaba vestida de novia en una celda debajo de una vivienda militar abandonada.",
+                        "Metadata": "T2E2 42 min"
+                    },
+                    {
+                        "Titulo": "No ver el mal",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442c54a737654001d207cdf",
+                        "Descripción": "Cuando la esposa y la hija ciega de nueve años de un capitán de la Marina son secuestradas, Gibbs y su equipo se enfrentan a un desafío único.",
+                        "Metadata": "T2E3 44 min"
+                    },
+                    {
+                        "Titulo": "Desaparecido",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442c81e6113a5001a02faeb",
+                        "Descripción": "El equipo de NCIS investiga el hallazgo, en medio de unos cultivos, de un helicóptero de la Marina que funciona perfectamente.",
+                        "Metadata": "T2E4 44 min"
+                    },
+                    {
+                        "Titulo": "Teniente Jane Done",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442a228c6f09e001bef9f7d",
+                        "Descripción": "El equipo de NCIS investiga el descubrimiento de un cadáver vestido como un teniente de la Marina aparentemente violado y asesinado.",
+                        "Metadata": "T2E5 44 min"
+                    },
+                    {
+                        "Titulo": "Cementerio de huesos",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442a22bc6f09e001befa074",
+                        "Descripción": "Un cadáver encontrado en un campo de tiro de la Marina lleva al equipo a descubrir un basurero de la mafia.",
+                        "Metadata": "T2E6 43 min"
+                    },
+                    {
+                        "Titulo": "Licencia terminal",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442a225c6f09e001bef9ebf",
+                        "Descripción": "El equipo de NCIS protege a un veterano de la guerra de Irak que es blanco de amenazas terroristas.",
+                        "Metadata": "T2E7 44 min"
+                    },
+                    {
+                        "Titulo": "Corazón roto",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442a22ec6f09e001befa0db",
+                        "Descripción": "Gibbs y su equipo son convocados para examinar la misteriosa muerte de un comandante de la Marina que, después de una exitosa cirugía a corazón abierto, aparentemente estalla en llamas.",
+                        "Metadata": "T2E8 43 min"
+                    },
+                    {
+                        "Titulo": "Encadenado",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442a222c6f09e001bef9ddf",
+                        "Descripción": "El equipo debe trabajar en conjunto para encontrar a Tony, quien desaparece durante una operación encubierta.",
+                        "Metadata": "T2E9 43 min"
+                    },
+                    {
+                        "Titulo": "Entrada forzada",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428e75737654001d1eae5a",
+                        "Descripción": "Gibbs y su equipo son llamados a la escena cuando la esposa de un infante de marina mata a un intruso que intentó violarla.",
+                        "Metadata": "T2E10 44 min"
+                    },
+                    {
+                        "Titulo": "Agua negra",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428e87737654001d1eb406",
+                        "Descripción": "El equipo de NCIS investiga cuando el cadáver de un oficial naval desaparecido durante dos años aparece en el fondo de un lago.",
+                        "Metadata": "T2E11 43 min"
+                    },
+                    {
+                        "Titulo": "Rompecabezas de carne",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428e78737654001d1eaf18",
+                        "Descripción": "Ducky hace un descubrimiento impactante cuando finalmente identifica tres cadáveres mutilados meses atrás metidos en barriles.",
+                        "Metadata": "T2E12 43 min"
+                    },
+                    {
+                        "Titulo": "Sosias",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428e71737654001d1eacfc",
+                        "Descripción": "El equipo de NCIS investiga el posible asesinato de un suboficial en base a la denuncia que hizo un vendedor telefónico que escuchó todo durante un llamado.",
+                        "Metadata": "T2E13 44 min"
+                    },
+                    {
+                        "Titulo": "Testigo",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428e7c737654001d1eafee",
+                        "Descripción": "Gibbs le da a McGee la oportunidad de llevar un caso cuando llaman al equipo de NCIS para investigar el asesinato de un marino, después de que una mujer (estrella invitada Danica McKellar) afirma haber sido testigo del crimen.",
+                        "Metadata": "T2E14 44 min"
+                    },
+                    {
+                        "Titulo": "Grabado",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442d1f5737654001d20b550",
+                        "Descripción": "Gibbs y el equipo investigan la muerte de un infante de marina, quien graba su propio asesinato. Encuentran el cadáver del marino durante un viaje que él hizo con su esposa y su mejor amigo, quienes tuvieron una aventura amorosa.",
+                        "Metadata": "T2E15 42 min"
+                    },
+                    {
+                        "Titulo": "Vida popular",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442d206737654001d20bafd",
+                        "Descripción": "El equipo de NCIS investiga la extraña muerte de una suboficial que fue brutalmente asesinada en la cama del cantinero de un club de baile.",
+                        "Metadata": "T2E16 43 min"
+                    },
+                    {
+                        "Titulo": "Ojo por ojo",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442d217737654001d20c04a",
+                        "Descripción": "El equipo de NCIS investiga el envío un par de globos oculares azules a un marinero en D.C. en un paquete desde Paraguay.",
+                        "Metadata": "T2E17 43 min"
+                    },
+                    {
+                        "Titulo": "Depilación para usar una bikini",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442d212737654001d20bea1",
+                        "Descripción": "El equipo de NCIS investiga la muerte de un suboficial que acaba de regresar al trabajo y cuyo cadáver es hallado detrás del escenario de un concurso local de biquinis.",
+                        "Metadata": "T2E18 43 min"
+                    },
+                    {
+                        "Titulo": "Teoría de la conspiración",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428a42c6f09e001bef55fe",
+                        "Descripción": "El equipo de NCIS investiga el suicidio de un suboficial después de ser internado por un ataque de nervios.",
+                        "Metadata": "T2E19 44 min"
+                    },
+                    {
+                        "Titulo": "Glóbulo rojo",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428a3dc6f09e001bef54ad",
+                        "Descripción": "Gibbs y el equipo regresan a la academia cuando un infante de marina del Cuerpo de Entrenamiento de Oficiales de la Reserva es asesinado en un campus universitario.",
+                        "Metadata": "T2E20 44 min"
+                    },
+                    {
+                        "Titulo": "Héroe de la ciudad",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428bae737654001d1ea8a2",
+                        "Descripción": "Gibbs y el equipo trabajan para limpiar el nombre de un médico de la Armada asesinado en Irak, quien es el principal sospechoso de un asesinato en su ciudad natal.",
+                        "Metadata": "T2E21 44 min"
+                    },
+                    {
+                        "Titulo": "Sellado con un beso",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/6442bb71737654001d2042e1",
+                        "Descripción": "Se entrega una carta sellada con un beso al NCIS. Tony asume que es para él, la abre y se libera un polvo misterioso en la sala de la brigada.",
+                        "Metadata": "T2E22 44 min"
+                    },
+                    {
+                        "Titulo": "Crepúsculo",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/2/episode/64428ba1737654001d1ea3cc",
+                        "Descripción": "Los peores temores de Gibbs se confirman cuando se entera de que su némesis, el doble agente árabe/israelí Ari (Rudolf Martin), está de regreso en Washington D.C. con la misión de matarlo.",
+                        "Metadata": "T2E23 43 min"
+                    }
+                ],
+                "Temporada 3": [
+                    {
+                        "Titulo": "Juegos mentales",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442d20f737654001d20be3a",
+                        "Descripción": "Por orden del gobernador de Virginia, Gibbs se ve obligado a reunirse con un asesino en serie al que ayudó a condenar una década atrás. Esperan que el criminal diga dónde escondió los cadáveres perdidos.",
+                        "Metadata": "T3E1 44 min"
+                    },
+                    {
+                        "Titulo": "Mata a Ari, parte uno",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442d4c2a659cb001ab68ada",
+                        "Descripción": "Mientras el equipo del NCIS lidia con la muerte de Kate, aumenta la determinación de Gibbs de poner fin al reinado de terror de Ari (estrella invitada Rudolf Martin).",
+                        "Metadata": "T3E2 44 min"
+                    },
+                    {
+                        "Titulo": "Cambiar",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442d36272e1ff001a8eec32",
+                        "Descripción": "Un suboficial es asesinado brutalmente a tiros en la autopista. Gibbs y el equipo descubren que el oficial estaba viviendo una doble vida.",
+                        "Metadata": "T3E3 43 min"
+                    },
+                    {
+                        "Titulo": "Mata a Ari, parte dos",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442cf24737654001d209ace",
+                        "Descripción": "Ari (invitado inicial Rudolf Martin) sigue causando estragos en el equipo del NCIS mientras usa a sus miembros como peones en el juego contra Gibbs.",
+                        "Metadata": "T3E4 44 min"
+                    },
+                    {
+                        "Titulo": "Guerra de plata",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442cf2b737654001d209c78",
+                        "Descripción": "Gibbs y el equipo son convocados cuando se encuentra a un hombre recientemente fallecido encerrado en una tumba de la época de la Guerra Civil. El cadáver es de un sargento desaparecido que, según Ducky, fue enterrado vivo.",
+                        "Metadata": "T3E5 44 min"
+                    },
+                    {
+                        "Titulo": "El sitio web del mirón",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442d089b6e5cf001a6695e7",
+                        "Descripción": "Gibbs y el equipo investigan el asesinato de la esposa de un infante de marina que se habría transmitido por Internet.",
+                        "Metadata": "T3E6 44 min"
+                    },
+                    {
+                        "Titulo": "Código de honor",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b46ab6e5cf001a662370",
+                        "Descripción": "Gibbs y el equipo investigan cuando un niño de seis años informa al NCIS que su padre fue secuestrado.",
+                        "Metadata": "T3E7 43 min"
+                    },
+                    {
+                        "Titulo": "Encubiertos",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b46db6e5cf001a66242e",
+                        "Descripción": "Cuando los cadáveres de dos asesinos son entregados al NCIS desde el extranjero, Tony y Ziva asumen identidades encubiertas y asisten a una cita sexy en un hotel de lujo para encontrar a su objetivo.",
+                        "Metadata": "T3E8 43 min"
+                    },
+                    {
+                        "Titulo": "Falsa culpa",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b47eb6e5cf001a66291a",
+                        "Descripción": "Cuando se encuentra una parte del cuerpo de una mujer en Quantico, el equipo del NCIS investiga y se sorprende al descubrir que todas las pruebas forenses apuntan a Tony como el principal sospechoso.",
+                        "Metadata": "T3E9 44 min"
+                    },
+                    {
+                        "Titulo": "Novato",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b476b6e5cf001a6626c2",
+                        "Descripción": "Cuando McGee mata a un hombre durante una misión, el equipo del NCIS interviene para respaldarlo al descubrir que se trataba de un oficial de policía encubierto.",
+                        "Metadata": "T3E10 44 min"
+                    },
+                    {
+                        "Titulo": "Comportamiento ejemplar",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b470b6e5cf001a66250e",
+                        "Descripción": "Gibbs y el equipo investigan el asesinato de una supermodelo que filmaba un programa de televisión en una base de la Marina.",
+                        "Metadata": "T3E11 44 min"
+                    },
+                    {
+                        "Titulo": "Engaño",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b479b6e5cf001a6627bc",
+                        "Descripción": "Gibbs y el equipo son convocados un fin de semana cuando aparentemente secuestran a un teniente comandante de la Marina que está a cargo de un envío de armas nucleares.",
+                        "Metadata": "T3E12 43 min"
+                    },
+                    {
+                        "Titulo": "Encerrados",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b0b48cd0fd001a62c73d",
+                        "Descripción": "Gibbs y el equipo se apresuran a encontrar a Tony y Ziva, quienes quedan atrapados en el contenedor de un astillero después de buscar refugio durante un tiroteo.",
+                        "Metadata": "T3E13 44 min"
+                    },
+                    {
+                        "Titulo": "Sueño ligero",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b48cb6e5cf001a662c8b",
+                        "Descripción": "Gibbs y el equipo investigan la muerte de las esposas de dos marinos. Temen que los asesinatos tengan motivos raciales, ya que las dos mujeres son asiáticas.",
+                        "Metadata": "T3E14 44 min"
+                    },
+                    {
+                        "Titulo": "Decapitado",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b485b6e5cf001a662aba",
+                        "Descripción": "El equipo del NCIS se sorprende cuando descubren la cabeza cortada de un marino en un taller de desguace automotriz ilegal dirigido por infantes de marina.",
+                        "Metadata": "T3E15 44 min"
+                    },
+                    {
+                        "Titulo": "Secreto familiar",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b489b6e5cf001a662bcd",
+                        "Descripción": "El equipo investiga la misteriosa explosión de una ambulancia que supuestamente transportaba los restos de un marine muerto en un accidente de auto.",
+                        "Metadata": "T3E16 44 min"
+                    },
+                    {
+                        "Titulo": "Voraz",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b47cb6e5cf001a6628b3",
+                        "Descripción": "Gibbs y el equipo son convocados para investigar cuando un grupo de adolescentes descubre placas de identificación marinas en un bosque nacional durante una caminata.",
+                        "Metadata": "T3E17 44 min"
+                    },
+                    {
+                        "Titulo": "Carnada",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b493b6e5cf001a662ed4",
+                        "Descripción": "Gibbs y el equipo son llamados cuando un estudiante adolescente en una preparatoria de la base de Quantico coloca una bomba en su cuerpo y toma como rehenes a sus compañeros.",
+                        "Metadata": "T3E18 43 min"
+                    },
+                    {
+                        "Titulo": "Congelados",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b3118cd0fd001a62cd0e",
+                        "Descripción": "Gibbs y el equipo son llamados cuando un par de niños se topan con el cadáver de un marine desaparecido en un lago congelado. Mientras el equipo busca pistas en el lecho del lago, se encuentran con otros tres cadáveres acribillados a balazos.",
+                        "Metadata": "T3E19 44 min"
+                    },
+                    {
+                        "Titulo": "Intocable",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b3148cd0fd001a62cdee",
+                        "Descripción": "Gibbs y el equipo son llamados cuando aparentemente se suicida un criptógrafo del Pentágono sospechado de espiar. Con su principal sospechoso muerto, el equipo del NCIS debe descubrir si ella era o no el topo del Pentágono.",
+                        "Metadata": "T3E20 44 min"
+                    },
+                    {
+                        "Titulo": "Matanza",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b3018cd0fd001a62c93a",
+                        "Descripción": "Tras descubrir que se montó una espeluznante escena de asesinato, el equipo descubre que Abby era el objetivo previsto cuando una evidencia clave contamina su laboratorio y casi la mata.",
+                        "Metadata": "T3E21 44 min"
+                    },
+                    {
+                        "Titulo": "Peligro",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b0b58cd0fd001a62c774",
+                        "Descripción": "Ziva entra en shock cuando muere un sospechoso tras aplicarle una táctica común para someterlo. Ducky y Abby trabajan para limpiar el nombre de Ziva. Gibbs se entera de que el director Shepard fue secuestrado por el hermano del muerto.",
+                        "Metadata": "T3E22 44 min"
+                    },
+                    {
+                        "Titulo": "Hiato, parte uno",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b3058cd0fd001a62ca31",
+                        "Descripción": "Los miembros del NCIS se angustian porque Gibbs resulta herido en una explosión terrorista mientras estaba en una misión.",
+                        "Metadata": "T3E23 44 min"
+                    },
+                    {
+                        "Titulo": "Hiato, parte dos",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/3/episode/6442b30a8cd0fd001a62cb2a",
+                        "Descripción": "Mientras el equipo intenta rastrear a los terroristas detrás del atentado que hirió a Gibbs, se enteran de que están planeando otro ataque similar al de las Torres Gemelas y que Gibbs tiene información sobre su plan.",
+                        "Metadata": "T3E24 44 min"
+                    }
+                ],
+                "Temporada 4": [
+                    {
+                        "Titulo": "Shalom",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/645407bef2a541001b279070",
+                        "Descripción": "El equipo lidia con el retiro de Gibbs. El pasado de Ziva regresa para atormentarla. Sin darse cuenta, presencia el momento en que su excompañero del Mossad asesina a un agregado militar.",
+                        "Metadata": "T4E1 44 min"
+                    },
+                    {
+                        "Titulo": "Escape",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540935662d03001b779f2d",
+                        "Descripción": "Un convicto que había sido apresado por el agente Fornell, del FBI, escapa y lo amenaza tanto a a él como a su hija. Gibbs sale de su retiro para reabrir el caso de robo a mano armada del convicto.",
+                        "Metadata": "T4E2 43 min"
+                    },
+                    {
+                        "Titulo": "La Búsqueda",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540922662d03001b779b0f",
+                        "Descripción": "El equipo se entera de que una teniente de la Marina desaparecida había estado haciendo averiguaciones sobre unos hombres para encontrar la pareja perfecta. Descubren que ella planeaba asistir a un seminario para solteros en un hotel de la zona.",
+                        "Metadata": "T4E3 44 min"
+                    },
+                    {
+                        "Titulo": "Fingiendo",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540938662d03001b779faf",
+                        "Descripción": "El equipo del NCIS es convocado a la escena del raro asesinato de un suboficial que formaba parte de una operación de armas encubierta.",
+                        "Metadata": "T4E4 44 min"
+                    },
+                    {
+                        "Titulo": "Muerto Y Desenterrado",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540c0deead4c001bd5f447",
+                        "Descripción": "El equipo investiga el caso de un cabo segundo muerto, que fue encontrado por un agente de bienes raíces. Descubren que el cadáver fue enterrado en un patio trasero y luego exhumado.",
+                        "Metadata": "T4E5 44 min"
+                    },
+                    {
+                        "Titulo": "Trampa De Arena",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540ed791275e001a603429",
+                        "Descripción": "Una explosión mata a un coronel de la Marina en un campo de golf militar. El equipo del NCIS debe trabajar junto con la Unidad de Investigación Criminal del Ejército para encontrar al asesino.",
+                        "Metadata": "T4E6 41 min"
+                    },
+                    {
+                        "Titulo": "Cacería De Brujas",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540d5f5348f4001a02e5c7",
+                        "Descripción": "Llaman y piden dinero por el rescate de la hija de un marine. El equipo del NCIS descubre que los padres de la niña se separaron hace poco, tras una indiscreción marital de la esposa.",
+                        "Metadata": "T4E7 43 min"
+                    },
+                    {
+                        "Titulo": "Una Vez Héroe",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540eda91275e001a603587",
+                        "Descripción": "El equipo del NCIS investiga la muerte de un veterano de la Marina en un hotel.",
+                        "Metadata": "T4E8 43 min"
+                    },
+                    {
+                        "Titulo": "Hermana En Problemas",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540d645348f4001a02e737",
+                        "Descripción": "La hermana de McGee aparece en su puerta ensangrentada y confundida. Él intenta reconstruir lo que le ocurrió a ella la noche anterior.",
+                        "Metadata": "T4E9 44 min"
+                    },
+                    {
+                        "Titulo": "Ahumado",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453f9ada7ef77001a261a3f",
+                        "Descripción": "El equipo del NCIS se asocia a regañadientes con el FBI cuando identifican los restos de un hombre en una base de la Marina como un asesino en serie que el FBI había estado buscando durante 12 años.",
+                        "Metadata": "T4E10 44 min"
+                    },
+                    {
+                        "Titulo": "Control Remoto",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540240274ca8001aa6b332",
+                        "Descripción": "Un vehículo robótico altamente clasificado llamado \"Otto\" causa la muerte de un teniente de la Marina. Al principio, Gibbs y el equipo piensan que se trató de un suicidio.",
+                        "Metadata": "T4E11 43 min"
+                    },
+                    {
+                        "Titulo": "Sospecha",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453f9aaa7ef77001a261977",
+                        "Descripción": "Gibbs y el equipo se precipitan a la escena donde fue asesinado un oficial de inteligencia de alto nivel. Descubren que el crimen tuvo lugar tres días antes y fue \"investigado\" por las autoridades locales.",
+                        "Metadata": "T4E12 44 min"
+                    },
+                    {
+                        "Titulo": "El Regreso Del Sharif",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453ff71e05e97001a09513b",
+                        "Descripción": "Desaparecen diez kilogramos de armas químicas altamente tóxicas. Gibbs y su equipo se apresuran a localizarlas. El equipo del NCIS se horroriza al descubrir que el arma química mortal ahora está en manos del terrorista buscado Mamoun Sharif.",
+                        "Metadata": "T4E13 44 min"
+                    },
+                    {
+                        "Titulo": "El Escape",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6454023d274ca8001aa6b252",
+                        "Descripción": "El equipo del NCIS captura a un traficante de armas internacional. Luego, descubren que el sistema de armas altamente clasificado de la Marina está a punto de ser vendido a otro traficante de armas buscado y conocido como \"La Grenouille\" (Armand Assante).",
+                        "Metadata": "T4E14 44 min"
+                    },
+                    {
+                        "Titulo": "Amigos Y Amantes",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6454022d274ca8001aa6adba",
+                        "Descripción": "Trabajando con los funcionarios locales, el equipo del NCIS originalmente cree que un marinero murió a causa de una sobredosis de drogas no intencional en una parte sórdida de la ciudad.",
+                        "Metadata": "T4E15 44 min"
+                    },
+                    {
+                        "Titulo": "Cadaver Deambulando",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453fe1391275e001a5ffcd6",
+                        "Descripción": "Gibbs y el equipo colaboran con un inspector de la Agencia Internacional de Energía Atómica que sufre envenenamiento por radiación. Reconstruyen su rutina intentando averiguar cuándo ocurrió la contaminación.",
+                        "Metadata": "T4E16 44 min"
+                    },
+                    {
+                        "Titulo": "Esqueletos",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/64540230274ca8001aa6ae9a",
+                        "Descripción": "Ducky y Abby confirman haber identificado los restos de al menos cinco personas. El equipo del NCIS inmediatamente comienza a notificar a las familias con la esperanza de establecer alguna conexión en la selección aparentemente aleatoria de víctimas.",
+                        "Metadata": "T4E17 44 min"
+                    },
+                    {
+                        "Titulo": "Hombre De Hielo",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453f84354afb6001ad744d5",
+                        "Descripción": "El equipo del NCIS investiga la muerte de un infante de marina. Creen que murió congelado, pero se despierta en la mesa de autopsias de Ducky.",
+                        "Metadata": "T4E18 44 min"
+                    },
+                    {
+                        "Titulo": "Tiempo De Gracia",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453c5aceead4c001bd50ddf",
+                        "Descripción": "Gibbs y el equipo investigan cuando una llamada de fin de semana al NCIS resulta en la muerte de dos agentes. El equipo descubre que esa pista telefónica fue una trampa para terminar en la muerte de los agentes.",
+                        "Metadata": "T4E19 44 min"
+                    },
+                    {
+                        "Titulo": "Historia Principal",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453c5aeeead4c001bd50ebf",
+                        "Descripción": "Gibbs y el equipo investigan cuando el libro ficticio de McGee sobre un agente del NCIS se vuelve realidad. McGee se horroriza cuando un suboficial en el que basó el personaje de su último libro resulta asesinado.",
+                        "Metadata": "T4E20 43 min"
+                    },
+                    {
+                        "Titulo": "Hermano En Armas",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453c5a9eead4c001bd50c81",
+                        "Descripción": "El director Shepard corre un gran riesgo y acepta reunirse con un informante a solas para hablar sobre \"La Grenouille\", pero la reunión sale mal y su contacto muere.",
+                        "Metadata": "T4E21 44 min"
+                    },
+                    {
+                        "Titulo": "En La Oscuridad",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453c5a1eead4c001bd50a5b",
+                        "Descripción": "Gibbs y el equipo investigan cuando un fotógrafo ciego toma sin darse cuenta la fotografía del asesinato de un suboficial.",
+                        "Metadata": "T4E22 44 min"
+                    },
+                    {
+                        "Titulo": "Caballo De Troya",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453c5b8eead4c001bd51152",
+                        "Descripción": "Gibbs ignora la burocracia asociada con sus deberes de director \"interino\" y dirige una investigación sobre una víctima de asesinato encontrada en un taxi que se dirigía a la sede del NCIS. Además, Jenny descubre un secreto sobre su pasado.",
+                        "Metadata": "T4E23 44 min"
+                    },
+                    {
+                        "Titulo": "Àngel De La Muerte",
+                        "Link": "/latam/on-demand/series/64413b886113a5001afb0856/season/4/episode/6453c5b3eead4c001bd50f92",
+                        "Descripción": "El director del NCIS regresa de una polémica gira europea. Gibbs y sus agentes se preparan a regañadientes para las pruebas de polígrafo del Departamento de Seguridad Nacional. Se revelan secretos del equipo.",
+                        "Metadata": "T4E24 44 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Intuición Criminal",
             "metadatos": [
                 "TV-PG",
                 "Other",
-                "No hay deficiencias"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/6407409ee44795001320871e/details?lang=en",
             "descripcion": "Cuando la hija de un dignatario local es encontrada muerta en una mina, Angelika, una policía muy particular, quien confía más en su intuición que en las pruebas, se pone al frente del caso.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Herta Weissenberger",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/640740a0e44795001320873d",
+                        "Descripción": "El cuerpo de una mujer joven se encuentra por casualidad durante un nuevo entierro.",
+                        "Metadata": "T1E1 43 min"
+                    },
+                    {
+                        "Titulo": "Rainer Kaufmann",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/64074200cb182b001376b26f",
+                        "Descripción": "El jefe de televisión, Rainer Kaufmann, se desploma muerto durante una transmisión en vivo.",
+                        "Metadata": "T1E2 45 min"
+                    },
+                    {
+                        "Titulo": "Bettina Klein",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/640744cadb74110013af8b26",
+                        "Descripción": "Una mujer yace muerta en las duchas de una piscina abierta, con un taser a su lado.",
+                        "Metadata": "T1E3 43 min"
+                    },
+                    {
+                        "Titulo": "Valerie Leski",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/640746394f150a0013b3e550",
+                        "Descripción": "Una mujer es estrangulada y luego arrojada desde un balcón.",
+                        "Metadata": "T1E4 45 min"
+                    },
+                    {
+                        "Titulo": "Rudolf Sommerbauer",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/64074799803fcf0013e9293c",
+                        "Descripción": "El dueño de la imprenta, Rudolf Sommerbauer, es asesinado a puñaladas en su casa de fin de semana.",
+                        "Metadata": "T1E5 43 min"
+                    },
+                    {
+                        "Titulo": "Sonja Horvath",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/64075721e9c663001318925a",
+                        "Descripción": "Sonja Horvath respira por última vez en la mesa de operaciones del cirujano plástico David Meister.",
+                        "Metadata": "T1E6 44 min"
+                    },
+                    {
+                        "Titulo": "Iris Litani",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/64075724e9c66300131893a7",
+                        "Descripción": "Alguien ha intentado quemar el cuerpo de una mujer en el patio trasero de un edificio residencial.",
+                        "Metadata": "T1E7 44 min"
+                    },
+                    {
+                        "Titulo": "Ben Bogner",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/64075715e9c6630013188e91",
+                        "Descripción": "El propietario del campo de paintball, Ben Bogner, parece haber sido víctima de una disputa mundana sobre su propiedad.",
+                        "Metadata": "T1E8 44 min"
+                    },
+                    {
+                        "Titulo": "Laszlo Urban",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/6407587ae44795001320feb4",
+                        "Descripción": "El entrenador de equitación, Laszlo Urban, es encontrado muerto a golpes en un remolque para caballos.",
+                        "Metadata": "T1E9 43 min"
+                    },
+                    {
+                        "Titulo": "Graziella Bracci",
+                        "Link": "/latam/on-demand/series/6407409ee44795001320871e/season/1/episode/6407587ee447950013210003",
+                        "Descripción": "Angélica recibe un paquete anónimo en el correo.",
+                        "Metadata": "T1E10 45 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Los asesinatos de Midsomer",
@@ -78,7 +818,7 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/63b6e56cd5762100130180e9/details?lang=en",
             "descripcion": "Los villanos de Midsomer se enfrentan a un duro adversario como el detective Barnaby, quien junto a sus colegas se involucra para luchar contra el crimen y resolver asesinatos en las hermosas pero mortales aldeas de Midsomer.",
-            "temporadas": null
+            "temporadas": {}
         },
         {
             "titulo": "Estación Berlin",
@@ -89,9 +829,70 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e503441fe1a6f001a7aede5/details?lang=en",
             "descripcion": "Un drama de espías sobre la CIA en el Berlín actual. Daniel Miller es un agente novato en una misión clandestina para descubrir el origen de una filtración que proporcionó información a un soplón, ya famoso, llamado \"Thomas Shaw\".",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Estación por estación",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503449fe1a6f001a7aef7e",
+                        "Descripción": "Daniel Miller es enviado a Berlín para identificar al soplón anónimo que filtró información sobre la base de la CIA en la ciudad.",
+                        "Metadata": "T1E1 53 min"
+                    },
+                    {
+                        "Titulo": "Las luces no funcionan con lealtad",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503448fe1a6f001a7aef5f",
+                        "Descripción": "Frost, Robert, y Valerie siguen las actividades sospechosas de un terrorista supuestamente \"reformado\" mientras Daniel retoma el contacto con Hector, un viejo amigo.",
+                        "Metadata": "T1E2 53 min"
+                    },
+                    {
+                        "Titulo": "Río seco",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aee20",
+                        "Descripción": "La base pasa a estar vigilada. Los agentes de la CIA encubren un secreto, se llevan una sorpresa al poner un micrófono en una cena y tratan de evitar que un agente saudí sea llevado de vuelta a su país, donde lo espera la muerte.",
+                        "Metadata": "T1E3 55 min"
+                    },
+                    {
+                        "Titulo": "A modo de engaño",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aeea9",
+                        "Descripción": "Daniel y Hector acceden a los servidores de la prensa berlinesa para rastrear las filtraciones. Robert anima a Daniel a aprovechar una oportunidad mientras lucha por salvar su vida personal.",
+                        "Metadata": "T1E4 57 min"
+                    },
+                    {
+                        "Titulo": "Bajo presión",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aee43",
+                        "Descripción": "Hector investiga una nueva filtración que Daniel trató de desacreditar. Valerie espía a unas mujeres que tienen lazos con los Iosava. Frost lucha por reparar su matrimonio.",
+                        "Metadata": "T1E5 52 min"
+                    },
+                    {
+                        "Titulo": "Solo decisiones",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aee07",
+                        "Descripción": "Frost se apresura a cumplir una operación que afecta a los Iosava, pero pone en riesgo la vida de Clare. Hector trata de detener la operación para protegerla.",
+                        "Metadata": "T1E6 52 min"
+                    },
+                    {
+                        "Titulo": "Prueba de vida",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aeec2",
+                        "Descripción": "Los Iosava secuestran a Clare, y todos tratan de llevarla a casa sana y salva. Frost sospecha de la información de Langley. La relación de los estadounidenses y los alemanes está en riesgo.",
+                        "Metadata": "T1E7 49 min"
+                    },
+                    {
+                        "Titulo": "Falso Negativo",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aee90",
+                        "Descripción": "Daniel deduce que Hector podría ser Thomas Shaw. Robert ocupa temporalmente el cargo de jefe de base cuando se emite la orden de arresto contra Frost.",
+                        "Metadata": "T1E8 51 min"
+                    },
+                    {
+                        "Titulo": "Thomas Shaw",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aee77",
+                        "Descripción": "Se revelan sucesos del pasado de Hector. Daniel corre a salvar a Patricia, que fue secuestrada. Frost y su esposa tratan de huir del país.",
+                        "Metadata": "T1E9 59 min"
+                    },
+                    {
+                        "Titulo": "Oratorio Berlin",
+                        "Link": "/latam/on-demand/series/5e503441fe1a6f001a7aede5/season/1/episode/5e503443fe1a6f001a7aee5e",
+                        "Descripción": "Daniel deja ir a Hector, que viaja a Riad a salvar a un agente saudí. El equipo trabaja para descubrir la verdad y acabar con Thomas Shaw de una vez por todas.",
+                        "Metadata": "T1E10 53 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "The Case",
@@ -102,10 +903,84 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/625dc070baa39e0013e2944b/details?lang=en",
             "descripcion": "Cada policía tiene un caso que los persigue y los golpea duro.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/1/episode/625ebac44a1dfc0013febabe",
+                        "Descripción": "En noviembre de 2011, Agnès Marin, de 13 años, desaparece de su internado en Cévennes.",
+                        "Metadata": "T1E1 50 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/1/episode/625ebc2a7b9eaf00137ae022",
+                        "Descripción": "En 2002, estalla en Angers el mayor caso de pedofilia en Francia.",
+                        "Metadata": "T1E2 52 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/1/episode/625ebc347b9eaf00137ae0fe",
+                        "Descripción": "El asesinato de la colegiala de 16 años Christelle Maillery, cometido en Le Creusot en 1986.",
+                        "Metadata": "T1E3 53 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/1/episode/625ebc377b9eaf00137ae1d3",
+                        "Descripción": "Susanna Zetterberg, una joven sueca de 19 años secuestrada cuando salía de un club nocturno parisino,",
+                        "Metadata": "T1E4 50 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/1/episode/625ebc2d7b9eaf00137ae088",
+                        "Descripción": "El asesinato de Mamadou Magassouba, profesor y ex campeón de boxeo de Saint Ouen.",
+                        "Metadata": "T1E5 53 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/1/episode/625ebc307b9eaf00137ae0ad",
+                        "Descripción": "No es su primera escena del crimen, pero seis años después seguirá persiguiéndolo.",
+                        "Metadata": "T1E6 54 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/2/episode/625dc077baa39e0013e29452",
+                        "Descripción": "La historia de una cacería humana donde las escuchas telefónicas, bates y soplones van y vienen.",
+                        "Metadata": "T2E1 52 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/2/episode/625dc1ef7b9eaf00137a82bc",
+                        "Descripción": "A partir de 1995, una serie de violaciones seguidas de asesinatos sacudieron la región de Perpiñán.",
+                        "Metadata": "T2E2 53 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/2/episode/625dc1ff7b9eaf00137a8393",
+                        "Descripción": "En 2004, una pareja de mujeres desaparece.",
+                        "Metadata": "T2E3 50 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/2/episode/625dc34dbaa39e0013e295e1",
+                        "Descripción": "En septiembre de 2009, Marie-Christine Hodeau, una corredora, es secuestrada y encerrada en el maletero del coche de su secuestrador.",
+                        "Metadata": "T2E4 50 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/2/episode/625dc343baa39e0013e29552",
+                        "Descripción": "Un asunto de cajón donde las mujeres se multiplican en torno a un moderno barba azul.",
+                        "Metadata": "T2E5 52 min"
+                    },
+                    {
+                        "Titulo": "El Caso de mi Vida",
+                        "Link": "/latam/on-demand/series/625dc070baa39e0013e2944b/season/2/episode/625dc348baa39e0013e29577",
+                        "Descripción": "En busca de los ex miembros de French Connection que estaban preparando un gran golpe de estado entre América del Sur, España y el sur de Francia.",
+                        "Metadata": "T2E6 52 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Ojos Sin Culpa",
@@ -116,9 +991,88 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/62827ed9c51411001348b8e4/details?lang=en",
             "descripcion": "Edu no despierta sospechas. Se vale de su belleza y simpatía para ocultar su verdadera cara de asesino serial. Los policías Díaz y Vera buscan al asesino, que está más cerca de lo que imaginan.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827ef0c51411001348bc80",
+                        "Descripción": "Edu suma otra víctima. Vera llega a ayudar a Díaz en el caso del asesino serial. Edu conoce a Ray y ella se encanta. Las investigaciones plantean sospechas contra Otto. Edu secuestra a otra víctima.",
+                        "Metadata": "T1E1 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827edac51411001348b8eb",
+                        "Descripción": "Edu tortura a Ángela. Los peritos hallan la huella de Edu en el encendedor del novio de Ángela. Otto mata a Aurelio por revelar sus fraudes. Edu y Ray siguen encontrándose. La policía sigue a Edu",
+                        "Metadata": "T1E2 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827ee2c51411001348b9f7",
+                        "Descripción": "El marido de la víctima afronta a Edu pero él no se inmuta y lo consuela. Llevan el coche de Edu a investigación con un cuerpo en el maletero. Díaz recibe un e-mail misterioso sobre el asesino serial.",
+                        "Metadata": "T1E3 48 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827ee5c51411001348ba88",
+                        "Descripción": "La policía no puede rastrear el e-mail que Díaz recibió. Ellos encuentran el cuerpo de Ángela con la ayuda de Edu y Díaz lo invita a participar en el equipo. Ray se descontrola sin noticias de Edu.",
+                        "Metadata": "T1E4 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827ef3c51411001348bd51",
+                        "Descripción": "La víctima de Edu huye pero él la captura de nuevo. Ray toma varios remedios y su amiga la ayuda. Edu envía un e-mail que incrimina a Otto y es descubierto por Iván. Edu empuja a Iván de la terraza.",
+                        "Metadata": "T1E5 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827ef5c51411001348be22",
+                        "Descripción": "Una reportera recibe un mensaje del asesino serial. Vera y su equipo descifran el mensaje del asesino serial. La policía va detrás de la pista del próximo crimen del asesino.",
+                        "Metadata": "T1E6 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827edec51411001348b97e",
+                        "Descripción": "Tati, la hija de Díaz, se aproxima a Edu sin contárselo a su familia. Dina advierte a Ray que la descripción del asesino en los medios coincide con Edu. Ray se enfurece con Edu y llama a la policía.",
+                        "Metadata": "T1E7 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827eecc51411001348bbab",
+                        "Descripción": "Tras denunciar a Edu, Ray se corta las muñecas y Dina la ayuda. Edu se disculpa con Ray y ella le cree. Díaz descubre que una víctima había recibido atención del GAV, donde Edu presta servicio social.",
+                        "Metadata": "T1E8 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 9",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/62827efac51411001348be46",
+                        "Descripción": "La joven que logró huir de Edu lo reconoce en el periódico. La policía sigue investigando y conecta Edu con otros casos del asesino serial. Díaz decide arrestar a Edu en un cóctel promovido por Otto.",
+                        "Metadata": "T1E9 48 min"
+                    },
+                    {
+                        "Titulo": "Episodio 10",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/6282804f94317400134bd6b3",
+                        "Descripción": "Edu lleva a Tati al lugar de uno de los asesinatos. Díaz consigue pruebas en la casa de Edu. Vera intenta convencer a Ray de testificar contra Edu. Díaz oye la voz de su hija en el teléfono.",
+                        "Metadata": "T1E10 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 11",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/6282804894317400134bd56f",
+                        "Descripción": "Tati huye con la mochila que Edu le encargó. Díaz encuentra a su hija y llama a la policía para saber qué hay en la mochila. Encuentran sangre de una de las víctimas en la bota de Edu y lo arrestan.",
+                        "Metadata": "T1E11 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 12",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/6282804194317400134bd474",
+                        "Descripción": "Edu toma a Vera como rehén y exige un auto. Otto oculta a Edu en una ciudad del interior. Allá mata a tres mujeres y es detenido. Vera explica a Ray por qué Edu se acercó a ella. Llega la mamá de Edu.",
+                        "Metadata": "T1E12 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 13",
+                        "Link": "/latam/on-demand/series/62827ed9c51411001348b8e4/season/1/episode/6282804c94317400134bd5de",
+                        "Descripción": "La madre de Edu revela que éste se cambió de nombre. Ray descubre que está embarazada y Vera cambia sus planes para probar los crímenes cometidos por Edu.",
+                        "Metadata": "T1E13 48 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Ruleta Rusa",
@@ -129,22 +1083,84 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/612552ece4122100137c4376/details?lang=en",
             "descripcion": "La periodista Katharina Wagner regresa a San Petersburgo para mostrarle a su hijo la tumba de su padre. Pero el viaje se convierte en la peor pesadilla de una madre cuando Nikolai desaparece repentinamente sin dejar rastro en el metro de San Petersburgo.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/612552ece4122100137c4376/season/1/episode/612552eee4122100137c43a5",
+                        "Descripción": "La periodista Katharina Wagner regresa a San Petersburgo para mostrarle a su hijo la tumba de su padre. Pero el viaje se convierte en la peor pesadilla de una madre cuando Nikolai desaparece repentinamente sin dejar rastro en el metro de San Petersburgo.",
+                        "Metadata": "T1E1 1hr 28 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/612552ece4122100137c4376/season/1/episode/612552eee4122100137c4380",
+                        "Descripción": "La periodista Katharina Wagner regresa a San Petersburgo para mostrarle a su hijo la tumba de su padre. Pero el viaje se convierte en la peor pesadilla de una madre cuando Nikolai desaparece repentinamente sin dejar rastro en el metro de San Petersburgo.",
+                        "Metadata": "T1E2 1hr 28 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Mal de Tierra",
             "metadatos": [
                 "R",
                 "Thriller",
-                "No hay deficiencias"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/6036642dd36089001adc9809/details?lang=en",
             "descripcion": "Un pueblo misterio, una niña desaparecida, una mujer poderosa empeñada en desterrar a los campesinos de sus tierras y un grupo de cineastas dispuestos a retratar en un documental la realidad de lo que está pasando.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "La marca de la Candileja",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/604fb80630e3df001ab5e7ca",
+                        "Descripción": "Un grupo de cineastas viaja a un pueblo misterioso a filmar un documental, pero a su llegada se encuentran con un lugar aterrorizado por unas marcas indígenas en las paredes y la desaparición de un campesino y una niña.",
+                        "Metadata": "T1E1 40 min"
+                    },
+                    {
+                        "Titulo": "El fuego que ilumina la noche",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/60366432d36089001adc98b3",
+                        "Descripción": "En la noche Natalia y sus amigos van al pueblo a tomar una cerveza, pero la noche termina mal, después de una pelea en el bar y una gran confusión Leo, se extravía y tiene un misterioso encuentro con la Candileja un extraño ser hecho de fuego.",
+                        "Metadata": "T1E2 42 min"
+                    },
+                    {
+                        "Titulo": "La niña es real",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/60366430d36089001adc9856",
+                        "Descripción": "Natalia descubre una habitación en la finca y al entrar nuevamente tiene unas extrañas visiones que la obligan a revisar las grabaciones del primer día de rodaje junto a Leo y descubrir que la niña que vio Mario es verdad",
+                        "Metadata": "T1E3 43 min"
+                    },
+                    {
+                        "Titulo": "¿Dónde está Leo?",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/6036642fd36089001adc9827",
+                        "Descripción": "Leo trata de investigar que esta pasando, pero un terrible incendio en la finca vecina lo sorprende y desaparece de forma misteriosa dejando a sus amigos con la duda de si esta vivo o muerto.",
+                        "Metadata": "T1E4 44 min"
+                    },
+                    {
+                        "Titulo": "La foto en la habitación",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/60366430d36089001adc9841",
+                        "Descripción": "Miranda es descubierta por su marido siéndole infiel con Arturo y lo confronta con violencia, pero después de tantos años de abuso Miranda le pone un alto e intenta asesinar a su marido.",
+                        "Metadata": "T1E5 43 min"
+                    },
+                    {
+                        "Titulo": "El trapiche esta en llamas",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/60366430d36089001adc986c",
+                        "Descripción": "En la noche Mafe y Mario deciden buscar a Leo en el trapiche, pero un terrible incendio los deja atrapados a punto de morir sin embargo con la ayuda de Arturo logran escapar del fuego, pero el lugar queda destruido.",
+                        "Metadata": "T1E6 45 min"
+                    },
+                    {
+                        "Titulo": "Leo esta vivo",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/60366432d36089001adc98c9",
+                        "Descripción": "Mario sigue una pista y llega a la casa de Raúl para ayudar a Marco y confrontar a Raúl sobre el paradero de Leo. Natalia descubre que su padre fue un asesino que le hizo daño a mucha gente incluido a Arturo. Marco y Mario encuentran a Leo.",
+                        "Metadata": "T1E7 44 min"
+                    },
+                    {
+                        "Titulo": "Odio esta tierra",
+                        "Link": "/latam/on-demand/series/6036642dd36089001adc9809/season/1/episode/60366430d36089001adc9881",
+                        "Descripción": "Humberto descubre que Arturo lo esta estafando y lo confronta, pero cegado por el odio, Arturo mata a su tío y a Miranda. Leo recuerda que Arturo fue quien los raptó, pero es demasiado tarde.",
+                        "Metadata": "T1E8 45 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "The Accident",
@@ -155,9 +1171,46 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5fbd1347c8c57d00131b5a44/details?lang=en",
             "descripcion": "El cuerpo de Rebecca Cauvy se encuentra en la rampa de una autopista en la tranquila localidad de Sainte-Lune, Bretaña. Ella estaba extrañamente borracha y estacionó en el camino equivocado, aparentemente víctima de una colisión adelante.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/5fbd1347c8c57d00131b5a44/season/1/episode/5fbd1348c8c57d00131b5aae",
+                        "Descripción": "En la vía de acceso de salida de una autovía, un automóvil parado con las luces apagadas mira en la dirección incorrecta. En el interior, Rebecca abre los ojos gradualmente y se da cuenta del peligro en el que se encuentra.",
+                        "Metadata": "S1E1 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/5fbd1347c8c57d00131b5a44/season/1/episode/5fbd1348c8c57d00131b5a7a",
+                        "Descripción": "El sol sale sobre el pueblo. La comisaría sigue cerrada. Una silueta se desliza dentro, se dirige a la oficina del Inspector Lalande y roba el archivo del caso \"Rebecca Cauvy\".",
+                        "Metadata": "S1E2 1hr"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/5fbd1347c8c57d00131b5a44/season/1/episode/5fbd1348c8c57d00131b5a5e",
+                        "Descripción": "El cuerpo de Anne ha sido recuperado del puerto. La policía está inspeccionando su auto. Lalande da sus primeras impresiones al equipo.",
+                        "Metadata": "S1E3 55 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/5fbd1347c8c57d00131b5a44/season/1/episode/5fbd1349c8c57d00131b5aec",
+                        "Descripción": "El dormitorio de Luna, la ventana rota, las cortinas ondeando en el viento. Gabriel entra corriendo a la habitación y encuentra a su aterrorizada hija. Saca su teléfono.",
+                        "Metadata": "S1E4 51 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/5fbd1347c8c57d00131b5a44/season/1/episode/5fbd1348c8c57d00131b5a93",
+                        "Descripción": "El cielo sobre la ciudad se ilumina en rojo con el fuego. Desparramado en su camioneta, Pascal se despierta con el sonido de una sirena de camión de bomberos. Ve que el motor pasa a toda velocidad.",
+                        "Metadata": "S1E5 55 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/5fbd1347c8c57d00131b5a44/season/1/episode/5fbd1349c8c57d00131b5ad3",
+                        "Descripción": "El sendero del camping municipal es ahora escenario de un crimen. Contra todas las expectativas, Solène está allí con el brazo enyesado. Lalande la reprende suavemente. Luego aparecen dos policías de la unidad de investigación, un hombre y una mujer.",
+                        "Metadata": "S1E6 45 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Sin retorno",
@@ -168,9 +1221,220 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5f8f45777ecf48001a349c6c/details?lang=en",
             "descripcion": "Sin Retorno, un instante que marca la vida para siempre, un comienzo del cual se desconoce el final. La serie está basada en hechos de crónica, en el titular de un periódico, en historias que han sucedido, en fragmentos de vida.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Cruces",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457e7ecf48001a349cee",
+                        "Descripción": "Es una historia de neo-nazis, son atacados por su su odio, se ve el panorama completo y se descubre, sin intención de juzgar, la manera en que una sociedad es golpeada por la ignorancia, la intolerancia y el odio.",
+                        "Metadata": "T1E1 40 min"
+                    },
+                    {
+                        "Titulo": "Tumbas en la colina",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349efe",
+                        "Descripción": "Samuel lleva a sus hijas Lina y Susana a acampar en un lugar apartado del bosque para estar a solas con ellas, y poder ventilar sin distracciones, como aconsejó una psiquiatra, el tema de la muerte de la madre de las chicas.",
+                        "Metadata": "T1E2 44 min"
+                    },
+                    {
+                        "Titulo": "Los espectadores",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e9f",
+                        "Descripción": "Raúl secuestra a Marcela en una discoteca para continuar con ella su negocio de videos snaff. Siempre que va a empezar a grabarlo, algo se lo impide.",
+                        "Metadata": "T1E3 43 min"
+                    },
+                    {
+                        "Titulo": "Testigo ocular",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457f7ecf48001a349d8d",
+                        "Descripción": "Un paciente psiquiátrico recluido en un hospital especializado, se obsesiona a través de la ventana con una mujer que vive justo en frente. En su afán de obsérvala presencia un asesinato que ocurre justo al lado del apartamento de la mujer.",
+                        "Metadata": "T1E4 43 min"
+                    },
+                    {
+                        "Titulo": "Madre no hay sino una",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e60",
+                        "Descripción": "Simón y Andrés, dos adolescentes de familias acomodadas, entran a la casa de Henry, su profesor en el colegio, y matan a sangre fría a Doña Clara, madre de Henry.",
+                        "Metadata": "T1E5 44 min"
+                    },
+                    {
+                        "Titulo": "Los ejecutivos",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e75",
+                        "Descripción": "Tres compañeros de oficina se ven envueltos en la sospechosa muerte de una mujer en un hotel. Al tratar de resolver la situación sin llamar la atención, dos de los protagonistas son intimidados por un par de traficantes de órganos.",
+                        "Metadata": "T1E6 44 min"
+                    },
+                    {
+                        "Titulo": "Tacones",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349f15",
+                        "Descripción": "Un gran empresario es asesinado, la policía al empezar con la investigación va encontrándose con toda una vida de errores, odios y rencores familiares que hacen que todos se conviertan en sospechosos.",
+                        "Metadata": "T1E7 38 min"
+                    },
+                    {
+                        "Titulo": "Muerte en el convento",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45897ecf48001a34a012",
+                        "Descripción": "Una monja aparece asesinada en la calle. La investigación del crimen llevará a la policía hasta el convento donde pertenecía la víctima. Allí, cuatro monjas se esforzarán por tratar de tapar cualquier relación del crimen con el convento.",
+                        "Metadata": "T1E8 39 min"
+                    },
+                    {
+                        "Titulo": "Plan perfecto",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349eb8",
+                        "Descripción": "Juan, un joven de apariencia tranquila, descubre a su amada con otro hombre. En medio del despecho, conoce casualmente a Marcos quien fue el hombre a que su mujer dejó por él.",
+                        "Metadata": "T1E9 39 min"
+                    },
+                    {
+                        "Titulo": "Nadie sabe para quien trabaja",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f458f7ecf48001a34a059",
+                        "Descripción": "Jaime y Gildardo planean robar unos diamantes de su patrón. Para ello, Gildardo decide invitar a Martín, el pusilánime contador del lugar, el único que conoce la combinación de la caja fuerte donde descansan las piedras.",
+                        "Metadata": "T1E10 37 min"
+                    },
+                    {
+                        "Titulo": "La muerte comienza en casa",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45887ecf48001a349fb4",
+                        "Descripción": "Ángela busca una habitación para vivir. Encuentra a un extraño y confiado personaje que le arrienda una habitación en su lujoso apartamento. Unas extrañas llamadas amenazadoras y un supuesto intento de robo fueron suficientes.",
+                        "Metadata": "T1E11 44 min"
+                    },
+                    {
+                        "Titulo": "Negocio entre hermanos",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457f7ecf48001a349d38",
+                        "Descripción": "Una interferencia telefónica hace que Lucas se entere que en el edificio donde vive van a guardar un cajón con algo valioso. Mientras su hermano Carlos está metido en un serio problema de dinero.",
+                        "Metadata": "T1E12 44 min"
+                    },
+                    {
+                        "Titulo": "La venganza de Sofía",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457e7ecf48001a349d20",
+                        "Descripción": "Carlos se ha casado con Patricia, una bella modelo, abandonando a Sofía sin explicaciones. Un día Sofía se le parece y le confiesa que está embarazada. Carlos, llama a su hermano médico y le pide que se encargue del aborto.",
+                        "Metadata": "T1E13 40 min"
+                    },
+                    {
+                        "Titulo": "El humo",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349f2a",
+                        "Descripción": "La joven periodista Manuela se ve envuelta en un atentado terrorista que busca interceptar las pruebas que Ana, una delincuente arrepentida, iba a entregarle en forma de un disco duro.",
+                        "Metadata": "T1E14 43 min"
+                    },
+                    {
+                        "Titulo": "La deuda",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45887ecf48001a349ff4",
+                        "Descripción": "La lucha de un par de primos por saldar una deuda los hace cometer no solo el asesinato de su padre, sino que comienzan con una serie de peleas, discusiones que poco a poco involucran a todos sus allegados.",
+                        "Metadata": "T1E15 36 min"
+                    },
+                    {
+                        "Titulo": "3 mil gramos",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45887ecf48001a349fc9",
+                        "Descripción": "Un joven seguro de sí mismo de buena familia, decide meterse en el negocio de las drogas. Por casualidad, se encuentra con 3 kilos de cocaína y quiere venderlos al mejor postor.",
+                        "Metadata": "T1E16 40 min"
+                    },
+                    {
+                        "Titulo": "El eco",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45887ecf48001a349fdf",
+                        "Descripción": "Junior, el hijo de Lucas, se ve obligado por Bernardo a conducir un carro lleno de explosivos hasta un edificio del DAS donde explotará pasadas las diez de la noche.",
+                        "Metadata": "T1E17 38 min"
+                    },
+                    {
+                        "Titulo": "El purgatorio",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457f7ecf48001a349d4d",
+                        "Descripción": "Ricardo se ha portado muy mal en la vida: Con su esposa, hijo, familia, en su trabajo y, sobre todo, con su madre. Ricardo se verá obligado, bajo la influencia de un veneno inyectado, a recorrer sus pasos pidiendo perdón.",
+                        "Metadata": "T1E18 39 min"
+                    },
+                    {
+                        "Titulo": "La informante",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45887ecf48001a349f9f",
+                        "Descripción": "Silvia se ve envuelta en los enredos criminales de un mafioso que teme ser descubierto por unas fotos con las que un antiguo secuaz pretende sobornarlo, gracias a los celos que por ella siente Angélica, la ex novia de su actual pareja, Jairo.",
+                        "Metadata": "T1E19 43 min"
+                    },
+                    {
+                        "Titulo": "Trío de celos",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457f7ecf48001a349d63",
+                        "Descripción": "Una pareja de gays, realizan una comida para su mejor amiga que esta próxima a casarse. Al llegar con su novio todo se transforma en una gran tragedia, ya que queda al descubierto que esta era amante de uno de los gays.",
+                        "Metadata": "T1E20 39 min"
+                    },
+                    {
+                        "Titulo": "Mal perdedor",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e1e",
+                        "Descripción": "Eliécer acaba de ganar las elecciones para la alcaldía. Guillermo, su rival, aparece algo ebrio la misma noche de la victoria en la oficina del ganador, lo golpea y le dispara para lograr que firme una renuncia a su recién conseguido cargo.",
+                        "Metadata": "T1E21 44 min"
+                    },
+                    {
+                        "Titulo": "El barrendero",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e06",
+                        "Descripción": "En su turno de barrendero, Gabriel encuentra una gran cantidad de billetes unidos a una mano ensangrentada en un acumulador de basura, decide quedarse con el dinero. Va a su casa y encuentra que su mujer lo ha abandonado.",
+                        "Metadata": "T1E22 33 min"
+                    },
+                    {
+                        "Titulo": "El vecino",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e8a",
+                        "Descripción": "Una pareja joven vive una crisis matrimonial. En medio de una pelea conocen a Andrés, un fotógrafo vecino. Rápidamente el vecino se convertirá en el confidente de la pareja, conociendo sus problemas más íntimos.",
+                        "Metadata": "T1E23 39 min"
+                    },
+                    {
+                        "Titulo": "Casilla 34",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45887ecf48001a349f8a",
+                        "Descripción": "Un importante hombre de negocios se suicida. Su hijo quien vive en Londres decide hacerse cargo de la situación. Se involucra con todos los socios, al final su papá aparece como miembro de la policía, todo ha sido un plan para poder descubrirlo.",
+                        "Metadata": "T1E24 41 min"
+                    },
+                    {
+                        "Titulo": "El último show",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457f7ecf48001a349d78",
+                        "Descripción": "Cuando Verónica decide regresar a compartir sus últimos días con su hija y esposo abandonado, se da cuenta que ellos han seguido su camino y que están a punto de inaugurar un gran espectáculo. Ella entra en un estado de crisis y saca un arma.",
+                        "Metadata": "T1E25 40 min"
+                    },
+                    {
+                        "Titulo": "Heroína",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349ecd",
+                        "Descripción": "Movida por la reciente muerte de su amiga Diana, Paula decide hacer un documental sobre los efectos de la heroína en los seres humanos, poniéndose ella misma como conejillo de indias.",
+                        "Metadata": "T1E26 41 min"
+                    },
+                    {
+                        "Titulo": "Caso 121",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e36",
+                        "Descripción": "Mike recibe una llamada de un hombre que le exige que se suicide. Para lograrlo le cuenta todo lo que ignora sobre su propia vida: Su mujer lo engaña con narcotraficantes y ha sido asesinada por robar una cuantiosa suma de dinero.",
+                        "Metadata": "T1E27 42 min"
+                    },
+                    {
+                        "Titulo": "Una nueva acompañante",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349ee2",
+                        "Descripción": "Gonzalo tiene una reunión política en un lugar elegante con Roberto, un futuro patrocinador de su campaña. Tiene que llevar su mejor sonrisa y a su prometida Diana. El problema está en que luego de una pequeña disputa…",
+                        "Metadata": "T1E28 40 min"
+                    },
+                    {
+                        "Titulo": "Una vida distinta",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45867ecf48001a349e4b",
+                        "Descripción": "Pablo, el nuevo conductor de Ebraldo, un delincuente de pésimo humor, se enreda con Lucía, su joven mujer. Con la idea de escapar de él, deciden robar una fuerte suma de dinero que Ebraldo guarda en la caja fuerte de su oficina.",
+                        "Metadata": "T1E29 41 min"
+                    },
+                    {
+                        "Titulo": "El final",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349f6a",
+                        "Descripción": "Vanesa y Julián entran a escondidas a la mansión de Virgilio para usar la piscina. En la travesura, Vanesa descubre a Virgilio minutos después de que, aparentemente, ha intentado suicidarse. Y esta trata de explicar su presencia en la mansión.",
+                        "Metadata": "T1E30 42 min"
+                    },
+                    {
+                        "Titulo": "Carta de peticiones",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457e7ecf48001a349d03",
+                        "Descripción": "Tomás y Jeremías entran a la casa de Andrés, su jefe en una empresa de seguros, y lo toman como rehén para presionar al Gobierno colombiano: quieren que no se firme el TLC.",
+                        "Metadata": "T1E31 40 min"
+                    },
+                    {
+                        "Titulo": "Los ojos",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349f55",
+                        "Descripción": "En la sala de espera de un consultorio médico Liliana acepta ser la acompañante de Diego, quien ha ido para ser tratado de los ojos: Si no trae una persona que lo acompañe, no lo tratarán y perderá su cita.",
+                        "Metadata": "T1E32 36 min"
+                    },
+                    {
+                        "Titulo": "Tóxico",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f457f7ecf48001a349da2",
+                        "Descripción": "En un parqueadero, dejan una camioneta abandonada. El celador empieza a investigar dándose cuenta que hay unos cadáveres, donde se escondió un gas mortífero que duerme a las personas y que iba a ser utilizado en un atentado terrorista.",
+                        "Metadata": "T1E33 39 min"
+                    },
+                    {
+                        "Titulo": "Mercaderes de la muerte",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5fb7c77dccbda8001a149299",
+                        "Descripción": "Antonio ha sido contratado como vigilante en una clínica abandonada donde un grupo de ladrones de órganos tienen la misión de extraer siete riñones. Antonio, se las arregla para quedarse con el botín.",
+                        "Metadata": "T1E34 41 min"
+                    },
+                    {
+                        "Titulo": "Obsesión",
+                        "Link": "/latam/on-demand/series/5f8f45777ecf48001a349c6c/season/1/episode/5f8f45877ecf48001a349f3f",
+                        "Descripción": "Ricardo ha recibido unas fotos que son la prueba de la infidelidad de su mujer. Al ir a reclamarle, encuentra el cadáver del hombre de las fotos en la cocina de su casa. Paralelamente descubre a Carolina, su ex amante, en brazos de su hijo.",
+                        "Metadata": "T1E35 39 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Sin Identidad",
@@ -181,10 +1445,150 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/details?lang=en",
             "descripcion": "\"Sin Identidad\" cuenta la historia de María, una joven y atractiva abogada madrileña de clase alta que con 27 años descubre que no es hija biológica de sus padres.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Mitad y mitad",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f6b2139b4fc4b8a726d",
+                        "Descripción": "Después de casi 10 años encerrada en una cárcel china, María consigue huir y ser libre. A partir de ese momento, sólo tiene un objetivo: volver a Madrid y vengarse de todos aquellos que le hicieron daño: su familia.",
+                        "Metadata": "T1E1 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "La solución a mis problemas",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f682139b4fc4b8a722e",
+                        "Descripción": "María entra en la cárcel china y es muy mal recibida por las presas de un sector, que llegan incluso a agredirla. Sólo la amistad de Irina, que enseguida la convierte en su favorita, la protegen en ese ambiente tan hostil.",
+                        "Metadata": "T1E2 1hr 24 min"
+                    },
+                    {
+                        "Titulo": "Una luz al final del túnel",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f6a2139b4fc4b8a724d",
+                        "Descripción": "María se hace dura en la cárcel china, especialmente tras una violenta pelea con una presa, y su estancia por la celda de castigo en la que pasa incomunicada algunas semanas.",
+                        "Metadata": "T1E3 1hr 24 min"
+                    },
+                    {
+                        "Titulo": "El enemigo en casa",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f672139b4fc4b8a7213",
+                        "Descripción": "China, 2013. María se prostituye para conseguir medicinas para su amiga Irina, pero no consigue salvarla de la muerte. Lo que sí consigue es huir de la cárcel y construirse una nueva vida con el dinero que le ha dejado su amiga.",
+                        "Metadata": "T1E4 1hr 20 min"
+                    },
+                    {
+                        "Titulo": "Mi otra vida",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f652139b4fc4b8a71f9",
+                        "Descripción": "Madrid 2013: María, bajo su identidad de Mercedes Dantés, no deja de vigilar a Luisa y a su tío Enrique como parte de su venganza, y mediante mensajes anónimos intimida a su tío hasta conseguir sacarle de sus casillas.",
+                        "Metadata": "T1E5 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "La sombra del diablo",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f692139b4fc4b8a723f",
+                        "Descripción": "Madrid 2013: María, bajo su identidad de Mercedes Dantés, sigue investigando a su familia para descubrir cómo han rehecho fácilmente sus vidas en su ausencia.",
+                        "Metadata": "T1E6 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Excusatio non petita",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f6a2139b4fc4b8a725e",
+                        "Descripción": "Madrid 2013: María bajo la identidad de Mercedes Dantés es reconocida por la calle por una antigua profesora, lo que la pone en alerta de estar tal vez exponiéndose demasiado.",
+                        "Metadata": "T1E7 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Alfiles y peones sin reina",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f662139b4fc4b8a7208",
+                        "Descripción": "Madrid 2013: María, oculta bajo su identidad de Mercedes Dantés, y con un arma en el bolsillo de su abrigo, sigue a su tío Enrique hasta dentro de una de sus clínicas. Está tan cerca de él que podría apretar el gatillo sin problema.",
+                        "Metadata": "T1E8 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Mañana, cuando la venganza empiece",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/1/episode/5e1e5f682139b4fc4b8a721f",
+                        "Descripción": "Madrid 2013: María, bajo su identidad de Mercedes Dantés, tiene estudiado minuciosamente el recorrido diario de Enrique y ha llegado el día elegido para atentar contra él. Todo está calculado.",
+                        "Metadata": "T1E9 1hr 13 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "He vuelto para vengarme",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f742139b4fc4b8a7329",
+                        "Descripción": "Madrid, Enero de 2014, María lleva tres meses viviendo en Madrid bajo la identidad de Mercedes Dantés e investigando a su familia cuya situación ha cambiado mucho en estos doce años.",
+                        "Metadata": "T2E1 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "La venganza desde dentro",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f742139b4fc4b8a7319",
+                        "Descripción": "La noticia de que María está viva ha conmocionado a toda la familia. Su llegada al aeropuerto, tremendamente desmejorada, causa gran impacto en todos, sobre todo en Francisco que la abraza conmovido.",
+                        "Metadata": "T2E2 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "Me da miedo dormir",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f732139b4fc4b8a730b",
+                        "Descripción": "María no está bien. Una noche, durante una de sus pesadillas, agrede a Enrique sonámbula. Desde ese momento María siembra la desconfianza en su tío hacia ella.",
+                        "Metadata": "T2E3 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Que no encuentren a Mercedes Dantés",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f722139b4fc4b8a72fd",
+                        "Descripción": "María está algo mejor tras la cura de sueño, pero sigue teniendo pesadillas y tomando sus pastillas. Ella y Pablo ahora van a tener que adelantarse a los movimientos de Enrique más que nunca.",
+                        "Metadata": "T2E4 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Gánate su confianza",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f722139b4fc4b8a72f2",
+                        "Descripción": "María está contra las cuerdas pues sabe que Enrique tiene en su poder la esquela que la relaciona con Mercedes Dantés, y que cada paso que de va a estar vigilada por su tío.",
+                        "Metadata": "T2E5 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "Yo participé en el asesinato de María Fuentes",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f712139b4fc4b8a72e5",
+                        "Descripción": "Francisco ahora está al tanto de la venganza de María y queda con ella en que le dará todo lo recopilado sobre Enrique en estos años para hundirle.",
+                        "Metadata": "T2E6 1hr 18 min"
+                    },
+                    {
+                        "Titulo": "Enrique, voy a por ti",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f712139b4fc4b8a72d6",
+                        "Descripción": "María está llena de rabia después de saber la verdad sobre la muerte de su padre, hasta el punto de intentar de nuevo a matar a su tío.",
+                        "Metadata": "T2E7 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Soy Feliz",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f6e2139b4fc4b8a72a0",
+                        "Descripción": "Han pasado dos meses desde la muerte de Francisco y María está mucho mejor, se la ve más serena, medita todas las mañanas y está totalmente rehabilitada de su adicción a los opiáceos.",
+                        "Metadata": "T2E8 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "La verdad sobre Heffner",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f6f2139b4fc4b8a72bc",
+                        "Descripción": "María con la ayuda de Pablo encuentra a su hermana pequeña que se había escapado, lo que provoca que ambas se conozcan y que la niña quiera irse a vivir con María.",
+                        "Metadata": "T2E9 1hr 20 min"
+                    },
+                    {
+                        "Titulo": "El Congreso es un fraude",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f702139b4fc4b8a72c8",
+                        "Descripción": "Tras la muerte de Carmen Perea, la madre de Ana, todo se precipita para todos pues se encuentran a apenas a unas horas de inaugurar el congreso.",
+                        "Metadata": "T2E10 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Yo sé quién es Mercedes Dantés",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f6c2139b4fc4b8a7285",
+                        "Descripción": "Enrique, tras el fracaso del Congreso, intenta salir lo mejor parado posible con Miriam y con el Ministro, pero todos dudan de él, por su intervención precipitada ante la prensa.",
+                        "Metadata": "T2E11 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Del amor al odio",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f6c2139b4fc4b8a727b",
+                        "Descripción": "María está en una encrucijada. Quiere seguir viéndose con Juan y recuperar el tiempo perdido, pero por otra parte echa mucho de menos a Pablo, al que ha traicionado.",
+                        "Metadata": "T2E12 1hr 17 min"
+                    },
+                    {
+                        "Titulo": "En tres días terminará todo",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f6f2139b4fc4b8a72ae",
+                        "Descripción": "María y Pablo están decididos a acabar definitivamente con Enrique antes de su nombramiento como Ministro dentro de tres días.",
+                        "Metadata": "T2E13 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Sólo puede quedar uno",
+                        "Link": "/latam/on-demand/series/5e1e5f652139b4fc4b8a71f6/season/2/episode/5e1e5f6d2139b4fc4b8a7293",
+                        "Descripción": "Han pasado unos días desde que la policía intentó detener a Enrique en el Ministerio, y todo ha dado un vuelco espeluznante. Bruno está muerto, Luisa está en la cárcel, y Enrique y María han desaparecido.",
+                        "Metadata": "T2E14 1hr 19 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Lobos",
@@ -195,9 +1599,64 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/618151401be642001a2d72a5/details?lang=en",
             "descripcion": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "El trato",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151421be642001a2d730f",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E1 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "La deuda de Lucía",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151421be642001a2d72e9",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E2 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "Palabra de lobo",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d732f",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E3 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "La cocina de Babel",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d734c",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E4 1hr 13 min"
+                    },
+                    {
+                        "Titulo": "La vuelta a casa",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151421be642001a2d72cb",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E5 1hr 11 min"
+                    },
+                    {
+                        "Titulo": "Viejas amistades",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d738b",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E6 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "Animales de compañía",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151431be642001a2d736e",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E7 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Cuestión de confianza",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151441be642001a2d73cd",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E8 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "La boda del lobo",
+                        "Link": "/latam/on-demand/series/618151401be642001a2d72a5/season/1/episode/618151441be642001a2d73a8",
+                        "Descripción": "Narra las peripecias que vive Manuel Lobo, un abogado maduro, viudo y padre de tres hijas, para evitar que la más pequeña acabe en la cárcel por tráfico de drogas.",
+                        "Metadata": "T1E9 1hr 10 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Karabudjan",
@@ -208,9 +1667,46 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/617fe3f3c3995d001ab1752c/details?lang=en",
             "descripcion": "Diego Salgado, es un joven ejecutivo de una importante empresa de publicidad. Está acostumbrado a conseguir todo lo que se propone. Esconde un terrible secreto pero el pasado siempre vuelve y Diego se tendrá que enfrentar a él.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Desapareción",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f8c3995d001ab175ae",
+                        "Descripción": "María, amiga íntima de la hermana de Diego desaparece. El publicista trata de ponerse en contacto con todos sus contactos, finalmente el caso cae en manos de la inspectora Ana.",
+                        "Metadata": "T1E1 1hr 12 min"
+                    },
+                    {
+                        "Titulo": "En punto muerto",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f5c3995d001ab1758a",
+                        "Descripción": "La investigación cae en punto muerto al haber entrado en coma el principal sospechoso. Aunque aparece una nueva pista, una grabación de una cámara de seguridad.",
+                        "Metadata": "T1E2 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Rumbo a Colombia",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f5c3995d001ab17546",
+                        "Descripción": "Todo el mundo se siente derrotado tras la noticia de la muerte de María. Diego, sin embargo, se resiste a rendirse. Prosigue, por su cuenta, las averiguaciones.",
+                        "Metadata": "T1E3 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Secuestro",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f8c3995d001ab175cb",
+                        "Descripción": "De camino al pueblo de origen del presunto asesino, Centeno, un tipo duro local contratado para ayudarles, secuestra a Ana y a Diego.",
+                        "Metadata": "T1E4 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "El final, Parte 1",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f5c3995d001ab17568",
+                        "Descripción": "Wilson, el hermano del anterior sospechoso de haber matado a María, se niega a colaborar con Diego y Ana por miedo a la siniestra organización que está detrás de todo, éstos se desesperan.",
+                        "Metadata": "T1E5 1hr 15 min"
+                    },
+                    {
+                        "Titulo": "El final, Parte 2",
+                        "Link": "/latam/on-demand/series/617fe3f3c3995d001ab1752c/season/1/episode/617fe3f8c3995d001ab175e8",
+                        "Descripción": "Dani está mal herido y Diego y Ana no saben qué hacer, se encuentran perdidos en mitad de Senegal, sin recursos ni posibilidad de seguir a los malhechores.",
+                        "Metadata": "T1E6 1hr 12 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Juda",
@@ -221,9 +1717,58 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/details?lang=en",
             "descripcion": "Juda es un jugador que se gana la vida en el inframundo criminal. Tomando dinero prestado de la mafia francesa para un lugar en un juego de póquer de alto riesgo, gana a lo grande pero la suerte se le acaba cuando se topa con una vampiresa.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab48",
+                        "Descripción": "Juda, un jugador y estafador pide prestado dinero a la mafia francesa y vuela a un casino en Rumania para hacer la mayor apuesta de su vida, y se involucra con una mujer misteriosa.",
+                        "Metadata": "T1E1 58 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5e1c1caa0013f7abd8",
+                        "Descripción": "La mafia francesa está detrás de Juda. Se las arregla para escapar y es secuestrado por un misterioso rabino, quien le explica cómo usar sus nuevos poderes.",
+                        "Metadata": "T1E2 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab7b",
+                        "Descripción": "Juda y Asher obtienen nuevos pasaportes que les ayudarán a empezar de nuevo. Los vampiros siguen persiguiendo a Juda y el Sr. Jacque llega a Israel para ocuparse de los negocios él mismo.",
+                        "Metadata": "T1E3 38 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab66",
+                        "Descripción": "Después de que arrestan a Asher, Juda está huyendo hacia un escondite, que termina con un encuentro sorprendente con Tanja el vampiro.",
+                        "Metadata": "T1E4 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5e1c1caa0013f7abf1",
+                        "Descripción": "Juda va a liberar a Asher de la cárcel, con la policía detrás de él. Los vampiros se unen a la persecución y las cosas empeoran.",
+                        "Metadata": "T1E5 37 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7ab94",
+                        "Descripción": "El rabino está enojado con Juda y lo pone a prueba. Juda se sorprende después de una misteriosa visita a la casa del rabino.",
+                        "Metadata": "T1E6 50 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5e1c1caa0013f7ac0b",
+                        "Descripción": "Juda se encuentra con los vampiros. Mientras tanto, Orit comienza a atar cabos sueltos en la investigación.",
+                        "Metadata": "T1E7 39 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/5fca7c5a1c1caa0013f7ab26/season/1/episode/5fca7c5c1c1caa0013f7abad",
+                        "Descripción": "Juda decide aceptar al animal que lleva dentro y sale a arreglar las cosas con sus perseguidores, pero finalmente descubre un secreto que nadie le contó.",
+                        "Metadata": "T1E8 54 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Cazadores de hombres",
@@ -234,9 +1779,58 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/617bed12693843001af7bbe2/details?lang=en",
             "descripcion": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Operación Luna Africana",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed14693843001af7bc04",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E1 1hr 10 min"
+                    },
+                    {
+                        "Titulo": "Operación Nido",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bcb8",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E2 1hr 16 min"
+                    },
+                    {
+                        "Titulo": "Operación San Valentín",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc43",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E3 1hr 7 min"
+                    },
+                    {
+                        "Titulo": "Operación Ojos Cerrados",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bcdd",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E4 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Operación Ojos Cerrados Segunda Parte",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc61",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E5 1hr 8 min"
+                    },
+                    {
+                        "Titulo": "Operación Tango",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc26",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E6 1hr 9 min"
+                    },
+                    {
+                        "Titulo": "Operación Mala Hierba",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc7e",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E7 1hr 14 min"
+                    },
+                    {
+                        "Titulo": "Operación Yahutov",
+                        "Link": "/latam/on-demand/series/617bed12693843001af7bbe2/season/1/episode/617bed15693843001af7bc9b",
+                        "Descripción": "Narra el trabajo de una unidad policial de élite especializada en la localización y captura de fugitivos especialmente peligrosos y, en ocasiones, reclamados internacionalmente.",
+                        "Metadata": "T1E8 1hr 15 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Gracepoint",
@@ -247,9 +1841,70 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/details?lang=en",
             "descripcion": "Cuando un niño es encontrado muerto en una playa, se inicia una importante investigación policial en un pequeño pueblo. El caso desencadena un frenesí mediático que lleva a la familia del niño a una mayor agitación y da un vuelco a la vida de todos.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Todos son amigos y todos son suspectos en el riveto",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8fcd78344b4ec61b20c",
+                        "Descripción": "El asesinato de un joven en el pequeño pueblo de Gracepoint trae acusaciones y un frenesí mediático a nivel nacional que amenaza con destrozar a la comunidad.",
+                        "Metadata": "S1E1 44 min"
+                    },
+                    {
+                        "Titulo": "Hay secretos en la casa Solano",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8fbd78344b4ec61b1ce",
+                        "Descripción": "La familia Solano sigue sufriendo por la tragedia de su hijo. Los detectives encuentran evidencia perturbadora en la habitación de Chloe, mientras Beth confía en su vieja amiga.",
+                        "Metadata": "S1E2 44 min"
+                    },
+                    {
+                        "Titulo": "Mark es atrapado en una mentira",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8f9d78344b4ec61b167",
+                        "Descripción": "Con la investigación en pleno apogeo, Mark Solano es interrogado después de ser atrapado en una mentira. Luego, Gemma revela un secreto a los detectives y Carver entrevista al esposo de Ellie, Tom.",
+                        "Metadata": "S1E3 44 min"
+                    },
+                    {
+                        "Titulo": "La lista de sospechosos comienza a crecer",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8f9d78344b4ec61b17c",
+                        "Descripción": "Nuevos sospechosos entran en la lista cuando los detectives se enteran de que Danny tenía algunos secretos propios. Mientras tanto, el detective Carver también mantiene cosas ocultas que podrían afectar su capacidad para terminar el caso.",
+                        "Metadata": "S1E4 43 min"
+                    },
+                    {
+                        "Titulo": "La ciudad se vuelve contra Jack",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8fad78344b4ec61b199",
+                        "Descripción": "El oscuro pasado de Jack Reinhold sale a la luz, y Beth Solano decide abrirse a la prensa.",
+                        "Metadata": "S1E5 43 min"
+                    },
+                    {
+                        "Titulo": "Se revela la verdad sobre Jack",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8f8d78344b4ec61b0ef",
+                        "Descripción": "La ciudad de Gracepoint continúa volviéndose contra Jack, pero él no es el único que oculta algo. Beth decide finalmente confrontar a Gemma.",
+                        "Metadata": "S1E6 43 min"
+                    },
+                    {
+                        "Titulo": "Otro niño se pierde",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8f8d78344b4ec61b105",
+                        "Descripción": "La detective Miller enfrenta una crisis en su propia familia que puede conducir a un nuevo sospechoso, y la detective Carver tiene un visitante inesperado en la estación de policía.",
+                        "Metadata": "S1E7 42 min"
+                    },
+                    {
+                        "Titulo": "La familia Solano intenta recoger las piezas",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5f21dea350e989001a501d9c",
+                        "Descripción": "A medida que continúa la búsqueda del asesino de Danny, la familia Solano trata de adaptarse lentamente a la vida sin su hijo volviendo al trabajo y la escuela.",
+                        "Metadata": "S1E8 44 min"
+                    },
+                    {
+                        "Titulo": "Carver y Miller corren contra el reloj",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8f8d78344b4ec61b139",
+                        "Descripción": "Después de que la condición cardíaca del detective Carver empeora, tiene 24 horas antes de que su jefe lo saque del caso. Entonces él y Miller corren contra el reloj para averiguar quién mató a Danny Solano.",
+                        "Metadata": "S1E9 44 min"
+                    },
+                    {
+                        "Titulo": "El asesino de Danny Solano es revelado",
+                        "Link": "/latam/on-demand/series/5e0fc8f6d78344b4ec61b0c9/season/1/episode/5e0fc8f8d78344b4ec61b124",
+                        "Descripción": "El caso de asesinato de Gracepoint llega a su fin cuando el detective Emmett Carver y el detective Ellie Miller finalmente atrapan al asesino de Danny.",
+                        "Metadata": "S1E10 44 min"
+                    }
+                ]
+            }
         }
     ]
 }

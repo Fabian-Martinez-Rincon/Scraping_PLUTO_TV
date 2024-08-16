@@ -10,24 +10,322 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5f8ee06b72d139001a1a5238/details?lang=en",
             "descripcion": "Las vidas de cinco jóvenes mujeres, amigas íntimas, cuyas vidas profesionales, amistades, relaciones amorosas, pasiones y sentido del humor constituyen una serie que evoluciona alrededor de la confianza y fidelidad con uno mismo.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Algunas cosas simplemente no tienen explicación",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07972d139001a1a52eb",
+                        "Descripción": "Paula está a punto de celebrar su primer aniversario de bodas. Una oferta profesional de la revista para la que trabaja la pone en la incómoda posición de tener que decidir sobre su propia vida, pero un chequeo médico de rutina es una advertencia.",
+                        "Metadata": "T1E1 52 min"
+                    },
+                    {
+                        "Titulo": "Nunca debes rendirte",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07772d139001a1a52d6",
+                        "Descripción": "Lidia sigue sufriendo tras perder a Lluis, su marido. Es más, el homenaje que le quieren organizar los compañeros de trabajo la obliga a pensar en él todo el tiempo. Escribir el discurso para el final del evento la lleva a una profunda crisis.",
+                        "Metadata": "T1E2 1hr 1 min"
+                    },
+                    {
+                        "Titulo": "Estos son los momentos que realmente valen la pena",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07872d139001a1a52e1",
+                        "Descripción": "Marina, la hija de Joana, escucha una conversación sospechosa de su padre y se lo cuenta a Arlet, quien prefiere no contar el secreto. Por su parte, Arlet día a día se acerca un poco más como amiga a Dani, en quien encuentra un equilibrio perfecto.",
+                        "Metadata": "T1E3 1hr 2 min"
+                    },
+                    {
+                        "Titulo": "Joana, ¡estás viendo fantasmas!",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07672d139001a1a52cb",
+                        "Descripción": "Una vez que todos conocen la enfermedad de Paula, todos los amigos, excepto Lidia, insisten en que ella pelee y se la opere. En cambio, Paula opta por mostrarles su nuevo hogar, donde siempre se reunía con su amante.",
+                        "Metadata": "T1E4 1hr"
+                    },
+                    {
+                        "Titulo": "¿No tienes secretos, Arlet?",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07572d139001a1a52be",
+                        "Descripción": "Arlet no puede entender cómo su madre sigue cuidando a su marido después de todo el dolor que le causó. Joana está convencida de que Francesc la engaña. Cruz y Lidia quieren ayudarla a arreglar las cosas.",
+                        "Metadata": "T1E5 53 min"
+                    },
+                    {
+                        "Titulo": "Vive todos los días al máximo",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07472d139001a1a52a6",
+                        "Descripción": "Paula le dice a Marc, su amante, que se siente feliz por haber encontrado a su verdadero amor. Los grupos de amigos conocen a Marc, quien les convence de que está muy enamorado de Paula.",
+                        "Metadata": "T1E6 1hr"
+                    },
+                    {
+                        "Titulo": "Sin mentiras",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07572d139001a1a52b1",
+                        "Descripción": "Cruz y Joana están en el banco cuando un atracador irrumpe y los amenaza. Lidia no tiene más remedio que confesarle a Albert que está teniendo una aventura con otra persona, pero no le revelará con quién la está teniendo.",
+                        "Metadata": "T1E7 53 min"
+                    },
+                    {
+                        "Titulo": "La esperanza nunca muere",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07372d139001a1a529a",
+                        "Descripción": "Arlet le muestra a Victor el piso que ha alquilado. La radio informa de la lesión de Dani. Víctor viaja a Bélgica y Arlet llama a Dani para hacer arreglos para verse.",
+                        "Metadata": "T1E8 54 min"
+                    },
+                    {
+                        "Titulo": "Estamos jodidos",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07072d139001a1a5275",
+                        "Descripción": "Lidia recibe una llamada en su celular: Toni ha tenido un accidente y parece muy grave. Eduard y Cruz se visten para ir al entierro de Raimon. Oriol culpa a Joana por el beso que le dio a Peter.",
+                        "Metadata": "T1E9 55 min"
+                    },
+                    {
+                        "Titulo": "Una conciencia limpia",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee06b72d139001a1a523a",
+                        "Descripción": "Toni se instala unos días en casa de Lidia para recuperarse. Va a visitar a su abuela y se da cuenta de que otra persona, además de él, también la visita. Cruz tiene sueños ansiosos porque no está segura de si el bebé que espera es de Eduard.",
+                        "Metadata": "T1E10 59 min"
+                    },
+                    {
+                        "Titulo": "Estoy bien, gracias",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07272d139001a1a528e",
+                        "Descripción": "María acusa a Paula de ser demasiado egoísta. Marc sufre al ver que Adria no quiere quedarse en el piso con Paula. Toni le dice a Lidia que ya se ha enfrentado a su pasado y que ahora le toca a ella.",
+                        "Metadata": "T1E11 56 min"
+                    },
+                    {
+                        "Titulo": "¿No tienes tiempo para cocinar?",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee06e72d139001a1a5250",
+                        "Descripción": "Paula no se siente bien y ha cancelado sus sesiones con la curandera. Marc la cuida lo mejor que puede. María se encuentra con Marc, el exmarido de Paula, y por casualidad le dice que ella y el bebé están sufriendo.",
+                        "Metadata": "T1E12 58 min"
+                    },
+                    {
+                        "Titulo": "Cara o corona",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee07272d139001a1a5281",
+                        "Descripción": "Joana no puede evitar darle la espalda a Peter y le pide un tiempo para digerir la situación. Francesc se da cuenta de que la relación entre los dos no se ha puesto de moda. Marc le pide a Paula que se opere, pero ella no está segura de qué hacer.",
+                        "Metadata": "T1E13 51 min"
+                    },
+                    {
+                        "Titulo": "Venga lo que pueda",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee06f72d139001a1a5268",
+                        "Descripción": "El grupo de amigos habla con alegría y esperanza sobre la decisión de Paula de someterse a una cirugía. Sin embargo, el médico le dice que ya es demasiado tarde para la cirugía. Marc extraña a su hijo.",
+                        "Metadata": "T1E14 51 min"
+                    },
+                    {
+                        "Titulo": "Era mi turno",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee06d72d139001a1a5245",
+                        "Descripción": "Arlet le dice a Dani que ha tenido el mismo sueño otra vez: está persiguiendo a Marc, pero no puede alcanzarlo. Lidia le dice que tal vez su sueño tenga algo que ver con el miedo a perder algo.",
+                        "Metadata": "T1E15 59 min"
+                    },
+                    {
+                        "Titulo": "Te debo una invitación a cenar",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/1/episode/5f8ee06e72d139001a1a525b",
+                        "Descripción": "Paula parece estar muy animada a pesar de que mañana la van a operar. Dani realmente no encaja con el resto del grupo. Cruz cree que su presencia hace que el resto se sienta un poco incómodo y menos espontáneo.",
+                        "Metadata": "T1E16 53 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "Lentejas y Escalivada",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72cfc003e001380ee2f",
+                        "Descripción": "Ha pasado un año y medio desde la operación de Paula. Ella, que había perdido la memoria, se ha recuperado físicamente, pero no emocionalmente, y ahora regenta un bar. Cruz, madre de una niña, ha vuelto a encontrar trabajo.",
+                        "Metadata": "T2E1 59 min"
+                    },
+                    {
+                        "Titulo": "Métete el peluche",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380ef36",
+                        "Descripción": "Con Dani y Arlet de luna de miel, las amigas preparan el primer aniversario de la hija de Cruz. Jesús, con motivo de una fecha tan señalada, querrá acercarse a su hija, pero Cruz lo intentará evitar con todas sus fuerzas.",
+                        "Metadata": "T2E2 58 min"
+                    },
+                    {
+                        "Titulo": "No salgo en ninguna foto",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380eeb9",
+                        "Descripción": "Lídia consigue por fin su objetivo: que la consideren idónea para ser familia de acogida. Llega a casa Manu, un adolescente conflictivo que no se muestra muy entusiasmado con la idea de adaptarse a su nueva vida.",
+                        "Metadata": "T2E3 55 min"
+                    },
+                    {
+                        "Titulo": "Tú, siempre en medio",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380eea0",
+                        "Descripción": "Arlet, obsesionada con Francina, y sintiéndose culpable con Dani, decide llegar a un punto intermedio y propone a Dani hacer un trío.",
+                        "Metadata": "T2E4 51 min"
+                    },
+                    {
+                        "Titulo": "¿A alguien le interesa una faja?",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380ef04",
+                        "Descripción": "Dani se ofrece para trabajar en el bar de Paula, que, al ver que la chica tiene tanta mala suerte en la vida como ella, decide contratarla.",
+                        "Metadata": "T2E5 53 min"
+                    },
+                    {
+                        "Titulo": "Utilízame, por favor",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380ef1d",
+                        "Descripción": "Oriol se enamora de Arlet y se lo confiesa a Pep sin saber que este tiene el mismo problema: estar enamorado de alguien que le saca tantos años que podría ser su madre.",
+                        "Metadata": "T2E6 57 min"
+                    },
+                    {
+                        "Titulo": "Para Tortugo, ésta siempre será su casa",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380ee6e",
+                        "Descripción": "La relación de Lídia y Manu con Toni mejora despacio, pero todo se trunca cuando Toni es detenido por la policía, que lo relaciona con una trama ilegal de coches de lujo.",
+                        "Metadata": "T2E7 53 min"
+                    },
+                    {
+                        "Titulo": "Bruja con sabor a fresa",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380eed2",
+                        "Descripción": "La detención de Toni pone en peligro que Manu siga en casa de Lídia. Paula decide desintoxicarse.",
+                        "Metadata": "T2E8 59 min"
+                    },
+                    {
+                        "Titulo": "No creas nunca lo que dicen en la tele",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380ef4f",
+                        "Descripción": "Arlet descubre que es hija de un empresario corrupto... y de repente se encuentra inmersa en un acoso mediático.",
+                        "Metadata": "T2E9 53 min"
+                    },
+                    {
+                        "Titulo": "¿Tú quieres que te haga un favor, corazón?",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380ee53",
+                        "Descripción": "Paula avanza en la escritura de su novela y organiza una fiesta para presentar a Guillem.",
+                        "Metadata": "T2E10 54 min"
+                    },
+                    {
+                        "Titulo": "¿Quéééé?",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380eeeb",
+                        "Descripción": "Dani necesita otro trabajo, una casa donde vivir... y sentirse una más entre las amigas.",
+                        "Metadata": "T2E11 59 min"
+                    },
+                    {
+                        "Titulo": "Los mayores se pasan la vida mintiendo",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72efc003e001380ee87",
+                        "Descripción": "Peter y Joana siguen viéndose a escondidas de todo el mundo, pero la situación dará un giro cuando Joana descubra que Gabriela está embarazada...",
+                        "Metadata": "T2E12 49 min"
+                    },
+                    {
+                        "Titulo": "Yo, una novela así, no la leería ni loco",
+                        "Link": "/latam/on-demand/series/5f8ee06b72d139001a1a5238/season/2/episode/609ae72cfc003e001380ee16",
+                        "Descripción": "Paula acaba su novela y regala un ejemplar a las amigas..., que reaccionarán contra ella al ver destapadas sus vidas y secretos.",
+                        "Metadata": "T2E13 54 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Satisfaction",
             "metadatos": [
                 "TV-MA",
                 "Romance",
-                "There are no inadequacies"
+                "No hay deficiencias"
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e06698ce20d3e49c519a579/details?lang=en",
             "descripcion": "Las chicas regresan para volver a empezar, allí donde abundan las rivalidades, los secretos salen al descubierto y el futuro se cuestiona. Con la introducción de una nueva dama de compañía, el Club 232 continúa satisfaciendo a sus clientes.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Chica Fugitiva",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669d3e20d3e49c519b100",
+                        "Descripción": "El hecho de que uno de los clientes de Chloe no aparezca provoca inseguridades sobre su relación con su novio Josh. Las preguntas sobre la familia de su hija Bonnie incrementan sus ansiedades y la obligan a recordar dónde comenzó su vida profesional.",
+                        "Metadata": "T1E1 45 min"
+                    },
+                    {
+                        "Titulo": "Señora Hyde",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669d3e20d3e49c519b0eb",
+                        "Descripción": "Después de que el cliente estrella de rock de Mel casi muere por una sobredosis de drogas, su confianza se ve sacudida. Ella mira a su amante Tim, por seguridad, pero él revela un lado más oscuro de su personaje que no puede ignorar.",
+                        "Metadata": "T1E2 47 min"
+                    },
+                    {
+                        "Titulo": "El donante",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cce20d3e49c519afe9",
+                        "Descripción": "Heather y su novia, Ally, quieren tener un bebé con la ayuda del amigo de Ally, Gary. Cuando la pareja de Gary se opone, Heather diseña una solución inusual que pone a prueba su relación.",
+                        "Metadata": "T1E3 47 min"
+                    },
+                    {
+                        "Titulo": "El despertar de Lauren",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cce20d3e49c519afb9",
+                        "Descripción": "Lauren se enfrenta a la realidad de su nueva profesión y huye a la familiaridad de los suburbios. Pero cuando Chloe lo persigue, Lauren se da cuenta de que el trabajo sexual la ayudará a enfrentar el colapso de su matrimonio.",
+                        "Metadata": "T1E4 46 min"
+                    },
+                    {
+                        "Titulo": "La verdad",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cee20d3e49c519b055",
+                        "Descripción": "Tippi está perplejo por un cliente que parece estar reprimiendo sus impulsos sexuales. Chloe habla con Bonnie sobre su trabajo y enfría su relación con Josh para darles más tiempo juntos, pero Bonnie no se calma.",
+                        "Metadata": "T1E5 47 min"
+                    },
+                    {
+                        "Titulo": "La familia",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cee20d3e49c519b070",
+                        "Descripción": "Heather embarazada recibe apoyo continuo. Mientras tanto, uno de los clientes de Lauren repasa sus habilidades de seducción, que ella malinterpreta según lo previsto para ella.",
+                        "Metadata": "T1E6 45 min"
+                    },
+                    {
+                        "Titulo": "Fetiche de latex",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cce20d3e49c519afd0",
+                        "Descripción": "Chloe se sorprende al descubrir las peligrosas actividades en Internet de Bonnie; La relación de Mel y Nick se intensifica; y Lauren se estremece cuando sus hijos anuncian que se mudarán a Estados Unidos con su padre.",
+                        "Metadata": "T1E7 47 min"
+                    },
+                    {
+                        "Titulo": "Encuentro sexual sin compromisos",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cce20d3e49c519b002",
+                        "Descripción": "Tippi tiene una aventura inusual con un cliente que pronto se convierte en una amenaza para su vida. Mel encuentra una cantidad significativa de dinero depositado en su cuenta bancaria y queda más perpleja cuando se enfrenta al sombrío pasado.",
+                        "Metadata": "T1E8 47 min"
+                    },
+                    {
+                        "Titulo": "Pagando por ello",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cee20d3e49c519b03c",
+                        "Descripción": "Chloe, Bonnie y Josh comienzan sesiones de asesoramiento, y Josh propone matrimonio. El ex esposo de Lauren, Phil, le dice que necesita vender la casa familiar y que la decisión de Heather sobre el bebé parece estar cimentada.",
+                        "Metadata": "T1E9 46 min"
+                    },
+                    {
+                        "Titulo": "Asesinando a la cabra",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/1/episode/5e0669cbe20d3e49c519af9b",
+                        "Descripción": "Las chicas descubren que el burdel está en el mercado, dejándolas con perspectivas inciertas, hasta que Lauren diseña un plan que pueda salvaguardar su futuro.",
+                        "Metadata": "T1E10 47 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "Última mirada",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e066996e20d3e49c519a70b",
+                        "Descripción": "Mientras las chicas se tambalean con la noticia de la muerte de Nick, Nat y Mel trazan líneas de batalla sobre la propiedad del Club 232. Nat se retira bajo la seguridad de su fetiche y Mel se reúne con un cliente psicólogo.",
+                        "Metadata": "T2E1 56 min"
+                    },
+                    {
+                        "Titulo": "La chica del pony",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e066995e20d3e49c519a6ec",
+                        "Descripción": "Un nuevo cliente obliga a Heather a darse cuenta de que detrás de su fachada liberal hay ciertos límites. Mientras trabaja arreglando el sistema de sonido, Josh se confronta con la realidad del trabajo de Chloe.",
+                        "Metadata": "T2E2 51 min"
+                    },
+                    {
+                        "Titulo": "¿Qué amas ?",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698fe20d3e49c519a637",
+                        "Descripción": "Mel recibe una visita sorpresa de su hermano Sean, cuyo arribo a su vida trae solo problemas. Tippi invita a Sean a recorrer el Club 232 y al conocer a Nat su cabeza da un giro 360. Empieza a darse cuenta de que su carrera cambio…",
+                        "Metadata": "T2E3 53 min"
+                    },
+                    {
+                        "Titulo": "El Parque",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698fe20d3e49c519a5ec",
+                        "Descripción": "Atormentada por su encuentro con Martin, Tippi se involucra con un cliente sexualmente disfuncional. Mientras que el ex marido de Lauren, amenaza con contarles a sus hijos sobre su trabajo sexual, Sean le confiesa a Mel que ahora es un trabajador sexual.",
+                        "Metadata": "T2E4 53 min"
+                    },
+                    {
+                        "Titulo": "Buen ojo para los zapatos",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698fe20d3e49c519a5b9",
+                        "Descripción": "La esposa de un político en ascenso se acerca a Lauren para seducir a su esposo, Terence. Mel recibe una visita de la madre de Tippi, quien la obliga a cuestionar su papel en la vida de Tippi. Josh se va de gira y Chloe tiene una sesión agradable con Bill.",
+                        "Metadata": "T2E5 52 min"
+                    },
+                    {
+                        "Titulo": "Terapia de genes",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698fe20d3e49c519a61e",
+                        "Descripción": "Si bien la vida de Mel parece estar desmoronándose, la llegada de su madre solo aumenta su angustia. El trabajo de Lauren con Terence se está volviendo cada vez más complicado, mientras que Heather conoce a una pareja casada que quiere un trío ...",
+                        "Metadata": "T2E6 49 min"
+                    },
+                    {
+                        "Titulo": "Ataque Cardíaco",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698fe20d3e49c519a650",
+                        "Descripción": "Terence sospecha que Lauren es una trabajadora sexual, pero justo cuando se da cuenta de que siente algo por ella, sufre un ataque al corazón y Lauren queda atrapada en un gran problema.",
+                        "Metadata": "T2E7 49 min"
+                    },
+                    {
+                        "Titulo": "El ciclón Chloe",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698fe20d3e49c519a605",
+                        "Descripción": "Intentando evitar la conexión con Terence y ordenada por Fiona que se mantenga alejada del Club 232, Lauren mantiene su perfil bajo. Heather se dispone a confirmar que sus tendencias lesbianas todavía están vigentes.",
+                        "Metadata": "T2E8 53 min"
+                    },
+                    {
+                        "Titulo": "Manzanas",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698fe20d3e49c519a5d2",
+                        "Descripción": "Mel tiene un nuevo cliente, Marc, que es muy joven y muy ansioso. Confiado, divertido y con acceso a mucho dinero, la hace sentir animada. Nat se da cuenta de que siente algo por Sean y Heather tiene problemas para desconectarse de Jack.",
+                        "Metadata": "T2E9 50 min"
+                    },
+                    {
+                        "Titulo": "Más allá de los besos",
+                        "Link": "/latam/on-demand/series/5e06698ce20d3e49c519a579/season/2/episode/5e06698ee20d3e49c519a59b",
+                        "Descripción": "Con las intenciones de Sean a la vista, la fantasía y la realidad se están desdibujando para Nat. Mark se niega a aceptar que las cosas hayan terminado con Mel, mientras que Chloe extraña a Bonnie más que nunca y descubre que su hija siente lo mismo.",
+                        "Metadata": "T2E10 49 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "El Diario Secreto De Una Profesional",
@@ -38,9 +336,82 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/details?lang=en",
             "descripcion": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Una doble vida",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f412e5775fc28afb8cb",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E1 48 min"
+                    },
+                    {
+                        "Titulo": "No es a pedir de boca",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f412e5775fc28afb8c1",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E2 48 min"
+                    },
+                    {
+                        "Titulo": "La normalidad no funciona",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f402e5775fc28afb8b4",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E3 50 min"
+                    },
+                    {
+                        "Titulo": "En busca de un partner",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3f2e5775fc28afb8a7",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E4 52 min"
+                    },
+                    {
+                        "Titulo": "Se enamora y enseña",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3d2e5775fc28afb871",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E5 53 min"
+                    },
+                    {
+                        "Titulo": "Una buena consejera",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3f2e5775fc28afb89a",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E6 49 min"
+                    },
+                    {
+                        "Titulo": "Despedida de soltero",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3c2e5775fc28afb864",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E7 48 min"
+                    },
+                    {
+                        "Titulo": "Es dificil borrar el pasado",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3b2e5775fc28afb84a",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E8 49 min"
+                    },
+                    {
+                        "Titulo": "De la cama al papel",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3a2e5775fc28afb83c",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E9 47 min"
+                    },
+                    {
+                        "Titulo": "Cumplir deseos sexuales",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3b2e5775fc28afb857",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E10 51 min"
+                    },
+                    {
+                        "Titulo": "¿Dispuesta a una nueva relación?",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3e2e5775fc28afb88d",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E11 48 min"
+                    },
+                    {
+                        "Titulo": "Los fantasmas del pasado",
+                        "Link": "/latam/on-demand/series/5e1e5f3a2e5775fc28afb83a/season/1/episode/5e1e5f3d2e5775fc28afb880",
+                        "Descripción": "Una nueva versión del programa de televisión del 2007 “Secret Diary of a Call-girl.” Basado en el diario personal popular de la trabajadora sexual solo conocida como Belle de Jour.",
+                        "Metadata": "T1E12 48 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Sin tetas no hay paraíso (ESP)",
@@ -51,11 +422,464 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/609e9d0641fc48001327cce7/details?lang=en",
             "descripcion": "Cata y \"El Duque\", un romance lleno de intrigas y obstáculos. Ella, una joven estudiante de 17 años mientras que él es uno de los narcotraficantes más famosos.",
-            "temporadas": [
-                "Temporada 1",
-                "Temporada 2",
-                "Temporada 3"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d24fe1",
+                        "Descripción": "Ante la muerte de su esposo Vicente a manos de la guerrilla, Francisca, su hermano y su hijo se suman a la larga lista de desplazados en Colombia.",
+                        "Metadata": "T1E1 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d2500b",
+                        "Descripción": "Entretanto Jessica y 4 de sus amigas, Cris, Vanesa, Paula y Catalina llegan a la casa de Rafael Duque, en donde se está realizando una fiesta en honor a el narcotraficante Cardona.",
+                        "Metadata": "T1E2 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d24fcc",
+                        "Descripción": "Durante la investigación de la muerte de Alejandra, el inspector Diego Torres, obtiene los datos de su apartamento, a donde decide ir inmediatamente, descubriendo que el lugar había sido manipulado al no encontrar objetos personales de ella.",
+                        "Metadata": "T1E3 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d25020",
+                        "Descripción": "Después del incidente en la fiesta de Duque, en donde Catalina agredió a Morón, uno de los narcotraficantes, exigiendo la muerte de ella inmediatamente, en donde Duque le asegura que ya está muerta.",
+                        "Metadata": "T1E4 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d250dd",
+                        "Descripción": "En las horas de la noche, Lolo el hermano de Duque, genera una pelea con otros hombres a raíz de varios cometarios que le disgustaron.",
+                        "Metadata": "T1E5 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d73d4b3490013d24fb7",
+                        "Descripción": "Tras la muerte de Lolo por orden de su hermano Duque, la policía se da cuenta que lo utilizaron como carnada para que nadie sospeche de Duque, a raíz de esto se desató una pequeña discusión con su madre.",
+                        "Metadata": "T1E6 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d250f2",
+                        "Descripción": "El Duque después de confesarle a su madre que él fue quien mando a matar a su hermano, se desata una discusión entre los dos, en donde su madre le pide que no la vuelva a visitar ya que él mató a su hijo preferido.",
+                        "Metadata": "T1E7 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d73d4b3490013d24fa2",
+                        "Descripción": "Tras pasar un tiempo, Jessica se convirtió en la persona de confianza de Morón y Cardona para conseguir la chica que quisieran, entre ellas una famosa actriz a quien Jessica le ofrece un proyecto de actuación para que caiga en su trampa.",
+                        "Metadata": "T1E8 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 9",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d73d4b3490013d24f63",
+                        "Descripción": "Jessica al hablar con Catalina y enterarse que ella le entregó el dinero de la operación a su hermano Jesús, decide llevarla con un amigo cirujano, con quien hace un acuerdo para que la opere siendo menor de edad y sin el consentimiento de su madre.",
+                        "Metadata": "T1E9 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 10",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d2509e",
+                        "Descripción": "Jesús el hermano de Catalina huye de la policía con una supuesta mercancía que hay en el carro que el maneja.",
+                        "Metadata": "T1E10 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 11",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d25074",
+                        "Descripción": "El inspector Diego Torres, junto con su grupo de investigadores, caen en el señuelo de Duque y sus socios, al creer que habían frustrado el envío de la mercancía de aquel clan.",
+                        "Metadata": "T1E11 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 12",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d24ff6",
+                        "Descripción": "En la fiesta organizada en honor de Catalina, el Duque le ofrece irse a vivir con él a otro lugar en donde podrán estar juntos sin que nadie los moleste y de paso con el Duque en otros negocios.",
+                        "Metadata": "T1E12 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 13",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d25035",
+                        "Descripción": "Catalina después de quedarse sin el apoyo del Duque, decide irse del barrio junto con Jessica, quien le promete que la cuidará y protegerá mientras el Duque vuelve por ella, al legar al nuevo barrio.",
+                        "Metadata": "T1E13 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 14",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d2505f",
+                        "Descripción": "Tarzan, el hombre que golpean al Duque, le confiesa que él es un infiltrado de la DEA, quien lleva alrededor de tres años, como guarda espaldas de Colorado, el primo de Morón, Tarzan le ofrece que le ayude con información.",
+                        "Metadata": "T1E14 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 15",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d250b3",
+                        "Descripción": "Mientras tanto en España, Cris acepta el trabajo como actriz e películas para adultos, pero decide no contrale a ninguna de sus amigas para que no la juzgue por lo que hace.",
+                        "Metadata": "T1E15 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 16",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d25089",
+                        "Descripción": "El inspector Diego Torres decide encubrir a su compañero de trabajo, Velasco, quien es el infiltrado de Duque y sus socios, ya que él le ayudará con información para capturar al Duque, quien está vivo.",
+                        "Metadata": "T1E16 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 17",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d2504a",
+                        "Descripción": "El Duque se encuentra con Miguel Cortez, su nuevo socio, para cerrar el trato que él ya había hecho con Colorado, al salir del hotel en donde se encontraba, se tropieza con Jessica.",
+                        "Metadata": "T1E17 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 18",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d73d4b3490013d24f8d",
+                        "Descripción": "Catalina después de terminar su relación con el Duque, decide continuar viéndose con Cortés, ya que él le asegura que a su lado no le faltará absolutamente nada.",
+                        "Metadata": "T1E18 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 19",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d73d4b3490013d24f78",
+                        "Descripción": "En la comisaria, Velasco uno de los agentes decide abandonara su cargo para no estropear la carrera de su amigo y compañero de trabajo, Diego.",
+                        "Metadata": "T1E19 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 20",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/1/episode/609e9d74d4b3490013d250c8",
+                        "Descripción": "A raíz de los disparos que recibió Jesús a manos de uno de los hombres del Duque, queda gravemente herido... lo que le causa la muerte minutos después de que su novia Paula le confesara que estaban esperando un hijo.",
+                        "Metadata": "T1E20 45 min"
+                    }
+                ],
+                "Temporada 2": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df6c1",
+                        "Descripción": "Un mes después de lo sucedido con el hermano de Catalina, ella está a punto de casarse con Migue Cortés, quién hace una fiesta para celebrar que faltan tan solo 3 días para comprometerse.",
+                        "Metadata": "T2E1 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc2e97de800133df84e",
+                        "Descripción": "Viviana, una de las amigas de Catalina, decide colaborar con información acerca del Duque y de esta manera impedir que Catalina se case con Miguel Cortez.",
+                        "Metadata": "T2E2 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df757",
+                        "Descripción": "Tras pasados ya varios meses, Catalina y su amigo Balín, preparan una fiesta en honor a la muerte de Jesús.",
+                        "Metadata": "T2E3 46 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc2e97de800133df81e",
+                        "Descripción": "Catalina decide empezar el plan en contra del Duque para arruinarle sus planes con la ayuda de la mano derecha de su esposo Miguel Cortés.",
+                        "Metadata": "T2E4 46 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df7c6",
+                        "Descripción": "Viviana una de las amigas de Catalina, consigue su primer trabajo con la ayuda de su madre en una peluquería en donde es la encargada de lavarle el cabello a cada mujer de allí.",
+                        "Metadata": "T2E5 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df6ff",
+                        "Descripción": "El Duque mientras se encuentra en el bar con sus socios, llega su socio el ruso a cobrarle la muerte de su amigo Vladimir.",
+                        "Metadata": "T2E6 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc2e97de800133df837",
+                        "Descripción": "Paula se reúne con Fina, la mamá de Jesús para ver la ecografía de su nieto y de esta manera empiezan a recordar a Jesús.",
+                        "Metadata": "T2E7 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc0e97de800133df6ac",
+                        "Descripción": "Una de las amigas de Catalina, Viviana, al perder su primer trabajo en la peluquería, recae en las drogas, dejando bastante desilusionadas a sus amigas, ya que ellas saben el duro proceso por el cual había pasado ella anteriormente.",
+                        "Metadata": "T2E8 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 9",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df79a",
+                        "Descripción": "En el transcurso de los días, Catalina empieza a sentir de nuevo que no puede estar si el Duque, hecho que la hace pensar que ya no es necesario que acabe con sus negocios.",
+                        "Metadata": "T2E9 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 10",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df785",
+                        "Descripción": "El Duque mientras se encuentra en su apartamento recibe una visita sorpresa por parte de Velasco el antiguo espía por parte de ellos.",
+                        "Metadata": "T2E10 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 11",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc0e97de800133df697",
+                        "Descripción": "A raíz de los múltiples inconvenientes que empezaron a presentarse en las negociaciones con el Duque, Cortés decide investigar quién es la persona que lo ha traicionado.",
+                        "Metadata": "T2E11 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 12",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebbde97de800133df61c",
+                        "Descripción": "Tras varios meses de la muerte de Jesús, Catalina decide ir al cementerio a llevarle flores, en donde el Duque también se encuentra y le informa que es peligroso que siga al lado de Cortés.",
+                        "Metadata": "T2E12 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 13",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc2e97de800133df878",
+                        "Descripción": "El sueño por el que había luchado Jessica toda su vida, se empieza a desboronar después del escándalo de la muerte del concejal, a raíz de esto, ella acude al Cortés.",
+                        "Metadata": "T2E13 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 14",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df714",
+                        "Descripción": "Después de las amenazas de Cortés, Catalina decide tomar en arriendo un apartamento para irse de la casa, pero no contaba con que Miguel secuestraria a su amiga Paula.",
+                        "Metadata": "T2E14 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 15",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df72b",
+                        "Descripción": "A raíz de que Catalina le dejo bastante claro al Duque que no quería saber nada de él, Rafael decide buscar la ayuda del inspector Diego Torres y de paso hace todo lo posible por volver a ver con Catalina en el hospital en donde tienen a Paula.",
+                        "Metadata": "T2E15 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 16",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df6ea",
+                        "Descripción": "Después del secuestro de Paula, Catalina se encuentra con ella y le pide que le ayude a encontrarse con el Duque para alejarse de Miguel, a lo que accede e inmediatamente la cubre para que ellos se puedan ver.",
+                        "Metadata": "T2E16 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio 17",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df770",
+                        "Descripción": "En una fiesta en la casa de Miguel Cortés, Catalina se da cuenta que la vida de ella y la de la chica de aseo corren peligro, después de ver un CD en el computador de Miguel.",
+                        "Metadata": "T2E17 45 min"
+                    },
+                    {
+                        "Titulo": "Episodio18",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc0e97de800133df66d",
+                        "Descripción": "Después del velorio de aquel hombre, Catalina se empieza a enterar de los negocios de Cortés y de igual manera trata de convencer a Esteban, el hijo del fallecido, que es fácil entrar en el negocio.",
+                        "Metadata": "T2E18 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 19",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc0e97de800133df641",
+                        "Descripción": "Las amigas de Catalina deciden ir a visitarla después de que se enteran por parte de Jessica, que la salud de Catalina ha empeorado, al llegar a su casa.",
+                        "Metadata": "T2E19 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 20",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc0e97de800133df658",
+                        "Descripción": "En las horas de la noche, Catalina sufre un problema cardiorrespiratorio, causado por el veneno que le está dando su esposo Miguel, para ir acabando con su vida poco a poco.",
+                        "Metadata": "T2E20 46 min"
+                    },
+                    {
+                        "Titulo": "Episodio 21",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc0e97de800133df682",
+                        "Descripción": "Al transcurrir los días, Rafael Duque se da cuenta que Martínez, el hombre de confianza de Cortés tiene una hija, situación que aprovecha para manipularlo y así detener que él le cuente los planes de Catalina a su esposo Miguel.",
+                        "Metadata": "T2E21 46 min"
+                    },
+                    {
+                        "Titulo": "Episodio 22",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc2e97de800133df809",
+                        "Descripción": "Viviana al planear la forma de rescatar a su novio Moreno junto con Jessica, se va con él después de la orden del Gitano y al llegar a la bodega de motos, ella le da la posibilidad de no seguir consumiendo al igual que ella.",
+                        "Metadata": "T2E22 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 23",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df7b1",
+                        "Descripción": "Al llegar la noche, Vanesa hace todo lo posible para que su pareja Moreno, no consuma ningún tipo de sustancia, ya que ella quiere ayudarlo a salir de las drogas, así como lo hizo ella, hace unos meses.",
+                        "Metadata": "T2E23 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 24",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc1e97de800133df742",
+                        "Descripción": "Catalina al estar prisionera en su propia casa, busca la manera de escapar de aquella habitación con la ayuda de una piedra con la cual va rompiendo parte de la pared y así logra salir.",
+                        "Metadata": "T2E24 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 25",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebbde97de800133df604",
+                        "Descripción": "El grupo al mando del inspector Torres logran detener un cargamento de armas con la ayuda del Duque, y de esta manera, todos los socios de Cortés deciden darle la espalda.",
+                        "Metadata": "T2E25 46 min"
+                    },
+                    {
+                        "Titulo": "Episodio 26",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebbde97de800133df5ea",
+                        "Descripción": "Tras la muerte de Cortés, Morón y sus hombres buscan a Duque tras haber sido el culpable de la perdida de las armas y de paso por ser quien le daba información a la policía.",
+                        "Metadata": "T2E26 39 min"
+                    },
+                    {
+                        "Titulo": "Episodio 27",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc2e97de800133df7f2",
+                        "Descripción": "Tras la huida de Catalina, Jessica y Rafael Duque, el inspector Diego Torres decide iniciar una búsqueda por el presunto asesinato de Miguel Cortés.",
+                        "Metadata": "T2E27 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 28",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/2/episode/60b8ebc2e97de800133df865",
+                        "Descripción": "Al llegar la policía al lugar en donde se encuentran Jessica, Catalina y el Duque, ellos emprenden la huida por caminos diferentes, Jessica toma el auto para hacerle creer a las autoridades que allí van los tres.",
+                        "Metadata": "T2E28 25 min"
+                    }
+                ],
+                "Temporada 3": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717fe1",
+                        "Descripción": "Al transcurrir cuatro años, Catalina sale de la cárcel con ayuda de Jessica, ya que sus sentencias eran 13 años, pero al salir, se enfrenta con la soledad y los cambios que le han generado estar en la cárcel, sus amigas.",
+                        "Metadata": "T3E1 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717fb7",
+                        "Descripción": "Catalina al salir de la cárcel, se va a vivir con Jessica quien la ayuda a salir de allí y de igual forma empieza a asistir a las fiestas del bar en donde se relaciona con uno de los hombres e ingiere drogas.",
+                        "Metadata": "T3E2 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717f84",
+                        "Descripción": "Al terminar una de sus conferencias, Vanesa recibe por parte de una de sus compañeras, la oferta de trabajar en su despacho como abogada.",
+                        "Metadata": "T3E3 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f00137180a3",
+                        "Descripción": "Después del cumpleaños de Jesús el hijo de Paula, ella toma la decisión de irse a vivir con su hijo a Galicia, dejando atrás a sus amigas y al barrio que la vio crecer.",
+                        "Metadata": "T3E4 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f001371800b",
+                        "Descripción": "Las amigas de Catalina, Cris, Jessica y Vanesa, deciden compartir tiempo como lo hacían hace unos años, pero esta vez se reúnen para hablar sobre los cambios drásticos de Catalina después de salir de la cárcel.",
+                        "Metadata": "T3E5 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717f5a",
+                        "Descripción": "Cris al aceptar que el novio de Vanesa se quede en su nueva casa, le genera bastantes problemas a su novio el futbolista, ya que varios de sus invitados entraron en su cuarto y empezaron a ingerir drogas.",
+                        "Metadata": "T3E6 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717ff6",
+                        "Descripción": "El padre de Martin recibe un homenaje tras haber sido un policía ejemplar durante varios años y por la conmemoración de su muerte, dándole a la familia una medalla a su nombre.",
+                        "Metadata": "T3E7 40 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f0013718132",
+                        "Descripción": "Después de todos los inconvenientes generados con sus amigas, Cris decide alejarse de ellas, ya que no le aportaran nada bueno a su vida y micho menos a la de su novio futbolista.",
+                        "Metadata": "T3E8 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 9",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717fcc",
+                        "Descripción": "Jessica empieza a relacionarse cada vez as con Pablo, el hombre al cual atropello en la noche anterior, sintiéndose un poco mejor al saber que esta consiente y que de paso no sufrió nada grave.",
+                        "Metadata": "T3E9 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 10",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717f6f",
+                        "Descripción": "Catalina le deja claro a Daniela que no está sola, al demostrarle que Martin es su pareja y que por tal motivo no puede meterse con ella.",
+                        "Metadata": "T3E10 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 11",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f00137180d1",
+                        "Descripción": "Jessica mientras se encuentra en las afueras de la ciudad con su amigo Pablo, se da cuenta que aquel hombre es muy calmado, al verlo negociar con unos jóvenes.",
+                        "Metadata": "T3E11 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 12",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f001371808e",
+                        "Descripción": "En el bar de Jessica, llegan Mejía, Daniela y de paso Martin, en donde pasan otra de sus noches bebiendo y compartiendo con otras mujeres.",
+                        "Metadata": "T3E12 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 13",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f001371815c",
+                        "Descripción": "En uno de los partidos de Ivan, el novio de Cris, sufre un accidente en donde su salud al parecer está bastante grave.",
+                        "Metadata": "T3E13 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 14",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f00137180fb",
+                        "Descripción": "Catalina toma la iniciativa de ir a visitar a Salvador Martínez, aquel hombre de confianza de su ex esposo Cortés.",
+                        "Metadata": "T3E14 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 15",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f00137180e6",
+                        "Descripción": "Catalina después de confrontarse con Daniela la hermana de Mejía, inmediatamente acaba con su vida, dándole un disparo en el estómago, al instante llega Jessica y se da cuenta de lo sucedido, asustándose por lo que pueda pasar con Catalina y ella.",
+                        "Metadata": "T3E15 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 16",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f00137180bc",
+                        "Descripción": "Al dejarse convencer por Pablo, Jessica acepta la idea de irse a vivir con él, para así, dejar por un momento la vida que lleva, al llegar a la casa del hombre, le promete que al día siguiente le mostrara en que realmente trabaja.",
+                        "Metadata": "T3E16 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 17",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f0013718079",
+                        "Descripción": "Catalina mientras se encuentra en la finca con Martin en la finca de Martínez, trata de convencerlo para que no asesine a Diego Luna y arruine su vida profesional como policía.",
+                        "Metadata": "T3E17 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 18",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013718020",
+                        "Descripción": "Vanesa acepta salir con su nuevo novio a una cita romántica, en donde él le canta por un momento y así oficializan la relación que desde hace un tiempo estaba fluyendo cuando él asistía a las reuniones de rehabilitación.",
+                        "Metadata": "T3E18 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 19",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f0013718171",
+                        "Descripción": "Jessica a raíz de que ha encontrado por fin a un hombre que desea estar junto con ella, toma la decisión de vender el club y dejar a un lado la vida que ha llevado durante mucho tiempo.",
+                        "Metadata": "T3E19 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 20",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f0013718186",
+                        "Descripción": "El inspector Martin La Roca y Catalina consiguen la dirección de la casa de Diego Luna, en donde llegan en las horas de la noche, pero Martin la deja esposada al carro para que no intervenga.",
+                        "Metadata": "T3E20 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 21",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f0013718064",
+                        "Descripción": "Los hombres de Mejía llegan a la casa de Claudia en donde encuentran sangre de Moreno e inmediatamente se comunican con Mejía para que él llegue y empiece a torturarla para sacarle la mayor información acerca de la ubicación de él.",
+                        "Metadata": "T3E21 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 22",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f0013718147",
+                        "Descripción": "El narcotraficante Mejía al enterarse que Catalina es quien mato a su hermana Daniela, toma la decisión de vengar su muerte, pero uno de sus hombres le impide que lo haga ya que eso podría traerle bastantes problemas.",
+                        "Metadata": "T3E22 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 23",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f001371804f",
+                        "Descripción": "Jessica tras hablar con Catalina acerca de su plan para evadir a Mejía, va inmediatamente a hablar con Mejía para confesarle del verdadero trabajo del padre de Sandra.",
+                        "Metadata": "T3E23 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 24",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f001371811d",
+                        "Descripción": "Después de la muerte de Catalina, Martin decide ir a tomar venganza y asesinar a Mejía en el antiguo bar de Jessica, pero minutos antes de hacerlo, sus compañeros policiales llegan e impiden que lo haga.",
+                        "Metadata": "T3E24 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 25",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8721b70f0013717f42",
+                        "Descripción": "Los familiares y amigos de Catalina se reúnen en la iglesia para darle el último adiós a Catrina, pero su cuerpo estará ausente ya que por error fue incinerada días atrás.",
+                        "Metadata": "T3E25 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 26",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8821b70f0013717fa2",
+                        "Descripción": "Jessica al sentirse sola, decide ir al lugar que frecuentaba con Pablo, quien minutos después también llega para poder comer algo, así que aprovechan el momento para saber un poco del otro y tratar quizás de recuperar su relación.",
+                        "Metadata": "T3E26 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 27",
+                        "Link": "/latam/on-demand/series/609e9d0641fc48001327cce7/season/3/episode/60d22e8c21b70f0013718110",
+                        "Descripción": "Mientras Mejía es judicializado, el pide que lo lleven al baño y allí golpea al policía y logra escapar con un arma, generando más tarde un intercambio de disparos entre él y la inspectora jefe.",
+                        "Metadata": "T3E27 19 min"
+                    }
+                ]
+            }
         },
         {
             "titulo": "Tómame o Déjame",
@@ -66,9 +890,130 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/series/5e46e382033f250de1476874/details?lang=en",
             "descripcion": "Lara es la sexóloga mas reconocida del país, pero su vida amorosa es un desastre. Todo cambia cuando conoce a Adan, un especialista en sexo tántrico que le mostrara que en el sexo no todo es ciencia.",
-            "temporadas": [
-                "Temporada 1"
-            ]
+            "temporadas": {
+                "Temporada 1": [
+                    {
+                        "Titulo": "Episodio 1",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e393033f250de1476b63",
+                        "Descripción": "Lara se prepara para recibir el premio como mejor presentadora en un programa de Television \"El Tamaño no lo es todo\" donde toca temas sobre la sexualidad y de repente conoce a Adan.",
+                        "Metadata": "T1E1 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 2",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e393033f250de1476b78",
+                        "Descripción": "Lara comprometida con el Leonardo, un medico que a pesar de ser exitoso en su carrera, como amante no funciona con Lara. Andrés no puede mantener mas el secreto de la quiebra de la clínica.",
+                        "Metadata": "T1E2 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 3",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e391033f250de1476b2a",
+                        "Descripción": "Aurora trata de esconder su gran amor con Andrés. Adan desconoce que su ex esposa Ida, no esta muerta.",
+                        "Metadata": "T1E3 41 min"
+                    },
+                    {
+                        "Titulo": "Episodio 4",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38e033f250de1476acf",
+                        "Descripción": "Danny deja ver que a pesar de su sobrepeso, es la mujer mas exitosa en el sexo por su seguridad e indiferencia con los hombres.",
+                        "Metadata": "T1E4 47 min"
+                    },
+                    {
+                        "Titulo": "Episodio 5",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38d033f250de1476aa3",
+                        "Descripción": "A lara la despiden del canal por bajos ratings desde que inicio el programa de Adan",
+                        "Metadata": "T1E5 44 min"
+                    },
+                    {
+                        "Titulo": "Episodio 6",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38e033f250de1476aba",
+                        "Descripción": "Jennifer como amante del dueño del canal, sigue planificando su venganza contra Lara para que no vuelva al canal.",
+                        "Metadata": "T1E6 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 7",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38c033f250de1476a68",
+                        "Descripción": "Helena se va de la casa de Andrés al verlo enamorado de otra mujer, la mamá de Adan. Se sospecha que Adan y Lara son hermanos.",
+                        "Metadata": "T1E7 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 8",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38c033f250de1476a38",
+                        "Descripción": "Leonardo empieza a escuchar y seguir a escondidas los consejos de Adan en sexo tántrico, para mejor su vida sexual con Lara.",
+                        "Metadata": "T1E8 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 9",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38c033f250de1476a52",
+                        "Descripción": "Ida,internada en un psiquiátrico por la mamá de Adan, lo ve a el en la televisión y sale a buscarlo. Se descubre el secreto de Helena.",
+                        "Metadata": "T1E9 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 10",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38d033f250de1476a7e",
+                        "Descripción": "Lara ya esta segura que Adan no es su hermano y decide entregarse al deseo, confesando su amor a Danny y le deja saber que Leonardo es impotente y que cancelo su matrimonio.",
+                        "Metadata": "T1E10 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 11",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38b033f250de1476a01",
+                        "Descripción": "Lara y Adan tiene su primera noche de amor, y Leonardo con un gran dolor por haber sido dejado, empieza a buscar consejos de como ser buen amante.",
+                        "Metadata": "T1E11 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 12",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e38a033f250de14769c6",
+                        "Descripción": "Adan descubrió donde esta Ida. Y lara planifica su retorno a la Televisión.",
+                        "Metadata": "T1E12 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 13",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e385033f250de1476908",
+                        "Descripción": "Felipe, obsesionado con la venganza de Andrés, coordina un ataque a la clínica para secuestrar al asesino que ayudaron.",
+                        "Metadata": "T1E13 40 min"
+                    },
+                    {
+                        "Titulo": "Episodio 14",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e385033f250de1476932",
+                        "Descripción": "Regresa el mentor de la India de Adan a ayudarlo. Francisco quiere seguir manteniendo su relación amorosa con JC a escondidas.",
+                        "Metadata": "T1E14 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 15",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e386033f250de147694d",
+                        "Descripción": "Ida regresa a la clínica psiquiátrica. JC busca consejos en Adan y Danny para ayudar a Francisco a salir del closet.",
+                        "Metadata": "T1E15 38 min"
+                    },
+                    {
+                        "Titulo": "Episodio 16",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e384033f250de1476896",
+                        "Descripción": "Danny y Leonardo empiezan una aventura sexual donde se descubre que Leonardo funciona perfectamente en la cama.",
+                        "Metadata": "T1E16 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 17",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e385033f250de14768ba",
+                        "Descripción": "Felipe logra quitarle la clínica Andes. Ida desea volver a tener una relación con Adan, y hace todo lo posible. Adan decide no seguir con el programa de televisión.",
+                        "Metadata": "T1E17 42 min"
+                    },
+                    {
+                        "Titulo": "Episodio 18",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e385033f250de147691d",
+                        "Descripción": "Los mafiosos de Felipe secuestran a Lara. Jennifer se arrepiente de haberse casado con Cristobal, extrañando su etapa de amante.",
+                        "Metadata": "T1E18 43 min"
+                    },
+                    {
+                        "Titulo": "Episodio 19",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e385033f250de14768e4",
+                        "Descripción": "Adan salva a Lara del secuestro. JC y Francisco deciden hacer pública su relación.",
+                        "Metadata": "T1E19 46 min"
+                    },
+                    {
+                        "Titulo": "Episodio 20",
+                        "Link": "/latam/on-demand/series/5e46e382033f250de1476874/season/1/episode/5e46e385033f250de14768cf",
+                        "Descripción": "Aurora sigue con la esperanza de conquistar Andrés. Lara y Adan defienden su relación así como Leonardo y Danny.",
+                        "Metadata": "T1E20 44 min"
+                    }
+                ]
+            }
         }
     ]
 }

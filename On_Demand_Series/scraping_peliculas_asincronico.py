@@ -31,23 +31,58 @@ async def extract_data(session, link):
     metadatos = [li.get_text(strip=True) for li in metadatos.findAll('li') if li.get_text(strip=True) and li.get_text(strip=True) != '•'] if metadatos else None
     return descripcion, metadatos
 
+def parse_episode(episode):
+    """Parses and returns the information of a single episode."""
+    link = episode.find('a').get('href') if episode.find('a') else "No encontrado"
+    title = episode.find('h4').get_text(strip=True) if episode.find('h4') else "No encontrado"
+    description = episode.find('p', class_="episode-description-atc").get_text(strip=True) if episode.find('p', class_="episode-description-atc") else "No encontrada"
+    metadata = episode.find('p', class_="episode-metadata-atc").get_text(strip=True) if episode.find('p', class_="episode-metadata-atc") else "No encontrada"
+
+    return {
+        "Titulo": title,
+        "Link": link,
+        "Descripción": description,
+        "Metadata": metadata
+    }
+
+async def scrape_series(session, url):
+    """Scrapes the series from the given URL and returns a dictionary with episodes organized by season."""
+    series_data = {}
+
+    html_content = await fetch_html(session, url)
+    if html_content:
+        soup = BeautifulSoup(html_content, 'html.parser')
+        seccion = soup.find('div', class_='inner')
+
+        # Buscar temporadas
+        EXPRESIONES = r'(Temporada|Season|season|temporada) \d+'
+        temporadas = [a.get_text(strip=True) for a in seccion.findAll('a') if re.match(EXPRESIONES, a.get_text(strip=True))] if seccion else []
+
+        # Scrape episodios de la primera temporada
+        season_number = 1
+        series_data[f"Temporada {season_number}"] = [
+            parse_episode(episode) for episode in soup.find_all('li', class_='episode-container-atc')
+        ]
+
+        # Iterar sobre las temporadas restantes
+        for i in range(2, len(temporadas) + 1):
+            season_url = f"{url[:-1]}{i}"
+            html_content = await fetch_html(session, season_url)
+            if html_content:
+                soup = BeautifulSoup(html_content, 'html.parser')
+                season_number += 1
+                series_data[f"Temporada {season_number}"] = [
+                    parse_episode(episode) for episode in soup.find_all('li', class_='episode-container-atc')
+                ]
+
+    return series_data
+
 async def extract_description(session, link):
     descripcion, metadatos = await extract_data(session, link)
     base_link = link.split('/details?lang=en')[0]
     base_link = f"{base_link}/season/1"
     
-    html_content = await fetch_html(session, base_link)
-    if not html_content:
-        return descripcion, metadatos, None
-    soup = BeautifulSoup(html_content, 'html.parser')
-    
-    seccion = soup.find('div', class_='inner')
-    
-    print(soup.prettify())
-    pattern = r'(Temporada|Season|season|temporada) \d+'
-    temporadas = [a.get_text(strip=True) for a in seccion.findAll('a') if re.match(pattern, a.get_text(strip=True))] if seccion else []
-    print(temporadas)
-
+    temporadas = await scrape_series(session, base_link)
     return descripcion, metadatos, temporadas
 
 async def extract_movies(session, soup):
