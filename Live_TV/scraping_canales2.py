@@ -7,6 +7,7 @@ from selenium.webdriver.common.keys import Keys
 import json
 from collections import defaultdict
 import requests
+import os
 
 def config():
     driver_path = 'chromedriver.exe'
@@ -90,14 +91,29 @@ def main():
                 #    seccion = soup.find('div', class_="inner")
                 #    titulo = seccion.find('h2').get_text(strip=True) if seccion.find('h2') else "No encontrado"
                 #    descripcion = seccion.find('p').get_text(strip=True) if seccion.find('p') else "No encontrada"
-                content = element_to_click.find_element(By.CLASS_NAME, 'name-item')
-                print(content)
+                # content = element_to_click.find_element(By.CLASS_NAME, 'timelines')
+                # elementos = content.text.split('\n')
+                # print(elementos, len(elementos))
+                
+                timeline_links = element_to_click.find_elements(By.CSS_SELECTOR, '.timelines a')
+                
+                resultado = []
+                for index,link in enumerate(timeline_links):
+                    href_value = link.get_attribute('href')
+                    datos = {
+                        f"programa {index}": link.text.split('\n'),
+                        "link": href_value
+                    }
+                    resultado.append(datos)
+                    
+                #print(json.dumps(resultado, ensure_ascii=False, indent=4))
+                print('_________________________________')
                 
                 if current_tematica:
                     results[current_tematica].append({
                       #  'canal':titulo,
                         'link': href_value,
-                       # 'descripcion': descripcion
+                        'programas': resultado
                         })
             except Exception:
                 try:
@@ -115,7 +131,9 @@ def main():
             break
 
     # Guardar los resultados en un archivo JSON
-    with open('resultados.json', 'w') as json_file:
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_directory, 'resultados.json')
+    with open(file_path, 'w', encoding='utf-8') as json_file:
         json.dump(results, json_file, ensure_ascii=False, indent=4)
 
     driver.quit()
