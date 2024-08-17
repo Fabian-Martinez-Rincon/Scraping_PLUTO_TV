@@ -43,7 +43,7 @@ def fetch_html(url):
     try:
         with requests.Session() as session:
             response = session.get(url)
-            response.raise_for_status()  # Raise an HTTPError for bad responses
+            response.raise_for_status() 
             return response.text
     except requests.exceptions.RequestException as e:
         print(f"Error fetching {url}: {e}")
@@ -55,7 +55,6 @@ def main():
     driver = config()
     driver.get('https://pluto.tv')
 
-    # Hacer clic en el botón de On Demand
     on_demand = WebDriverWait(driver, 20).until(
         EC.element_to_be_clickable(
             (By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div/button/span/span')
@@ -63,7 +62,6 @@ def main():
     )
     on_demand.click()
 
-    # Seleccionar la categoría
     select = WebDriverWait(driver, 20).until(
         EC.element_to_be_clickable(
             (By.XPATH, '/html/body/div[1]/div/div/div/main/div[2]/div/div[2]/section/div[3]/div/div[2]/div/div[1]/div/h3')
@@ -82,8 +80,6 @@ def main():
             try:
                 link_element = element_to_click.find_element(By.TAG_NAME, 'a')
                 href_value = link_element.get_attribute('href')
-                print(href_value)
-                
                 timeline_links = element_to_click.find_elements(By.CSS_SELECTOR, '.timelines a')
                 
                 resultado = []
@@ -95,8 +91,6 @@ def main():
                     }
                     resultado.append(datos)
                     
-                print(href_value)
-                print('_________________________________')
                 href_value = href_value.replace("https://pluto.tv/live-tv/", "https://pluto.tv/latam/live-tv/") + "?lang=en"
                 if current_tematica:
                     results[current_tematica].append({
@@ -107,20 +101,17 @@ def main():
                         })
             except Exception:
                 try:
-                    # Si no encuentra el <a>, busca el <h3>
                     h3_element = element_to_click.find_element(By.TAG_NAME, 'h3')
                     h3_value = h3_element.text
-                    #print(f"Valor del texto <h3> del elemento {i}: {h3_value}")
                     current_tematica = h3_value
                     results[current_tematica] = []
                 except Exception as e:
                     print(f"Error al encontrar <a> o <h3> en aria-rowindex='{i}': {e}")
-                    continue  # Ignora este elemento y sigue con el siguiente
+                    continue
         else:
             print(f"Después de 3 intentos, no se pudo encontrar el elemento con aria-rowindex='{i}'.")
             break
 
-    # Guardar los resultados en un archivo JSON
     current_directory = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(current_directory, 'resultados.json')
     with open(file_path, 'w', encoding='utf-8') as json_file:

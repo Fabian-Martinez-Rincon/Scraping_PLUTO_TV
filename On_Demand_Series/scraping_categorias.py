@@ -68,7 +68,6 @@ def start():
     current_element = {'Categoria': current_button, 'Link': driver.current_url}
     buttons.insert(0, current_element)  
     
-    # Obtener el directorio actual
     current_directory = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(current_directory, 'categories.json')
     

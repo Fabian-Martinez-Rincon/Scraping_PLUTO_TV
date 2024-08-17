@@ -33,7 +33,6 @@ async def extract_data(session, link):
 
 def parse_episode(episode):
     """Parses and returns the information of a single episode."""
-    #print(episode.prettify())
     link = episode.find('a').get('href') if episode.find('a') else "No encontrado"
     section = episode.find('section')
     title = section.find('h4').get_text(strip=True) if section.find('h4') else "No encontrado"
@@ -51,25 +50,19 @@ def parse_episode(episode):
 async def scrape_series(session, url):
     """Scrapes the series from the given URL and returns a dictionary with episodes organized by season."""
     series_data = {}
-    #print(url)
-    #url = "https://pluto.tv/latam/on-demand/series/65f47080ea323e0013229672/season/1"
-
     html_content = await fetch_html(session, url)
     if html_content:
         soup = BeautifulSoup(html_content, 'html.parser')
         seccion = soup.find('div', class_='inner')
 
-        # Buscar temporadas
         EXPRESIONES = r'(Temporada|Season|season|temporada) \d+'
         temporadas = [a.get_text(strip=True) for a in seccion.findAll('a') if re.match(EXPRESIONES, a.get_text(strip=True))] if seccion else []
 
-        # Scrape episodios de la primera temporada
         season_number = 1
         series_data[f"Temporada {season_number}"] = [
             parse_episode(episode) for episode in soup.find_all('li', class_='episode-container-atc')
         ]
 
-        # Iterar sobre las temporadas restantes
         for i in range(2, len(temporadas) + 1):
             season_url = f"{url[:-1]}{i}"
             html_content = await fetch_html(session, season_url)
@@ -97,7 +90,6 @@ async def extract_movies(session, soup):
             continue
         
         title = link_tag.get('title', link_tag.get_text(strip=True))
-        #print(f"Procesando la serie: {title}")
 
         if title == "Series para Maratonear":
             start_collecting = True
@@ -129,7 +121,6 @@ async def process_single_category(session, item):
         print(f"Error al descargar {categoria}: URL no accesible")
         return None
 
-    #print(f"En la categoría '{categoria}'...")
     soup = BeautifulSoup(html_content, 'html.parser')
     movies = await extract_movies(session, soup)
 

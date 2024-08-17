@@ -69,7 +69,6 @@ def start():
     current_element = {'Categoria': current_button, 'Link': driver.current_url}
     buttons.insert(0, current_element)  
     
-    # Obtener el directorio actual
     current_directory = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(current_directory, 'categories.json')
     
@@ -85,7 +84,6 @@ def main():
     end_time = time.perf_counter()
     execution_time_seconds = end_time - start_time
 
-    # Convierte el tiempo de ejecución a minutos
     execution_time_minutes = execution_time_seconds / 60
 
     print(f"Tiempo de ejecución: {execution_time_minutes:.6f} minutos")

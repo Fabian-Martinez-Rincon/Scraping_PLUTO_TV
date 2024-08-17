@@ -36,7 +36,7 @@ async def process_data(session, data, headers):
             tasks.append(scrape_series(session, original_link, headers))
     
     print('Esperando a que todas las tareas se completen...')
-    results = await asyncio.gather(*tasks, return_exceptions=True)  # Manejo de excepciones
+    results = await asyncio.gather(*tasks, return_exceptions=True) 
     print('Todas las tareas completadas o con errores capturados.')
 
     index = 0
@@ -66,16 +66,12 @@ async def main():
     headers = {
         "User-Agent": "python-requests/2.32.3"
     }
-    # Load the JSON data
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
 
-    # Create a session to be used for all requests
     async with aiohttp.ClientSession() as session:
-        # Process the data asynchronously
         updated_data = await process_data(session, data, headers)
 
-    # Save the updated data to a new JSON file
     save_data(updated_data, output_file_path)
 
 if __name__ == "__main__":
