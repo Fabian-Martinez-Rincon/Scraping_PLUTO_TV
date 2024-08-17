@@ -16,7 +16,7 @@ def config():
     options.add_argument("--incognito")
     options.add_argument("--start-maximized")
     driver = webdriver.Chrome(service=service, options=options)
-    driver.implicitly_wait(0.5)
+    driver.implicitly_wait(0.1)
     return driver
 
 def scroll_into_view(driver, element):
@@ -26,7 +26,7 @@ def find_element_with_retries(driver, xpath, retries=1):
     attempt = 0
     while attempt < retries:
         try:
-            element = WebDriverWait(driver, 3).until(
+            element = WebDriverWait(driver, 1).until(
                 EC.element_to_be_clickable((By.XPATH, xpath))
             )
             scroll_into_view(driver, element)
@@ -82,36 +82,26 @@ def main():
             try:
                 link_element = element_to_click.find_element(By.TAG_NAME, 'a')
                 href_value = link_element.get_attribute('href')
-                
-                #print(f"Valor del atributo href del elemento {i}: {href_value}")
-                #modified_link = href_value.replace("https://pluto.tv/live-tv/", "https://pluto.tv/latam/live-tv/").replace("/details", "/details?lang=en")
-                #html_content = fetch_html(modified_link)
-                #if html_content:
-                #    soup = BeautifulSoup(html_content, 'html.parser')
-                #    seccion = soup.find('div', class_="inner")
-                #    titulo = seccion.find('h2').get_text(strip=True) if seccion.find('h2') else "No encontrado"
-                #    descripcion = seccion.find('p').get_text(strip=True) if seccion.find('p') else "No encontrada"
-                # content = element_to_click.find_element(By.CLASS_NAME, 'timelines')
-                # elementos = content.text.split('\n')
-                # print(elementos, len(elementos))
+                print(href_value)
                 
                 timeline_links = element_to_click.find_elements(By.CSS_SELECTOR, '.timelines a')
                 
                 resultado = []
                 for index,link in enumerate(timeline_links):
-                    href_value = link.get_attribute('href')
+                    href_value2 = link.get_attribute('href')
                     datos = {
                         f"programa {index}": link.text.split('\n'),
-                        "link": href_value
+                        "link": href_value2
                     }
                     resultado.append(datos)
                     
-                #print(json.dumps(resultado, ensure_ascii=False, indent=4))
+                print(href_value)
                 print('_________________________________')
-                
+                href_value = href_value.replace("https://pluto.tv/live-tv/", "https://pluto.tv/latam/live-tv/") + "?lang=en"
                 if current_tematica:
                     results[current_tematica].append({
-                      #  'canal':titulo,
+                        'canal':"...",
+                        'descripcion': "...",
                         'link': href_value,
                         'programas': resultado
                         })
