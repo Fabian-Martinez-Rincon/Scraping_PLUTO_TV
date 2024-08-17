@@ -516,6 +516,17 @@
             "descripcion": "El duelo entre Kenshin Himura y el maligno Shishio Makoto sigue sin resolverse. El conflicto entre los dos guerreros decidirá el destino de Japón, y pondrá un bombástico punto final a la memorable adaptación cinematográfica del manga de Nobuhiro Watsuki."
         },
         {
+            "titulo": "The Four 3",
+            "metadatos": [
+                "R",
+                "Action & Adventure",
+                "1hr 46 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details?lang=en",
+            "descripcion": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida."
+        },
+        {
             "titulo": "Samurai X 2",
             "metadatos": [
                 "TV-MA",
@@ -602,17 +613,6 @@
             "descripcion": "Con una bomba de tiempo en su cuello, un joven corre contra el reloj y todo tipo de enemigos al ir de un extremo a otro de la ciudad para intentar salvarse a sí mismo y a su novia."
         },
         {
-            "titulo": "The Four 3",
-            "metadatos": [
-                "R",
-                "Action & Adventure",
-                "1hr 46 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/63179ceabc1f1600132f5ec0/details?lang=en",
-            "descripcion": "Un escuadrón de élite sale a resolver el misterio del emperador Huizong, desaparecido tras un atentado contra su vida."
-        },
-        {
             "titulo": "El forastero",
             "metadatos": [
                 "R",
@@ -684,7 +684,7 @@
                 "R",
                 "Action & Adventure",
                 "1hr 58 min",
-                "No hay deficiencias"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/63179b83d1f9a40013b92eaa/details?lang=en",
             "descripcion": "Un departamento del gobierno conocido como Six Panels nombra a su mejor oficial para infiltrarse en una fuerza especial llamada Divine Constabulary, para asegurarse de detener la circulación de monedas falsas en la capital."
@@ -827,7 +827,7 @@
                 "R",
                 "Action & Adventure",
                 "1hr 36 min",
-                "There are no inadequacies"
+                "No hay deficiencias"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5f7b873ae4b56900138b7a64/details?lang=en",
             "descripcion": "La hija de un multimillonario se convierte en el objetivo de un cartel criminal peligroso y eficiente. Con lo que no contaron fue que su protección se convertiría en tres mercenarios despiadados."
@@ -1097,8 +1097,8 @@
             "metadatos": [
                 "R",
                 "Action & Adventure",
-                "1o 37 min",
-                "Non ci sono inadeguatezze"
+                "1hr 37 min",
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5dfd2e74be7e53bc0c65d42d/details?lang=en",
             "descripcion": "Blitz es un asesino en serie de Londres que está matando agentes de la policía. El inspector jefe Roberts y el sargento Brant, un duro, inflexible y políticamente incorrecto detective de la policía, se encargarán de intentar detener al psicópata."

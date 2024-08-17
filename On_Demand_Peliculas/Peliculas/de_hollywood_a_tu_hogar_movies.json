@@ -1,5 +1,5 @@
 {
-    "count": 102,
+    "count": 95,
     "movies": [
         {
             "titulo": "Apex",
@@ -22,6 +22,17 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/62ffb0b3362313001aaa7ad0/details?lang=en",
             "descripcion": "Ambientado durante la Guerra Fría, el campeón de ajedrez norteamericano Bobby Fischer se encuentra atrapado entre dos superpotencias y sus propias luchas mientras desafía al Imperio Soviético."
+        },
+        {
+            "titulo": "Un pasado imborrable",
+            "metadatos": [
+                "R",
+                "Drama",
+                "1hr 56 min",
+                "There are no inadequacies"
+            ],
+            "link": "https://pluto.tv/latam/on-demand/movies/62cc54454f12bb00136640c9/details?lang=en",
+            "descripcion": "Un ex oficial del ejército británico, que fue torturado como prisionero de guerra durante la Segunda Guerra Mundial, descubre que el soldado japonés que tanto lo maltrató sigue vivo y se dispone a confrontarlo."
         },
         {
             "titulo": "Scream 4",
@@ -72,7 +83,7 @@
                 "R",
                 "Action & Adventure",
                 "1hr 33 min",
-                "There are no inadequacies"
+                "No hay deficiencias"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5f7b879be4b56900138b7fba/details?lang=en",
             "descripcion": "Joe Braven es un humilde leñador que vive en la frontera de los Estados Unidos. Cuando es asaltado por un grupo de traficantes de drogas en la recluida cabaña donde vive, hará todo lo que puede para proteger a su familia."
@@ -144,17 +155,6 @@
             "descripcion": "En la China de la década de 1920, un bandido llega a una remota ciudad de provincia haciéndose pasar por su nuevo alcalde, donde se enfrenta a un tiránico noble local."
         },
         {
-            "titulo": "Pena Ajena",
-            "metadatos": [
-                "PG-13",
-                "Comedy",
-                "1hr 22 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/5e5d43e34698db001ab20d72/details?lang=en",
-            "descripcion": "Shaun está conforme por ser un surfer brillante, pero desenfocado y haragán, hasta que el día en que descubre una novela por el aclamado autor Martin Skinner."
-        },
-        {
             "titulo": "Una familia peligrosa",
             "metadatos": [
                 "R",
@@ -175,17 +175,6 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/62cc680618de52001378c4e6/details?lang=en",
             "descripcion": "Chuck se inmiscuye en la vida de su vecino Li, un ingeneniero con problemas laborales y personales."
-        },
-        {
-            "titulo": "Volver a morir",
-            "metadatos": [
-                "R",
-                "Thriller",
-                "1hr 47 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/5e5d7970e3406e0013955ecb/details?lang=en",
-            "descripcion": "Una mujer que ha perdido la memoria se encuentra con un detective privado que la ayuda a rastrear su identidad, pero él pronto descubre que ambos podrían tener una conexión de vidas pasadas que pone en peligro sus vidas."
         },
         {
             "titulo": "Fire with Fire",
@@ -210,17 +199,6 @@
             "descripcion": "Una semana en la vida de Ben, un poderoso productor de Hollywood, mientras hace malabarismos con las negociaciones con un director de estudio para que su última película pueda estrenarse en Cannes en dos semanas."
         },
         {
-            "titulo": "El fundamentalista reticente",
-            "metadatos": [
-                "TV-MA",
-                "Thriller",
-                "2hr 10 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/5fb7bb9d5eb0df001b1456f6/details?lang=en",
-            "descripcion": "Changez, un hombre paquistaní, le cuenta a un periodista estadounidense sobre sus experiencias en EUA. Diez años atrás, el estaba recién llegado de Princeton, pero cuando las Torres Gemelas son atacadas, una brecha cultural comienza a abrirse lentamente."
-        },
-        {
             "titulo": "Justo a tiempo",
             "metadatos": [
                 "R",
@@ -243,17 +221,6 @@
             "descripcion": "Un recorrido por el corazón de una familia de Hollywood que persigue a la celebridad, a los demás y a los implacables fantasmas de su pasado."
         },
         {
-            "titulo": "The Factory",
-            "metadatos": [
-                "R",
-                "Drama",
-                "1hr 44 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/63179e5cbb171a00130f8001/details?lang=en",
-            "descripcion": "Un policía obsesionado está tras la pista de un asesino en serie que merodea por las calles de Buffalo, Nueva York, pero cuando su hija adolescente desaparece, abandona cualquier restricción profesional para atrapar al asesino."
-        },
-        {
             "titulo": "El árbol de la vida",
             "metadatos": [
                 "PG-13",
@@ -265,17 +232,6 @@
             "descripcion": "La historia de una familia en Waco, Texas en 1956. El hijo mayor es testigo de la pérdida de la inocencia y lucha con las enseñanzas contradictorias de sus padres."
         },
         {
-            "titulo": "La Venganza del Jinete",
-            "metadatos": [
-                "R",
-                "Action & Adventure",
-                "1hr 33 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/62cc681618de52001378c5db/details?lang=en",
-            "descripcion": "Después de que su padre es asesinado, John Mason está dispuesto a dar la vuelta al mundo para encontrar al hombre responsable. Lo que no sabe es que el asesino podría estar en su propia casa."
-        },
-        {
             "titulo": "Bus 657: El Escape del Siglo",
             "metadatos": [
                 "R",
@@ -285,17 +241,6 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/62cc65397abcdc0013991d69/details?lang=en",
             "descripcion": "Un padre no tiene los medios para pagar el tratamiento de su hija. Como último recurso se asocia con un codicioso compañero de trabajo para robar un casino. Cuando las cosas van mal se ven obligados a secuestrar un autobús de la ciudad"
-        },
-        {
-            "titulo": "Un pasado imborrable",
-            "metadatos": [
-                "R",
-                "Drama",
-                "1hr 56 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/62cc54454f12bb00136640c9/details?lang=en",
-            "descripcion": "Un ex oficial del ejército británico, que fue torturado como prisionero de guerra durante la Segunda Guerra Mundial, descubre que el soldado japonés que tanto lo maltrató sigue vivo y se dispone a confrontarlo."
         },
         {
             "titulo": "Cloud Atlas",
@@ -633,7 +578,7 @@
                 "PG-13",
                 "Comedy",
                 "1hr 46 min",
-                "Não há inadequações"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5e7b5ed187df5d001bb8f333/details?lang=en",
             "descripcion": "Marley (Kate Hudson) es una mujer joven que descubre que se está muriendo de cáncer, pero cuando de forma inesperada se enamora de su médico (Gael García Bernal), la amenaza de caer en el amor es más aterradora que la muerte."
@@ -681,17 +626,6 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5e6a42a6e2fa10001becd0b7/details?lang=en",
             "descripcion": "Un ex-agente de la CIA vuelve a la acción para proteger a un testigo muy valioso, pero pronto se da cuenta de que los tiempos han cambiado y ya no puede confiar en nadie, ni siquiera en aquellos a los que consideraba sus amigos."
-        },
-        {
-            "titulo": "El Lamento de la Serpiente Negra",
-            "metadatos": [
-                "R",
-                "Drama",
-                "1hr 55 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/62f5240b6df8ae001a028284/details?lang=en",
-            "descripcion": "En este relato sobre el amor, el candidato para el Premio Óscar Samuel L. Jackson y Christina Ricci buscan la redención en el sur profundo a través del poder del blues y la transcendencia de una extraña amistad."
         },
         {
             "titulo": "Una Acción Civil",
@@ -822,17 +756,6 @@
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/5e5d796ee3406e0013955e87/details?lang=en",
             "descripcion": "Narra la historia de un espía profesional que trabaja tanto para clientes privados como públicos. Al organizar una escucha para un cliente, caerá en la tentación de escuchar qué dicen las 2 personas Pronto la situación le atormentará y querrá saber más."
-        },
-        {
-            "titulo": "El Cuento de los Cuentos",
-            "metadatos": [
-                "R",
-                "Sci-Fi & Fantasy",
-                "2hr 13 min",
-                "There are no inadequacies"
-            ],
-            "link": "https://pluto.tv/latam/on-demand/movies/5e67ea275cee68001a91acca/details?lang=en",
-            "descripcion": "Basada en la obra \"El cuento de los cuentos\" del escritor napolitano del siglo XVII, Giambatista Basile. Esta película es una adaptación mágica, trágica y sangrienta de unos cuentos que sirvieron de inspiración para los hermanos Grimm."
         },
         {
             "titulo": "SN. Vincent",
@@ -981,7 +904,7 @@
                 "R",
                 "Comedy",
                 "1hr 39 min",
-                "No hay deficiencias"
+                "There are no inadequacies"
             ],
             "link": "https://pluto.tv/latam/on-demand/movies/6141f41fbce9e900135a5a77/details?lang=en",
             "descripcion": "Richard es un brillante profesor de Cambridge con una pasión desenfrenada por la poesía romántica y las mujeres hermosas. Sin embargo, la paternidad le cambiará la vida."

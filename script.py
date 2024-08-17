@@ -1,38 +1,49 @@
+"""
+Este módulo ejecuta múltiples scripts de Python relacionados con scraping de películas y series.
+Los scripts se ejecutan secuencialmente y se captura el tiempo total de ejecución.
+"""
+
 import subprocess
 import os
 import time
 
-start_time = time.perf_counter()
+def run_script(script_path):
+    """
+    Ejecuta un script de Python en la ruta especificada y maneja excepciones si el script falla.
+    Args:
+    script_path (str): Ruta absoluta al script que se va a ejecutar.
+    """
+    print(f"Ejecutando el script: {os.path.basename(script_path)}...")
+    try:
+        subprocess.run(['python', script_path], capture_output=True, text=True, check=True)
+        print("Script ejecutado correctamente.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error al ejecutar el script {os.path.basename(script_path)}: {e}")
 
-base_dir = os.path.dirname(os.path.abspath(__file__))
+def main():
+    """
+    Define el punto de entrada principal del programa, ejecutando varios scripts
+    y midiendo el tiempo total de ejecución.
+    """
+    start_time = time.perf_counter()
+    base_dir = os.path.dirname(os.path.abspath(__file__))
 
-# Rutas de los scripts que quieres ejecutar
-script1 = os.path.join(base_dir, 'On_Demand_Peliculas', 'scraping_categorias.py')
-script2 = os.path.join(base_dir, 'On_Demand_Peliculas', 'scraping_peliculas_asincronico.py')
-script3 = os.path.join(base_dir, 'On_Demand_Series', 'scraping_categorias.py')
-script4 = os.path.join(base_dir, 'On_Demand_Series', 'scraping_peliculas_asincronico.py')
+    scripts = [
+        'On_Demand_Peliculas/scraping_categorias.py',
+        'On_Demand_Peliculas/scraping_peliculas_asincronico.py',
+        'On_Demand_Series/scraping_categorias.py',
+        'On_Demand_Series/scraping_series_asincronico.py',
+        'Live_TV/scraping_links.py',
+        'Live_TV/scraping.py'
+    ]
+    scripts = [os.path.join(base_dir, script) for script in scripts]
 
-# Ejecutar el primer script
-# print("Ejecutando el primer script...")
-# subprocess.run(['python', script1], capture_output=True, text=True)
-# print("Primer script terminado.")
+    for script in scripts:
+        run_script(script)
 
-# # Ejecutar el segundo script
-# print("Ejecutando el segundo script...")
-# subprocess.run(['python', script2], capture_output=True, text=True)
-# print("Segundo script terminado.")
+    end_time = time.perf_counter()
+    execution_time_minutes = (end_time - start_time) / 60
+    print(f"Tiempo total de ejecución: {execution_time_minutes:.2f} minutos")
 
-print("Ejecutando el tercero script...")
-subprocess.run(['python', script3], capture_output=True, text=True)
-print("Segundo script terminado.")
-
-print("Ejecutando el cuarto script...")
-subprocess.run(['python', script4], capture_output=True, text=True)
-print("Segundo script terminado.")
-
-# Marca el final del tiempo
-end_time = time.perf_counter()
-
-# Calcula el tiempo de ejecución en minutos
-execution_time_minutes = (end_time - start_time) / 60
-print(f"Tiempo total de ejecución: {execution_time_minutes:.2f} minutos")
+if __name__ == "__main__":
+    main()
