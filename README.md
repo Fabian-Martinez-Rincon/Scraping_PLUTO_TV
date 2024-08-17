@@ -778,3 +778,43 @@ Episodios de cada serie y Metadata de los episodios. ✅
 
 - Tiempo de ejecución menor a 2hs.
 
+---
+
+
+### Para colaborar
+
+Para asegurarnos de que estamos en la rama main, antes de crear una mara
+```bash
+git branch
+```
+
+Si ya creamos una rama y queremos ir a esa, usamos
+```bash
+git checkout {nombre-rama}
+```
+
+Si no existe la rama, la creamos con un nombre descriptivo
+
+```bash
+git branch {nombre-rama}
+```
+
+Para movernos despues de crearla
+
+```bash
+git checkout -b {nombre-rama}
+```
+
+Una vez que estamos en la rama, hacemos un pull para asegurarnos de que estamos actualizados
+
+```
+git pull origin main
+```
+
+Hacemos la pull request
+
+```shell
+git add .
+git commit -m "Mensaje descriptivo"
+git push origin {nombre-rama}
+```

@@ -5,6 +5,9 @@ __pycache__/
 chromedriver.exe
 # C extensions
 *.so
+chromedriver
+/On_Demand_Peliculas/Peliculas/
+/On_Demand_Series/Series/
 
 # Distribution / packaging
 .Python
