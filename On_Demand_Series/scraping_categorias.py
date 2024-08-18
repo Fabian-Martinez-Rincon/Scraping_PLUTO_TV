@@ -1,73 +1,75 @@
-import time
-import json
-import os
 
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import (TimeoutException, WebDriverException)
+import os
+import logging
 
 from config_driver import config
-from utils import click_button
+from utils import click_button, click_button_and_get_nav_items
+from utils import save_to_json
 
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def click_button_and_get_nav_items(driver):
+PLUTO_TV_URL = 'https://pluto.tv'
+ON_DEMAND_BUTTON_XPATH = "/html/body/div[1]/div/div/div/header/nav/span[2]/a/span"
+SERIES_BUTTON_XPATH = "//span[text()='Series']"
+VIEW_ALL_BUTTON_XPATH = "/html/body/div[1]/div/div/div/main/div[3]/div/section/div/div/div/div/section[3]/span/div/div[1]/span/a"
+MENU_BUTTON_XPATH = "/html/body/div[1]/div/div/div/div[1]/div/div/div[1]/div/div[1]/div/button"
+
+class XPathConfig:
+    ON_DEMAND_BUTTON = "//nav/span[2]/a/span"
+    SERIES_BUTTON = "//span[text()='Series']"
+    VIEW_ALL_BUTTON = "//section[3]/span/div/div[1]/span/a"
+    MENU_BUTTON = "//div[1]/div/div[1]/div/nav"
+
+OUTPUT_FILE = 'categories.json'
+
+def navigate_and_scrape(driver):
     """
-    Clicks on a button specified by an XPath and retrieves navigation 
-    items from a subsequent navigation area.
+    Navigates through the Pluto TV site and scrapes the necessary data.
 
     Args:
-    driver: Instance of Selenium WebDriver.
-    button_xpath (str): XPath to the button that needs to be clicked.
+    driver: The WebDriver instance.
 
     Returns:
-    list: A list of dictionaries, each containing the text and link of navigation items.
+    list: A list of navigation buttons and links.
     """
+    try:
+        click_button(driver, "XPATH", ON_DEMAND_BUTTON_XPATH)
+        click_button(driver, "XPATH", SERIES_BUTTON_XPATH)
+        click_button(driver, "XPATH", VIEW_ALL_BUTTON_XPATH)
+        buttons = click_button_and_get_nav_items(driver, MENU_BUTTON_XPATH)
+        return buttons
+    except Exception as e:
+        logging.error('An error occurred while scraping: %s', str(e))
+        return []
 
-    nav_xpath = "/html/body/div[1]/div/div/div/div[1]/div/div/div[1]/div/div[1]/div/nav"
-    nav = WebDriverWait(driver, 10).until(
-        EC.visibility_of_element_located((By.XPATH, nav_xpath))
-    )
-
-    nav_items = nav.find_elements(By.TAG_NAME, "a")
-    buttons = [{'Categoria': item.text, 'Link': item.get_attribute('href')} for item in nav_items]
-    for button in buttons:
-        print(f"Categoría: {button['Categoria']}\nLink: {button['Link']}\n{'-'*40}")
-    return buttons
-
-def start():
+def start_scraping():
     """
-    Starts a Selenium WebDriver to interact with the Pluto TV website,
-    fetches navigation items, and saves them to a JSON file.
-    
-    Returns:
-    tuple: The driver instance and the list of navigation buttons and links.
+    Initializes the Selenium WebDriver, performs the scraping,
+    and saves the scraped data to a JSON file.
     """
-    driver = config()
-    driver.get('https://pluto.tv')
+    driver = None
+    try:
+        driver = config()
+        driver.get(PLUTO_TV_URL)
 
-    click_button(driver, "XPATH", "/html/body/div[1]/div/div/div/header/nav/span[2]/a/span")
-    series = "Series"
-    click_button(driver, "XPATH", f"//span[text()='{series}']")
-    click_button(driver, "XPATH", "/html/body/div[1]/div/div/div/main/div[3]/div/section/div/div/div/div/section[3]/span/div/div[1]/span/a")
-    button_xpath = "/html/body/div[1]/div/div/div/div[1]/div/div/div[1]/div/div[1]/div/button"
-    click_button(driver, "XPATH", button_xpath)
-    
-
-    buttons = click_button_and_get_nav_items(driver)
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_directory, 'categories.json')
-    with open(file_path, 'w', encoding='utf-8') as file:
-        json.dump(buttons, file, ensure_ascii=False, indent=4)
-    return driver
+        buttons = navigate_and_scrape(driver)
+        if buttons:
+            current_directory = os.path.dirname(os.path.abspath(__file__))
+            file_path = os.path.join(current_directory, OUTPUT_FILE)
+            save_to_json(buttons, file_path)
+        else:
+            logging.warning("No data was scraped.")
+    except Exception as e:
+        logging.error("An error occurred during the scraping process: %s", {str(e)})
+    finally:
+        if driver:
+            driver.quit()
 
 def main():
     """
-    Main function to start the web driver, perform operations, and then quit the driver.
+    Main function to start the scraping process.
     """
-    driver = start()
-    driver.quit()
-
+    start_scraping()
 
 if __name__ == "__main__":
     main()
