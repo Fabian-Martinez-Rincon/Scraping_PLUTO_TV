@@ -1,6 +1,7 @@
 import time
 import json
 import logging
+import os
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -9,14 +10,25 @@ from selenium.common.exceptions import TimeoutException, WebDriverException
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-def save_to_json(data, file_path):
+def save_to_json(data, file_name):
     """
-    Saves the scraped data to a JSON file.
+    Saves the scraped data to a JSON file in the 'data' directory.
 
     Args:
     data (list): The data to save.
-    file_path (str): The file path to save the data.
+    file_name (str): The name of the file to save the data in.
     """
+    # Define the directory where the data will be saved
+    directory = 'data'
+
+    # Ensure the directory exists
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+    # Construct the full file path
+    file_path = os.path.join(directory, file_name)
+
+    # Save the data to the JSON file
     try:
         with open(file_path, 'w', encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
@@ -53,6 +65,7 @@ def click_button(driver, selector_type, selector):
         print(f"Timeout waiting for button with {selector_type} '{selector}': {str(e)}")
     except WebDriverException as e:
         print(f"Error when clicking on button with {selector_type} '{selector}': {str(e)}")
+
 
 def wait_for_element_by_xpath(driver, xpath, timeout=10):
     """

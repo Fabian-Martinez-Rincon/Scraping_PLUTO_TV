@@ -1,11 +1,9 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 
-def config():
+def get_driver():
     """
     Configura y retorna un driver de Selenium para Chrome con opciones específicas.
-
-    Configura el navegador para abrirse en modo incógnito y maximizado.
 
     Returns:
     WebDriver: Una instancia del driver de Chrome configurada.
