@@ -9,17 +9,10 @@ from utils import save_to_json
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 PLUTO_TV_URL = 'https://pluto.tv'
-ON_DEMAND_BUTTON_XPATH = "/html/body/div[1]/div/div/div/header/nav/span[2]/a/span"
+ON_DEMAND_BUTTON_XPATH = "//nav/span[2]/a/span"
 SERIES_BUTTON_XPATH = "//span[text()='Series']"
-VIEW_ALL_BUTTON_XPATH = "/html/body/div[1]/div/div/div/main/div[3]/div/section/div/div/div/div/section[3]/span/div/div[1]/span/a"
-MENU_BUTTON_XPATH = "/html/body/div[1]/div/div/div/div[1]/div/div/div[1]/div/div[1]/div/button"
-
-class XPathConfig:
-    ON_DEMAND_BUTTON = "//nav/span[2]/a/span"
-    SERIES_BUTTON = "//span[text()='Series']"
-    VIEW_ALL_BUTTON = "//section[3]/span/div/div[1]/span/a"
-    MENU_BUTTON = "//div[1]/div/div[1]/div/nav"
-
+VIEW_ALL_BUTTON_XPATH = "//section[3]/span/div/div[1]/span/a"
+MENU_BUTTON_XPATH = "//div[1]/div/div[1]/div/button"
 OUTPUT_FILE = 'categories.json'
 
 def navigate_and_scrape(driver):
