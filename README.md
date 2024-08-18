@@ -781,7 +781,7 @@ Episodios de cada serie y Metadata de los episodios. ✅
 ---
 
 
-### Para colaborar
+### 🤝 Para colaborar
 
 Para asegurarnos de que estamos en la rama main, antes de crear una mara
 ```bash
@@ -818,3 +818,7 @@ git add .
 git commit -m "Mensaje descriptivo"
 git push origin {nombre-rama}
 ```
+
+### Cantidad de Lineas
+- Series : 42818
+- Categorias : 50
