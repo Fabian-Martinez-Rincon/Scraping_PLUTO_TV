@@ -125,14 +125,11 @@ async def scrape_series(session, url):
     if not seccion:
         return series_data
 
-    # Extract season links and initialize scraping tasks
     season_links = get_season_links(seccion)
-    # Scrape the first season
     if len(season_links) <= 1:
         series_data["Temporada 1"] = parse_episodes(soup)
         return series_data
 
-    # Scrape subsequent seasons concurrently
     tasks = [
         scrape_season(session, url, season_number)
         for season_number in
@@ -155,11 +152,11 @@ def get_season_links(section):
     Returns:
         list: A list of season names or numbers.
     """
-    SEASON_PATTERN = r'(Temporada|Season|season|temporada) \d+'
+    season_pattern = r'(Temporada|Season|season|temporada) \d+'
     return [
         a.get_text(strip=True)
         for a in section.findAll('a')
-        if re.match(SEASON_PATTERN, a.get_text(strip=True))
+        if re.match(season_pattern, a.get_text(strip=True))
     ]
 
 async def scrape_season(session, base_url, season_number):
@@ -201,3 +198,27 @@ def parse_episodes(soup):
         for episode in soup.find_all('li', class_='episode-container-atc')
     ]
 
+
+async def estract_section(session, url: str):
+    """Scrapes the series from the given URL and returns the title and description."""
+    try:
+        html_content = await fetch_html(session, url)
+        if not html_content:
+            return "No encontrado", "No encontrada"
+
+        soup = BeautifulSoup(html_content, 'html.parser')
+        seccion = soup.find('div', class_="inner")
+
+        if seccion:
+            titulo_element = seccion.find('h2')
+            descripcion_element = seccion.find('p')
+
+            titulo = titulo_element.get_text(strip=True) if titulo_element else "No encontrado"
+            descripcion = descripcion_element.get_text(strip=True) if descripcion_element else "No encontrada"
+        else:
+            titulo, descripcion = "No encontrado", "No encontrada"
+        return titulo, descripcion
+
+    except Exception as e:
+        print(f"Error al extraer la sección: {e}")
+        return "Error", "Error"
