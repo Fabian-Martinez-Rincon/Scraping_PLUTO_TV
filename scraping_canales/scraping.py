@@ -1,26 +1,12 @@
-import json
-import os
 import asyncio
 import aiohttp
-from bs4 import BeautifulSoup
 from scraping_peliculas_series.utils.feth_utils import (
-    fetch_html#, extract_data, scrape_series
+    estract_section
 )
-
-HEADERS = {
-        "User-Agent": "python-requests/2.32.3"
-}
-
-async def scrape_series(session, url):
-    """Scrapes the series from the given URL and returns the title and description."""
-    html_content = await fetch_html(session, url)
-    if html_content:
-        soup = BeautifulSoup(html_content, 'html.parser')
-        seccion = soup.find('div', class_="inner")
-        titulo = seccion.find('h2').get_text(strip=True) if seccion.find('h2') else "No encontrado"
-        descripcion = seccion.find('p').get_text(strip=True) if seccion.find('p') else "No encontrada"
-        return titulo, descripcion
-    return "No encontrado", "No encontrada"
+from scraping_peliculas_series.utils.utils_json import (
+    load_from_json, save_to_json
+)
+from scraping_peliculas_series.configs import HEADERS
 
 async def process_data(session, data):
     """Processes the data, scrapes information from series, and updates the data structure."""
@@ -30,7 +16,7 @@ async def process_data(session, data):
         for item in data[key]:
             original_link = item['link']
             print(f'link = "{original_link}"')
-            tasks.append(scrape_series(session, original_link))
+            tasks.append(estract_section(session, original_link))
 
     print('Esperando a que todas las tareas se completen...')
     results = await asyncio.gather(*tasks, return_exceptions=True)
@@ -50,27 +36,13 @@ async def process_data(session, data):
             index += 1
     return data
 
-def save_data(data, filename):
-    """Saves the updated data to a JSON file."""
-    with open(filename, 'w', encoding='utf-8') as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
-
 async def main():
-    
-    
-    
-    
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_directory, 'resultados.json')
-    output_file_path = os.path.join(current_directory, 'resultados_actualizados.json')
-
-    with open(file_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
+    data = load_from_json('resultados.json')
 
     async with aiohttp.ClientSession(headers=HEADERS) as session:
         updated_data = await process_data(session, data)
 
-    save_data(updated_data, output_file_path)
+    save_to_json(updated_data, 'resultados_actualizados.json')
 
 if __name__ == "__main__":
     asyncio.run(main())
