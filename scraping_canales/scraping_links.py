@@ -1,73 +1,17 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 import json
-from collections import defaultdict
-import requests
 import os
-
-def config():
-    driver_path = 'chromedriver.exe'
-    service = Service(driver_path)
-    options = webdriver.ChromeOptions()
-    options.add_argument("--incognito")
-    options.add_argument("--start-maximized")
-    driver = webdriver.Chrome(service=service, options=options)
-    driver.implicitly_wait(0.1)
-    return driver
-
-def scroll_into_view(driver, element):
-    driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", element)
-
-def find_element_with_retries(driver, xpath, retries=1):
-    attempt = 0
-    while attempt < retries:
-        try:
-            element = WebDriverWait(driver, 1).until(
-                EC.element_to_be_clickable((By.XPATH, xpath))
-            )
-            scroll_into_view(driver, element)
-            return element
-        except Exception:
-            print(f"Intento {attempt + 1}: No se encontró el elemento, realizando scroll y reintentando...")
-            body = driver.find_element(By.TAG_NAME, 'body')
-            body.send_keys(Keys.PAGE_DOWN)
-            attempt += 1
-    return None
-
-def fetch_html(url):
-    """Fetches the HTML content from the given URL using a session."""
-    try:
-        with requests.Session() as session:
-            response = session.get(url)
-            response.raise_for_status() 
-            return response.text
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching {url}: {e}")
-        return None
-
-
+from collections import defaultdict
+from selenium.webdriver.common.by import By
+from scraping_peliculas_series.config.driver import get_driver
+from scraping_peliculas_series.utils.scraping_utils import click_button, find_element_with_retries
 
 def main():
-    driver = config()
+    driver = get_driver()
     driver.get('https://pluto.tv')
 
-    on_demand = WebDriverWait(driver, 20).until(
-        EC.element_to_be_clickable(
-            (By.XPATH, '/html/body/div[1]/div/div/div/div[1]/div/button/span/span')
-        )
-    )
-    on_demand.click()
+    click_button(driver, "XPATH", '/html/body/div[1]/div/div/div/div[1]/div/button/span/span')
+    click_button(driver, "XPATH", '/html/body/div[1]/div/div/div/main/div[2]/div/div[2]/section/div[3]/div/div[2]/div/div[1]/div/h3')
 
-    select = WebDriverWait(driver, 20).until(
-        EC.element_to_be_clickable(
-            (By.XPATH, '/html/body/div[1]/div/div/div/main/div[2]/div/div[2]/section/div[3]/div/div[2]/div/div[1]/div/h3')
-        )
-    )
-    select.click()
 
     results = defaultdict(list)
     current_tematica = None

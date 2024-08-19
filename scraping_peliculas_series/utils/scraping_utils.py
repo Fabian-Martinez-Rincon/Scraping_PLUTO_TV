@@ -1,12 +1,10 @@
 import time
-import json
 import logging
-import os
-
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, WebDriverException
+from selenium.webdriver.common.keys import Keys
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -89,7 +87,6 @@ def click_button_and_get_nav_items(driver, button_xpath):
     """
     nav_xpath = "/html/body/div[1]/div/div/div/div[1]/div/div/div[1]/div/div[1]/div/nav"
 
-    # Wait for and click the button
     button = wait_for_element_by_xpath(driver, button_xpath)
     if button:
         button.click()
@@ -105,3 +102,37 @@ def click_button_and_get_nav_items(driver, button_xpath):
         return buttons
     else:
         return []
+
+def find_element_with_retries(driver, xpath, retries=1):
+    """
+    Attempts to find an element on the page using its XPATH. If found, scrolls into view smoothly.
+    
+    Args:
+        driver (WebDriver): The Selenium WebDriver instance.
+        xpath (str): The XPATH of the element to be found.
+        retries (int): The number of retries to attempt before giving up.
+    
+    Returns:
+        WebElement: The found element if successful, otherwise None.
+    """
+    attempt = 0
+    while attempt < retries:
+        try:
+            element = WebDriverWait(driver, 1).until(
+                EC.element_to_be_clickable((By.XPATH, xpath))
+            )
+            driver.execute_script(
+                "arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", 
+                element
+            )
+            return element
+        except TimeoutException:
+            print(f"Attempt {attempt + 1}: Element not found, scrolling and retrying...")
+            body = driver.find_element(By.TAG_NAME, 'body')
+            body.send_keys(Keys.PAGE_DOWN)
+            attempt += 1
+        except Exception as e:
+            print(f"Unexpected error on attempt {attempt + 1}: {e}")
+            break
+    
+    return None
