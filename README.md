@@ -6,6 +6,11 @@ Sitio a realizar el scraping: https://pluto.tv
 
 ---
 
+```
+python -m scraping_peliculas_series.main
+```
+
+
 ## Estructura
 
 ```markdown

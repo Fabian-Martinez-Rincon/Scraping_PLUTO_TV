@@ -57,14 +57,39 @@ def filter_items(soup, start_marker):
     ]
     return filtered_items
 
-async def extract_movies(session, soup, config):
+async def extract_movies(session, soup, config, batch_size=20):
     movies = []
 
     # Filtra los elementos que tienen un enlace (<a>) y que aparecen después del marcador
     items = filter_items(soup, config.filter)
+    items = items[1:]
+    print(len(items))
 
-    # Procesa los elementos filtrados
-    for item in items[1:]:
+    # Si hay más de `batch_size` elementos, divídelos en lotes
+    if len(items) > batch_size:
+        # Divide los elementos en lotes
+        batches = [
+            items[i:i + batch_size] 
+            for i in range(0, len(items), batch_size)
+        ]
+
+        # Procesa los lotes en paralelo
+        tasks = [process_batch(session, batch, config) for batch in batches]
+        results = await asyncio.gather(*tasks)
+
+        # Aplanar los resultados de todos los lotes en una sola lista
+        for result in results:
+            movies.extend(result)
+    else:
+        # Procesa los elementos directamente si no superan el `batch_size`
+        movies = await process_batch(session, items, config)
+
+    return movies
+
+async def process_batch(session, batch, config):
+    batch_movies = []
+
+    for item in batch:
         link_tag = item.find('a')
         title = link_tag.get('title', link_tag.get_text(strip=True))
         link = f"https://pluto.tv{link_tag.get('href')}/details?lang=en"
@@ -82,12 +107,14 @@ async def extract_movies(session, soup, config):
             temporadas = await scrape_series(session, base_link)
             movie_data['temporadas'] = temporadas
 
-        movies.append(movie_data)
-    return movies
+        batch_movies.append(movie_data)
+
+    return batch_movies
 
 
 async def process_single_category(session, item, config, folder_name='Series'):
     categoria = item['Categoria']
+    
     url = item['Link']
     html_content = await fetch_html(session, url)
 
@@ -96,6 +123,7 @@ async def process_single_category(session, item, config, folder_name='Series'):
         return None
 
     soup = BeautifulSoup(html_content, 'html.parser')
+    print(categoria)
     movies = await extract_movies(session, soup, config)
 
     category_data = {

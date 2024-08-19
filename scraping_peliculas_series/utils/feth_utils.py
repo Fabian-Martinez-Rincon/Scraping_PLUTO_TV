@@ -20,7 +20,7 @@ async def fetch_html(session, url, timeout=10):
     try:
         async with session.get(url, timeout=timeout) as response:
             if response.status == 200:
-                logging.info("Successfully fetched %s", url)
+                #logging.info("Successfully fetched %s", url)
                 return await response.text()
             else:
                 logging.warning("Failed to fetch %s with status %d", url, response.status)
@@ -127,8 +127,6 @@ async def scrape_series(session, url):
 
     # Extract season links and initialize scraping tasks
     season_links = get_season_links(seccion)
-    print(season_links)
-    print(len(season_links))
     # Scrape the first season
     if len(season_links) <= 1:
         series_data["Temporada 1"] = parse_episodes(soup)
