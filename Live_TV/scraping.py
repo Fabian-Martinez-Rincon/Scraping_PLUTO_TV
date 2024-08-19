@@ -12,8 +12,8 @@ async def fetch_html(session, url, headers):
             return await response.text()
     except aiohttp.ClientError as e:
         print(f"Error fetching {url}: {e}")
-        return None 
-    
+        return None
+
 async def scrape_series(session, url, headers):
     """Scrapes the series from the given URL and returns the title and description."""
     html_content = await fetch_html(session, url, headers)
