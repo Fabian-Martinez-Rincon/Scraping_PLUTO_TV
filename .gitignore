@@ -9,6 +9,7 @@ chromedriver
 /data/Peliculas/
 /data/Series/
 /data/resultado/
+/data/*.json
 
 # Distribution / packaging
 .Python
