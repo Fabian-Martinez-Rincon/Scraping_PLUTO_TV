@@ -9,7 +9,7 @@ from scraping_peliculas_series.utils.utils_json import (
 from scraping_peliculas_series.configs import HEADERS
 
 async def process_data(session, data):
-    """Processes the data, scrapes information from series, and updates the data structure."""
+    """Processes the data, scrapes information from channels, and updates the data structure."""
     tasks = []
 
     for key in data.keys():

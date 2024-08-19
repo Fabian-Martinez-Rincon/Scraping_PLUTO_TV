@@ -24,6 +24,16 @@ def start_scraping(scraping_config):
         if driver:
             driver.quit()
 
+def scrape_category_peliculas_series():
+    """
+    Función principal para iniciar el proceso de scraping.
+    Itera sobre todas las configuraciones y ejecuta el scraping para cada una.
+    """
+    for config_name, config_values in CONFIGURATIONS_BUTTONS.items():
+        scraping_config = ScrapingConfig(config_values)
+        print(f"Starting scraping for {config_name} with config: {config_values}")
+        start_scraping(scraping_config)
+
 def main():
     """
     Función principal para iniciar el proceso de scraping.
