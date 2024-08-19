@@ -118,7 +118,7 @@ def find_element_with_retries(driver, xpath, retries=1):
     attempt = 0
     while attempt < retries:
         try:
-            element = WebDriverWait(driver, 1).until(
+            element = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.XPATH, xpath))
             )
             driver.execute_script(
