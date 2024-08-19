@@ -1,52 +1,19 @@
-import os
-import json
 import asyncio
 import aiohttp
-
 from bs4 import BeautifulSoup
 from scraping_peliculas_series.utils.feth_utils import (
     fetch_html, extract_data, scrape_series
 )
-from scraping_peliculas_series.utils.scraping_utils import save_to_json, combine_json_files
-
-CURRENT_DIRECTORY = os.path.dirname(os.path.abspath(__file__))
-
-headers = {
-    "User-Agent": "python-requests/2.32.3"
-}
-
-class ContentConfig:
-    def __init__(self, config):
-        self.filter = config.get('filter')
-        self.include_temporadas = config.get('include_temporadas', False)
-        self.read_file = config.get('read_file', 'categories_series.json')
-
-    def __repr__(self):
-        return (
-            f"ContentConfig("
-            f"filter={self.filter}, "
-            f"include_temporadas={self.include_temporadas})"
-            f"read_file={self.read_file})"
-        )
-
-
-CONFIGURATIONS = {
-    'Series': {
-        'filter': "Series para Maratonear",
-        'include_temporadas': True,
-        'read_file': "categories_series.json"
-    },
-    'Peliculas': {
-        'filter': "Invierno de Película",
-        'include_temporadas': False,
-        'read_file': "categories_peliculas.json"
-    }
-}
+from scraping_peliculas_series.utils.utils_json import (
+    load_from_json, save_to_json, combine_json_files
+)
+from scraping_peliculas_series.configs import (
+    CONFIGURATIONS_PROCESS, ContentConfig, HEADERS
+)
 
 def filter_items(soup, start_marker):
     start_collecting = False
 
-    # Filtra los elementos que tienen un enlace (<a>) y que aparecen después del marcador
     filtered_items = [
         item for item in soup.find_all('li')
         if (link_tag := item.find('a')) and
@@ -60,28 +27,22 @@ def filter_items(soup, start_marker):
 async def extract_movies(session, soup, config, batch_size=20):
     movies = []
 
-    # Filtra los elementos que tienen un enlace (<a>) y que aparecen después del marcador
     items = filter_items(soup, config.filter)
     items = items[1:]
     print(len(items))
 
-    # Si hay más de `batch_size` elementos, divídelos en lotes
     if len(items) > batch_size:
-        # Divide los elementos en lotes
         batches = [
             items[i:i + batch_size] 
             for i in range(0, len(items), batch_size)
         ]
 
-        # Procesa los lotes en paralelo
         tasks = [process_batch(session, batch, config) for batch in batches]
         results = await asyncio.gather(*tasks)
 
-        # Aplanar los resultados de todos los lotes en una sola lista
         for result in results:
             movies.extend(result)
     else:
-        # Procesa los elementos directamente si no superan el `batch_size`
         movies = await process_batch(session, items, config)
 
     return movies
@@ -111,10 +72,8 @@ async def process_batch(session, batch, config):
 
     return batch_movies
 
-
 async def process_single_category(session, item, config, folder_name='Series'):
     categoria = item['Categoria']
-    
     url = item['Link']
     html_content = await fetch_html(session, url)
 
@@ -124,6 +83,7 @@ async def process_single_category(session, item, config, folder_name='Series'):
 
     soup = BeautifulSoup(html_content, 'html.parser')
     print(categoria)
+    print(url)
     movies = await extract_movies(session, soup, config)
 
     category_data = {
@@ -134,16 +94,12 @@ async def process_single_category(session, item, config, folder_name='Series'):
     return categoria
 
 async def main():
-    for config_name, config_values in CONFIGURATIONS.items():
+    for config_name, config_values in CONFIGURATIONS_PROCESS.items():
         config = ContentConfig(config_values)
+        print(f"Procesando {config_name} con configuración: {config.read_file}")
+        links_json = load_from_json(config.read_file)
 
-        print(f"Procesando {config_name} con configuración: {config}")
-
-        file_path = os.path.join(CURRENT_DIRECTORY, config.read_file)
-        with open(file_path, 'r', encoding='utf-8') as json_file:
-            links_json = json.load(json_file)
-
-        async with aiohttp.ClientSession(headers=headers) as session:
+        async with aiohttp.ClientSession(headers=HEADERS) as session:
             tasks = [
                 process_single_category(session, item, config, config_name)
                 for item in links_json
@@ -153,9 +109,7 @@ async def main():
                 if categoria:
                     print(f"Finalizó la categoría '{categoria}'")
 
-        print("Todas las categorías han sido procesadas.")
         combine_json_files(config_name, f'{config_name}.json', 'Resultado')
-        print("Todos los archivos JSON han sido combinados en 'combined_series.json'")
 
 if __name__ == "__main__":
     asyncio.run(main())
