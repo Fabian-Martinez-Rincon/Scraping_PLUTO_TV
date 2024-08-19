@@ -6,6 +6,34 @@ Sitio a realizar el scraping: https://pluto.tv
 
 ---
 
+## Estructura
+
+```markdown
+scraping_peliculas_series/
+│
+├── scraping_peliculas_series/  # Directorio principal del código fuente
+│   ├── __init__.py             # Hace que el directorio sea un paquete Python
+│   ├── config/                 # Configuraciones
+│   │   ├── __init__.py
+│   │   └── driver.py           # Configuración del WebDriver
+│   ├── utils/                  # Funciones utilitarias
+│   │   ├── __init__.py
+│   │   └── scraping_utils.py   # Funciones como click_button, save_to_json, etc.
+│   ├── configs.py              # Configuraciones de scraping (series, películas, etc.)
+│   ├── scraper.py              # Código principal de scraping
+│   └── main.py                 # Punto de entrada del programa
+│
+├── data/                       # Carpeta para almacenar los archivos JSON resultantes
+│   ├── categories_series.json
+│   └── categories_peliculas.json
+│
+├── env/                        # Entorno virtual
+│
+├── requirements.txt            # Dependencias del proyecto
+├── README.md                   # Documentación del proyecto
+└── .gitignore                  # Archivos y carpetas a ignorar por Git
+```
+
 ## Objetivo:
 
 ### De la seccion On Demand:
