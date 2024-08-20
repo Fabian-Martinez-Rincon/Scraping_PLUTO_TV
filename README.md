@@ -44,6 +44,8 @@ Los resultados completos se encuentran en la carpeta `data/resultados`
 > [!NOTE]  
 > Me quede con toda la información que considere relevante
 
+---
+
 ### 📚 Objetivos On Demand
 
 Obtener todas las películas y series. Obtener la metadata de cada contenido:
