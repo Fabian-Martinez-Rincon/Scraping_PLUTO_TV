@@ -3,16 +3,18 @@
 Sitio a realizar el scraping: https://pluto.tv
 
 
+https://github.com/user-attachments/assets/7e07e50a-ded1-4c83-ab02-3603597ce748
+
 ### 🧰 Requirements
 - Python [3.12+](https://www.python.org/downloads/)
 - Google Chrome [Driver](https://sites.google.com/chromium.org/driver/)
 
 ### 💾 Instalación (Windows)
 
-Abrir una terminal de PowerShell y ejecutar el siguiente comando:
+Abrir una cmd y ejecutar el siguiente comando:
 
 ```shell
-./setup.ps1
+setup.bat
 ```
 
 En caso de no tener permisos para ejecutar el script, ejecutar el siguiente comando:
