@@ -2,53 +2,45 @@
 
 Sitio a realizar el scraping: https://pluto.tv
 
-![image](https://github.com/user-attachments/assets/8be90841-183b-4a71-b0f6-4a25b7690786)
+
+### 🧰 Requirements
+- Python [3.12+](https://www.python.org/downloads/)
+- Google Chrome [Driver](https://sites.google.com/chromium.org/driver/)
+
+### 💾 Instalación (Windows)
+
+Abrir una terminal de PowerShell y ejecutar el siguiente comando:
+
+```shell
+./setup.ps1
+```
+
+En caso de no tener permisos para ejecutar el script, ejecutar el siguiente comando:
+
+```shell    
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser
+```
 
 ---
 
-```
-python -m scraping_peliculas_series.main
-```
+Los resultados completos se encuentran en la carpeta `data/resultados`
 
+- [Peliculas](/data/resultados/Peliculas.json)
+- [Series](/data/resultados/Series.json)
+- [Canales](/data/resultados/Canales.json)
 
-## Estructura
+## 📚 Objetivos On Demand
 
-```markdown
-scraping_peliculas_series/
-│
-├── scraping_peliculas_series/  # Directorio principal del código fuente
-│   ├── __init__.py             # Hace que el directorio sea un paquete Python
-│   ├── config/                 # Configuraciones
-│   │   ├── __init__.py
-│   │   └── driver.py           # Configuración del WebDriver
-│   ├── utils/                  # Funciones utilitarias
-│   │   ├── __init__.py
-│   │   └── scraping_utils.py   # Funciones como click_button, save_to_json, etc.
-│   ├── configs.py              # Configuraciones de scraping (series, películas, etc.)
-│   ├── scraper.py              # Código principal de scraping
-│   └── main.py                 # Punto de entrada del programa
-│
-├── data/                       # Carpeta para almacenar los archivos JSON resultantes
-│   ├── categories_series.json
-│   └── categories_peliculas.json
-│
-├── env/                        # Entorno virtual
-│
-├── requirements.txt            # Dependencias del proyecto
-├── README.md                   # Documentación del proyecto
-└── .gitignore                  # Archivos y carpetas a ignorar por Git
-```
-
-## Objetivo:
-
-### De la seccion On Demand:
+✅ Imprimir el tiempo de ejecución en el script
 
 Obtener todas las películas y series. Obtener la metadata de cada contenido:
-- título ✅
+- ✅ título 
 - año (No se encontraba en la web)
-- sinopsis ✅
-- link ✅
-- duración (solo para movies). ✅
+- ✅ Sinopsis
+- ✅ Link
+- ✅ duración (solo para movies).
+- ✅ Episodios de cada serie
+- ✅ Metadata de los episodios.
 
 > [!NOTE]  
 > Separe las peliculas/series por categorias
@@ -411,12 +403,16 @@ Obtener todas las películas y series. Obtener la metadata de cada contenido:
 
 ---
 
-### De la seccion LiveTV:
+## 📚 Objetivos LiveTV
 
-Traer todos los canales ✅
+- ✅ Traer todos los canales
+- Traer la grilla de contenidos con sus
+    - ✅ Titulo
+    - ✅ Horarios
+    - ✅ Link
 
 > [!NOTE]  
-> Separe los canales según su categoria, el json completo se encuenta en [Canales](/Canales.json)
+> Separe los canales según su categoria, el json completo se encuenta en [Canales](/data/resultados/Canales.json)
 
 <details><summary>Ejemplo de los canales en la categoria Retro</summary>
 
@@ -520,129 +516,16 @@ Traer todos los canales ✅
 
 ---
 
-### De ambas secciones:
 
-Guardar la información obtenida en una base de datos, en archivo .json ✅
+### 
 
-- [Peliculas](/Peliculas.json)
-- [Series](/Series.json)
-- [Canales](/Canales.json)
 
-Imprimir el tiempo de ejecución en el script
-
-### Plus:
-De la sección LiveTV:
-
-Traer la grilla de contenidos con sus
-- titulo ✅
-- horarios ✅
-- link ✅
-
-<details><summary>Ejemplo de los canales en la categoria Retro</summary>
-
-```json
-"Retro": [
-        {
-            "canal": "Pluto TV Series Retro",
-            "descripcion": "En Pluto TV Series Retro vas a poder divertirte y entretenerte con las mejores sitcoms de la historia de la televisión y éxitos clásicos como Who ìs the boss?, The Three Stooges, Popeye the Sailor and Romance of Betty Boop.",
-            "link": "https://pluto.tv/latam/live-tv/5de802659167b10009e7deba/details?lang=en",
-            "programas": [
-                {
-                    "programa 0": [
-                        "Now 12:45",
-                        "Guardianes de la Bahía"
-                    ],
-                    "link": "https://pluto.tv/live-tv/5de802659167b10009e7deba"
-                },
-                {
-                    "programa 1": [
-                        "On Next:",
-                        "Guardianes de la Bahía",
-                        "12:46 - 13:43"
-                    ],
-                    "link": "https://pluto.tv/live-tv/5de802659167b10009e7deba/details/66bd082646762a00085d2227"
-                },
-                {
-                    "programa 2": [
-                        "On Later:",
-                        "Guardianes de la Bahía: Refugiame",
-                        "13:43 - 14:42"
-                    ],
-                    "link": "https://pluto.tv/live-tv/5de802659167b10009e7deba/details/66bd082646762a00085d2228"
-                }
-            ]
-        },
-        {
-            "canal": "MacGyver",
-            "descripcion": "MacGyver, la popular série de acción y aventuras de los 80 está en PlutoTv. Descubre como su protagonista, resuelve problemas peligrosos utilizando su ingenio y habilidades científicas en lugar de armas.",
-            "link": "https://pluto.tv/latam/live-tv/63eb95baa99571000898a078/details?lang=en",
-            "programas": [
-                {
-                    "programa 0": [
-                        "Now 12:45",
-                        "MacGyver",
-                        "57 min left"
-                    ],
-                    "link": "https://pluto.tv/live-tv/63eb95baa99571000898a078"
-                },
-                {
-                    "programa 1": [
-                        "On Next:",
-                        "MacGyver",
-                        "13:43 - 14:41"
-                    ],
-                    "link": "https://pluto.tv/live-tv/63eb95baa99571000898a078/details/668f0f3c32e253000841dd5f"
-                },
-                {
-                    "programa 2": [
-                        "On Later:",
-                        "MacGyver",
-                        "14:41 - 15:39"
-                    ],
-                    "link": "https://pluto.tv/live-tv/63eb95baa99571000898a078/details/668f0f3c32e253000841dd60"
-                }
-            ]
-        },
-        {
-            "canal": "Pluto TV Retro Cartoons",
-            "descripcion": "Pluto TV Retro Cartoons: Enciende la máquina del tiempo y viaja a la época de las mejores animaciones. Vuelve a ser un niño mirando las caricaturas que marcaron tu vida: Popeye, Betty Boop, Flash Gordon y mucho más. Solo en Pluto TV.",
-            "link": "https://pluto.tv/latam/live-tv/60142258a54aeb0007751c15/details?lang=en",
-            "programas": [
-                {
-                    "programa 0": [
-                        "Now 12:45",
-                        "Cuentos de la Cripta",
-                        "6 min left"
-                    ],
-                    "link": "https://pluto.tv/live-tv/60142258a54aeb0007751c15"
-                },
-                {
-                    "programa 1": [
-                        "On Next:",
-                        "Cuentos de la Cripta",
-                        "12:52 - 13:20"
-                    ],
-                    "link": "https://pluto.tv/live-tv/60142258a54aeb0007751c15/details/66bbe42a46762a00085b38a2"
-                },
-                {
-                    "programa 2": [
-                        "On Later:",
-                        "Cuentos de la Cripta",
-                        "13:20 - 13:47"
-                    ],
-                    "link": "https://pluto.tv/live-tv/60142258a54aeb0007751c15/details/66bbe42a46762a00085b38a3"
-                }
-            ]
-        }
-    ],
-```
-</details>
 
 ---
 
 ### De la seccion On Demand:
 
-Episodios de cada serie y Metadata de los episodios. ✅
+
 
 <details><summary>Ejemplo de Series | categoria "Series Checas"</summary>
 
@@ -814,7 +697,7 @@ Episodios de cada serie y Metadata de los episodios. ✅
 ---
 
 
-### 🤝 Para colaborar
+## 🤝 Contruibuir
 
 Para asegurarnos de que estamos en la rama main, antes de crear una mara
 ```bash
@@ -852,6 +735,45 @@ git commit -m "Mensaje descriptivo"
 git push origin {nombre-rama}
 ```
 
-### Cantidad de Lineas
-- Series : 42818
-- Categorias : 50
+
+## Estructura
+
+```markdown
+📁 SCRAPING_PELICULAS_SERIES/
+│
+├── 📂 data/
+│   └── (posibles archivos JSON o de salida aquí)
+│
+├── 📂 env/
+│   └── (entorno virtual u otros archivos relacionados)
+│
+├── 📂 scraping_canales/
+│   ├── 🐍 __init__.py
+│   ├── 🐍 scraping_links.py
+│   └── 🐍 scraping.py
+│
+├── 📂 scraping_peliculas_series/
+│   ├── 🐍 __init__.py
+│   └── 🐍 scraping.py
+│
+├── 📂 config/
+│   ├── 🐍 __init__.py
+│   └── 🐍 driver.py
+│
+├── 📂 utils/
+│   ├── 🐍 __init__.py
+│   ├── 🛠️ configs.py
+│   ├── 🔄 fetch_utils.py
+│   ├── 🔍 scraping_utils.py
+│   ├── 📝 utils_json.py
+│   ├── 🧰 main.py
+│   ├── 🕷️ scraper.py
+│   └── 🔍 scraping.py
+│
+├── 🛡️ .gitignore
+├── ⚙️ chromedriver.exe
+├── 🧰 main.py
+├── 📄 README.md
+├── 📦 requirements.txt
+└── 📝 setup.ps1
+```
