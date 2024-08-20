@@ -6,10 +6,11 @@ chromedriver.exe
 # C extensions
 *.so
 chromedriver
-/data/Peliculas/
+/data/peliculas/
 /data/Series/
-/data/resultado/
-/data/*.json
+/data/categories_peliculas.json
+/data/categories_series.json
+
 
 # Distribution / packaging
 .Python
