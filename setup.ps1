@@ -16,7 +16,7 @@ else {
 }
 
 # Ejecuta el script de Python
-#python script.py
+python main.py
 
 # Desactiva el entorno virtual
 deactivate

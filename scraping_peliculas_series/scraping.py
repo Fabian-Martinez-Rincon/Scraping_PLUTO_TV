@@ -82,8 +82,6 @@ async def process_single_category(session, item, config, folder_name='Series'):
         return None
 
     soup = BeautifulSoup(html_content, 'html.parser')
-    print(categoria)
-    print(url)
     movies = await extract_movies(session, soup, config)
 
     category_data = {
@@ -92,6 +90,24 @@ async def process_single_category(session, item, config, folder_name='Series'):
     }
     save_to_json(category_data, f"{categoria.replace(' ', '_').lower()}_movies.json", folder_name)
     return categoria
+
+async def scrape_peliculas_series():
+    for config_name, config_values in CONFIGURATIONS_PROCESS.items():
+        config = ContentConfig(config_values)
+        print(f"Procesando {config_name} con configuración: {config.read_file}")
+        links_json = load_from_json(config.read_file)
+
+        async with aiohttp.ClientSession(headers=HEADERS) as session:
+            tasks = [
+                process_single_category(session, item, config, config_name)
+                for item in links_json
+            ]
+            results = await asyncio.gather(*tasks)
+            for categoria in results:
+                if categoria:
+                    print(f"Finalizó la categoría '{categoria}'")
+
+        combine_json_files(config_name, f'{config_name}.json', 'resultados')
 
 async def main():
     for config_name, config_values in CONFIGURATIONS_PROCESS.items():
@@ -109,7 +125,7 @@ async def main():
                 if categoria:
                     print(f"Finalizó la categoría '{categoria}'")
 
-        combine_json_files(config_name, f'{config_name}.json', 'Resultado')
+        combine_json_files(config_name, f'{config_name}.json', 'resultado')
 
 if __name__ == "__main__":
     asyncio.run(main())

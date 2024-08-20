@@ -1,42 +1,25 @@
-import json
-import os
-import aiohttp
 import asyncio
-from bs4 import BeautifulSoup
+import aiohttp
+from scraping_peliculas_series.utils.feth_utils import (
+    estract_section
+)
+from scraping_peliculas_series.utils.utils_json import (
+    load_from_json, save_to_json
+)
+from scraping_peliculas_series.configs import HEADERS
 
-async def fetch_html(session, url, headers):
-    """Fetches the HTML content from the given URL using an aiohttp session."""
-    try:
-        async with session.get(url, headers=headers) as response:
-            response.raise_for_status()
-            return await response.text()
-    except aiohttp.ClientError as e:
-        print(f"Error fetching {url}: {e}")
-        return None
-
-async def scrape_series(session, url, headers):
-    """Scrapes the series from the given URL and returns the title and description."""
-    html_content = await fetch_html(session, url, headers)
-    if html_content:
-        soup = BeautifulSoup(html_content, 'html.parser')
-        seccion = soup.find('div', class_="inner")
-        titulo = seccion.find('h2').get_text(strip=True) if seccion.find('h2') else "No encontrado"
-        descripcion = seccion.find('p').get_text(strip=True) if seccion.find('p') else "No encontrada"
-        return titulo, descripcion
-    return "No encontrado", "No encontrada"
-
-async def process_data(session, data, headers):
-    """Processes the data, scrapes information from series, and updates the data structure."""
+async def process_data(session, data):
+    """Processes the data, scrapes information from channels, and updates the data structure."""
     tasks = []
-    
+
     for key in data.keys():
         for item in data[key]:
             original_link = item['link']
             print(f'link = "{original_link}"')
-            tasks.append(scrape_series(session, original_link, headers))
-    
+            tasks.append(estract_section(session, original_link))
+
     print('Esperando a que todas las tareas se completen...')
-    results = await asyncio.gather(*tasks, return_exceptions=True) 
+    results = await asyncio.gather(*tasks, return_exceptions=True)
     print('Todas las tareas completadas o con errores capturados.')
 
     index = 0
@@ -53,26 +36,21 @@ async def process_data(session, data, headers):
             index += 1
     return data
 
-def save_data(data, filename):
-    """Saves the updated data to a JSON file."""
-    with open(filename, 'w', encoding='utf-8') as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
+async def scrape_data_canales():
+    data = load_from_json('canales.json', "Resultados")
+
+    async with aiohttp.ClientSession(headers=HEADERS) as session:
+        updated_data = await process_data(session, data)
+
+    save_to_json(updated_data, 'canales.json', "Resultados")
 
 async def main():
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(current_directory, 'resultados.json')
-    output_file_path = os.path.join(current_directory, 'resultados_actualizados.json')
+    data = load_from_json('resultados.json')
 
-    headers = {
-        "User-Agent": "python-requests/2.32.3"
-    }
-    with open(file_path, 'r', encoding='utf-8') as file:
-        data = json.load(file)
+    async with aiohttp.ClientSession(headers=HEADERS) as session:
+        updated_data = await process_data(session, data)
 
-    async with aiohttp.ClientSession() as session:
-        updated_data = await process_data(session, data, headers)
-
-    save_data(updated_data, output_file_path)
+    save_to_json(updated_data, 'resultados_actualizados.json')
 
 if __name__ == "__main__":
     asyncio.run(main())

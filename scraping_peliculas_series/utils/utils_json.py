@@ -97,14 +97,17 @@ def combine_json_files(input_folder, combined_filename, output_folder=None):
 
     # Determine the output directory
     if output_folder:
-        if not os.path.exists(output_folder):
-            os.makedirs(output_folder)
-        combined_filepath = os.path.join(output_folder, combined_filename)
+        output_directory = os.path.join('data', output_folder)
     else:
-        combined_filepath = os.path.join(os.getcwd(), combined_filename)
+        output_directory = os.path.join('data', 'combined_output')
 
-    # Save the combined data to the output file
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
+    
+    combined_filepath = os.path.join(output_directory, combined_filename)
+
+    # Guarda los datos combinados en el archivo de salida
     with open(combined_filepath, "w", encoding="utf-8") as outfile:
         json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
 
-    print(f"Combined JSON file saved to {combined_filepath}")
+    print(f"Archivo JSON combinado guardado en {combined_filepath}")
