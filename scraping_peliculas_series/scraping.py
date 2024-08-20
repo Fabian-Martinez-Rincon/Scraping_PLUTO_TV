@@ -82,8 +82,6 @@ async def process_single_category(session, item, config, folder_name='Series'):
         return None
 
     soup = BeautifulSoup(html_content, 'html.parser')
-    print(categoria)
-    print(url)
     movies = await extract_movies(session, soup, config)
 
     category_data = {
@@ -109,7 +107,7 @@ async def scrape_peliculas_series():
                 if categoria:
                     print(f"Finalizó la categoría '{categoria}'")
 
-        combine_json_files(config_name, f'{config_name}.json', 'Resultado')
+        combine_json_files(config_name, f'{config_name}.json', 'resultados')
 
 async def main():
     for config_name, config_values in CONFIGURATIONS_PROCESS.items():
@@ -127,7 +125,7 @@ async def main():
                 if categoria:
                     print(f"Finalizó la categoría '{categoria}'")
 
-        combine_json_files(config_name, f'{config_name}.json', 'Resultado')
+        combine_json_files(config_name, f'{config_name}.json', 'resultado')
 
 if __name__ == "__main__":
     asyncio.run(main())

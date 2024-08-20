@@ -36,6 +36,14 @@ async def process_data(session, data):
             index += 1
     return data
 
+async def scrape_data_canales():
+    data = load_from_json('canales.json', "Resultados")
+
+    async with aiohttp.ClientSession(headers=HEADERS) as session:
+        updated_data = await process_data(session, data)
+
+    save_to_json(updated_data, 'canales.json', "Resultados")
+
 async def main():
     data = load_from_json('resultados.json')
 

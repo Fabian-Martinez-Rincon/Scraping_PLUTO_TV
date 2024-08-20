@@ -134,5 +134,4 @@ def find_element_with_retries(driver, xpath, retries=1):
         except Exception as e:
             print(f"Unexpected error on attempt {attempt + 1}: {e}")
             break
-    
     return None
