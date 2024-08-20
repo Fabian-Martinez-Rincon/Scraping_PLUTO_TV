@@ -31,7 +31,14 @@ Los resultados completos se encuentran en la carpeta `data/resultados`
 
 ## 📚 Objetivos On Demand
 
-✅ Imprimir el tiempo de ejecución en el script
+- ✅ Imprimir el tiempo de ejecución en el script
+- ✅ Si es posible obtener mas información/metadata por cada contenido.
+- ✅ Analisis y/o limpieza de Metadata.
+- ✅ Otros campos que consideren relevantes
+- ✅Tiempo de ejecución menor a 2hs. (En mi caso fue de 135.61 segundos)
+
+> [!NOTE]  
+> Me quede con toda la información que considere relevante
 
 Obtener todas las películas y series. Obtener la metadata de cada contenido:
 - ✅ título 
@@ -514,185 +521,16 @@ Obtener todas las películas y series. Obtener la metadata de cada contenido:
 ```
 </details>
 
----
-
-
-### 
-
-
 
 ---
 
-### De la seccion On Demand:
-
-
-
-<details><summary>Ejemplo de Series | categoria "Series Checas"</summary>
-
-```json
-"series_checas_movies": {
-        "count": 2,
-        "movies": [
-            {
-                "titulo": "Los Misterios de Praga",
-                "metadatos": [
-                    "PG-13",
-                    "Thriller",
-                    "There are no inadequacies"
-                ],
-                "link": "https://pluto.tv/latam/on-demand/series/64651a58f2a541001b7d2df6/details?lang=en",
-                "descripcion": "Praga, década de 1920. El inspector Budik investiga una serie de asesinatos más atroces.",
-                "temporadas": {
-                    "Temporada 1": [
-                        {
-                            "Titulo": "Episode 1",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/646525ae188649001a2ba6d3",
-                            "Descripción": "Praga, década de 1920. El inspector Budik investiga una serie de asesinatos más atroces.",
-                            "Metadata": "T1E1 1hr 5 min"
-                        },
-                        {
-                            "Titulo": "Episode 2",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/646525ab188649001a2ba552",
-                            "Descripción": "El cuerpo de un niño es descubierto en un estanque en las afueras de Praga. El desgarrador caso tiene connotaciones sexuales que el inspector Budik debe desentrañar.",
-                            "Metadata": "T1E2 1hr 9 min"
-                        },
-                        {
-                            "Titulo": "Episode 3",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/646525c8188649001a2bae87",
-                            "Descripción": "Un robo sale mal y termina con el asesinato de un hombre. Los motivos parecen estar ocultos en un libro religioso que se encuentra cerca del cuerpo.",
-                            "Metadata": "T1E3 1hr 6 min"
-                        },
-                        {
-                            "Titulo": "Episode 5",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651a5ef2a541001b7d317e",
-                            "Descripción": "Un héroe de guerra es asesinado. El inspector Budik investiga el crimen que parece estar motivado por la traición.",
-                            "Metadata": "T1E5 1hr 3 min"
-                        },
-                        {
-                            "Titulo": "Episode 6",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651a5af2a541001b7d2ec7",
-                            "Descripción": "Cuandi las ropas de una mujer son encontradas en la orilla del río, el inspector Budik se pregunta si se trata de un caso de suicidio o asesinato.",
-                            "Metadata": "T1E6 1hr 5 min"
-                        },
-                        {
-                            "Titulo": "Episode 7",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651bc5188649001a2b7d69",
-                            "Descripción": "En las afueras de Praga, un granjero es encontrado con un disparo en la cabeza y otro en el pecho. Un matrimonio parece ser la clave de este caso.",
-                            "Metadata": "T1E7 1hr 7 min"
-                        },
-                        {
-                            "Titulo": "Episode 8",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651d2da7ef77001a744c37",
-                            "Descripción": "Un hombre millonario que intenta sacar a su hija de la cárcel es encontrado muerto. El inspector Budik debe averiguar si hay un complot en la prisión detrás del crimen.",
-                            "Metadata": "T1E8 1hr 8 min"
-                        },
-                        {
-                            "Titulo": "Episode 9",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651d4fa7ef77001a744f2c",
-                            "Descripción": "Una intrincada red de relaciones y adicciones termina con el asesinato de una mujer profundamente religiosa.",
-                            "Metadata": "T1E9 1hr 7 min"
-                        },
-                        {
-                            "Titulo": "Episode 10",
-                            "Link": "/latam/on-demand/series/64651a58f2a541001b7d2df6/season/1/episode/64651e92a7ef77001a7450aa",
-                            "Descripción": "Cadáver de un joyero es encontrado con una herida mortal en la cabeza. Los únicos sospechosos son dos monjes solitarios",
-                            "Metadata": "T1E10 1hr 3 min"
-                        }
-                    ]
-                }
-            },
-            {
-                "titulo": "Las Muertes de Medusa",
-                "metadatos": [
-                    "PG-13",
-                    "Thriller",
-                    "There are no inadequacies"
-                ],
-                "link": "https://pluto.tv/latam/on-demand/series/64651d32a7ef77001a744d1d/details?lang=en",
-                "descripcion": "A raíz de una serie de asesinatos violentos, un equipo de investigación élite de homicidios descubre una poderosa organización criminal.",
-                "temporadas": {
-                    "Temporada 1": [
-                        {
-                            "Titulo": "Episode 1",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530df649e97001b31fdb7",
-                            "Descripción": "A raíz de una serie de asesinatos violentos, un equipo de investigación élite de homicidios descubre una poderosa organización criminal.",
-                            "Metadata": "T1E1 57 min"
-                        },
-                        {
-                            "Titulo": "Episode 2",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530dc649e97001b31fc3a",
-                            "Descripción": "El equipo investiga al asesino de una estudiante de secundaria que fue encontrada violada y golpeada en un estanque.",
-                            "Metadata": "T1E2 57 min"
-                        },
-                        {
-                            "Titulo": "Episode 3",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530e2649e97001b31ff37",
-                            "Descripción": "El equipo investiga el brutal asesinato de un administrador local encontrado en un antiguo castillo.",
-                            "Metadata": "T1E3 58 min"
-                        },
-                        {
-                            "Titulo": "Episode 4",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530e4649e97001b320024",
-                            "Descripción": "La muerte de una anciana local revela disputas familiares y secretos del pasado de la víctima y su asesino",
-                            "Metadata": "T1E4 59 min"
-                        },
-                        {
-                            "Titulo": "Episode 5",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530eb649e97001b3201cb",
-                            "Descripción": "En el ensayo general de reinado de belleza, una de las participantes se lastima y luego muere. El equipo investiga un entorno lleno de rivalidad y resentimientos.",
-                            "Metadata": "T1E5 1hr"
-                        },
-                        {
-                            "Titulo": "Episode 6",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/646530ee649e97001b32028d",
-                            "Descripción": "Un secreto desgarrador vincula la construcción de un campo de golf que destruye un bosque local y la muerte de un trabajador forestal.",
-                            "Metadata": "T1E6 52 min"
-                        },
-                        {
-                            "Titulo": "Episode 7",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/64651d33a7ef77001a744d3c",
-                            "Descripción": "Durante el rodaje de una película, un productor recibe un disparo en la cabeza. La investigación revela un intrincado mundo de secretos y abusos.",
-                            "Metadata": "T1E7 56 min"
-                        },
-                        {
-                            "Titulo": "Episode 8",
-                            "Link": "/latam/on-demand/series/64651d32a7ef77001a744d1d/season/1/episode/64651d42a7ef77001a744e3c",
-                            "Descripción": "Tras un accidente automovilístico, el cadáver de un hombre es encontrado. Sin embargo, los motivos de su fallecimiento parecen ser diferentes al choque.",
-                            "Metadata": "T1E8 1hr"
-                        }
-                    ]
-                }
-            }
-        ]
-    },
-```
-</details>
-
----
-
-### Identificar modelo de negocio.
+### 🧑‍💼 Identificar modelo de negocio.
 
 1. **Monetización a través de la publicidad**: Los datos extraídos facilitan entender qué contenido es más popular para optimizar la colocación de anuncios.
 
-3. **Análisis de datos para optimización**: La recopilación de metadatos como títulos, descripciones y links permite analizar tendencias y preferencias, lo que guía decisiones sobre qué nuevos contenidos adquirir o desarrollar.
+2. **Análisis de datos para optimización**: La recopilación de metadatos como títulos, descripciones y links permite analizar tendencias y preferencias, lo que guía decisiones sobre qué nuevos contenidos adquirir o desarrollar.
 
-4. **Estrategias para aumentar la retención de usuarios**: Utilizando el análisis continuo de datos, Pluto TV puede adaptar su oferta y mejorar la plataforma para retener usuarios y atraer nuevos espectadores.
-
-
----
-
-
-### De ambas secciones:
-
-- Si es posible obtener mas información/metadata por cada contenido.
-- Analisis y/o limpieza de Metadata.
-- Otros campos que consideren relevantes
-
-> [!NOTE]  
-> Me quede con toda la información que considere relevante
-
-
-- Tiempo de ejecución menor a 2hs.
+3. **Estrategias para aumentar la retención de usuarios**: Utilizando el análisis continuo de datos, Pluto TV puede adaptar su oferta y mejorar la plataforma para retener usuarios y atraer nuevos espectadores.
 
 ---
 
