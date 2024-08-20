@@ -20,7 +20,7 @@ async def fetch_html(session, url, timeout=10):
     try:
         async with session.get(url, timeout=timeout) as response:
             if response.status == 200:
-                #logging.info("Successfully fetched %s", url)
+                logging.info("Successfully fetched %s", url)
                 return await response.text()
             else:
                 logging.warning("Failed to fetch %s with status %d", url, response.status)
@@ -51,11 +51,9 @@ async def extract_data(session, link):
         logging.warning("No se encontró la sección esperada en %s", link)
         return None, None
 
-    # Extract the description
     descripcion = seccion.find('p')
     descripcion = descripcion.get_text(strip=True) if descripcion else None
 
-    # Extract the metadata
     metadatos = seccion.find('ul')
     if metadatos:
         metadatos = [

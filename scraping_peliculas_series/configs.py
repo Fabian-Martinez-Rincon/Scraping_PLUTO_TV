@@ -1,9 +1,7 @@
-# Configuración de las cabeceras HTTP
 HEADERS = {
     "User-Agent": "python-requests/2.32.3"
 }
 
-# Configuración del scraping
 class ScrapingConfig:
     """
     A configuration class for managing the scraping settings.
@@ -32,7 +30,6 @@ class ScrapingConfig:
             f"categories_file={self.categories_file})"
         )
 
-# Configuración del contenido
 class ContentConfig:
     """
     A configuration class for managing content scraping settings.

@@ -47,7 +47,6 @@ def load_from_json(file_name, folder_name=None):
     """
     base_directory = 'data'
 
-    # Construye la ruta del directorio
     if folder_name:
         directory = os.path.join(base_directory, folder_name)
     else:
@@ -81,21 +80,19 @@ def combine_json_files(input_folder, combined_filename, output_folder=None):
         output_folder (str, optional): The folder to save the combined JSON file.
         Defaults to the current directory.
     """
-    # Define the base directory for input files
+
     base_input_directory = os.path.join('data', input_folder)
-    
+
     combined_data = {}
 
-    # Loop through all files in the input folder
     for filename in os.listdir(base_input_directory):
         if filename.endswith(".json"):
             filepath = os.path.join(base_input_directory, filename)
             with open(filepath, "r", encoding="utf-8") as file:
                 data = json.load(file)
-                category_name = os.path.splitext(filename)[0]  # Remove the .json extension
+                category_name = os.path.splitext(filename)[0]
                 combined_data[category_name] = data
 
-    # Determine the output directory
     if output_folder:
         output_directory = os.path.join('data', output_folder)
     else:
@@ -106,7 +103,6 @@ def combine_json_files(input_folder, combined_filename, output_folder=None):
     
     combined_filepath = os.path.join(output_directory, combined_filename)
 
-    # Guarda los datos combinados en el archivo de salida
     with open(combined_filepath, "w", encoding="utf-8") as outfile:
         json.dump(combined_data, outfile, ensure_ascii=False, indent=4)
 

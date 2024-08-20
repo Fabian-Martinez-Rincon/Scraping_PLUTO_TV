@@ -29,16 +29,20 @@ Los resultados completos se encuentran en la carpeta `data/resultados`
 - [Series](/data/resultados/Series.json)
 - [Canales](/data/resultados/Canales.json)
 
-## 📚 Objetivos On Demand
+---
+
+### 📚 Objetivos Generales
 
 - ✅ Imprimir el tiempo de ejecución en el script
 - ✅ Si es posible obtener mas información/metadata por cada contenido.
 - ✅ Analisis y/o limpieza de Metadata.
 - ✅ Otros campos que consideren relevantes
-- ✅Tiempo de ejecución menor a 2hs. (En mi caso fue de 135.61 segundos)
+- ✅ Tiempo de ejecución menor a 2hs. (En mi caso fue de 135.61 segundos)
 
 > [!NOTE]  
 > Me quede con toda la información que considere relevante
+
+### 📚 Objetivos On Demand
 
 Obtener todas las películas y series. Obtener la metadata de cada contenido:
 - ✅ título 
@@ -410,7 +414,7 @@ Obtener todas las películas y series. Obtener la metadata de cada contenido:
 
 ---
 
-## 📚 Objetivos LiveTV
+### 📚 Objetivos LiveTV
 
 - ✅ Traer todos los canales
 - Traer la grilla de contenidos con sus
@@ -535,7 +539,7 @@ Obtener todas las películas y series. Obtener la metadata de cada contenido:
 ---
 
 
-## 🤝 Contruibuir
+### 🤝 Contruibuir
 
 Para asegurarnos de que estamos en la rama main, antes de crear una mara
 ```bash
@@ -573,8 +577,9 @@ git commit -m "Mensaje descriptivo"
 git push origin {nombre-rama}
 ```
 
+---
 
-## Estructura
+### 📁Estructura
 
 ```markdown
 📁 SCRAPING_PELICULAS_SERIES/
