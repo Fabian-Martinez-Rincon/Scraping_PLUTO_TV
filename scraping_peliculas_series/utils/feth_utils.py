@@ -126,6 +126,7 @@ async def scrape_series(session, url):
         return series_data
 
     season_links = get_season_links(seccion)
+    print(len(season_links))
     if len(season_links) <= 1:
         series_data["Temporada 1"] = parse_episodes(soup)
         return series_data
@@ -133,11 +134,11 @@ async def scrape_series(session, url):
     tasks = [
         scrape_season(session, url, season_number)
         for season_number in
-        range(2, len(season_links) + 1)
+        range(1, len(season_links) + 1)
     ]
     seasons_data = await asyncio.gather(*tasks)
 
-    for season_number, episodes in enumerate(seasons_data, start=2):
+    for season_number, episodes in enumerate(seasons_data, start=1):
         series_data[f"Temporada {season_number}"] = episodes
 
     return series_data
