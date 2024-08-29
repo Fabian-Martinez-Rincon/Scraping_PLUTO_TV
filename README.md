@@ -2,8 +2,7 @@
 
 Sitio a realizar el scraping: https://pluto.tv
 
-
-https://github.com/user-attachments/assets/7e07e50a-ded1-4c83-ab02-3603597ce748
+https://github.com/user-attachments/assets/127a30c7-fe9e-4231-98b8-7858845c104e
 
 ### 🧰 Requirements
 - Python [3.12+](https://www.python.org/downloads/)
